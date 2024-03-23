@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 1 Two Sum
 
-### Attemp 1: Use two loops
+### Attempt 1: Use two loops
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -24,7 +24,7 @@ class Solution {
 
 <br>
 
-### Attemp 2: Reduce one calculation in the inner loop
+### Attempt 2: Reduce one calculation in the inner loop
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -50,7 +50,7 @@ class Solution {
 
 <br>
 
-### Attemp 3: Use HashMap
+### Attempt 3: Use HashMap
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -78,7 +78,7 @@ class Solution {
 
 <br>
 
-### Attemp 4: Check when pushing elements to HashMap
+### Attempt 4: Check when pushing elements to HashMap
 ```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
