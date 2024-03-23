@@ -26,7 +26,7 @@ class Solution {
 
 <br>
 
-### Attempt 2: Check the pervious sum
+### Attempt 2: Use the previous sum to check overflow
 ```java
 class Solution {
     public int reverse(int x) {
