@@ -29,5 +29,6 @@
 | 25 |  |  |  |  |
 | 26 | Remove Duplicates from Sorted Array | Easy | [2024-03-23](./records/Question_26.md) | 74.62% |
 | 27 | Remove Element | Easy | [2024-03-24](./records/Question_27.md) | 100.00% |
+| 28 | Find the Index of the First Occurrence in a String | Easy | [2024-03-24](./records/Question_28.md) | 100.00% |
 
 <br>

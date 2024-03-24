@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 27 Remove Element 
 
-### Attempt 1: 
+### Attempt 1: Follow the current index
 ```java
 class Solution {
     public int removeElement(int[] nums, int val) {
