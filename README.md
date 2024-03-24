@@ -21,6 +21,7 @@
 | 17 |  |  |  |  |
 | 18 |  |  |  |  |
 | 19 |  |  |  |  |
-| 20 | Valid Parentheses | Easy | [2024-03-23](./records/Question_20.md) |  |
+| 20 | Valid Parentheses | Easy | [2024-03-23](./records/Question_20.md) | 98.66% |
+| 21 | Merge Two Sorted Lists | Easy | [2024-03-23](./records/Question_21.md) | 100.00% |
 
 <br>
