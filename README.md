@@ -10,6 +10,7 @@
 | 6 | Zigzag Conversion | [2024-03-23](./records/Question_6.md) | 80.67% |
 | 7 | Reverse Integer | [2024-03-23](./records/Question_7.md) | 85.66% |
 | 8 | String to Integer (atoi) | [2024-03-23](./records/Question_8.md) | 100.00% |
-| 9 | Palindrome Number | [2024-03-23](./records/Question_8.md) | 100.00% |
+| 9 | Palindrome Number | [2024-03-23](./records/Question_9.md) | 100.00% |
+| 10 | Regular Expression Matching | [2024-03-23](./records/Question_10.md) | 23.18% |
 
 <br>
