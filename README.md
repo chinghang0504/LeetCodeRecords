@@ -68,5 +68,6 @@
 | 64 |  |  |  |  |
 | 65 |  |  |  |  |
 | 66 | Plus One | Easy | [2024-03-24](./records/Question_66.md) | 100.00% |
+| 67 | Add Binary | Easy | [2024-03-24](./records/Question_67.md) | 100.00% |
 
 <br>
