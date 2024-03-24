@@ -12,5 +12,8 @@
 | 8 | String to Integer (atoi) | Medium | [2024-03-23](./records/Question_8.md) | 100.00% |
 | 9 | Palindrome Number | Easy | [2024-03-23](./records/Question_9.md) | 100.00% |
 | 10 | Regular Expression Matching | Hard | [2024-03-23](./records/Question_10.md) | 23.18% |
+| 11 |  |  |  |  |
+| 12 |  |  |  |  |
+| 13 | Roman to Integer | Easy | [2024-03-23](./records/Question_13.md) | 100.00% |
 
 <br>
