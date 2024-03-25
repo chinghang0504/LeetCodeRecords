@@ -90,5 +90,11 @@
 | 86 |  |  |  |  |
 | 87 |  |  |  |  |
 | 88 | Merge Sorted Array | Easy | [2024-03-24](./records/Question_88.md) | 100.00% |
+| 89 |  |  |  |  |
+| 90 |  |  |  |  |
+| 91 |  |  |  |  |
+| 92 |  |  |  |  |
+| 93 |  |  |  |  |
+| 94 | Binary Tree Inorder Traversal | Easy | [2024-03-25](./records/Question_94.md) | 100.00% |
 
 <br>
