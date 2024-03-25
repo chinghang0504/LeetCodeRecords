@@ -82,5 +82,13 @@
 | 78 |  |  |  |  |
 | 79 |  |  |  |  |
 | 80 | Remove Duplicates from Sorted List | Easy | [2024-03-24](./records/Question_80.md) | 100.00% |
+| 81 |  |  |  |  |
+| 82 |  |  |  |  |
+| 83 |  |  |  |  |
+| 84 |  |  |  |  |
+| 85 |  |  |  |  |
+| 86 |  |  |  |  |
+| 87 |  |  |  |  |
+| 88 | Merge Sorted Array | Easy | [2024-03-24](./records/Question_88.md) | 100.00% |
 
 <br>
