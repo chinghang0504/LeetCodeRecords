@@ -106,5 +106,9 @@
 | 102 |  |  |  |  |
 | 103 |  |  |  |  |
 | 104 | Maximum Depth of Binary Tree | Easy | [2024-03-25](./records/Question_104.md) | 100.00% |
+| 105 |  |  |  |  |
+| 106 |  |  |  |  |
+| 107 |  |  |  |  |
+| 108 | Converted Sorted Array to Binary Search Tree | Easy | [2024-03-25](./records/Question_108.md) | 100.00% |
 
 <br>
