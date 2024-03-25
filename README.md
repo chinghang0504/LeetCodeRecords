@@ -103,5 +103,8 @@
 | 99 |  |  |  |  |
 | 100 | Same Tree | Easy | [2024-03-25](./records/Question_100.md) | 100.00% |
 | 101 | Symmetric Tree | Easy | [2024-03-25](./records/Question_101.md) | 100.00% |
+| 102 |  |  |  |  |
+| 103 |  |  |  |  |
+| 104 | Maximum Depth of Binary Tree | Easy | [2024-03-25](./records/Question_104.md) | 100.00% |
 
 <br>
