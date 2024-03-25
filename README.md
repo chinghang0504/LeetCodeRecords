@@ -72,5 +72,15 @@
 | 68 |  |  |  |  |
 | 69 | Sqrt(x) | Easy | [2024-03-24](./records/Question_69.md) | 85.74% |
 | 70 | Climbing Stairs | Easy | [2024-03-24](./records/Question_70.md) | 100.00% |
+| 71 |  |  |  |  |
+| 72 |  |  |  |  |
+| 73 |  |  |  |  |
+| 74 |  |  |  |  |
+| 75 |  |  |  |  |
+| 76 |  |  |  |  |
+| 77 |  |  |  |  |
+| 78 |  |  |  |  |
+| 79 |  |  |  |  |
+| 80 | Remove Duplicates from Sorted List | Easy | [2024-03-24](./records/Question_80.md) | 100.00% |
 
 <br>
