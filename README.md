@@ -71,6 +71,6 @@
 | 67 | Add Binary | Easy | [2024-03-24](./records/Question_67.md) | 100.00% |
 | 68 |  |  |  |  |
 | 69 | Sqrt(x) | Easy | [2024-03-24](./records/Question_69.md) | 85.74% |
-
+| 70 | Climbing Stairs | Easy | [2024-03-24](./records/Question_70.md) | 100.00% |
 
 <br>
