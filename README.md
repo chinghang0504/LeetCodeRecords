@@ -96,5 +96,11 @@
 | 92 |  |  |  |  |
 | 93 |  |  |  |  |
 | 94 | Binary Tree Inorder Traversal | Easy | [2024-03-25](./records/Question_94.md) | 100.00% |
+| 95 |  |  |  |  |
+| 96 |  |  |  |  |
+| 97 |  |  |  |  |
+| 98 |  |  |  |  |
+| 99 |  |  |  |  |
+| 100 | Same Tree | Easy | [2024-03-25](./records/Question_100.md) | 100.00% |
 
 <br>
