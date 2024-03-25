@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 100 Same Tree
 
-### Attempt 1: 
+### Attempt 1: Check root, val, left, and right
 ```java
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {

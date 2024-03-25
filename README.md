@@ -102,5 +102,6 @@
 | 98 |  |  |  |  |
 | 99 |  |  |  |  |
 | 100 | Same Tree | Easy | [2024-03-25](./records/Question_100.md) | 100.00% |
+| 101 | Symmetric Tree | Easy | [2024-03-25](./records/Question_101.md) | 100.00% |
 
 <br>
