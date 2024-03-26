@@ -16,7 +16,7 @@
 | 12 | Integer to Roman | Medium | [2024-03-26](./records/Question_12.md) | 100.00% |
 | 13 | Roman to Integer | Easy | [2024-03-23](./records/Question_13.md) | 100.00% |
 | 14 | Longest Common Prefix | Easy | [2024-03-23](./records/Question_14.md) | 100.00% |
-| 15 |  |  |  |  |
+| 15 | 3Sum | Medium | [2024-03-26](./records/Question_15.md) | 28.09% |
 | 16 |  |  |  |  |
 | 17 |  |  |  |  |
 | 18 |  |  |  |  |
