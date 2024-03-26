@@ -110,5 +110,7 @@
 | 106 |  |  |  |  |
 | 107 |  |  |  |  |
 | 108 | Converted Sorted Array to Binary Search Tree | Easy | [2024-03-25](./records/Question_108.md) | 100.00% |
+| 109 |  |  |  |  |
+| 110 | Balanced Binary Tree | Easy | [2024-03-25](./records/Question_110.md) | 100.00% |
 
 <br>
