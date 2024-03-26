@@ -18,7 +18,7 @@
 | 14 | Longest Common Prefix | Easy | [2024-03-23](./records/Question_14.md) | 100.00% |
 | 15 | 3Sum | Medium | [2024-03-26](./records/Question_15.md) | 28.09% |
 | 16 |  |  |  |  |
-| 17 |  |  |  |  |
+| 17 | Letter Combinations of a Phone Number | Medium | [2024-03-26](./records/Question_17.md) | 46.06% |
 | 18 |  |  |  |  |
 | 19 |  |  |  |  |
 | 20 | Valid Parentheses | Easy | [2024-03-23](./records/Question_20.md) | 98.66% |
