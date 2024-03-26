@@ -20,7 +20,7 @@
 | 16 |  |  |  |  |
 | 17 | Letter Combinations of a Phone Number | Medium | [2024-03-26](./records/Question_17.md) | 46.06% |
 | 18 |  |  |  |  |
-| 19 |  |  |  |  |
+| 19 | Remove Nth Node From End of List | Medium | [2024-03-26](./records/Question_19.md) | 100.00% |
 | 20 | Valid Parentheses | Easy | [2024-03-23](./records/Question_20.md) | 98.66% |
 | 21 | Merge Two Sorted Lists | Easy | [2024-03-23](./records/Question_21.md) | 100.00% |
 | 22 |  |  |  |  |
