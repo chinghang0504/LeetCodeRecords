@@ -120,5 +120,6 @@
 | 116 |  |  |  |  |
 | 117 |  |  |  |  |
 | 118 | Pascal's Triangle | Easy | [2024-03-27](./records/Question_118.md) | 85.81% |
+| 119 | Pascal's Triangle II | Easy | [2024-03-27](./records/Question_119.md) | 75.08% |
 
 <br>
