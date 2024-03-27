@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 23 Merge k Sorted Lists
 
-### Attempt 1: 
+### Attempt 1: Loop for checking each list
 ```java
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {

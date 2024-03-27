@@ -25,7 +25,7 @@
 | 21 | Merge Two Sorted Lists | Easy | [2024-03-23](./records/Question_21.md) | 100.00% |
 | 22 | Generate Parentheses | Medium | [2024-03-26](./records/Question_22.md) | 52.13% |
 | 23 | Merge k Sorted Lists | Hard | [2024-03-26](./records/Question_23.md) | 8.10% |
-| 24 |  |  |  |  |
+| 24 | Swap Nodes in Pairs | Medium | [2024-03-26](./records/Question_22.md) | 100.00% |
 | 25 |  |  |  |  |
 | 26 | Remove Duplicates from Sorted Array | Easy | [2024-03-23](./records/Question_26.md) | 74.62% |
 | 27 | Remove Element | Easy | [2024-03-24](./records/Question_27.md) | 100.00% |
