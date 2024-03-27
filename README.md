@@ -24,7 +24,7 @@
 | 20 | Valid Parentheses | Easy | [2024-03-23](./records/Question_20.md) | 98.66% |
 | 21 | Merge Two Sorted Lists | Easy | [2024-03-23](./records/Question_21.md) | 100.00% |
 | 22 | Generate Parentheses | Medium | [2024-03-26](./records/Question_22.md) | 52.13% |
-| 23 |  |  |  |  |
+| 23 | Merge k Sorted Lists | Hard | [2024-03-26](./records/Question_23.md) | 8.10% |
 | 24 |  |  |  |  |
 | 25 |  |  |  |  |
 | 26 | Remove Duplicates from Sorted Array | Easy | [2024-03-23](./records/Question_26.md) | 74.62% |
