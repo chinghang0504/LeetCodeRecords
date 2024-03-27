@@ -23,7 +23,7 @@
 | 19 | Remove Nth Node From End of List | Medium | [2024-03-26](./records/Question_19.md) | 100.00% |
 | 20 | Valid Parentheses | Easy | [2024-03-23](./records/Question_20.md) | 98.66% |
 | 21 | Merge Two Sorted Lists | Easy | [2024-03-23](./records/Question_21.md) | 100.00% |
-| 22 |  |  |  |  |
+| 22 | Generate Parentheses | Medium | [2024-03-26](./records/Question_22.md) | 52.13% |
 | 23 |  |  |  |  |
 | 24 |  |  |  |  |
 | 25 |  |  |  |  |
