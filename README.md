@@ -137,6 +137,11 @@
 | 133 |  |  |  |  |
 | 134 |  |  |  |  |
 | 135 |  |  |  |  |
-| 136 | Single Number | Easy | [2024-03-28](./records/Question_128.md) | 99.85% |
+| 136 | Single Number | Easy | [2024-03-28](./records/Question_136.md) | 99.85% |
+| 137 |  |  |  |  |
+| 138 |  |  |  |  |
+| 139 |  |  |  |  |
+| 140 |  |  |  |  |
+| 141 | Linked List Cycle | Easy | [2024-03-28](./records/Question_141.md) | 100.00% |
 
 <br>
