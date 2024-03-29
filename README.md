@@ -147,5 +147,6 @@
 | 142 |  |  |  |  |
 | 143 |  |  |  |  |
 | 144 | Binary Tree Preorder Traversal | Easy | [2024-03-28](./records/Question_144.md) | 100.00% |
+| 145 | Binary Tree Postorder Traversal | Easy | [2024-03-28](./records/Question_145.md) | 100.00% |
 
 <br>
