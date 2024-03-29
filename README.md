@@ -143,5 +143,9 @@
 | 139 |  |  |  |  |
 | 140 |  |  |  |  |
 | 141 | Linked List Cycle | Easy | [2024-03-28](./records/Question_141.md) | 100.00% |
+| 142 |  |  |  |  |
+| 142 |  |  |  |  |
+| 143 |  |  |  |  |
+| 144 | Binary Tree Preorder Traversal | Easy | [2024-03-28](./records/Question_144.md) | 100.00% |
 
 <br>
