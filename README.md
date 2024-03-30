@@ -174,5 +174,9 @@
 | 169 | Majority Element | Easy | [2024-03-29](./records/Question_169.md) | 100.00% |
 | 170 |  |  |  |  |
 | 171 | Excel Sheet Column Number | Easy | [2024-03-29](./records/Question_171.md) | 96.61% |
+| 172 |  |  |  |  |
+| 173 |  |  |  |  |
+| 174 |  |  |  |  |
+| 175 | Combine Two Tables | Easy | [2024-03-29](./records/Question_175.md) | 91.13% |
 
 <br>
