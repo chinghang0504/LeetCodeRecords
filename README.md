@@ -172,5 +172,7 @@
 | 167 |  |  |  |  |
 | 168 |  |  |  |  |
 | 169 | Majority Element | Easy | [2024-03-29](./records/Question_169.md) | 100.00% |
+| 170 |  |  |  |  |
+| 171 | Excel Sheet Column Number | Easy | [2024-03-29](./records/Question_171.md) | 96.61% |
 
 <br>
