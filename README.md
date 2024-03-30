@@ -163,5 +163,14 @@
 | 158 |  |  |  |  |
 | 159 |  |  |  |  |
 | 160 | Intersection of Two Linked Lists | Easy | [2024-03-28](./records/Question_160.md) | 99.96% |
+| 161 |  |  |  |  |
+| 162 |  |  |  |  |
+| 163 |  |  |  |  |
+| 164 |  |  |  |  |
+| 165 |  |  |  |  |
+| 166 |  |  |  |  |
+| 167 |  |  |  |  |
+| 168 |  |  |  |  |
+| 169 | Majority Element | Easy | [2024-03-29](./records/Question_169.md) | 100.00% |
 
 <br>
