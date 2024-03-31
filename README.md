@@ -62,7 +62,7 @@
 | 58 | Length of Last Word | Easy | [2024-03-24](./records/Question_58.md) | 100.00% |
 | 59 |  |  |  |  |
 | 60 |  |  |  |  |
-| 61 |  |  |  |  |
+| 61 | Rotate List | Medium | [2024-03-30](./records/Question_61.md) | 100.00% |
 | 62 |  |  |  |  |
 | 63 |  |  |  |  |
 | 64 |  |  |  |  |
