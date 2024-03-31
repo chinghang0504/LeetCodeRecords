@@ -37,7 +37,7 @@
 | 33 |  |  |  |  |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | [2024-03-30](./records/Question_34.md) | 100.00% |
 | 35 | Search Insert Position | Easy | [2024-03-24](./records/Question_35.md) | 100.00% |
-| 36 |  |  |  |  |
+| 36 | Valid Sudoku | Medium | [2024-03-30](./records/Question_36.md) | 100.00% |
 | 37 |  |  |  |  |
 | 38 |  |  |  |  |
 | 39 |  |  |  |  |
