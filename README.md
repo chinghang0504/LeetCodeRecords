@@ -39,7 +39,7 @@
 | 35 | Search Insert Position | Easy | [2024-03-24](./records/Question_35.md) | 100.00% |
 | 36 | Valid Sudoku | Medium | [2024-03-30](./records/Question_36.md) | 100.00% |
 | 37 |  |  |  |  |
-| 38 |  |  |  |  |
+| 38 | Count and Say | Medium | [2024-03-30](./records/Question_38.md) | 99.28% |
 | 39 |  |  |  |  |
 | 40 |  |  |  |  |
 | 41 |  |  |  |  |

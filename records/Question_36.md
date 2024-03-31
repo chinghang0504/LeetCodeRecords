@@ -1,4 +1,4 @@
-# [LeetCode Records](../README.md) - Question 
+# [LeetCode Records](../README.md) - Question 36 Valid Sudoku
 
 ### Attempt 1: Use a HashSet in each checking function
 ```java
