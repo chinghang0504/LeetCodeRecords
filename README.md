@@ -42,7 +42,7 @@
 | 38 | Count and Say | Medium | [2024-03-30](./records/Question_38.md) | 99.28% |
 | 39 |  |  |  |  |
 | 40 |  |  |  |  |
-| 41 |  |  |  |  |
+| 41 | First Missing Positive | Hard | [2024-03-30](./records/Question_41.md) | 100.00% |
 | 42 |  |  |  |  |
 | 43 |  |  |  |  |
 | 44 |  |  |  |  |
