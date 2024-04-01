@@ -40,7 +40,7 @@
 | 36 | Valid Sudoku | Medium | [2024-03-30](./records/Question_36.md) | 100.00% |
 | 37 |  |  |  |  |
 | 38 | Count and Say | Medium | [2024-03-30](./records/Question_38.md) | 99.28% |
-| 39 |  |  |  |  |
+| 39 | Combination Sum | Medium | [2024-04-01](./records/Question_39.md) | 12.25% |
 | 40 |  |  |  |  |
 | 41 | First Missing Positive | Hard | [2024-03-30](./records/Question_41.md) | 100.00% |
 | 42 |  |  |  |  |
