@@ -187,5 +187,12 @@
 | 182 | Duplicate Emails | Easy | [2024-04-01](./records/Question_182.md) | 29.16% |
 | 183 | Customers Who Never Order | Easy | [2024-04-01](./records/Question_183.md) | 38.04% |
 | 184 | Department Highest Salary | Medium | [2024-04-01](./records/Question_184.md) | 34.35% |
+| 185 |  |  |  |  |
+| 186 |  |  |  |  |
+| 187 |  |  |  |  |
+| 188 |  |  |  |  |
+| 189 |  |  |  |  |
+| 190 |  |  |  |  |
+| 191 | Number of 1 Bits | Easy | [2024-04-01](./records/Question_191.md) | 100.00% |
 
 <br>
