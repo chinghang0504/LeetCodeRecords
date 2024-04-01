@@ -184,5 +184,6 @@
 | 179 |  |  |  |  |
 | 180 | Consecutive Numbers | Medium | [2024-03-31](./records/Question_180.md) | 77.83% |
 | 181 | Employees Earning More Than Their Managers | Easy | [2024-03-31](./records/Question_181.md) | 79.62% |
+| 182 | Duplicate Emails | Easy | [2024-04-01](./records/Question_182.md) | 29.16% |
 
 <br>
