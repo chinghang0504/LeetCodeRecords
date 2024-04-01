@@ -179,5 +179,6 @@
 | 174 |  |  |  |  |
 | 175 | Combine Two Tables | Easy | [2024-03-29](./records/Question_175.md) | 91.13% |
 | 176 | Second Highest Salary | Medium | [2024-03-31](./records/Question_176.md) | 56.89% |
+| 177 | Nth Highest Salary | Medium | [2024-03-31](./records/Question_177.md) | 63.49% |
 
 <br>

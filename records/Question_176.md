@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 176 Second Highest Salary
 
-### Attempt 1: 
+### Attempt 1: Remove the first highest salary and the find the second highest salary
 ```py
 import pandas as pd
 
