@@ -181,5 +181,7 @@
 | 176 | Second Highest Salary | Medium | [2024-03-31](./records/Question_176.md) | 56.89% |
 | 177 | Nth Highest Salary | Medium | [2024-03-31](./records/Question_177.md) | 63.49% |
 | 178 | Rank Scores | Medium | [2024-03-31](./records/Question_178.md) | 88.62% |
+| 179 |  |  |  |  |
+| 180 | Consecutive Numbers | Medium | [2024-03-31](./records/Question_180.md) | 77.83% |
 
 <br>
