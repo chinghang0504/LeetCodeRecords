@@ -228,7 +228,7 @@
 | 223 |  |  |  |  |
 | 224 |  |  |  |  |
 | 225 | Implement Stack using Queues | Easy | [2024-04-03](./records/Question_225.md) | 100.00% |
-| 226 |  |  |  |  |
+| 226 | Invert Binary Tree | Easy | [2024-04-03](./records/Question_226.md) | 100.00% |
 | 227 |  |  |  |  |
 | 228 |  |  |  |  |
 | 229 |  |  |  |  |
