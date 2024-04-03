@@ -199,5 +199,6 @@
 | 194 |  |  |  |  |
 | 195 |  |  |  |  |
 | 196 | Delete Duplicate Emails | Easy | [2024-04-02](./records/Question_196.md) | 82.43% |
+| 197 | Rising Temperature | Easy | [2024-04-02](./records/Question_197.md) | 24.45% |
 
 <br>
