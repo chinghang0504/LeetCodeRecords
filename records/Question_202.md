@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 202 Happy Number
 
-### Attempt 1: 
+### Attempt 1: Use HashSet to check repeated n
 ```java
 class Solution {
     HashSet<Integer> hashSet = new HashSet<>();

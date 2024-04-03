@@ -205,5 +205,6 @@
 | 200 |  |  |  |  |
 | 201 |  |  |  |  |
 | 202 | Happy Number | Easy | [2024-04-02](./records/Question_202.md) | 64.01% |
+| 203 | Remove Linked List Elements | Easy | [2024-04-02](./records/Question_203.md) | 93.05% |
 
 <br>
