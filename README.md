@@ -220,5 +220,7 @@
 | 215 |  |  |  |  |
 | 216 |  |  |  |  |
 | 217 | Contains Duplicate | Easy | [2024-04-03](./records/Question_217.md) | 87.68% |
+| 218 |  |  |  |  |
+| 219 | Contains Duplicate II | Easy | [2024-04-03](./records/Question_219.md) | 80.18% |
 
 <br>
