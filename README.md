@@ -225,5 +225,8 @@
 | 220 |  |  |  |  |
 | 221 |  |  |  |  |
 | 222 | Count Complete Tree Nodes | Easy | [2024-04-03](./records/Question_222.md) | 100.00% |
+| 223 |  |  |  |  |
+| 224 |  |  |  |  |
+| 225 | Implement Stack using Queues | Easy | [2024-04-03](./records/Question_225.md) | 100.00% |
 
 <br>
