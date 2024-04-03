@@ -194,5 +194,10 @@
 | 189 |  |  |  |  |
 | 190 |  |  |  |  |
 | 191 | Number of 1 Bits | Easy | [2024-04-01](./records/Question_191.md) | 100.00% |
+| 192 |  |  |  |  |
+| 193 |  |  |  |  |
+| 194 |  |  |  |  |
+| 195 |  |  |  |  |
+| 196 | Delete Duplicate Emails | Easy | [2024-04-02](./records/Question_196.md) | 82.43% |
 
 <br>
