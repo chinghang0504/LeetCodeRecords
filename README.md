@@ -222,5 +222,8 @@
 | 217 | Contains Duplicate | Easy | [2024-04-03](./records/Question_217.md) | 87.68% |
 | 218 |  |  |  |  |
 | 219 | Contains Duplicate II | Easy | [2024-04-03](./records/Question_219.md) | 80.18% |
+| 220 |  |  |  |  |
+| 221 |  |  |  |  |
+| 222 | Count Complete Tree Nodes | Easy | [2024-04-03](./records/Question_222.md) | 100.00% |
 
 <br>
