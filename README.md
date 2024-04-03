@@ -200,5 +200,10 @@
 | 195 |  |  |  |  |
 | 196 | Delete Duplicate Emails | Easy | [2024-04-02](./records/Question_196.md) | 82.43% |
 | 197 | Rising Temperature | Easy | [2024-04-02](./records/Question_197.md) | 24.45% |
+| 198 |  |  |  |  |
+| 199 |  |  |  |  |
+| 200 |  |  |  |  |
+| 201 |  |  |  |  |
+| 202 | Happy Number | Easy | [2024-04-02](./records/Question_202.md) | 64.01% |
 
 <br>
