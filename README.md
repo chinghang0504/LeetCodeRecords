@@ -231,7 +231,7 @@
 | 226 | Invert Binary Tree | Easy | [2024-04-03](./records/Question_226.md) | 100.00% |
 | 227 |  |  |  |  |
 | 228 | Summary Ranges | Easy | [2024-04-03](./records/Question_228.md) | 87.69% |
-| 229 |  |  |  |  |
+| 229 | Majority Element II | Medium | [2024-04-03](./records/Question_229.md) | 47.96% |
 | 230 |  |  |  |  |
 | 231 |  |  |  |  |
 | 232 |  |  |  |  |
