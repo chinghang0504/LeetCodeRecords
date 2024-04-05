@@ -341,5 +341,9 @@
 | 336 |  |  |  |  |
 | 337 |  |  |  |  |
 | 338 | Counting Bits | Easy | [2024-04-05](./records/Question_338.md) | 16.97% |
+| 339 |  |  |  |  |
+| 340 |  |  |  |  |
+| 341 |  |  |  |  |
+| 342 | Power of Four | Easy | [2024-04-05](./records/Question_342.md) | 100.00% |
 
 <br>
