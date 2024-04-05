@@ -347,5 +347,6 @@
 | 342 | Power of Four | Easy | [2024-04-05](./records/Question_342.md) | 100.00% |
 | 343 |  |  |  |  |
 | 344 | Reverse String | Easy | [2024-04-05](./records/Question_344.md) | 100.00% |
+| 345 | Reverse Vowels of a String | Easy | [2024-04-05](./records/Question_345.md) | 100.00% |
 
 <br>
