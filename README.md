@@ -233,7 +233,7 @@
 | 228 | Summary Ranges | Easy | [2024-04-03](./records/Question_228.md) | 87.69% |
 | 229 | Majority Element II | Medium | [2024-04-03](./records/Question_229.md) | 47.96% |
 | 230 |  |  |  |  |
-| 231 |  |  |  |  |
+| 231 | Power of Two | Easy | [2024-04-04](./records/Question_231.md) |  |
 | 232 |  |  |  |  |
 | 233 |  |  |  |  |
 | 234 |  |  |  |  |
