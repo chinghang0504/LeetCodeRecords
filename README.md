@@ -260,7 +260,7 @@
 | 255 |  |  |  |  |
 | 256 |  |  |  |  |
 | 257 | Binary Tree Paths | Easy | [2024-04-04](./records/Question_257.md) | 99.18% |
-| 258 |  |  |  |  |
+| 258 | Add Digits | Easy | [2024-04-04](./records/Question_258.md) | 100.00% |
 | 259 |  |  |  |  |
 | 260 |  |  |  |  |
 | 261 |  |  |  |  |
