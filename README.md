@@ -353,5 +353,22 @@
 | 348 |  |  |  |  |
 | 349 | Intersection of Two Arrays | Easy | [2024-04-05](./records/Question_349.md) | 100.00% |
 | 350 | Intersection of Two Arrays II | Easy | [2024-04-05](./records/Question_350.md) | 100.00% |
+| 351 |  |  |  |  |
+| 352 |  |  |  |  |
+| 353 |  |  |  |  |
+| 354 |  |  |  |  |
+| 355 |  |  |  |  |
+| 356 |  |  |  |  |
+| 357 |  |  |  |  |
+| 358 |  |  |  |  |
+| 359 |  |  |  |  |
+| 360 |  |  |  |  |
+| 361 |  |  |  |  |
+| 362 |  |  |  |  |
+| 363 |  |  |  |  |
+| 364 |  |  |  |  |
+| 365 |  |  |  |  |
+| 366 |  |  |  |  |
+| 367 | Guess Number Higher or Lower | Easy | [2024-04-05](./records/Question_367.md) | 100.00% |
 
 <br>
