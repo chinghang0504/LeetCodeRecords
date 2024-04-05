@@ -293,5 +293,7 @@
 | 288 |  |  |  |  |
 | 289 |  |  |  |  |
 | 290 | Word Pattern | Easy | [2024-04-05](./records/Question_290.md) | 100.00% |
+| 291 |  |  |  |  |
+| 292 | Nim Game | Easy | [2024-04-05](./records/Question_292.md) | 100.00% |
 
 <br>
