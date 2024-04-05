@@ -352,5 +352,6 @@
 | 347 |  |  |  |  |
 | 348 |  |  |  |  |
 | 349 | Intersection of Two Arrays | Easy | [2024-04-05](./records/Question_349.md) | 100.00% |
+| 350 | Intersection of Two Arrays II | Easy | [2024-04-05](./records/Question_350.md) | 100.00% |
 
 <br>
