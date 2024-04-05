@@ -290,5 +290,8 @@
 | 285 |  |  |  |  |
 | 286 |  |  |  |  |
 | 287 | Find the Duplicate Number | Medium | [2024-04-03](./records/Question_287.md) | 100.00% |
+| 288 |  |  |  |  |
+| 289 |  |  |  |  |
+| 290 | Word Pattern | Easy | [2024-04-05](./records/Question_290.md) | 100.00% |
 
 <br>
