@@ -386,5 +386,9 @@
 | 381 |  |  |  |  |
 | 382 |  |  |  |  |
 | 383 | Ransom Note | Easy | [2024-04-05](./records/Question_383.md) | 99.17% |
+| 384 |  |  |  |  |
+| 385 |  |  |  |  |
+| 386 |  |  |  |  |
+| 387 | First Unique Character in a String | Easy | [2024-04-05](./records/Question_387.md) | 95.41% |
 
 <br>
