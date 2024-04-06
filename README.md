@@ -192,7 +192,7 @@
 | 187 |  |  |  |  |
 | 188 |  |  |  |  |
 | 189 |  |  |  |  |
-| 190 |  |  |  |  |
+| 190 | Reverse Bits | Easy | [2024-04-05](./records/Question_190.md) | 100.00% |
 | 191 | Number of 1 Bits | Easy | [2024-04-01](./records/Question_191.md) | 100.00% |
 | 192 |  |  |  |  |
 | 193 |  |  |  |  |
