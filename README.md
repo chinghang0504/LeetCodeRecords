@@ -412,5 +412,8 @@
 | 407 |  |  |  |  |
 | 408 |  |  |  |  |
 | 409 | Longest Palindrome | Easy | [2024-04-06](./records/Question_409.md) | 100.00% |
+| 410 |  |  |  |  |
+| 411 |  |  |  |  |
+| 412 | Fizz Buzz | Easy | [2024-04-06](./records/Question_412.md) | 99.39% |
 
 <br>
