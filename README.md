@@ -415,5 +415,8 @@
 | 410 |  |  |  |  |
 | 411 |  |  |  |  |
 | 412 | Fizz Buzz | Easy | [2024-04-06](./records/Question_412.md) | 99.39% |
+| 413 |  |  |  |  |
+| 414 |  |  |  |  |
+| 415 | Add Strings | Easy | [2024-04-06](./records/Question_415.md) | 100.00% |
 
 <br>
