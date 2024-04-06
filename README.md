@@ -207,7 +207,7 @@
 | 202 | Happy Number | Easy | [2024-04-02](./records/Question_202.md) | 64.01% |
 | 203 | Remove Linked List Elements | Easy | [2024-04-03](./records/Question_203.md) | 93.05% |
 | 204 |  |  |  |  |
-| 205 |  |  |  |  |
+| 205 | Isomorphic Strings | Easy | [2024-04-05](./records/Question_205.md) | 98.67% |
 | 206 | Reverse Linked List | Easy | [2024-04-03](./records/Question_206.md) | 100.00% |
 | 207 |  |  |  |  |
 | 208 |  |  |  |  |
