@@ -392,5 +392,8 @@
 | 387 | First Unique Character in a String | Easy | [2024-04-05](./records/Question_387.md) | 95.41% |
 | 388 |  |  |  |  |
 | 389 | Find the Difference | Easy | [2024-04-05](./records/Question_389.md) | 68.45% |
+| 390 |  |  |  |  |
+| 391 |  |  |  |  |
+| 392 | Is Subsequence | Easy | [2024-04-05](./records/Question_392.md) | 100.00% |
 
 <br>
