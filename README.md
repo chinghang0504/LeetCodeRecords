@@ -437,5 +437,12 @@
 | 432 |  |  |  |  |
 | 433 |  |  |  |  |
 | 434 | Number of Segments in a String | Easy | [2024-04-07](./records/Question_434.md) | 100.00% |
+| 435 |  |  |  |  |
+| 436 |  |  |  |  |
+| 437 |  |  |  |  |
+| 438 |  |  |  |  |
+| 439 |  |  |  |  |
+| 440 |  |  |  |  |
+| 441 | Arranging Coins | Easy | [2024-04-07](./records/Question_441.md) | 51.41% |
 
 <br>
