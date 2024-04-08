@@ -444,5 +444,12 @@
 | 439 |  |  |  |  |
 | 440 |  |  |  |  |
 | 441 | Arranging Coins | Easy | [2024-04-07](./records/Question_441.md) | 51.41% |
+| 442 |  |  |  |  |
+| 443 |  |  |  |  |
+| 444 |  |  |  |  |
+| 445 |  |  |  |  |
+| 446 |  |  |  |  |
+| 447 |  |  |  |  |
+| 448 | Find All Numbers Disappeared in an Array | Easy | [2024-04-07](./records/Question_448.md) | 99.35% |
 
 <br>
