@@ -464,5 +464,7 @@
 | 459 |  |  |  |  |
 | 460 |  |  |  |  |
 | 461 | Hamming Distance | Easy | [2024-04-08](./records/Question_461.md) | 100.00% |
+| 462 |  |  |  |  |
+| 463 | Island Perimeter | Easy | [2024-04-08](./records/Question_463.md) | 99.62% |
 
 <br>
