@@ -479,5 +479,11 @@
 | 474 |  |  |  |  |
 | 475 |  |  |  |  |
 | 476 | Number Complement | Easy | [2024-04-08](./records/Question_476.md) | 100.00% |
+| 477 |  |  |  |  |
+| 478 |  |  |  |  |
+| 479 |  |  |  |  |
+| 480 |  |  |  |  |
+| 481 |  |  |  |  |
+| 482 | License Key Formatting | Easy | [2024-04-08](./records/Question_482.md) | 91.41% |
 
 <br>
