@@ -485,5 +485,8 @@
 | 480 |  |  |  |  |
 | 481 |  |  |  |  |
 | 482 | License Key Formatting | Easy | [2024-04-08](./records/Question_482.md) | 91.41% |
+| 483 |  |  |  |  |
+| 484 |  |  |  |  |
+| 485 | Max Consecutive Ones | Easy | [2024-04-08](./records/Question_485.md) | 90.94% |
 
 <br>
