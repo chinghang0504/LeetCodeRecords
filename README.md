@@ -74,7 +74,7 @@
 | 70 | Climbing Stairs | Easy | [2024-03-24](./records/Question_70.md) | 100.00% |
 | 71 |  |  |  |  |
 | 72 |  |  |  |  |
-| 73 |  |  |  |  |
+| 73 | Set Matrix Zeroes | Medium | [2024-04-09](./records/Question_73.md) | 100.00% |
 | 74 | Search a 2D Matrix | Medium | [2024-03-29](./records/Question_74.md) | 100.00% |
 | 75 |  |  |  |  |
 | 76 |  |  |  |  |
