@@ -63,7 +63,7 @@
 | 59 |  |  |  |  |
 | 60 |  |  |  |  |
 | 61 | Rotate List | Medium | [2024-03-30](./records/Question_61.md) | 100.00% |
-| 62 |  |  |  |  |
+| 62 | Unique Paths | Medium | [2024-04-09](./records/Question_62.md) | 100.00% |
 | 63 |  |  |  |  |
 | 64 |  |  |  |  |
 | 65 |  |  |  |  |
