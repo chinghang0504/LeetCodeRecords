@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 62 Unique Paths
 
-### Attempt 1: 
+### Attempt 1: Use an int array to record previous calculation
 ```java
 class Solution {
 

@@ -65,7 +65,7 @@
 | 61 | Rotate List | Medium | [2024-03-30](./records/Question_61.md) | 100.00% |
 | 62 | Unique Paths | Medium | [2024-04-09](./records/Question_62.md) | 100.00% |
 | 63 |  |  |  |  |
-| 64 |  |  |  |  |
+| 64 | Minimum Path Sum | Medium | [2024-04-09](./records/Question_64.md) | 70.33% |
 | 65 |  |  |  |  |
 | 66 | Plus One | Easy | [2024-03-24](./records/Question_66.md) | 100.00% |
 | 67 | Add Binary | Easy | [2024-03-24](./records/Question_67.md) | 100.00% |
