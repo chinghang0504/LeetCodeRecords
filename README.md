@@ -121,7 +121,7 @@
 | 117 | Populating Next Right Pointers in Each Node II | Medium | [2024-04-11](./records/Question_117.md) | 69.88% |
 | 118 | Pascal's Triangle | Easy | [2024-03-27](./records/Question_118.md) | 85.81% |
 | 119 | Pascal's Triangle II | Easy | [2024-03-27](./records/Question_119.md) | 75.08% |
-| 120 |  |  |  |  |
+| 120 | Triangle |  Medium | [2024-04-11](./records/Question_120.md) | 66.18% |
 | 121 |  |  |  |  |
 | 122 |  |  |  |  |
 | 123 |  |  |  |  |
