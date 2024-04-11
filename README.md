@@ -117,7 +117,7 @@
 | 113 | Path Sum II | Medium | [2024-04-11](./records/Question_113.md) | 99.91% |
 | 114 | Flatten Binary Tree to Linked List | Medium | [2024-04-11](./records/Question_114.md) | 100.00% |
 | 115 |  |  |  |  |
-| 116 |  |  |  |  |
+| 116 | Populating Next Right Pointers in Each Node | Medium | [2024-04-11](./records/Question_116.md) | 54.94% |
 | 117 |  |  |  |  |
 | 118 | Pascal's Triangle | Easy | [2024-03-27](./records/Question_118.md) | 85.81% |
 | 119 | Pascal's Triangle II | Easy | [2024-03-27](./records/Question_119.md) | 75.08% |
