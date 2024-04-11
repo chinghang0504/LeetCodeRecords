@@ -114,7 +114,7 @@
 | 110 | Balanced Binary Tree | Easy | [2024-03-25](./records/Question_110.md) | 100.00% |
 | 111 | Minimum Depth of Binary Tree | Easy | [2024-03-27](./records/Question_111.md) | 99.85% |
 | 112 | Path Sum | Easy | [2024-03-27](./records/Question_112.md) | 100.00% |
-| 113 |  |  |  |  |
+| 113 | Path Sum II | Medium | [2024-04-11](./records/Question_113.md) | 99.91% |
 | 114 |  |  |  |  |
 | 115 |  |  |  |  |
 | 116 |  |  |  |  |
