@@ -104,7 +104,7 @@
 | 100 | Same Tree | Easy | [2024-03-25](./records/Question_100.md) | 100.00% |
 | 101 | Symmetric Tree | Easy | [2024-03-25](./records/Question_101.md) | 100.00% |
 | 102 | Binary Tree Level Order Traversal | Medium | [2024-04-11](./records/Question_102.md) | 88.22% |
-| 103 |  |  |  |  |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium | [2024-04-11](./records/Question_103.md) | 75.11% |
 | 104 | Maximum Depth of Binary Tree | Easy | [2024-03-25](./records/Question_104.md) | 100.00% |
 | 105 |  |  |  |  |
 | 106 |  |  |  |  |
