@@ -488,5 +488,12 @@
 | 483 |  |  |  |  |
 | 484 |  |  |  |  |
 | 485 | Max Consecutive Ones | Easy | [2024-04-08](./records/Question_485.md) | 90.94% |
+| 486 |  |  |  |  |
+| 487 |  |  |  |  |
+| 488 |  |  |  |  |
+| 489 |  |  |  |  |
+| 490 |  |  |  |  |
+| 491 |  |  |  |  |
+| 492 | Construct the Rectangle | Easy | [2024-04-10](./records/Question_492.md) | 100.00% |
 
 <br>
