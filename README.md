@@ -499,5 +499,9 @@
 | 494 |  |  |  |  |
 | 495 |  |  |  |  |
 | 496 | Next Greater Element I | Easy | [2024-04-10](./records/Question_496.md) | 98.80% |
+| 497 |  |  |  |  |
+| 498 |  |  |  |  |
+| 499 |  |  |  |  |
+| 500 | Keyboard Row | Easy | [2024-04-10](./records/Question_500.md) | 100.00% |
 
 <br>
