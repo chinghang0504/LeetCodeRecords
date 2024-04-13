@@ -238,7 +238,7 @@
 | 234 | Palindrome Linked List | Easy | [2024-04-04](./records/Question_234.md) | 99.40% |
 | 235 |  |  |  |  |
 | 236 |  |  |  |  |
-| 237 |  |  |  |  |
+| 237 | Delete Node in a Linked List | Medium | [2024-04-12](./records/Question_237.md) | 100.00% |
 | 238 |  |  |  |  |
 | 239 |  |  |  |  |
 | 240 |  |  |  |  |
