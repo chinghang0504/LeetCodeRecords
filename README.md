@@ -26,7 +26,7 @@
 | 22 | Generate Parentheses | Medium | [2024-03-26](./records/Question_22.md) | 52.13% |
 | 23 | Merge k Sorted Lists | Hard | [2024-03-26](./records/Question_23.md) | 8.10% |
 | 24 | Swap Nodes in Pairs | Medium | [2024-03-26](./records/Question_22.md) | 100.00% |
-| 25 |  |  |  |  |
+| 25 | Reverse Nodes in k-Group | Hard | [2024-04-13](./records/Question_25.md) | 31.77% |
 | 26 | Remove Duplicates from Sorted Array | Easy | [2024-03-23](./records/Question_26.md) | 74.62% |
 | 27 | Remove Element | Easy | [2024-03-24](./records/Question_27.md) | 100.00% |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [2024-03-24](./records/Question_28.md) | 100.00% |
