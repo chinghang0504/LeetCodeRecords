@@ -56,7 +56,7 @@
 | 52 |  |  |  |  |
 | 53 |  |  |  |  |
 | 54 |  |  |  |  |
-| 55 |  |  |  |  |
+| 55 | Jump Game | Medium | [2024-04-14](./records/Question_55.md) | 5.01% |
 | 56 |  |  |  |  |
 | 57 |  |  |  |  |
 | 58 | Length of Last Word | Easy | [2024-03-24](./records/Question_58.md) | 100.00% |
