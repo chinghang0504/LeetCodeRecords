@@ -93,7 +93,7 @@
 | 89 |  |  |  |  |
 | 90 |  |  |  |  |
 | 91 |  |  |  |  |
-| 92 |  |  |  |  |
+| 92 | Reverse Linked List II | Medium | [2024-04-14](./records/Question_92.md) | 100.00% |
 | 93 |  |  |  |  |
 | 94 | Binary Tree Inorder Traversal | Easy | [2024-03-25](./records/Question_94.md) | 100.00% |
 | 95 |  |  |  |  |
