@@ -125,7 +125,7 @@
 | 121 |  |  |  |  |
 | 122 |  |  |  |  |
 | 123 |  |  |  |  |
-| 124 |  |  |  |  |
+| 124 | Binary Tree Maximum Path Sum | Hard | [2024-04-11](./records/Question_124.md) | 100.00% |
 | 125 | Valid Palindrome | Easy | [2024-03-28](./records/Question_125.md) | 100.00% |
 | 126 |  |  |  |  |
 | 127 |  |  |  |  |
