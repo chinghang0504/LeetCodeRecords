@@ -51,7 +51,7 @@
 | 47 |  |  |  |  |
 | 48 | Rotate Image | Medium | [2024-03-30](./records/Question_48.md) | 100.00% |
 | 49 |  |  |  |  |
-| 50 |  |  |  |  |
+| 50 | Pow(x, n) | Medium | [2024-04-13](./records/Question_50.md) | 100.00% |
 | 51 |  |  |  |  |
 | 52 |  |  |  |  |
 | 53 |  |  |  |  |
