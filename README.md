@@ -202,7 +202,7 @@
 | 198 |  |  |  |  |
 | 199 | Binary Tree Right Side View | Medium | [2024-04-10](./records/Question_199.md) | 68.51% |
 | 200 |  |  |  |  |
-| 201 |  |  |  |  |
+| 201 | Bitwise AND of Numbers Range | Medium | [2024-04-15](./records/Question_201.md) | 100.00% |
 | 202 | Happy Number | Easy | [2024-04-02](./records/Question_202.md) | 64.01% |
 | 203 | Remove Linked List Elements | Easy | [2024-04-03](./records/Question_203.md) | 93.05% |
 | 204 |  |  |  |  |
