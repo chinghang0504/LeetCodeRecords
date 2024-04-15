@@ -87,7 +87,7 @@
 | 83 |  |  |  |  |
 | 84 |  |  |  |  |
 | 85 |  |  |  |  |
-| 86 |  |  |  |  |
+| 86 | Partition List | Medium | [2024-04-15](./records/Question_86.md) | 100.00% |
 | 87 |  |  |  |  |
 | 88 | Merge Sorted Array | Easy | [2024-03-24](./records/Question_88.md) | 100.00% |
 | 89 |  |  |  |  |
