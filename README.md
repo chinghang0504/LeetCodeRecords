@@ -329,7 +329,7 @@
 | 325 |  |  |  |  |
 | 326 | Power of Three | Easy | [2024-04-05](./records/Question_326.md) | 90.19% |
 | 327 |  |  |  |  |
-| 328 |  |  |  |  |
+| 328 | Odd Even Linked List | Medium | [2024-04-15](./records/Question_328.md) | 100.00% |
 | 329 |  |  |  |  |
 | 330 |  |  |  |  |
 | 331 |  |  |  |  |
