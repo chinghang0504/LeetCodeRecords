@@ -209,7 +209,7 @@
 | 205 | Isomorphic Strings | Easy | [2024-04-05](./records/Question_205.md) | 98.67% |
 | 206 | Reverse Linked List | Easy | [2024-04-03](./records/Question_206.md) | 100.00% |
 | 207 |  |  |  |  |
-| 208 |  |  |  |  |
+| 208 | Implement Trie (Prefix Tree) | Medium | [2024-04-15](./records/Question_208.md) | 5.02% |
 | 209 |  |  |  |  |
 | 210 |  |  |  |  |
 | 211 |  |  |  |  |
