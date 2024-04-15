@@ -138,7 +138,7 @@
 | 134 |  |  |  |  |
 | 135 |  |  |  |  |
 | 136 | Single Number | Easy | [2024-03-28](./records/Question_136.md) | 99.85% |
-| 137 |  |  |  |  |
+| 137 | Single Number II | Medium | [2024-04-14](./records/Question_137.md) | 59.13% |
 | 138 |  |  |  |  |
 | 139 |  |  |  |  |
 | 140 |  |  |  |  |
