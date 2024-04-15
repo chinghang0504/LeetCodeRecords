@@ -83,7 +83,7 @@
 | 79 |  |  |  |  |
 | 80 | Remove Duplicates from Sorted List | Easy | [2024-03-24](./records/Question_80.md) | 100.00% |
 | 81 |  |  |  |  |
-| 82 |  |  |  |  |
+| 82 | Remove Duplicates from Sorted List II | Medium | [2024-04-15](./records/Question_82.md) | 100.00% |
 | 83 |  |  |  |  |
 | 84 |  |  |  |  |
 | 85 |  |  |  |  |
