@@ -446,7 +446,7 @@
 | 442 |  |  |  |  |
 | 443 |  |  |  |  |
 | 444 |  |  |  |  |
-| 445 |  |  |  |  |
+| 445 | Add Two Numbers II | Medium | [2024-04-15](./records/Question_445.md) | 56.55% |
 | 446 |  |  |  |  |
 | 447 |  |  |  |  |
 | 448 | Find All Numbers Disappeared in an Array | Easy | [2024-04-07](./records/Question_448.md) | 99.35% |
