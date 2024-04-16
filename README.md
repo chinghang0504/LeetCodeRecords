@@ -261,7 +261,7 @@
 | 257 | Binary Tree Paths | Easy | [2024-04-04](./records/Question_257.md) | 99.18% |
 | 258 | Add Digits | Easy | [2024-04-04](./records/Question_258.md) | 100.00% |
 | 259 |  |  |  |  |
-| 260 |  |  |  |  |
+| 260 | Single Number III | Medium | [2024-04-15](./records/Question_260.md) | 19.39% |
 | 261 |  |  |  |  |
 | 262 |  |  |  |  |
 | 263 | Ugly Number | Easy | [2024-04-05](./records/Question_263.md) | 100.00% |
