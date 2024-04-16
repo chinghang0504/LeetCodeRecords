@@ -139,7 +139,7 @@
 | 135 |  |  |  |  |
 | 136 | Single Number | Easy | [2024-03-28](./records/Question_136.md) | 99.85% |
 | 137 | Single Number II | Medium | [2024-04-14](./records/Question_137.md) | 59.13% |
-| 138 |  |  |  |  |
+| 138 | Copy List with Random Pointer | Medium | [2024-04-16](./records/Question_138.md) | 9.72% |
 | 139 |  |  |  |  |
 | 140 |  |  |  |  |
 | 141 | Linked List Cycle | Easy | [2024-03-28](./records/Question_141.md) | 100.00% |
