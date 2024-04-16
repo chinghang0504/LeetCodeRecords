@@ -100,7 +100,7 @@
 | 96 |  |  |  |  |
 | 97 |  |  |  |  |
 | 98 |  |  |  |  |
-| 99 |  |  |  |  |
+| 99 | Recover Binary Search Tree | Medium | [2024-04-16](./records/Question_99.md) | 12.61% |
 | 100 | Same Tree | Easy | [2024-03-25](./records/Question_100.md) | 100.00% |
 | 101 | Symmetric Tree | Easy | [2024-03-25](./records/Question_101.md) | 100.00% |
 | 102 | Binary Tree Level Order Traversal | Medium | [2024-04-11](./records/Question_102.md) | 88.22% |
