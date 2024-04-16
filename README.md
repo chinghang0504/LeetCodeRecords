@@ -147,7 +147,7 @@
 | 143 | Reorder List | Medium | [2024-04-14](./records/Question_143.md) | 99.85% |
 | 144 | Binary Tree Preorder Traversal | Easy | [2024-03-28](./records/Question_144.md) | 100.00% |
 | 145 | Binary Tree Postorder Traversal | Easy | [2024-03-28](./records/Question_145.md) | 100.00% |
-| 146 |  |  |  |  |
+| 146 | LRU Cache | Medium | [2024-04-15](./records/Question_146.md) | 5.02% |
 | 147 | Insertion Sort List | Medium | [2024-04-14](./records/Question_147.md) | 99.88% |
 | 148 |  |  |  |  |
 | 149 |  |  |  |  |
