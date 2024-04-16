@@ -47,7 +47,7 @@
 | 43 |  |  |  |  |
 | 44 |  |  |  |  |
 | 45 | Jump Game II | Medium | [2024-04-02](./records/Question_45.md) | 5.09% |
-| 46 |  |  |  |  |
+| 46 | Permutations | Medium | [2024-04-16](./records/Question_46.md) | 49.67% |
 | 47 |  |  |  |  |
 | 48 | Rotate Image | Medium | [2024-03-30](./records/Question_48.md) | 100.00% |
 | 49 |  |  |  |  |
