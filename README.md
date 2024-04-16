@@ -383,7 +383,7 @@
 | 379 |  |  |  |  |
 | 380 |  |  |  |  |
 | 381 |  |  |  |  |
-| 382 |  |  |  |  |
+| 382 | Linked List Random Node | Medium | [2024-04-15](./records/Question_382.md) | 92.43% |
 | 383 | Ransom Note | Easy | [2024-04-05](./records/Question_383.md) | 99.17% |
 | 384 |  |  |  |  |
 | 385 |  |  |  |  |
