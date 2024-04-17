@@ -1,4 +1,4 @@
-# [LeetCode Records](../README.md) - Question 367 Guess Number Higher or Lower
+# [LeetCode Records](../README.md) - Question 374 Guess Number Higher or Lower
 
 ### Attempt 1: Use long to handle overflow problem
 ```java
