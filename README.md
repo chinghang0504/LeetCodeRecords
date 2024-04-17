@@ -348,7 +348,7 @@
 | 344 | Reverse String | Easy | [2024-04-05](./records/Question_344.md) | 100.00% |
 | 345 | Reverse Vowels of a String | Easy | [2024-04-05](./records/Question_345.md) | 100.00% |
 | 346 |  |  |  |  |
-| 347 |  |  |  |  |
+| 347 | Top K Frequent Elements | Medium | [2024-04-16](./records/Question_347.md) | 47.86% |
 | 348 |  |  |  |  |
 | 349 | Intersection of Two Arrays | Easy | [2024-04-05](./records/Question_349.md) | 100.00% |
 | 350 | Intersection of Two Arrays II | Easy | [2024-04-05](./records/Question_350.md) | 100.00% |
