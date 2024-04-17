@@ -186,7 +186,7 @@
 | 182 | Duplicate Emails | Easy | [2024-04-01](./records/Question_182.md) | 29.16% |
 | 183 | Customers Who Never Order | Easy | [2024-04-01](./records/Question_183.md) | 38.04% |
 | 184 | Department Highest Salary | Medium | [2024-04-01](./records/Question_184.md) | 34.35% |
-| 185 |  |  |  |  |
+| 185 | Department Top Three Salaries | Hard | [2024-04-16](./records/Question_185.md) | 5.10% |
 | 186 |  |  |  |  |
 | 187 |  |  |  |  |
 | 188 |  |  |  |  |
