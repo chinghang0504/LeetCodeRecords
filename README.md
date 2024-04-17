@@ -403,7 +403,7 @@
 | 398 |  |  |  |  |
 | 399 |  |  |  |  |
 | 400 |  |  |  |  |
-| 401 |  |  |  |  |
+| 401 | Binary Watch | Easy | [2024-04-17](./records/Question_401.md) | 100.00% |
 | 402 |  |  |  |  |
 | 403 |  |  |  |  |
 | 404 | Sum of Left Leaves | Easy | [2024-04-06](./records/Question_404.md) | 100.00% |
