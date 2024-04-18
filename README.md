@@ -416,7 +416,7 @@
 | 411 |  |  |  |  |
 | 412 | Fizz Buzz | Easy | [2024-04-06](./records/Question_412.md) | 99.39% |
 | 413 |  |  |  |  |
-| 414 |  |  |  |  |
+| 414 | Third Maximum Number | Easy | [2024-04-17](./records/Question_414.md) | 78.16% |
 | 415 | Add Strings | Easy | [2024-04-06](./records/Question_415.md) | 100.00% |
 | 416 |  |  |  |  |
 | 417 |  |  |  |  |
