@@ -461,7 +461,7 @@
 | 456 |  |  |  |  |
 | 457 |  |  |  |  |
 | 458 |  |  |  |  |
-| 459 |  |  |  |  |
+| 459 | Repeated Substring Pattern | Easy | [2024-04-17](./records/Question_459.md) | 98.11% |
 | 460 |  |  |  |  |
 | 461 | Hamming Distance | Easy | [2024-04-08](./records/Question_461.md) | 100.00% |
 | 462 |  |  |  |  |
