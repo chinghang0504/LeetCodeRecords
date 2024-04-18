@@ -497,7 +497,7 @@
 | 492 | Construct the Rectangle | Easy | [2024-04-10](./records/Question_492.md) | 100.00% |
 | 493 |  |  |  |  |
 | 494 |  |  |  |  |
-| 495 |  |  |  |  |
+| 495 | Teemo Attacking | Easy | [2024-04-18](./records/Question_495.md) | 82.11% |
 | 496 | Next Greater Element I | Easy | [2024-04-10](./records/Question_496.md) | 98.80% |
 | 497 |  |  |  |  |
 | 498 |  |  |  |  |
