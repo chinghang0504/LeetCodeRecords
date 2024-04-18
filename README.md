@@ -123,7 +123,7 @@
 | 118 | Pascal's Triangle | Easy | [2024-03-27](./records/Question_118.md) | 85.81% |
 | 119 | Pascal's Triangle II | Easy | [2024-03-27](./records/Question_119.md) | 75.08% |
 | 120 | Triangle |  Medium | [2024-04-11](./records/Question_120.md) | 66.18% |
-| 121 |  |  |  |  |
+| 121 | Best Time to Buy and Sell Stock | Easy | [2024-04-17](./records/Question_121.md) | 79.22% |
 | 122 |  |  |  |  |
 | 123 |  |  |  |  |
 | 124 | Binary Tree Maximum Path Sum | Hard | [2024-04-11](./records/Question_124.md) | 100.00% |
