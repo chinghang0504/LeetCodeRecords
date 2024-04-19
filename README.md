@@ -217,7 +217,7 @@
 | 212 |  |  |  |  |
 | 213 |  |  |  |  |
 | 214 |  |  |  |  |
-| 215 |  |  |  |  |
+| 215 | Kth Largest Element in an Array | Medium | [2024-04-18](./records/Question_215.md) | 100.00% |
 | 216 |  |  |  |  |
 | 217 | Contains Duplicate | Easy | [2024-04-03](./records/Question_217.md) | 87.68% |
 | 218 |  |  |  |  |
