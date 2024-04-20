@@ -34,3 +34,30 @@ class Solution {
 - Memory: 55.25 MB (Beats: 86.26%)
 
 <br>
+
+### Attempt 2: 
+```java
+class Solution {
+
+    private Random random;
+    private int[] nums;
+
+    public Solution(int[] nums) {
+        random = new Random();
+        this.nums = nums;
+    }
+    
+    public int pick(int target) {
+        while (true) {
+            int index = random.nextInt(nums.length);
+            if (nums[index] == target) {
+                return index;
+            }
+        }
+    }
+}
+```
+- Runtime: 58 ms (Beats: 98.88%)
+- Memory: 55.25 MB (Beats: 86.26%)
+
+<br>
