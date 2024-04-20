@@ -400,7 +400,7 @@
 | 395 |  |  |  |  |
 | 396 |  |  |  |  |
 | 397 |  |  |  |  |
-| 398 |  |  |  |  |
+| 398 | Random Pick Index | Medium | [2024-04-20](./records/Question_398.md) | 66.20% |
 | 399 |  |  |  |  |
 | 400 |  |  |  |  |
 | 401 | Binary Watch | Easy | [2024-04-17](./records/Question_401.md) | 100.00% |
