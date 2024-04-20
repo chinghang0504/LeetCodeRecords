@@ -107,7 +107,7 @@
 | 102 | Binary Tree Level Order Traversal | Medium | [2024-04-11](./records/Question_102.md) | 88.22% |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [2024-04-11](./records/Question_103.md) | 75.11% |
 | 104 | Maximum Depth of Binary Tree | Easy | [2024-03-25](./records/Question_104.md) | 100.00% |
-| 105 |  |  |  |  |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [2024-04-20](./records/Question_105.md) | 44.14% |
 | 106 |  |  |  |  |
 | 107 | Binary Tree Level Order Traversal II | Medium | [2024-04-11](./records/Question_107.md) | 86.49% |
 | 108 | Converted Sorted Array to Binary Search Tree | Easy | [2024-03-25](./records/Question_108.md) | 100.00% |
