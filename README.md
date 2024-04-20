@@ -130,7 +130,7 @@
 | 125 | Valid Palindrome | Easy | [2024-03-28](./records/Question_125.md) | 100.00% |
 | 126 |  |  |  |  |
 | 127 |  |  |  |  |
-| 128 |  |  |  |  |
+| 128 | Longest Consecutive Sequence | Medium | [2024-04-19](./records/Question_128.md) | 50.16% |
 | 129 | Sum Root to Leaf Numbers | Medium | [2024-04-11](./records/Question_129.md) | 100.00% |
 | 130 |  |  |  |  |
 | 131 |  |  |  |  |
