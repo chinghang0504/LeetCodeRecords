@@ -150,7 +150,7 @@
 | 145 | Binary Tree Postorder Traversal | Easy | [2024-03-28](./records/Question_145.md) | 100.00% |
 | 146 | LRU Cache | Medium | [2024-04-15](./records/Question_146.md) | 5.02% |
 | 147 | Insertion Sort List | Medium | [2024-04-14](./records/Question_147.md) | 99.88% |
-| 148 |  |  |  |  |
+| 148 | Sort List | Medium | [2024-04-20](./records/Question_148.md) | 42.15% |
 | 149 |  |  |  |  |
 | 150 |  |  |  |  |
 | 151 |  |  |  |  |
