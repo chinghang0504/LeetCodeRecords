@@ -77,7 +77,7 @@
 | 72 |  |  |  |  |
 | 73 | Set Matrix Zeroes | Medium | [2024-04-09](./records/Question_73.md) | 100.00% |
 | 74 | Search a 2D Matrix | Medium | [2024-03-29](./records/Question_74.md) | 100.00% |
-| 75 |  |  |  |  |
+| 75 | Sort Colors | Medium | [2024-04-19](./records/Question_75.md) |  |
 | 76 |  |  |  |  |
 | 77 |  |  |  |  |
 | 78 |  |  |  |  |
