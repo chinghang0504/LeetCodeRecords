@@ -61,7 +61,7 @@
 | 56 |  |  |  |  |
 | 57 |  |  |  |  |
 | 58 | Length of Last Word | Easy | [2024-03-24](./records/Question_58.md) | 100.00% |
-| 59 |  |  |  |  |
+| 59 | Spiral Matrix II | Medium | [2024-04-21](./records/Question_59.md) | 100.00% |
 | 60 |  |  |  |  |
 | 61 | Rotate List | Medium | [2024-03-30](./records/Question_61.md) | 100.00% |
 | 62 | Unique Paths | Medium | [2024-04-09](./records/Question_62.md) | 100.00% |
