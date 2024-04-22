@@ -237,7 +237,7 @@
 | 232 | Implement Queue using Stacks | Easy | [2024-04-04](./records/Question_232.md) | 100.00% |
 | 233 |  |  |  |  |
 | 234 | Palindrome Linked List | Easy | [2024-04-04](./records/Question_234.md) | 99.40% |
-| 235 |  |  |  |  |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [2024-04-21](./records/Question_235.md) | 100.00% |
 | 236 |  |  |  |  |
 | 237 | Delete Node in a Linked List | Medium | [2024-04-12](./records/Question_237.md) | 100.00% |
 | 238 |  |  |  |  |
