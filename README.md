@@ -444,7 +444,7 @@
 | 439 |  |  |  |  |
 | 440 |  |  |  |  |
 | 441 | Arranging Coins | Easy | [2024-04-07](./records/Question_441.md) | 51.41% |
-| 442 |  |  |  |  |
+| 442 | Find All Duplicates in an Array | Medium | [2024-04-22](./records/Question_442.md) | 12.91% |
 | 443 |  |  |  |  |
 | 444 |  |  |  |  |
 | 445 | Add Two Numbers II | Medium | [2024-04-15](./records/Question_445.md) | 56.55% |
