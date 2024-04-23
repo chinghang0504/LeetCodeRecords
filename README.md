@@ -248,7 +248,7 @@
 | 243 | Shortest Word Distance | Easy | [2024-04-22](./records/Question_243.md) | 92.92% |
 | 244 |  |  |  |  |
 | 245 |  |  |  |  |
-| 246 |  |  |  |  |
+| 246 | Strobogrammatic Number | Easy | [2024-04-22](./records/Question_246.md) | 100.00% |
 | 247 |  |  |  |  |
 | 248 |  |  |  |  |
 | 249 |  |  |  |  |
