@@ -348,7 +348,7 @@
 | 343 | Integer Break | Medium | [2024-04-16](./records/Question_343.md) | 45.20% |
 | 344 | Reverse String | Easy | [2024-04-05](./records/Question_344.md) | 100.00% |
 | 345 | Reverse Vowels of a String | Easy | [2024-04-05](./records/Question_345.md) | 100.00% |
-| 346 |  |  |  |  |
+| 346 | Moving Average from Data Stream | Easy | [2024-04-23](./records/Question_346.md) | 95.47% |
 | 347 | Top K Frequent Elements | Medium | [2024-04-16](./records/Question_347.md) | 47.86% |
 | 348 |  |  |  |  |
 | 349 | Intersection of Two Arrays | Easy | [2024-04-05](./records/Question_349.md) | 100.00% |
