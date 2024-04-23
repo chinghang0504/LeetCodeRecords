@@ -268,7 +268,7 @@
 | 263 | Ugly Number | Easy | [2024-04-05](./records/Question_263.md) | 100.00% |
 | 264 |  |  |  |  |
 | 265 |  |  |  |  |
-| 266 |  |  |  |  |
+| 266 | Palindrome Permutation | Easy | [2024-04-23](./records/Question_266.md) | 100.00% |
 | 267 |  |  |  |  |
 | 268 | Missing Number | Easy | [2024-04-05](./records/Question_268.md) | 100.00% |
 | 269 |  |  |  |  |
