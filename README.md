@@ -272,7 +272,7 @@
 | 267 |  |  |  |  |
 | 268 | Missing Number | Easy | [2024-04-05](./records/Question_268.md) | 100.00% |
 | 269 |  |  |  |  |
-| 270 |  |  |  |  |
+| 270 | Closest Binary Search Tree Value | Easy | [2024-04-23](./records/Question_270.md) | 100.00% |
 | 271 |  |  |  |  |
 | 272 |  |  |  |  |
 | 273 |  |  |  |  |
