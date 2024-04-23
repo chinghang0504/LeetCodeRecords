@@ -159,7 +159,7 @@
 | 154 |  |  |  |  |
 | 155 |  |  |  |  |
 | 156 |  |  |  |  |
-| 157 |  |  |  |  |
+| 157 | Read N Characters Given Read4 | Easy | [2024-04-22](./records/Question_157.md) | 100.00% |
 | 158 |  |  |  |  |
 | 159 |  |  |  |  |
 | 160 | Intersection of Two Linked Lists | Easy | [2024-03-28](./records/Question_160.md) | 99.96% |
