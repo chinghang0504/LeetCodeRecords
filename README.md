@@ -503,5 +503,6 @@
 | 498 |  |  |  |  |
 | 499 |  |  |  |  |
 | 500 | Keyboard Row | Easy | [2024-04-10](./records/Question_500.md) | 100.00% |
+| 501 | Find Mode in Binary Search Tree | Easy | [2024-04-22](./records/Question_501.md) | 15.95% |
 
 <br>
