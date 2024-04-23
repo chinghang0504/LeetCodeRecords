@@ -165,7 +165,7 @@
 | 160 | Intersection of Two Linked Lists | Easy | [2024-03-28](./records/Question_160.md) | 99.96% |
 | 161 |  |  |  |  |
 | 162 |  |  |  |  |
-| 163 |  |  |  |  |
+| 163 | Missing Ranges | Easy | [2024-04-22](./records/Question_163.md) | 100.00% |
 | 164 | Maximum Gap | Medium | [2024-04-14](./records/Question_164.md) | 42.51% |
 | 165 |  |  |  |  |
 | 166 |  |  |  |  |
