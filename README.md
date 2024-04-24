@@ -424,7 +424,7 @@
 | 419 | Battleships in a Board | Medium | [2024-04-20](./records/Question_419.md) | 100.00% |
 | 420 |  |  |  |  |
 | 421 |  |  |  |  |
-| 422 |  |  |  |  |
+| 422 | Valid Word Square | Easy | [2024-04-24](./records/Question_422.md) | 100.00% |
 | 423 |  |  |  |  |
 | 424 |  |  |  |  |
 | 425 |  |  |  |  |
