@@ -361,7 +361,7 @@
 | 356 |  |  |  |  |
 | 357 | Count Numbers with Unique Digits | Medium | [2024-04-16](./records/Question_357.md) | 100.00% |
 | 358 |  |  |  |  |
-| 359 |  |  |  |  |
+| 359 | Logger Rate Limiter | Easy | [2024-04-23](./records/Question_359.md) | 99.52% |
 | 360 |  |  |  |  |
 | 361 |  |  |  |  |
 | 362 |  |  |  |  |
