@@ -410,7 +410,7 @@
 | 405 | Convert a Number to Hexadecimal | Easy | [2024-04-06](./records/Question_405.md) | 100.00% |
 | 406 |  |  |  |  |
 | 407 |  |  |  |  |
-| 408 |  |  |  |  |
+| 408 | Valid Word Abbreviation | Easy | [2024-04-24](./records/Question_408.md) | 95.85% |
 | 409 | Longest Palindrome | Easy | [2024-04-06](./records/Question_409.md) | 100.00% |
 | 410 |  |  |  |  |
 | 411 |  |  |  |  |
