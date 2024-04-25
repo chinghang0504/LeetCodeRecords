@@ -512,5 +512,7 @@
 | 507 | Perfect Number | Easy | [2024-04-24](./records/Question_507.md) | 76.10% |
 | 508 |  |  |  |  |
 | 509 | Fibonacci Number | Easy | [2024-04-24](./records/Question_509.md) | 100.00% |
+| 510 |  |  |  |  |
+| 511 | Game Play Analysis I | Easy | [2024-04-25](./records/Question_511.md) | 98.17% |
 
 <br>
