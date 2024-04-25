@@ -509,7 +509,7 @@
 | 504 | Base 7 | Easy | [2024-04-24](./records/Question_504.md) | 100.00% |
 | 505 |  |  |  |  |
 | 506 |  |  |  |  |
-| 507 |  |  |  |  |
+| 507 | Perfect Number | Easy | [2024-04-24](./records/Question_507.md) | 76.10% |
 | 508 |  |  |  |  |
 | 509 | Fibonacci Number | Easy | [2024-04-24](./records/Question_509.md) | 100.00% |
 
