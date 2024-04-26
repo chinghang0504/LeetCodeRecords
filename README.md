@@ -515,5 +515,13 @@
 | 510 |  |  |  |  |
 | 511 | Game Play Analysis I | Easy | [2024-04-25](./records/Question_511.md) | 98.17% |
 | 512 | Game Play Analysis II | Easy | [2024-04-25](./records/Question_512.md) | 91.57% |
+| 513 |  |  |  |  |
+| 514 |  |  |  |  |
+| 515 |  |  |  |  |
+| 516 |  |  |  |  |
+| 517 |  |  |  |  |
+| 518 |  |  |  |  |
+| 519 |  |  |  |  |
+| 520 | Detect Capital | Easy | [2024-04-25](./records/Question_520.md) | 100.00% |
 
 <br>
