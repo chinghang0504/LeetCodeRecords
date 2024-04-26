@@ -564,5 +564,7 @@
 | 559 | Maximum Depth of N-ary Tree | Easy | [2024-04-25](./records/Question_559.md) | 100.00% |
 | 560 |  |  |  |  |
 | 561 | Array Partition | Easy | [2024-04-26](./records/Question_561.md) | 97.01% |
+| 562 |  |  |  |  |
+| 563 | Binary Tree Tilt | Easy | [2024-04-26](./records/Question_563.md) | 100.00% |
 
 <br>
