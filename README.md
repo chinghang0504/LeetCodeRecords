@@ -554,5 +554,13 @@
 | 549 |  |  |  |  |
 | 550 |  |  |  |  |
 | 551 | Student Attendance Record I | Easy | [2024-04-25](./records/Question_551.md) | 100.00% |
+| 552 |  |  |  |  |
+| 553 |  |  |  |  |
+| 554 |  |  |  |  |
+| 555 |  |  |  |  |
+| 556 |  |  |  |  |
+| 557 |  |  |  |  |
+| 558 |  |  |  |  |
+| 559 | Maximum Depth of N-ary Tree | Easy | [2024-04-25](./records/Question_559.md) | 100.00% |
 
 <br>
