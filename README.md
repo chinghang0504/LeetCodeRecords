@@ -566,5 +566,8 @@
 | 561 | Array Partition | Easy | [2024-04-26](./records/Question_561.md) | 97.01% |
 | 562 |  |  |  |  |
 | 563 | Binary Tree Tilt | Easy | [2024-04-26](./records/Question_563.md) | 100.00% |
+| 564 |  |  |  |  |
+| 565 |  |  |  |  |
+| 566 | Reshape the Matrix | Easy | [2024-04-26](./records/Question_566.md) | 100.00% |
 
 <br>
