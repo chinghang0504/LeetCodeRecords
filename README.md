@@ -578,5 +578,7 @@
 | 573 |  |  |  |  |
 | 574 |  |  |  |  |
 | 575 | Distribute Candies | Easy | [2024-04-27](./records/Question_575.md) | 81.25% |
+| 576 |  |  |  |  |
+| 577 | Employee Bonus | Easy | [2024-04-27](./records/Question_577.md) | 91.30% |
 
 <br>
