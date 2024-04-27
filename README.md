@@ -589,5 +589,8 @@
 | 584 | Find Customer Referee | Easy | [2024-04-27](./records/Question_584.md) | 95.52% |
 | 585 |  |  |  |  |
 | 586 | Customer Placing the Largest Number of Orders | Easy | [2024-04-27](./records/Question_586.md) | 93.09% |
+| 587 |  |  |  |  |
+| 588 |  |  |  |  |
+| 589 | N-ary Tree Preorder Traversal | Easy | [2024-04-27](./records/Question_589.md) | 100.00% |
 
 <br>
