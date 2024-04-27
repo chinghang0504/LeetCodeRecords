@@ -1,6 +1,6 @@
 # [LeetCode Records](../README.md) - Question 577 Employee Bonus
 
-### Attempt 1: 
+### Attempt 1: Use left join
 ```py
 import pandas as pd
 

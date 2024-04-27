@@ -580,5 +580,12 @@
 | 575 | Distribute Candies | Easy | [2024-04-27](./records/Question_575.md) | 81.25% |
 | 576 |  |  |  |  |
 | 577 | Employee Bonus | Easy | [2024-04-27](./records/Question_577.md) | 91.30% |
+| 578 |  |  |  |  |
+| 579 |  |  |  |  |
+| 580 |  |  |  |  |
+| 581 |  |  |  |  |
+| 582 |  |  |  |  |
+| 583 |  |  |  |  |
+| 584 | Find Customer Referee | Easy | [2024-04-27](./records/Question_584.md) | 95.52% |
 
 <br>
