@@ -613,5 +613,8 @@
 | 608 |  |  |  |  |
 | 609 |  |  |  |  |
 | 610 | Triangle Judgement | Easy | [2024-04-28](./records/Question_610.md) | 78.55% |
+| 611 |  |  |  |  |
+| 612 |  |  |  |  |
+| 613 | Shortest Distance in a Line | Easy | [2024-04-28](./records/Question_613.md) | 93.88% |
 
 <br>
