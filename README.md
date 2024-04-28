@@ -593,5 +593,10 @@
 | 588 |  |  |  |  |
 | 589 | N-ary Tree Preorder Traversal | Easy | [2024-04-27](./records/Question_589.md) | 100.00% |
 | 590 | N-ary Tree Postorder Traversal | Easy | [2024-04-27](./records/Question_590.md) | 100.00% |
+| 591 |  |  |  |  |
+| 592 |  |  |  |  |
+| 593 |  |  |  |  |
+| 594 |  |  |  |  |
+| 595 | Big Countries | Easy | [2024-04-27](./records/Question_595.md) | 94.66% |
 
 <br>
