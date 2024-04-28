@@ -602,5 +602,9 @@
 | 597 | Friend Requests I: Overall Acceptance Rate | Easy | [2024-04-27](./records/Question_597.md) | 87.50% |
 | 598 | Range Addition II | Easy | [2024-04-27](./records/Question_598.md) | 100.00% |
 | 599 | Minimum Index Sum of Two Lists | Easy | [2024-04-27](./records/Question_599.md) | 87.30% |
+| 600 |  |  |  |  |
+| 601 |  |  |  |  |
+| 602 |  |  |  |  |
+| 603 | Consecutive Available Seats | Easy | [2024-04-27](./records/Question_603.md) | 78.64% |
 
 <br>
