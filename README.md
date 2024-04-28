@@ -610,5 +610,8 @@
 | 605 |  |  |  |  |
 | 606 |  |  |  |  |
 | 607 | Sales Person | Easy | [2024-04-28](./records/Question_607.md) | 68.96% |
+| 608 |  |  |  |  |
+| 609 |  |  |  |  |
+| 610 | Triangle Judgement | Easy | [2024-04-28](./records/Question_610.md) | 78.55% |
 
 <br>
