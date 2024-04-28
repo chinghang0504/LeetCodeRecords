@@ -598,5 +598,6 @@
 | 593 |  |  |  |  |
 | 594 |  |  |  |  |
 | 595 | Big Countries | Easy | [2024-04-27](./records/Question_595.md) | 94.66% |
+| 596 | Classes More Than 5 Students | Easy | [2024-04-27](./records/Question_596.md) |  |
 
 <br>
