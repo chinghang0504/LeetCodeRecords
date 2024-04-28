@@ -598,6 +598,7 @@
 | 593 |  |  |  |  |
 | 594 |  |  |  |  |
 | 595 | Big Countries | Easy | [2024-04-27](./records/Question_595.md) | 94.66% |
-| 596 | Classes More Than 5 Students | Easy | [2024-04-27](./records/Question_596.md) |  |
+| 596 | Classes More Than 5 Students | Easy | [2024-04-27](./records/Question_596.md) | 99.52% |
+| 597 | Friend Requests I: Overall Acceptance Rate | Easy | [2024-04-27](./records/Question_597.md) | 87.50% |
 
 <br>
