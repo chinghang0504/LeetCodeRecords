@@ -601,5 +601,6 @@
 | 596 | Classes More Than 5 Students | Easy | [2024-04-27](./records/Question_596.md) | 99.52% |
 | 597 | Friend Requests I: Overall Acceptance Rate | Easy | [2024-04-27](./records/Question_597.md) | 87.50% |
 | 598 | Range Addition II | Easy | [2024-04-27](./records/Question_598.md) | 100.00% |
+| 599 | Minimum Index Sum of Two Lists | Easy | [2024-04-27](./records/Question_599.md) | 87.30% |
 
 <br>
