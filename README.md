@@ -620,5 +620,7 @@
 | 615 |  |  |  |  |
 | 616 |  |  |  |  |
 | 617 | Merge Two Binary Trees | Easy | [2024-04-29](./records/Question_617.md) | 100.00% |
+| 618 |  |  |  |  |
+| 619 | Biggest Single Number | Easy | [2024-04-29](./records/Question_619.md) | 98.54% |
 
 <br>
