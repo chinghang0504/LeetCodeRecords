@@ -623,5 +623,12 @@
 | 618 |  |  |  |  |
 | 619 | Biggest Single Number | Easy | [2024-04-29](./records/Question_619.md) | 98.54% |
 | 620 | Not Boring Movies | Easy | [2024-04-29](./records/Question_620.md) | 90.37% |
+| 621 |  |  |  |  |
+| 622 |  |  |  |  |
+| 623 |  |  |  |  |
+| 624 |  |  |  |  |
+| 625 |  |  |  |  |
+| 626 |  |  |  |  |
+| 627 | Swap Salary | Easy | [2024-04-29](./records/Question_627.md) | 96.02% |
 
 <br>
