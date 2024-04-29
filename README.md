@@ -622,5 +622,6 @@
 | 617 | Merge Two Binary Trees | Easy | [2024-04-29](./records/Question_617.md) | 100.00% |
 | 618 |  |  |  |  |
 | 619 | Biggest Single Number | Easy | [2024-04-29](./records/Question_619.md) | 98.54% |
+| 620 | Not Boring Movies | Easy | [2024-04-29](./records/Question_620.md) | 90.37% |
 
 <br>
