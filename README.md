@@ -616,5 +616,9 @@
 | 611 |  |  |  |  |
 | 612 |  |  |  |  |
 | 613 | Shortest Distance in a Line | Easy | [2024-04-28](./records/Question_613.md) | 93.88% |
+| 614 |  |  |  |  |
+| 615 |  |  |  |  |
+| 616 |  |  |  |  |
+| 617 | Merge Two Binary Trees | Easy | [2024-04-29](./records/Question_617.md) | 100.00% |
 
 <br>
