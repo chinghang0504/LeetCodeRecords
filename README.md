@@ -656,5 +656,9 @@
 | 651 |  |  |  |  |
 | 652 |  |  |  |  |
 | 653 | Two Sum IV - Input is a BST | Easy | [2024-04-29](./records/Question_653.md) | 15.03% |
+| 654 |  |  |  |  |
+| 655 |  |  |  |  |
+| 656 |  |  |  |  |
+| 657 | Robot Return to Origin | Easy | [2024-04-29](./records/Question_657.md) | 97.65% |
 
 <br>
