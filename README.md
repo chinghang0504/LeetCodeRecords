@@ -640,5 +640,11 @@
 | 635 |  |  |  |  |
 | 636 |  |  |  |  |
 | 637 | Average of Levels in Binary Tree | Easy | [2024-04-29](./records/Question_637.md) | 96.00% |
+| 638 |  |  |  |  |
+| 639 |  |  |  |  |
+| 640 |  |  |  |  |
+| 641 |  |  |  |  |
+| 642 |  |  |  |  |
+| 643 | Maximum Average Subarray I | Easy | [2024-04-29](./records/Question_643.md) | 100.00% |
 
 <br>
