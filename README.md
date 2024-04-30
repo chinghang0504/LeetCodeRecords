@@ -706,5 +706,6 @@
 | 701 |  |  |  |  |
 | 702 |  |  |  |  |
 | 703 | Kth Largest Element in a Stream | Easy | [2024-04-30](./records/Question_703.md) | 6.19% |
+| 704 | Binary Search | Easy | [2024-04-30](./records/Question_704.md) | 100.00% |
 
 <br>
