@@ -646,5 +646,7 @@
 | 641 |  |  |  |  |
 | 642 |  |  |  |  |
 | 643 | Maximum Average Subarray I | Easy | [2024-04-29](./records/Question_643.md) | 100.00% |
+| 644 |  |  |  |  |
+| 645 | Set Mismatch | Easy | [2024-04-29](./records/Question_645.md) | 100.00% |
 
 <br>
