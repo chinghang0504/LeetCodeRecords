@@ -727,5 +727,9 @@
 | 722 |  |  |  |  |
 | 723 |  |  |  |  |
 | 724 | Find Pivot Index | Easy | 2024-05-01 | [Java](./records/Java/Question_724.md): 96.28% |
+| 725 |  |  |  |  |
+| 726 |  |  |  |  |
+| 727 |  |  |  |  |
+| 728 | Self Dividing Numbers | Easy | 2024-05-01 | [Java](./records/Java/Question_728.md): 69.86% |
 
 <br>
