@@ -720,5 +720,12 @@
 | 715 |  |  |  |  |
 | 716 |  |  |  |  |
 | 717 | 1-bit and 2-bit Characters | Easy | 2024-04-30 | [Java](./records/Java/Question_717.md): 100.00% |
+| 718 |  |  |  |  |
+| 719 |  |  |  |  |
+| 720 |  |  |  |  |
+| 721 |  |  |  |  |
+| 722 |  |  |  |  |
+| 723 |  |  |  |  |
+| 724 | Find Pivot Index | Easy | 2024-05-01 | [Java](./records/Java/Question_724.md): 96.28% |
 
 <br>
