@@ -747,5 +747,8 @@
 | 742 |  |  |  |  |
 | 743 |  |  |  |  |
 | 744 | Find Smallest Letter Greater Than Target | Easy | 2024-05-01 | [Java](./records/Java/Question_744.md): 100.00% |
+| 745 |  |  |  |  |
+| 746 |  |  |  |  |
+| 747 | Largest Number At Least Twice of Others | Easy | 2024-05-02 | [Java](./records/Java/Question_747.md): 100.00% |
 
 <br>
