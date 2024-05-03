@@ -763,5 +763,16 @@
 | 758 |  |  |  |  |
 | 759 |  |  |  |  |
 | 760 | Find Anagram Mappings | Easy | 2024-05-02 | [Java](./records/Java/Question_760.md): 98.80% |
+| 761 |  |  |  |  |
+| 762 |  |  |  |  |
+| 763 |  |  |  |  |
+| 764 |  |  |  |  |
+| 765 |  |  |  |  |
+| 766 |  |  |  |  |
+| 767 |  |  |  |  |
+| 768 |  |  |  |  |
+| 769 |  |  |  |  |
+| 770 |  |  |  |  |
+| 771 | Jewels and Stones | Easy | 2024-05-02 | [Java](./records/Java/Question_771.md): 100.00% |
 
 <br>
