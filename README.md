@@ -750,5 +750,18 @@
 | 745 |  |  |  |  |
 | 746 |  |  |  |  |
 | 747 | Largest Number At Least Twice of Others | Easy | 2024-05-02 | [Java](./records/Java/Question_747.md): 100.00% |
+| 748 |  |  |  |  |
+| 749 |  |  |  |  |
+| 750 |  |  |  |  |
+| 751 |  |  |  |  |
+| 752 |  |  |  |  |
+| 753 |  |  |  |  |
+| 754 |  |  |  |  |
+| 755 |  |  |  |  |
+| 756 |  |  |  |  |
+| 757 |  |  |  |  |
+| 758 |  |  |  |  |
+| 759 |  |  |  |  |
+| 760 | Find Anagram Mappings | Easy | 2024-05-02 | [Java](./records/Java/Question_760.md): 98.80% |
 
 <br>
