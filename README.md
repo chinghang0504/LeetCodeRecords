@@ -833,5 +833,7 @@
 | 828 |  |  |  |  |
 | 829 |  |  |  |  |
 | 830 | Positions of Large Groups | Easy | 2024-05-04 | [Java](./records/Java/Question_830.md): 100.00% |
+| 831 |  |  |  |  |
+| 832 | Flipping an Image | Easy | 2024-05-04 | [Java](./records/Java/Question_832.md): 100.00% |
 
 <br>
