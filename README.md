@@ -822,5 +822,16 @@
 | 817 |  |  |  |  |
 | 818 |  |  |  |  |
 | 819 | Most Common Word | Easy | 2024-05-03 | [Java](./records/Java/Question_819.md): 78.66% |
+| 820 |  |  |  |  |
+| 821 |  |  |  |  |
+| 822 |  |  |  |  |
+| 823 |  |  |  |  |
+| 824 |  |  |  |  |
+| 825 |  |  |  |  |
+| 826 |  |  |  |  |
+| 827 |  |  |  |  |
+| 828 |  |  |  |  |
+| 829 |  |  |  |  |
+| 830 | Positions of Large Groups | Easy | 2024-05-04 | [Java](./records/Java/Question_830.md): 100.00% |
 
 <br>
