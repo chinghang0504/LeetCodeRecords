@@ -879,5 +879,12 @@
 | 874 |  |  |  |  |
 | 875 |  |  |  |  |
 | 876 | Middle of the Linked List | Easy | 2024-05-06 | [Java](./records/Java/Question_876.md): 100.00% |
+| 877 |  |  |  |  |
+| 878 |  |  |  |  |
+| 879 |  |  |  |  |
+| 880 |  |  |  |  |
+| 881 |  |  |  |  |
+| 882 |  |  |  |  |
+| 883 | Projection Area of 3D Shapes | Easy | 2024-05-06 | [Java](./records/Java/Question_883.md): 89.13% |
 
 <br>
