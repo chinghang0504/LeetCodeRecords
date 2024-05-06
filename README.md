@@ -875,5 +875,9 @@
 | 870 |  |  |  |  |
 | 871 |  |  |  |  |
 | 872 | Leaf-Similar Trees | Easy | 2024-05-06 | [Java](./records/Java/Question_872.md): 100.00% |
+| 873 |  |  |  |  |
+| 874 |  |  |  |  |
+| 875 |  |  |  |  |
+| 876 | Middle of the Linked List | Easy | 2024-05-06 | [Java](./records/Java/Question_876.md): 100.00% |
 
 <br>
