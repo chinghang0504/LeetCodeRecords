@@ -871,5 +871,9 @@
 | 866 |  |  |  |  |
 | 867 | Transpose Matrix | Easy | 2024-05-05 | [Java](./records/Java/Question_867.md): 100.00% |
 | 868 | Binary Gap | Easy | 2024-05-05 | [Java](./records/Java/Question_868.md): 100.00% |
+| 869 |  |  |  |  |
+| 870 |  |  |  |  |
+| 871 |  |  |  |  |
+| 872 | Leaf-Similar Trees | Easy | 2024-05-06 | [Java](./records/Java/Question_872.md): 100.00% |
 
 <br>
