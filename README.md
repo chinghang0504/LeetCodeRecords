@@ -887,5 +887,17 @@
 | 882 |  |  |  |  |
 | 883 | Projection Area of 3D Shapes | Easy | 2024-05-06 | [Java](./records/Java/Question_883.md): 89.13% |
 | 884 | Uncommon Words from Two Sentences | Easy | 2024-05-06 | [Java](./records/Java/Question_884.md): 18.45% |
+| 885 |  |  |  |  |
+| 886 |  |  |  |  |
+| 887 |  |  |  |  |
+| 888 |  |  |  |  |
+| 889 |  |  |  |  |
+| 890 |  |  |  |  |
+| 891 |  |  |  |  |
+| 892 |  |  |  |  |
+| 893 |  |  |  |  |
+| 894 |  |  |  |  |
+| 895 |  |  |  |  |
+| 896 | Monotonic Array | Easy | 2024-05-06 | [Java](./records/Java/Question_896.md): 99.71% |
 
 <br>
