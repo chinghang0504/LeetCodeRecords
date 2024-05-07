@@ -899,5 +899,6 @@
 | 894 |  |  |  |  |
 | 895 |  |  |  |  |
 | 896 | Monotonic Array | Easy | 2024-05-06 | [Java](./records/Java/Question_896.md): 99.71% |
+| 897 | Increasing Order Search Tree | Easy | 2024-05-06 | [Java](./records/Java/Question_897.md): 100.00% |
 
 <br>
