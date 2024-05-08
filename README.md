@@ -941,5 +941,11 @@
 | 936 |  |  |  |  |
 | 937 |  |  |  |  |
 | 938 | Range Sum of BST | Easy | 2024-05-07 | [Java](./records/Java/Question_938.md): 100.00% |
+| 939 |  |  |  |  |
+| 940 |  |  |  |  |
+| 941 |  |  |  |  |
+| 942 |  |  |  |  |
+| 943 |  |  |  |  |
+| 944 | Delete Columns to Make Sorted | Easy | 2024-05-07 | [Java](./records/Java/Question_944.md): 97.60% |
 
 <br>
