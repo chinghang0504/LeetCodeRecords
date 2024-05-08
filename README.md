@@ -371,7 +371,7 @@
 | 366 |  |  |  |  |
 | 367 | Valid Perfect Square | Easy | 2024-04-16 | [Java](./records/Java/Question_367.md): 100.00% |
 | 368 |  |  |  |  |
-| 369 |  |  |  |  |
+| 369 | Plus One Linked List | Medium | 2024-05-08 | [Java](./records/Java/Question_369.md): 100.00% |
 | 370 |  |  |  |  |
 | 371 |  |  |  |  |
 | 372 |  |  |  |  |
