@@ -900,5 +900,16 @@
 | 895 |  |  |  |  |
 | 896 | Monotonic Array | Easy | 2024-05-06 | [Java](./records/Java/Question_896.md): 99.71% |
 | 897 | Increasing Order Search Tree | Easy | 2024-05-06 | [Java](./records/Java/Question_897.md): 100.00% |
+| 898 |  |  |  |  |
+| 899 |  |  |  |  |
+| 900 |  |  |  |  |
+| 901 |  |  |  |  |
+| 902 |  |  |  |  |
+| 903 |  |  |  |  |
+| 904 |  |  |  |  |
+| 905 |  |  |  |  |
+| 906 |  |  |  |  |
+| 907 |  |  |  |  |
+| 908 | Smallest Range I | Easy | 2024-05-07 | [Java](./records/Java/Question_908.md): 99.13% |
 
 <br>
