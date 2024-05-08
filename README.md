@@ -357,7 +357,7 @@
 | 352 |  |  |  |  |
 | 353 |  |  |  |  |
 | 354 |  |  |  |  |
-| 355 |  |  |  |  |
+| 355 | Design Twitter | Medium | 2024-05-08 | [Java](./records/Java/Question_355.md): 89.74% |
 | 356 |  |  |  |  |
 | 357 | Count Numbers with Unique Digits | Medium | 2024-04-16 | [Java](./records/Java/Question_357.md): 100.00% |
 | 358 |  |  |  |  |
