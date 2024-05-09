@@ -381,7 +381,7 @@
 | 376 |  |  |  |  |
 | 377 |  |  |  |  |
 | 378 |  |  |  |  |
-| 379 |  |  |  |  |
+| 379 | Design Phone Directory | Medium | 2024-05-09 | [Java](./records/Java/Question_379.md): 54.59% |
 | 380 |  |  |  |  |
 | 381 |  |  |  |  |
 | 382 | Linked List Random Node | Medium | 2024-04-15 | [Java](./records/Java/Question_382.md): 92.43% |
