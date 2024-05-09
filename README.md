@@ -364,7 +364,7 @@
 | 359 | Logger Rate Limiter | Easy | 2024-04-23 | [Java](./records/Java/Question_359.md): 99.52% |
 | 360 |  |  |  |  |
 | 361 |  |  |  |  |
-| 362 |  |  |  |  |
+| 362 | Design Hit Counter | Medium | 2024-05-09 | [Java](./records/Java/Question_362.md): 100.00% |
 | 363 |  |  |  |  |
 | 364 |  |  |  |  |
 | 365 |  |  |  |  |
