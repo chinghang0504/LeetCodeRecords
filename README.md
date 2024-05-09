@@ -366,7 +366,7 @@
 | 361 |  |  |  |  |
 | 362 | Design Hit Counter | Medium | 2024-05-09 | [Java](./records/Java/Question_362.md): 100.00% |
 | 363 |  |  |  |  |
-| 364 |  |  |  |  |
+| 364 | Nested List Weight Sum II | Medium | 2024-05-09 | [Java](./records/Java/Question_364.md): 51.43% |
 | 365 |  |  |  |  |
 | 366 |  |  |  |  |
 | 367 | Valid Perfect Square | Easy | 2024-04-16 | [Java](./records/Java/Question_367.md): 100.00% |
