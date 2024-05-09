@@ -368,7 +368,7 @@
 | 363 |  |  |  |  |
 | 364 | Nested List Weight Sum II | Medium | 2024-05-09 | [Java](./records/Java/Question_364.md): 51.43% |
 | 365 |  |  |  |  |
-| 366 |  |  |  |  |
+| 366 | Find Leaves of Binary Tree | Medium | 2024-05-09 | [Java](./records/Java/Question_366.md): 100.00% |
 | 367 | Valid Perfect Square | Easy | 2024-04-16 | [Java](./records/Java/Question_367.md): 100.00% |
 | 368 |  |  |  |  |
 | 369 | Plus One Linked List | Medium | 2024-05-08 | [Java](./records/Java/Question_369.md): 100.00% |
