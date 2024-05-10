@@ -355,7 +355,7 @@
 | 350 | Intersection of Two Arrays II | Easy | 2024-04-05 | [Java](./records/Java/Question_350.md): 100.00% |
 | 351 |  |  |  |  |
 | 352 |  |  |  |  |
-| 353 |  |  |  |  |
+| 353 | Design Snake Game | Medium | 2024-05-10 | [Java](./records/Java/Question_353.md): 48.79% |
 | 354 |  |  |  |  |
 | 355 | Design Twitter | Medium | 2024-05-08 | [Java](./records/Java/Question_355.md): 89.74% |
 | 356 |  |  |  |  |
