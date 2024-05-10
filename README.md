@@ -341,7 +341,7 @@
 | 336 |  |  |  |  |
 | 337 |  |  |  |  |
 | 338 | Counting Bits | Easy | 2024-04-05 | [Java](./records/Java/Question_338.md): 16.97% |
-| 339 |  |  |  |  |
+| 339 | Nested List Weight Sum | Medium | 2024-05-09 | [Java](./records/Java/Question_339.md): 100.00% |
 | 340 |  |  |  |  |
 | 341 |  |  |  |  |
 | 342 | Power of Four | Easy | 2024-04-05 | [Java](./records/Java/Question_342.md): 100.00% |
