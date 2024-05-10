@@ -286,7 +286,7 @@
 | 281 | Zigzag Iterator | Medium | 2024-05-09 | [Java](./records/Java/Question_281.md): 42.97% |
 | 282 |  |  |  |  |
 | 283 | Move Zeroes | Easy | 2024-04-05 | [Java](./records/Java/Question_283.md): 100.00% |
-| 284 |  |  |  |  |
+| 284 | Peeking Iterator | Medium | 2024-05-09 | [Java](./records/Java/Question_284.md): 100.00% |
 | 285 |  |  |  |  |
 | 286 |  |  |  |  |
 | 287 | Find the Duplicate Number | Medium | 2024-04-03 | [Java](./records/Java/Question_287.md): 100.00% |
