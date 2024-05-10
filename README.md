@@ -343,7 +343,7 @@
 | 338 | Counting Bits | Easy | 2024-04-05 | [Java](./records/Java/Question_338.md): 16.97% |
 | 339 | Nested List Weight Sum | Medium | 2024-05-09 | [Java](./records/Java/Question_339.md): 100.00% |
 | 340 |  |  |  |  |
-| 341 |  |  |  |  |
+| 341 | Flatten Nested List Iterator | Medium | 2024-05-09 | [Java](./records/Java/Question_341.md): 100.00% |
 | 342 | Power of Four | Easy | 2024-04-05 | [Java](./records/Java/Question_342.md): 100.00% |
 | 343 | Integer Break | Medium | 2024-04-16 | [Java](./records/Java/Question_343.md): 45.20% |
 | 344 | Reverse String | Easy | 2024-04-05 | [Java](./records/Java/Question_344.md): 100.00% |
