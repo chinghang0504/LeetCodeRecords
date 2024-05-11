@@ -313,7 +313,7 @@
 | 308 |  |  |  |  |
 | 309 |  |  |  |  |
 | 310 |  |  |  |  |
-| 311 |  |  |  |  |
+| 311 | Sparse Matrix Multiplication | Medium | 2024-05-10 | [Java](./records/Java/Question_311.md): 23.80% |
 | 312 |  |  |  |  |
 | 313 |  |  |  |  |
 | 314 |  |  |  |  |
