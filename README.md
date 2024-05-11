@@ -282,7 +282,7 @@
 | 277 |  |  |  |  |
 | 278 | First Bad Version | Easy | 2024-04-16 | [Java](./records/Java/Question_278.md): 75.22% |
 | 279 |  |  |  |  |
-| 280 |  |  |  |  |
+| 280 | Wiggle Sort | Medium | 2024-05-10 | [Java](./records/Java/Question_280.md): 37.74% |
 | 281 | Zigzag Iterator | Medium | 2024-05-09 | [Java](./records/Java/Question_281.md): 42.97% |
 | 282 |  |  |  |  |
 | 283 | Move Zeroes | Easy | 2024-04-05 | [Java](./records/Java/Question_283.md): 100.00% |
