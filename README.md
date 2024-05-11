@@ -277,7 +277,7 @@
 | 272 |  |  |  |  |
 | 273 |  |  |  |  |
 | 274 | H-Index | Medium | 2024-05-10 | [Java](./records/Java/Question_274.md): 66.47% |
-| 275 |  |  |  |  |
+| 275 | H-Index II | Medium | 2024-05-10 | [Java](./records/Java/Question_275.md): 100.00% |
 | 276 |  |  |  |  |
 | 277 |  |  |  |  |
 | 278 | First Bad Version | Easy | 2024-04-16 | [Java](./records/Java/Question_278.md): 75.22% |
