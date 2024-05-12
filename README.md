@@ -785,7 +785,7 @@
 | 780 |  |  |  |  |
 | 781 |  |  |  |  |
 | 782 |  |  |  |  |
-| 783 |  |  |  |  |
+| 783 | Minimum Distance Between BST Nodes | Easy | 2024-05-12 | [Java](./records/Java/Question_783.md): 100.00% |
 | 784 |  |  |  |  |
 | 785 |  |  |  |  |
 | 786 |  |  |  |  |
