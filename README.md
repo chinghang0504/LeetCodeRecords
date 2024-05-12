@@ -532,7 +532,7 @@
 | 527 |  |  |  |  |
 | 528 |  |  |  |  |
 | 529 |  |  |  |  |
-| 530 |  |  |  |  |
+| 530 | Minimum Absolute Difference in BST | Easy | 2024-05-12 | [Java](./records/Java/Question_530.md): 100.00% |
 | 531 |  |  |  |  |
 | 532 |  |  |  |  |
 | 533 |  |  |  |  |
