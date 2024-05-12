@@ -1002,5 +1002,15 @@
 | 997 |  |  |  |  |
 | 998 |  |  |  |  |
 | 999 | Available Captures for Rook | Easy | 2024-05-11 | [Java](./records/Java/Question_999.md): 100.00% |
+| 1000 |  |  |  |  |
+| 1001 |  |  |  |  |
+| 1002 |  |  |  |  |
+| 1003 |  |  |  |  |
+| 1004 |  |  |  |  |
+| 1005 |  |  |  |  |
+| 1006 |  |  |  |  |
+| 1007 |  |  |  |  |
+| 1008 |  |  |  |  |
+| 1009 | Complement of Base 10 Integer | Easy | 2024-05-11 | [Java](./records/Java/Question_1009.md): 100.00% |
 
 <br>
