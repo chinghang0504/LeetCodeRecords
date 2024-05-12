@@ -996,5 +996,11 @@
 | 991 |  |  |  |  |
 | 992 |  |  |  |  |
 | 993 | Cousins in Binary Tree | Easy | 2024-05-09 | [Java](./records/Java/Question_993.md): 100.00% |
+| 994 |  |  |  |  |
+| 995 |  |  |  |  |
+| 996 |  |  |  |  |
+| 997 |  |  |  |  |
+| 998 |  |  |  |  |
+| 999 | Available Captures for Rook | Easy | 2024-05-11 | [Java](./records/Java/Question_999.md): 100.00% |
 
 <br>
