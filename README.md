@@ -695,7 +695,7 @@
 | 690 |  |  |  |  |
 | 691 |  |  |  |  |
 | 692 |  |  |  |  |
-| 693 |  |  |  |  |
+| 693 | Binary Number with Alternating Bits | Easy | 2024-05-12 | [Java](./records/Java/Question_693.md): 100.00% |
 | 694 |  |  |  |  |
 | 695 |  |  |  |  |
 | 696 |  |  |  |  |
