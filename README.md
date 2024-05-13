@@ -363,7 +363,7 @@
 | 358 |  |  |  |  |
 | 359 | Logger Rate Limiter | Easy | 2024-04-23 | [Java](./records/Java/Question_359.md): 99.52% |
 | 360 | Sort Transformed Array | Medium | 2024-05-13 | [Java](./records/Java/Question_360.md): 40.67% |
-| 361 |  |  |  |  |
+| 361 | Bomb Enemy | Medium | 2024-05-13 | [Java](./records/Java/Question_361.md): 30.87% |
 | 362 | Design Hit Counter | Medium | 2024-05-09 | [Java](./records/Java/Question_362.md): 100.00% |
 | 363 |  |  |  |  |
 | 364 | Nested List Weight Sum II | Medium | 2024-05-09 | [Java](./records/Java/Question_364.md): 51.43% |
