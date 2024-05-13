@@ -350,7 +350,7 @@
 | 345 | Reverse Vowels of a String | Easy | 2024-04-05 | [Java](./records/Java/Question_345.md): 100.00% |
 | 346 | Moving Average from Data Stream | Easy | 2024-04-23 | [Java](./records/Java/Question_346.md): 95.47% |
 | 347 | Top K Frequent Elements | Medium | 2024-04-16 | [Java](./records/Java/Question_347.md): 47.86% |
-| 348 |  |  |  |  |
+| 348 | Design Tic-Tac-Toe | Medium | 2024-05-13 | [Java](./records/Java/Question_348.md): 99.85% |
 | 349 | Intersection of Two Arrays | Easy | 2024-04-05 | [Java](./records/Java/Question_349.md): 100.00% |
 | 350 | Intersection of Two Arrays II | Easy | 2024-04-05 | [Java](./records/Java/Question_350.md): 100.00% |
 | 351 |  |  |  |  |
