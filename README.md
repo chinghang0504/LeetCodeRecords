@@ -508,7 +508,7 @@
 | 503 |  |  |  |  |
 | 504 | Base 7 | Easy | 2024-04-24 | [Java](./records/Java/Question_504.md): 100.00% |
 | 505 |  |  |  |  |
-| 506 |  |  |  |  |
+| 506 | Relative Ranks | Easy | 2024-05-14 | [Java](./records/Java/Question_506.md): 73.67% |
 | 507 | Perfect Number | Easy | 2024-04-24 | [Java](./records/Java/Question_507.md): 76.10% |
 | 508 |  |  |  |  |
 | 509 | Fibonacci Number | Easy | 2024-04-24 | [Java](./records/Java/Question_509.md): 100.00% |
