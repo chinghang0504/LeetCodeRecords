@@ -963,7 +963,7 @@
 | 958 |  |  |  |  |
 | 959 |  |  |  |  |
 | 960 |  |  |  |  |
-| 961 |  |  |  |  |
+| 961 | N-Repeated Element in Size 2N Array | Easy | 2024-05-15 | [Java](./records/Java/Question_961.md): 46.73% |
 | 962 |  |  |  |  |
 | 963 |  |  |  |  |
 | 964 |  |  |  |  |
