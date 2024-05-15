@@ -907,7 +907,7 @@
 | 902 |  |  |  |  |
 | 903 |  |  |  |  |
 | 904 |  |  |  |  |
-| 905 |  |  |  |  |
+| 905 | Sort Array By Parity | Easy | 2024-05-15 | [Java](./records/Java/Question_905.md): 58.06% |
 | 906 |  |  |  |  |
 | 907 |  |  |  |  |
 | 908 | Smallest Range I | Easy | 2024-05-07 | [Java](./records/Java/Question_908.md): 99.13% |
