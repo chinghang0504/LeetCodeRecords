@@ -1023,7 +1023,7 @@
 | 1018 |  |  |  |  |
 | 1019 |  |  |  |  |
 | 1020 |  |  |  |  |
-| 1021 |  |  |  |  |
+| 1021 | Remove Outermost Parentheses | Easy | 2024-05-15 | [Java](./records/Java/Question_1021.md): 99.52% |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | 2024-05-11 | [Java](./records/Java/Question_1022.md): 100.00% |
 
 <br>
