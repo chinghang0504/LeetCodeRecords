@@ -823,7 +823,7 @@
 | 818 |  |  |  |  |
 | 819 | Most Common Word | Easy | 2024-05-03 | [Java](./records/Java/Question_819.md): 78.66% |
 | 820 |  |  |  |  |
-| 821 |  |  |  |  |
+| 821 | Shortest Distance to a Character | Easy | 2024-05-15 | [Java](./records/Java/Question_821.md): 98.40% |
 | 822 |  |  |  |  |
 | 823 |  |  |  |  |
 | 824 |  |  |  |  |
