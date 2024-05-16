@@ -431,7 +431,7 @@
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 2024-05-08 | [Java](./records/Java/Question_426.md): 100.00% |
 | 427 |  |  |  |  |
 | 428 |  |  |  |  |
-| 429 |  |  |  |  |
+| 429 | N-ary Tree Level Order Traversal | Medium | 2024-05-15 | [Java](./records/Java/Question_429.md): 77.28% |
 | 430 |  |  |  |  |
 | 431 |  |  |  |  |
 | 432 |  |  |  |  |
