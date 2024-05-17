@@ -1088,5 +1088,9 @@
 | 1083 |  |  |  |  |
 | 1084 |  |  |  |  |
 | 1085 | Sum of Digits in the Minimum Number | Easy | 2024-05-16 | [Java](./records/Java/Question_1085.md): 100.00% |
+| 1086 |  |  |  |  |
+| 1087 |  |  |  |  |
+| 1088 |  |  |  |  |
+| 1089 | Duplicate Zeros | Easy | 2024-05-16 | [Java](./records/Java/Question_1089.md): 97.21% |
 
 <br>
