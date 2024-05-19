@@ -1070,8 +1070,8 @@
 | 1065 |  |  |  |  |
 | 1066 |  |  |  |  |
 | 1067 |  |  |  |  |
-| 1068 | Product Sales Analysis I | Easy | 2024-05-17 | [Java](./records/Java/Question_1068.md): 98.06% |
-| 1069 | Product Sales Analysis II | Easy | 2024-05-17 | [Java](./records/Java/Question_1069.md): 93.75% |
+| 1068 | Product Sales Analysis I | Easy | 2024-05-17 | [Pandas](./records/Pandas/Question_1068.md): 98.06% |
+| 1069 | Product Sales Analysis II | Easy | 2024-05-17 | [Pandas](./records/Pandas/Question_1069.md): 93.75% |
 | 1070 |  |  |  |  |
 | 1071 |  |  |  |  |
 | 1072 |  |  |  |  |
