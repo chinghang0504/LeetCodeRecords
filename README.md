@@ -1078,7 +1078,7 @@
 | 1073 |  |  |  |  |
 | 1074 |  |  |  |  |
 | 1075 | Project Employees I | Easy | 2024-05-18 | [Pandas](./records/Pandas/Question_1075.md): 99.46% |
-| 1076 |  |  |  |  |
+| 1076 | Project Employees II | Easy | 2024-05-18 | [Pandas](./records/Pandas/Question_1076.md): 96.67% |
 | 1077 |  |  |  |  |
 | 1078 |  |  |  |  |
 | 1079 |  |  |  |  |
