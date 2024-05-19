@@ -1084,7 +1084,7 @@
 | 1079 |  |  |  |  |
 | 1080 |  |  |  |  |
 | 1081 |  |  |  |  |
-| 1082 |  |  |  |  |
+| 1082 | Sales Analysis I | Easy | 2024-05-18 | [Pandas](./records/Pandas/Question_1082.md): 96.00% |
 | 1083 |  |  |  |  |
 | 1084 |  |  |  |  |
 | 1085 | Sum of Digits in the Minimum Number | Easy | 2024-05-16 | [Java](./records/Java/Question_1085.md): 100.00% |
