@@ -536,7 +536,7 @@
 | 531 |  |  |  |  |
 | 532 |  |  |  |  |
 | 533 |  |  |  |  |
-| 534 |  |  |  |  |
+| 534 | Game Play Analysis III | Medium | 2024-05-18 | [Pandas](./records/Pandas/Question_534.md): 99.12% |
 | 535 |  |  |  |  |
 | 536 |  |  |  |  |
 | 537 |  |  |  |  |
