@@ -1100,7 +1100,7 @@
 | 1095 |  |  |  |  |
 | 1096 |  |  |  |  |
 | 1097 |  |  |  |  |
-| 1098 |  |  |  |  |
+| 1098 | Unpopular Books | Medium | 2024-05-19 | [Pandas](./records/Pandas/Question_1098.md): 92.86% |
 | 1099 | Two Sum Less Than K | Easy | 2024-05-16 | [Java](./records/Java/Question_1099.md): 37.62% |
 | 1100 |  |  |  |  |
 | 1101 |  |  |  |  |
