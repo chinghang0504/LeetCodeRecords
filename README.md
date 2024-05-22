@@ -1168,5 +1168,13 @@
 | 1163 |  |  |  |  |
 | 1164 |  |  |  |  |
 | 1165 | Single-Row Keyboard | Easy | 2024-05-21 | [Java](./records/Java/Question_1165.md): 56.02% |
+| 1166 |  |  |  |  |
+| 1167 |  |  |  |  |
+| 1168 |  |  |  |  |
+| 1169 |  |  |  |  |
+| 1170 |  |  |  |  |
+| 1171 |  |  |  |  |
+| 1172 |  |  |  |  |
+| 1173 | Immediate Food Delivery I | Easy | 2024-05-21 | [Pandas](./records/Pandas/Question_1173.md): 97.46% |
 
 <br>
