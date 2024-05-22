@@ -1176,5 +1176,6 @@
 | 1171 |  |  |  |  |
 | 1172 |  |  |  |  |
 | 1173 | Immediate Food Delivery I | Easy | 2024-05-21 | [Pandas](./records/Pandas/Question_1173.md): 97.46% |
+| 1174 | Immediate Food Delivery II | Medium | 2024-05-21 | [Pandas](./records/Pandas/Question_1174.md): 57.04% |
 
 <br>
