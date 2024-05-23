@@ -1203,5 +1203,12 @@
 | 1198 |  |  |  |  |
 | 1199 |  |  |  |  |
 | 1200 | Minimum Absolute Difference | Easy | 2024-05-22 | [Java](./records/Java/Question_1200.md): 68.41% |
+| 1201 |  |  |  |  |
+| 1202 |  |  |  |  |
+| 1203 |  |  |  |  |
+| 1204 |  |  |  |  |
+| 1205 |  |  |  |  |
+| 1206 |  |  |  |  |
+| 1207 | Unique Number of Occurrences | Easy | 2024-05-22 | [Java](./records/Java/Question_1207.md): 96.02% |
 
 <br>
