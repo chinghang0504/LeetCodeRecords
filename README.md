@@ -1210,5 +1210,11 @@
 | 1205 |  |  |  |  |
 | 1206 |  |  |  |  |
 | 1207 | Unique Number of Occurrences | Easy | 2024-05-22 | [Java](./records/Java/Question_1207.md): 96.02% |
+| 1208 |  |  |  |  |
+| 1209 |  |  |  |  |
+| 1210 |  |  |  |  |
+| 1211 |  |  |  |  |
+| 1212 |  |  |  |  |
+| 1213 | Intersection of Three Sorted Arrays | Easy | 2024-05-22 | [Java](./records/Java/Question_1213.md): 16.96% |
 
 <br>
