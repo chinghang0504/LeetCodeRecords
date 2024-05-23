@@ -1216,5 +1216,20 @@
 | 1211 |  |  |  |  |
 | 1212 |  |  |  |  |
 | 1213 | Intersection of Three Sorted Arrays | Easy | 2024-05-22 | [Java](./records/Java/Question_1213.md): 16.96% |
+| 1214 |  |  |  |  |
+| 1215 |  |  |  |  |
+| 1216 |  |  |  |  |
+| 1217 |  |  |  |  |
+| 1218 |  |  |  |  |
+| 1219 |  |  |  |  |
+| 1220 |  |  |  |  |
+| 1221 |  |  |  |  |
+| 1222 |  |  |  |  |
+| 1223 |  |  |  |  |
+| 1224 |  |  |  |  |
+| 1225 |  |  |  |  |
+| 1226 |  |  |  |  |
+| 1227 |  |  |  |  |
+| 1228 | Missing Number In Arithmetic Progression | Easy | 2024-05-23 | [Java](./records/Java/Question_1228.md): 100.00% |
 
 <br>
