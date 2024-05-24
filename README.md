@@ -1244,5 +1244,16 @@
 | 1239 |  |  |  |  |
 | 1240 |  |  |  |  |
 | 1241 | Number of Comments per Post | Easy | 2024-05-23 | [Pandas](./records/Pandas/Question_1241.md): 99.47% |
+| 1242 |  |  |  |  |
+| 1243 |  |  |  |  |
+| 1244 |  |  |  |  |
+| 1245 |  |  |  |  |
+| 1246 |  |  |  |  |
+| 1247 |  |  |  |  |
+| 1248 |  |  |  |  |
+| 1249 |  |  |  |  |
+| 1250 |  |  |  |  |
+| 1251 |  |  |  |  |
+| 1252 | Cells with Odd Values in a Matrix | Easy | 2024-05-23 | [Java](./records/Java/Question_1252.md): 91.10% |
 
 <br>
