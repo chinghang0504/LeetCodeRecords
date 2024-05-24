@@ -1231,5 +1231,18 @@
 | 1226 |  |  |  |  |
 | 1227 |  |  |  |  |
 | 1228 | Missing Number In Arithmetic Progression | Easy | 2024-05-23 | [Java](./records/Java/Question_1228.md): 100.00% |
+| 1229 |  |  |  |  |
+| 1230 |  |  |  |  |
+| 1231 |  |  |  |  |
+| 1232 |  |  |  |  |
+| 1233 |  |  |  |  |
+| 1234 |  |  |  |  |
+| 1235 |  |  |  |  |
+| 1236 |  |  |  |  |
+| 1237 |  |  |  |  |
+| 1238 |  |  |  |  |
+| 1239 |  |  |  |  |
+| 1240 |  |  |  |  |
+| 1241 | Number of Comments per Post | Easy | 2024-05-23 | [Pandas](./records/Pandas/Question_1241.md): 99.47% |
 
 <br>
