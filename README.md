@@ -1284,6 +1284,14 @@
 | 1279 |  |  |  |  |
 | 1280 |  |  |  |  |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | 2024-05-24 | [Java](./records/Java/Question_1281.md): 100.00% |
-
+| 1282 |  |  |  |  |
+| 1283 |  |  |  |  |
+| 1284 |  |  |  |  |
+| 1285 |  |  |  |  |
+| 1286 |  |  |  |  |
+| 1287 |  |  |  |  |
+| 1288 |  |  |  |  |
+| 1289 |  |  |  |  |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | 2024-05-24 | [Java](./records/Java/Question_1290.md): 100.00% |
 
 <br>
