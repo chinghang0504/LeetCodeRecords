@@ -1302,5 +1302,9 @@
 | 1297 |  |  |  |  |
 | 1298 |  |  |  |  |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | 2024-05-25 | [Java](./records/Java/Question_1299.md): 100.00% |
+| 1300 |  |  |  |  |
+| 1301 |  |  |  |  |
+| 1302 |  |  |  |  |
+| 1303 | Find the Team Size | Easy | 2024-05-25 | [Pandas](./records/Pandas/Question_1303.md): 96.43% |
 
 <br>
