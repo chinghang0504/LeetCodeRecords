@@ -1293,5 +1293,9 @@
 | 1288 |  |  |  |  |
 | 1289 |  |  |  |  |
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | 2024-05-24 | [Java](./records/Java/Question_1290.md): 100.00% |
+| 1291 |  |  |  |  |
+| 1292 |  |  |  |  |
+| 1293 |  |  |  |  |
+| 1294 | Weather Type in Each Country | Easy | 2024-05-25 | [Pandas](./records/Pandas/Question_1294.md): 100.00% |
 
 <br>
