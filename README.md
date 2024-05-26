@@ -1312,5 +1312,9 @@
 | 1307 |  |  |  |  |
 | 1308 |  |  |  |  |
 | 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | 2024-05-25 | [Java](./records/Java/Question_1309.md): 100.00% |
+| 1310 |  |  |  |  |
+| 1311 |  |  |  |  |
+| 1312 |  |  |  |  |
+| 1313 | Decompress Run-Length Encoded List | Easy | 2024-05-25 | [Java](./records/Java/Question_1313.md): 75.45% |
 
 <br>
