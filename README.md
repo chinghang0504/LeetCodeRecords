@@ -1297,5 +1297,6 @@
 | 1292 |  |  |  |  |
 | 1293 |  |  |  |  |
 | 1294 | Weather Type in Each Country | Easy | 2024-05-25 | [Pandas](./records/Pandas/Question_1294.md): 100.00% |
+| 1295 | Find Numbers with Even Number of Digits | Easy | 2024-05-25 | [Java](./records/Java/Question_1295.md): 99.00% |
 
 <br>
