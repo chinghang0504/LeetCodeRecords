@@ -1330,5 +1330,9 @@
 | 1325 |  |  |  |  |
 | 1326 |  |  |  |  |
 | 1327 | List the Products Ordered in a Period | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1327.md): 93.49% |
+| 1328 |  |  |  |  |
+| 1329 |  |  |  |  |
+| 1330 |  |  |  |  |
+| 1331 | Rank Transform of an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1331.md): 94.01% |
 
 <br>
