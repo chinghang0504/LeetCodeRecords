@@ -1429,5 +1429,6 @@
 | 1424 |  |  |  |  |
 | 1425 |  |  |  |  |
 | 1426 | Counting Elements | Easy | 2024-05-27 | [Java](./records/Java/Question_1426.md): 98.44% |
+| 1427 | Perform String Shifts | Easy | 2024-05-27 | [Java](./records/Java/Question_1427.md): 100.00% |
 
 <br>
