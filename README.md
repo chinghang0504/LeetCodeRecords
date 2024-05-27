@@ -1345,5 +1345,9 @@
 | 1340 |  |  |  |  |
 | 1341 |  |  |  |  |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | 2024-05-27 | [Java](./records/Java/Question_1342.md): 100.00% |
+| 1343 |  |  |  |  |
+| 1344 |  |  |  |  |
+| 1345 |  |  |  |  |
+| 1346 | Check If N and Its Double Exist | Easy | 2024-05-27 | [Java](./records/Java/Question_1346.md): 16.49% |
 
 <br>
