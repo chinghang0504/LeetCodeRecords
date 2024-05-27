@@ -1326,5 +1326,9 @@
 | 1321 |  |  |  |  |
 | 1322 |  |  |  |  |
 | 1323 | Maximum 69 Number | Easy | 2024-05-26 | [Java](./records/Java/Question_1323.md): 100.00% |
+| 1324 |  |  |  |  |
+| 1325 |  |  |  |  |
+| 1326 |  |  |  |  |
+| 1327 | List the Products Ordered in a Period | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1327.md): 93.49% |
 
 <br>
