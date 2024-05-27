@@ -1334,5 +1334,16 @@
 | 1329 |  |  |  |  |
 | 1330 |  |  |  |  |
 | 1331 | Rank Transform of an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1331.md): 94.01% |
+| 1332 |  |  |  |  |
+| 1333 |  |  |  |  |
+| 1334 |  |  |  |  |
+| 1335 |  |  |  |  |
+| 1336 |  |  |  |  |
+| 1337 |  |  |  |  |
+| 1338 |  |  |  |  |
+| 1339 |  |  |  |  |
+| 1340 |  |  |  |  |
+| 1341 |  |  |  |  |
+| 1342 | Number of Steps to Reduce a Number to Zero | Easy | 2024-05-27 | [Java](./records/Java/Question_1342.md): 100.00% |
 
 <br>
