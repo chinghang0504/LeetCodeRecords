@@ -1352,7 +1352,7 @@
 | 1347 |  |  |  |  |
 | 1348 |  |  |  |  |
 | 1349 |  |  |  |  |
-| 1350 |  |  |  |  |
+| 1350 | Students With Invalid Departments | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1350.md): 99.22% |
 | 1351 |  |  |  |  |
 | 1352 |  |  |  |  |
 | 1353 |  |  |  |  |
