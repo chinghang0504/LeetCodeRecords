@@ -1430,5 +1430,13 @@
 | 1425 |  |  |  |  |
 | 1426 | Counting Elements | Easy | 2024-05-27 | [Java](./records/Java/Question_1426.md): 98.44% |
 | 1427 | Perform String Shifts | Easy | 2024-05-27 | [Java](./records/Java/Question_1427.md): 100.00% |
+| 1428 |  |  |  |  |
+| 1429 |  |  |  |  |
+| 1430 |  |  |  |  |
+| 1431 |  |  |  |  |
+| 1432 |  |  |  |  |
+| 1433 |  |  |  |  |
+| 1434 |  |  |  |  |
+| 1435 | Create a Session Bar Chart | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1435.md): 92.59% |
 
 <br>
