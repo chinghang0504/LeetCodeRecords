@@ -1380,7 +1380,7 @@
 | 1375 |  |  |  |  |
 | 1376 |  |  |  |  |
 | 1377 |  |  |  |  |
-| 1378 |  |  |  |  |
+| 1378 | Replace Employee ID With The Unique Identifier | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1378.md): 96.44% |
 | 1379 |  |  |  |  |
 | 1380 |  |  |  |  |
 | 1381 |  |  |  |  |
