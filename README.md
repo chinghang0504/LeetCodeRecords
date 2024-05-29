@@ -1438,5 +1438,6 @@
 | 1433 |  |  |  |  |
 | 1434 |  |  |  |  |
 | 1435 | Create a Session Bar Chart | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1435.md): 92.59% |
+| 1436 | Destination City | Easy | 2024-05-29 | [Java](./records/Java/Question_1436.md): 99.81% |
 
 <br>
