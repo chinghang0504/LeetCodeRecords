@@ -1472,5 +1472,6 @@
 | 1467 |  |  |  |  |
 | 1468 |  |  |  |  |
 | 1469 | Find All The Lonely Nodes | Easy | 2024-05-29 | [Java](./records/Java/Question_1469.md): 100.00% |
+| 1470 | Shuffle the Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1470.md): 100.00% |
 
 <br>
