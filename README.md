@@ -1151,7 +1151,7 @@
 | 1146 |  |  |  |  |
 | 1147 |  |  |  |  |
 | 1148 | Article Views I | Easy | 2024-05-20 | [Pandas](./records/Pandas/Question_1148.md): 78.83% |
-| 1149 |  |  |  |  |
+| 1149 | Article Views II | Medium | 2024-05-28 | [Pandas](./records/Pandas/Question_1149.md): 100.00% |
 | 1150 |  |  |  |  |
 | 1151 |  |  |  |  |
 | 1152 |  |  |  |  |
