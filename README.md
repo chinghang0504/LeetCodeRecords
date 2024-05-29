@@ -1439,5 +1439,6 @@
 | 1434 |  |  |  |  |
 | 1435 | Create a Session Bar Chart | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1435.md): 92.59% |
 | 1436 | Destination City | Easy | 2024-05-29 | [Java](./records/Java/Question_1436.md): 99.81% |
+| 1437 | Check If All 1's Are at Least Length K Places Away | Easy | 2024-05-29 | [Java](./records/Java/Question_1437.md): 100.00% |
 
 <br>
