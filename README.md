@@ -1272,7 +1272,7 @@
 | 1267 |  |  |  |  |
 | 1268 |  |  |  |  |
 | 1269 |  |  |  |  |
-| 1270 |  |  |  |  |
+| 1270 | All People Report to the Given Manager | Medium | 2024-05-29 | [Pandas](./records/Pandas/Question_1270.md): 90.32% |
 | 1271 |  |  |  |  |
 | 1272 |  |  |  |  |
 | 1273 |  |  |  |  |
