@@ -1473,5 +1473,10 @@
 | 1468 |  |  |  |  |
 | 1469 | Find All The Lonely Nodes | Easy | 2024-05-29 | [Java](./records/Java/Question_1469.md): 100.00% |
 | 1470 | Shuffle the Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1470.md): 100.00% |
+| 1471 |  |  |  |  |
+| 1472 |  |  |  |  |
+| 1473 |  |  |  |  |
+| 1474 |  |  |  |  |
+| 1475 | Final Prices With a Special Discount in a Shop | Easy | 2024-05-29 | [Java](./records/Java/Question_1475.md): 98.67% |
 
 <br>
