@@ -1144,7 +1144,7 @@
 | 1139 |  |  |  |  |
 | 1140 |  |  |  |  |
 | 1141 | User Activity for the Past 30 Days I | Easy | 2024-05-28 | [Pandas](./records/Pandas/Question_1141.md): 95.26% |
-| 1142 |  |  |  |  |
+| 1142 | User Activity for the Past 30 Days II | Easy | 2024-05-28 | [Pandas](./records/Pandas/Question_1142.md): 94.55% |
 | 1143 |  |  |  |  |
 | 1144 |  |  |  |  |
 | 1145 |  |  |  |  |
