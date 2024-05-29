@@ -1467,5 +1467,10 @@
 | 1462 |  |  |  |  |
 | 1463 |  |  |  |  |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1464.md): 63.70% |
+| 1465 |  |  |  |  |
+| 1466 |  |  |  |  |
+| 1467 |  |  |  |  |
+| 1468 |  |  |  |  |
+| 1469 | Find All The Lonely Nodes | Easy | 2024-05-29 | [Java](./records/Java/Question_1469.md): 100.00% |
 
 <br>
