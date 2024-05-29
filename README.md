@@ -1449,5 +1449,9 @@
 | 1444 |  |  |  |  |
 | 1445 |  |  |  |  |
 | 1446 | Consecutive Characters | Easy | 2024-05-29 | [Java](./records/Java/Question_1446.md): 100.00% |
+| 1447 |  |  |  |  |
+| 1448 |  |  |  |  |
+| 1449 |  |  |  |  |
+| 1450 | Number of Students Doing Homework at a Given Time | Easy | 2024-05-29 | [Java](./records/Java/Question_1450.md): 100.00% |
 
 <br>
