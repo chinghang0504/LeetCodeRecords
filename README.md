@@ -1483,5 +1483,16 @@
 | 1478 |  |  |  |  |
 | 1479 |  |  |  |  |
 | 1480 | Running Sum of 1d Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1480.md): 100.00% |
+| 1481 |  |  |  |  |
+| 1482 |  |  |  |  |
+| 1483 |  |  |  |  |
+| 1484 |  |  |  |  |
+| 1485 |  |  |  |  |
+| 1486 |  |  |  |  |
+| 1487 |  |  |  |  |
+| 1488 |  |  |  |  |
+| 1489 |  |  |  |  |
+| 1490 |  |  |  |  |
+| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | 2024-05-30 | [Java](./records/Java/Question_1491.md): 100.00% |
 
 <br>
