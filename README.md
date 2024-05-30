@@ -1494,5 +1494,9 @@
 | 1489 |  |  |  |  |
 | 1490 |  |  |  |  |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | 2024-05-30 | [Java](./records/Java/Question_1491.md): 100.00% |
+| 1492 |  |  |  |  |
+| 1493 |  |  |  |  |
+| 1494 |  |  |  |  |
+| 1495 | Friendly Movies Streamed Last Month | Easy | 2024-05-30 | [Pandas](./records/Pandas/Question_1495.md): 95.74% |
 
 <br>
