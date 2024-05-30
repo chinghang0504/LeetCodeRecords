@@ -1498,5 +1498,6 @@
 | 1493 |  |  |  |  |
 | 1494 |  |  |  |  |
 | 1495 | Friendly Movies Streamed Last Month | Easy | 2024-05-30 | [Pandas](./records/Pandas/Question_1495.md): 95.74% |
+| 1496 | Path Crossing | Easy | 2024-05-30 | [Java](./records/Java/Question_1496.md): 98.98% |
 
 <br>
