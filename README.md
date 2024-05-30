@@ -1505,5 +1505,15 @@
 | 1500 |  |  |  |  |
 | 1501 |  |  |  |  |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | 2024-05-30 | [Java](./records/Java/Question_1502.md): 97.26% |
+| 1503 |  |  |  |  |
+| 1504 |  |  |  |  |
+| 1505 |  |  |  |  |
+| 1506 |  |  |  |  |
+| 1507 |  |  |  |  |
+| 1508 |  |  |  |  |
+| 1509 |  |  |  |  |
+| 1510 |  |  |  |  |
+| 1511 |  |  |  |  |
+| 1512 | Number of Good Pairs | Easy | 2024-05-30 | [Java](./records/Java/Question_1512.md): 87.50% |
 
 <br>
