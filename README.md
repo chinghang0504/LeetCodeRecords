@@ -1499,5 +1499,11 @@
 | 1494 |  |  |  |  |
 | 1495 | Friendly Movies Streamed Last Month | Easy | 2024-05-30 | [Pandas](./records/Pandas/Question_1495.md): 95.74% |
 | 1496 | Path Crossing | Easy | 2024-05-30 | [Java](./records/Java/Question_1496.md): 98.98% |
+| 1497 |  |  |  |  |
+| 1498 |  |  |  |  |
+| 1499 |  |  |  |  |
+| 1500 |  |  |  |  |
+| 1501 |  |  |  |  |
+| 1502 | Can Make Arithmetic Progression From Sequence | Easy | 2024-05-30 | [Java](./records/Java/Question_1502.md): 97.26% |
 
 <br>
