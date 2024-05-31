@@ -1515,5 +1515,11 @@
 | 1510 |  |  |  |  |
 | 1511 |  |  |  |  |
 | 1512 | Number of Good Pairs | Easy | 2024-05-30 | [Java](./records/Java/Question_1512.md): 87.50% |
+| 1513 |  |  |  |  |
+| 1514 |  |  |  |  |
+| 1515 |  |  |  |  |
+| 1516 |  |  |  |  |
+| 1517 |  |  |  |  |
+| 1518 | Water Bottles | Easy | 2024-05-31 | [Java](./records/Java/Question_1518.md): 100.00% |
 
 <br>
