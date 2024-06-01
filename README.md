@@ -1166,7 +1166,7 @@
 | 1161 |  |  |  |  |
 | 1162 |  |  |  |  |
 | 1163 |  |  |  |  |
-| 1164 |  |  |  |  |
+| 1164 | Product Price at a Given Date | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1164.md): 92.78% |
 | 1165 | Single-Row Keyboard | Easy | 2024-05-21 | [Java](./records/Java/Question_1165.md): 56.02% |
 | 1166 |  |  |  |  |
 | 1167 |  |  |  |  |
