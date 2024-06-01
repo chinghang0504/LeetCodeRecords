@@ -1310,7 +1310,7 @@
 | 1305 |  |  |  |  |
 | 1306 |  |  |  |  |
 | 1307 |  |  |  |  |
-| 1308 |  |  |  |  |
+| 1308 | Running Total for Different Genders | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1308.md): 92.11% |
 | 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | 2024-05-25 | [Java](./records/Java/Question_1309.md): 100.00% |
 | 1310 |  |  |  |  |
 | 1311 |  |  |  |  |
