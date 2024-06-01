@@ -1553,5 +1553,11 @@
 | 1548 |  |  |  |  |
 | 1549 |  |  |  |  |
 | 1550 | Three Consecutive Odds | Easy | 2024-05-31 | [Java](./records/Java/Question_1550.md): 100.00% |
+| 1551 |  |  |  |  |
+| 1552 |  |  |  |  |
+| 1553 |  |  |  |  |
+| 1554 |  |  |  |  |
+| 1555 |  |  |  |  |
+| 1556 | Thousand Separator | Easy | 2024-05-31 | [Java](./records/Java/Question_1556.md): 100.00% |
 
 <br>
