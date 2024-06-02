@@ -1575,5 +1575,14 @@
 | 1570 |  |  |  |  |
 | 1571 |  |  |  |  |
 | 1572 | Matrix Diagonal Sum | Easy | 2024-06-01 | [Java](./records/Java/Question_1572.md): 100.00% |
+| 1573 |  |  |  |  |
+| 1574 |  |  |  |  |
+| 1575 |  |  |  |  |
+| 1576 |  |  |  |  |
+| 1577 |  |  |  |  |
+| 1578 |  |  |  |  |
+| 1579 |  |  |  |  |
+| 1580 |  |  |  |  |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | 2024-06-01 | [Pandas](./records/Pandas/Question_1581.md): 96.36% |
 
 <br>
