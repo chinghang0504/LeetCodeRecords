@@ -1400,7 +1400,7 @@
 | 1395 |  |  |  |  |
 | 1396 |  |  |  |  |
 | 1397 |  |  |  |  |
-| 1398 |  |  |  |  |
+| 1398 | Customers Who Bought Products A and B but Not C | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1398.md): 93.33% |
 | 1399 |  |  |  |  |
 | 1400 |  |  |  |  |
 | 1401 |  |  |  |  |
