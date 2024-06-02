@@ -1584,5 +1584,6 @@
 | 1579 |  |  |  |  |
 | 1580 |  |  |  |  |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | 2024-06-01 | [Pandas](./records/Pandas/Question_1581.md): 96.36% |
+| 1582 | Special Positions in a Binary Matrix | Easy | 2024-06-01 | [Java](./records/Java/Question_1582.md): 90.57% |
 
 <br>
