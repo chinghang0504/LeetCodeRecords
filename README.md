@@ -1447,7 +1447,7 @@
 | 1442 |  |  |  |  |
 | 1443 |  |  |  |  |
 | 1444 |  |  |  |  |
-| 1445 |  |  |  |  |
+| 1445 | Apples & Oranges | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1445.md): 94.87% |
 | 1446 | Consecutive Characters | Easy | 2024-05-29 | [Java](./records/Java/Question_1446.md): 100.00% |
 | 1447 |  |  |  |  |
 | 1448 |  |  |  |  |
