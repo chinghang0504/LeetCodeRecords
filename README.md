@@ -1395,7 +1395,7 @@
 | 1390 |  |  |  |  |
 | 1391 |  |  |  |  |
 | 1392 |  |  |  |  |
-| 1393 |  |  |  |  |
+| 1393 | Capital Gain/Loss | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1393.md): 100.00% |
 | 1394 | Find Lucky Integer in an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1394.md): 100.00% |
 | 1395 |  |  |  |  |
 | 1396 |  |  |  |  |
