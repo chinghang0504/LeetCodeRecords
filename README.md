@@ -1414,7 +1414,7 @@
 | 1409 |  |  |  |  |
 | 1410 |  |  |  |  |
 | 1411 |  |  |  |  |
-| 1412 |  |  |  |  |
+| 1412 | Find the Quiet Students in All Exams | Hard | 2024-06-01 | [Pandas](./records/Pandas/Question_1412.md): 90.48% |
 | 1413 |  |  |  |  |
 | 1414 |  |  |  |  |
 | 1415 |  |  |  |  |
