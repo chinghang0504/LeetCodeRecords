@@ -1585,5 +1585,26 @@
 | 1580 |  |  |  |  |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | 2024-06-01 | [Pandas](./records/Pandas/Question_1581.md): 96.36% |
 | 1582 | Special Positions in a Binary Matrix | Easy | 2024-06-01 | [Java](./records/Java/Question_1582.md): 90.57% |
+| 1583 |  |  |  |  |
+| 1584 |  |  |  |  |
+| 1585 |  |  |  |  |
+| 1586 |  |  |  |  |
+| 1587 |  |  |  |  |
+| 1588 |  |  |  |  |
+| 1589 |  |  |  |  |
+| 1590 |  |  |  |  |
+| 1591 |  |  |  |  |
+| 1592 |  |  |  |  |
+| 1593 |  |  |  |  |
+| 1594 |  |  |  |  |
+| 1595 |  |  |  |  |
+| 1596 |  |  |  |  |
+| 1597 |  |  |  |  |
+| 1598 |  |  |  |  |
+| 1599 |  |  |  |  |
+| 1600 |  |  |  |  |
+| 1601 |  |  |  |  |
+| 1602 |  |  |  |  |
+| 1603 | Design Parking System | Easy | 2024-06-02 | [Java](./records/Java/Question_1603.md): 100.00% |
 
 <br>
