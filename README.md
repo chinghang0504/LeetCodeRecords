@@ -1289,7 +1289,7 @@
 | 1284 |  |  |  |  |
 | 1285 |  |  |  |  |
 | 1286 |  |  |  |  |
-| 1287 |  |  |  |  |
+| 1287 | Element Appearing More Than 25% In Sorted Array | Easy | 2024-06-03 | [Java](./records/Java/Question_1287.md): 49.72% |
 | 1288 |  |  |  |  |
 | 1289 |  |  |  |  |
 | 1290 | Convert Binary Number in a Linked List to Integer | Easy | 2024-05-24 | [Java](./records/Java/Question_1290.md): 100.00% |
