@@ -1573,7 +1573,7 @@
 | 1568 |  |  |  |  |
 | 1569 |  |  |  |  |
 | 1570 |  |  |  |  |
-| 1571 |  |  |  |  |
+| 1571 | Warehouse Manager | Easy | 2024-06-03 | [Pandas](./records/Pandas/Question_1571.md): 98.11% |
 | 1572 | Matrix Diagonal Sum | Easy | 2024-06-01 | [Java](./records/Java/Question_1572.md): 100.00% |
 | 1573 |  |  |  |  |
 | 1574 |  |  |  |  |
