@@ -1282,7 +1282,7 @@
 | 1277 |  |  |  |  |
 | 1278 |  |  |  |  |
 | 1279 |  |  |  |  |
-| 1280 |  |  |  |  |
+| 1280 | Students and Examinations | Easy | 2024-06-03 | [Pandas](./records/Pandas/Question_1280.md): 96.32% |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | 2024-05-24 | [Java](./records/Java/Question_1281.md): 100.00% |
 | 1282 |  |  |  |  |
 | 1283 |  |  |  |  |
