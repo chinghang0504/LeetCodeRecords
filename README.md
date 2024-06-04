@@ -1052,7 +1052,7 @@
 | 1047 |  |  |  |  |
 | 1048 |  |  |  |  |
 | 1049 |  |  |  |  |
-| 1050 |  |  |  |  |
+| 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | 2024-06-03 | [Pandas](./records/Pandas/Question_1050.md): 96.59% |
 | 1051 | Height Checker | Easy | 2024-05-16 | [Java](./records/Java/Question_1051.md): 90.02% |
 | 1052 |  |  |  |  |
 | 1053 |  |  |  |  |
