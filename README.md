@@ -1590,7 +1590,7 @@
 | 1585 |  |  |  |  |
 | 1586 |  |  |  |  |
 | 1587 | Bank Account Summary II | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1587.md): 100.00% |
-| 1588 |  |  |  |  |
+| 1588 | Sum of All Odd Length Subarrays | Easy | 2024-06-04 | [Java](./records/Java/Question_1588.md): 60.85% |
 | 1589 |  |  |  |  |
 | 1590 |  |  |  |  |
 | 1591 |  |  |  |  |
