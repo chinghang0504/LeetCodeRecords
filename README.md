@@ -1606,5 +1606,9 @@
 | 1601 |  |  |  |  |
 | 1602 |  |  |  |  |
 | 1603 | Design Parking System | Easy | 2024-06-02 | [Java](./records/Java/Question_1603.md): 100.00% |
+| 1604 |  |  |  |  |
+| 1605 |  |  |  |  |
+| 1606 |  |  |  |  |
+| 1607 | Sellers With No Sales | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1607.md): 98.21% |
 
 <br>
