@@ -1616,7 +1616,7 @@
 | 1611 |  |  |  |  |
 | 1612 |  |  |  |  |
 | 1613 |  |  |  |  |
-| 1614 |  |  |  |  |
+| 1614 | Maximum Nesting Depth of the Parentheses | Easy | 2024-06-05 | [Java](./records/Java/Question_1614.md): 100.00% |
 | 1615 |  |  |  |  |
 | 1616 |  |  |  |  |
 | 1617 |  |  |  |  |
