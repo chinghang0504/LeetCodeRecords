@@ -1682,5 +1682,10 @@
 | 1676 |  |  |  |  |
 | 1677 |  |  |  |  |
 | 1678 | Goal Parser Interpretation | Easy | 2024-06-05 | [Java](./records/Java/Question_1678.md): 100.00% |
+| 1679 |  |  |  |  |
+| 1680 |  |  |  |  |
+| 1681 |  |  |  |  |
+| 1682 |  |  |  |  |
+| 1683 | Invalid Tweets | Easy | 2024-06-05 | [Pandas](./records/Pandas/Question_1683.md): 100.00% |
 
 <br>
