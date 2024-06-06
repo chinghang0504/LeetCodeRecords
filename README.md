@@ -1621,7 +1621,7 @@
 | 1616 |  |  |  |  |
 | 1617 |  |  |  |  |
 | 1618 |  |  |  |  |
-| 1619 |  |  |  |  |
+| 1619 | Mean of Array After Removing Some Elements | Easy | 2024-06-05 | [Java](./records/Java/Question_1619.md): 97.53% |
 | 1620 |  |  |  |  |
 | 1621 |  |  |  |  |
 | 1622 |  |  |  |  |
