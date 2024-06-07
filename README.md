@@ -1665,7 +1665,7 @@
 | 1659 |  |  |  |  |
 | 1660 |  |  |  |  |
 | 1661 |  |  |  |  |
-| 1662 |  |  |  |  |
+| 1662 | Check If Two String Arrays are Equivalent | Easy | 2024-06-06 | [Java](./records/Java/Question_1662.md): 100.00% |
 | 1663 |  |  |  |  |
 | 1664 |  |  |  |  |
 | 1665 |  |  |  |  |
