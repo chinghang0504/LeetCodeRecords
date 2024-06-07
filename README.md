@@ -1732,5 +1732,17 @@
 | 1727 |  |  |  |  |
 | 1728 |  |  |  |  |
 | 1729 | Find Followers Count | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1729.md): 99.21% |
+| 1730 |  |  |  |  |
+| 1731 |  |  |  |  |
+| 1732 |  |  |  |  |
+| 1733 |  |  |  |  |
+| 1734 |  |  |  |  |
+| 1735 |  |  |  |  |
+| 1736 |  |  |  |  |
+| 1737 |  |  |  |  |
+| 1738 |  |  |  |  |
+| 1739 |  |  |  |  |
+| 1740 |  |  |  |  |
+| 1741 | Find Total Time Spent by Each Employee | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1741.md): 97.97% |
 
 <br>
