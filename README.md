@@ -1687,5 +1687,10 @@
 | 1681 |  |  |  |  |
 | 1682 |  |  |  |  |
 | 1683 | Invalid Tweets | Easy | 2024-06-05 | [Pandas](./records/Pandas/Question_1683.md): 100.00% |
+| 1684 |  |  |  |  |
+| 1685 |  |  |  |  |
+| 1686 |  |  |  |  |
+| 1687 |  |  |  |  |
+| 1688 | Count of Matches in Tournament | Easy | 2024-06-06 | [Java](./records/Java/Question_1688.md): 100.00% |
 
 <br>
