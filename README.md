@@ -1968,5 +1968,18 @@
 | 1963 |  |  |  |  |
 | 1964 |  |  |  |  |
 | 1965 | Employees With Missing Information | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1965.md): 96.15% |
+| 1966 |  |  |  |  |
+| 1967 |  |  |  |  |
+| 1968 |  |  |  |  |
+| 1969 |  |  |  |  |
+| 1970 |  |  |  |  |
+| 1971 |  |  |  |  |
+| 1972 |  |  |  |  |
+| 1973 |  |  |  |  |
+| 1974 |  |  |  |  |
+| 1975 |  |  |  |  |
+| 1976 |  |  |  |  |
+| 1977 |  |  |  |  |
+| 1978 | Employees Whose Manager Left the Company | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1978.md): 98.11% |
 
 <br>
