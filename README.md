@@ -1744,5 +1744,21 @@
 | 1739 |  |  |  |  |
 | 1740 |  |  |  |  |
 | 1741 | Find Total Time Spent by Each Employee | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1741.md): 97.97% |
+| 1742 |  |  |  |  |
+| 1743 |  |  |  |  |
+| 1744 |  |  |  |  |
+| 1745 |  |  |  |  |
+| 1746 |  |  |  |  |
+| 1747 |  |  |  |  |
+| 1748 |  |  |  |  |
+| 1749 |  |  |  |  |
+| 1750 |  |  |  |  |
+| 1751 |  |  |  |  |
+| 1752 |  |  |  |  |
+| 1753 |  |  |  |  |
+| 1754 |  |  |  |  |
+| 1755 |  |  |  |  |
+| 1756 |  |  |  |  |
+| 1757 | Recyclable and Low Fat Products | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1757.md): 99.83% |
 
 <br>
