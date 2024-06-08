@@ -1812,5 +1812,17 @@
 | 1807 |  |  |  |  |
 | 1808 |  |  |  |  |
 | 1809 | Ad-Free Sessions | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1809.md): 96.43% |
+| 1810 |  |  |  |  |
+| 1811 |  |  |  |  |
+| 1812 |  |  |  |  |
+| 1813 |  |  |  |  |
+| 1814 |  |  |  |  |
+| 1815 |  |  |  |  |
+| 1816 |  |  |  |  |
+| 1817 |  |  |  |  |
+| 1818 |  |  |  |  |
+| 1819 |  |  |  |  |
+| 1820 |  |  |  |  |
+| 1821 | Find Customers With Positive Revenue this Year | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1821.md): 100.00% |
 
 <br>
