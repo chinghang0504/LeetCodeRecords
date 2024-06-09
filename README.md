@@ -2880,5 +2880,6 @@
 | 2875 |  |  |  |  |
 | 2876 |  |  |  |  |
 | 2877 | Create a DataFrame from List | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2877.md): 99.20% |
+| 2878 | Get the Size of a DataFrame | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2878.md): 99.28% |
 
 <br>
