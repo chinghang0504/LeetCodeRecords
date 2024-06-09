@@ -2332,5 +2332,15 @@
 | 2327 |  |  |  |  |
 | 2328 |  |  |  |  |
 | 2329 | Product Sales Analysis V | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2329.md): 100.00% |
+| 2330 |  |  |  |  |
+| 2331 |  |  |  |  |
+| 2332 |  |  |  |  |
+| 2333 |  |  |  |  |
+| 2334 |  |  |  |  |
+| 2335 |  |  |  |  |
+| 2336 |  |  |  |  |
+| 2337 |  |  |  |  |
+| 2338 |  |  |  |  |
+| 2339 | All the Matches of the League | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2339.md): 96.15% |
 
 <br>
