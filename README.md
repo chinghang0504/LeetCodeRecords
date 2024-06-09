@@ -2342,5 +2342,22 @@
 | 2337 |  |  |  |  |
 | 2338 |  |  |  |  |
 | 2339 | All the Matches of the League | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2339.md): 96.15% |
+| 2340 |  |  |  |  |
+| 2341 |  |  |  |  |
+| 2342 |  |  |  |  |
+| 2343 |  |  |  |  |
+| 2344 |  |  |  |  |
+| 2345 |  |  |  |  |
+| 2346 |  |  |  |  |
+| 2347 |  |  |  |  |
+| 2348 |  |  |  |  |
+| 2349 |  |  |  |  |
+| 2350 |  |  |  |  |
+| 2351 |  |  |  |  |
+| 2352 |  |  |  |  |
+| 2353 |  |  |  |  |
+| 2354 |  |  |  |  |
+| 2355 |  |  |  |  |
+| 2356 | Number of Unique Subjects Taught by Each Teacher | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2356.md): 99.94% |
 
 <br>
