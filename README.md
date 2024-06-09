@@ -2885,5 +2885,6 @@
 | 2880 | Select Data | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2880.md): 99.14% |
 | 2881 | Create a New Column | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2881.md): 99.31% |
 | 2882 | Drop Duplicate Rows | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2882.md): 99.68% |
+| 2883 | Drop Missing Data | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2883.md): 98.63% |
 
 <br>
