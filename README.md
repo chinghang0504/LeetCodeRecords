@@ -3054,5 +3054,7 @@
 | 3049 |  |  |  |  |
 | 3050 |  |  |  |  |
 | 3051 | Find Candidates for Data Scientist Position | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3051.md): 96.55% |
+| 3052 |  |  |  |  |
+| 3053 | Classifying Triangles by Lengths | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3053.md): 100.00% |
 
 <br>
