@@ -2075,5 +2075,15 @@
 | 2070 |  |  |  |  |
 | 2071 |  |  |  |  |
 | 2072 | The Winner University | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2072.md): 100.00% |
+| 2073 |  |  |  |  |
+| 2074 |  |  |  |  |
+| 2075 |  |  |  |  |
+| 2076 |  |  |  |  |
+| 2077 |  |  |  |  |
+| 2078 |  |  |  |  |
+| 2079 |  |  |  |  |
+| 2080 |  |  |  |  |
+| 2081 |  |  |  |  |
+| 2082 | The Number of Rich Customers | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2082.md): 100.00% |
 
 <br>
