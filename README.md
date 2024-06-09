@@ -2884,5 +2884,6 @@
 | 2879 | Display the First Three Rows | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2879.md): 99.08% |
 | 2880 | Select Data | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2880.md): 99.14% |
 | 2881 | Create a New Column | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2881.md): 99.31% |
+| 2882 | Drop Duplicate Rows | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2882.md): 99.68% |
 
 <br>
