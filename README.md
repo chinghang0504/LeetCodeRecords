@@ -2672,5 +2672,23 @@
 | 2667 |  |  |  |  |
 | 2668 | Find Latest Salaries | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2668.md): 100.00% |
 | 2669 | Count Artist Occurrences On Spotify Ranking List | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2669.md): 100.00% |
+| 2670 |  |  |  |  |
+| 2671 |  |  |  |  |
+| 2672 |  |  |  |  |
+| 2673 |  |  |  |  |
+| 2674 |  |  |  |  |
+| 2675 |  |  |  |  |
+| 2676 |  |  |  |  |
+| 2677 |  |  |  |  |
+| 2678 |  |  |  |  |
+| 2679 |  |  |  |  |
+| 2680 |  |  |  |  |
+| 2681 |  |  |  |  |
+| 2682 |  |  |  |  |
+| 2683 |  |  |  |  |
+| 2684 |  |  |  |  |
+| 2685 |  |  |  |  |
+| 2686 |  |  |  |  |
+| 2687 | Bikes Last Time Used | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2687.md): 100.00% |
 
 <br>
