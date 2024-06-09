@@ -2892,5 +2892,6 @@
 | 2887 | Fill Missing Data | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2887.md): 97.73% |
 | 2888 | Reshape Data: Concatenate | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2888.md): 99.50% |
 | 2889 | Reshape Data: Pivot | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2889.md): 97.15% |
+| 2890 | Reshape Data: Melt | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2890.md): 98.52% |
 
 <br>
