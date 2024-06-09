@@ -2883,5 +2883,6 @@
 | 2878 | Get the Size of a DataFrame | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2878.md): 99.28% |
 | 2879 | Display the First Three Rows | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2879.md): 99.08% |
 | 2880 | Select Data | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2880.md): 99.14% |
+| 2881 | Create a New Column | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2881.md): 99.31% |
 
 <br>
