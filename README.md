@@ -2988,5 +2988,7 @@
 | 2983 |  |  |  |  |
 | 2984 |  |  |  |  |
 | 2985 | Calculate Compressed Mean | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2985.md): 100.00% |
+| 2986 |  |  |  |  |
+| 2987 | Find Expensive Cities | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2987.md): 100.00% |
 
 <br>
