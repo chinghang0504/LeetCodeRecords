@@ -2887,5 +2887,6 @@
 | 2882 | Drop Duplicate Rows | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2882.md): 99.68% |
 | 2883 | Drop Missing Data | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2883.md): 98.63% |
 | 2884 | Modify Columns | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2884.md): 98.81% |
+| 2885 | Rename Columns | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2885.md): 98.85% |
 
 <br>
