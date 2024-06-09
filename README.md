@@ -2671,5 +2671,6 @@
 | 2666 |  |  |  |  |
 | 2667 |  |  |  |  |
 | 2668 | Find Latest Salaries | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2668.md): 100.00% |
+| 2669 | Count Artist Occurrences On Spotify Ranking List | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2669.md): 100.00% |
 
 <br>
