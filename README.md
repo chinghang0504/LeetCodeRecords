@@ -1696,7 +1696,7 @@
 | 1691 |  |  |  |  |
 | 1692 |  |  |  |  |
 | 1693 | Daily Leads and Partners | Easy | 2024-06-10 | [Pandas](./records/Pandas/Question_1693.md): 99.42% |
-| 1694 |  |  |  |  |
+| 1694 | Reformat Phone Number | Easy | 2024-06-10 | [Java](./records/Java/Question_1694.md): 100.00% |
 | 1695 |  |  |  |  |
 | 1696 |  |  |  |  |
 | 1697 |  |  |  |  |
