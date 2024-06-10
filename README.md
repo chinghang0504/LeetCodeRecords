@@ -1798,7 +1798,7 @@
 | 1793 |  |  |  |  |
 | 1794 |  |  |  |  |
 | 1795 | Rearrange Products Table | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1795.md): 94.93% |
-| 1796 |  |  |  |  |
+| 1796 | Second Largest Digit in a String | Easy | 2024-06-10 | [Java](./records/Java/Question_1796.md): 97.79% |
 | 1797 |  |  |  |  |
 | 1798 |  |  |  |  |
 | 1799 |  |  |  |  |
