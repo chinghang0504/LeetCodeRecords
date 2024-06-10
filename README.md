@@ -1686,7 +1686,7 @@
 | 1681 |  |  |  |  |
 | 1682 |  |  |  |  |
 | 1683 | Invalid Tweets | Easy | 2024-06-05 | [Pandas](./records/Pandas/Question_1683.md): 100.00% |
-| 1684 |  |  |  |  |
+| 1684 | Count the Number of Consistent Strings | Easy | 2024-06-10 | [Java](./records/Java/Question_1684.md): 68.55% |
 | 1685 |  |  |  |  |
 | 1686 |  |  |  |  |
 | 1687 |  |  |  |  |
