@@ -1734,7 +1734,7 @@
 | 1729 | Find Followers Count | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1729.md): 99.21% |
 | 1730 |  |  |  |  |
 | 1731 |  |  |  |  |
-| 1732 |  |  |  |  |
+| 1732 | Find the Highest Altitude | Easy | 2024-06-10 | [Java](./records/Java/Question_1732.md): 100.00% |
 | 1733 |  |  |  |  |
 | 1734 |  |  |  |  |
 | 1735 |  |  |  |  |
