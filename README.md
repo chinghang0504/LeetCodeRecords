@@ -1969,7 +1969,7 @@
 | 1964 |  |  |  |  |
 | 1965 | Employees With Missing Information | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1965.md): 96.15% |
 | 1966 |  |  |  |  |
-| 1967 |  |  |  |  |
+| 1967 | Number of Strings That Appear as Substrings in Word | Easy | 2024-06-11 | [Java](./records/Java/Question_1967.md): 100.00% |
 | 1968 |  |  |  |  |
 | 1969 |  |  |  |  |
 | 1970 |  |  |  |  |
