@@ -1781,7 +1781,7 @@
 | 1776 |  |  |  |  |
 | 1777 | Product's Price for Each Store | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1777.md): 96.67% |
 | 1778 |  |  |  |  |
-| 1779 |  |  |  |  |
+| 1779 | Find Nearest Point That Has the Same X or Y Coordinate | Easy | 2024-06-11 | [Java](./records/Java/Question_1779.md): 100.00% |
 | 1780 |  |  |  |  |
 | 1781 |  |  |  |  |
 | 1782 |  |  |  |  |
