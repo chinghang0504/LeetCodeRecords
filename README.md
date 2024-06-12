@@ -1701,7 +1701,7 @@
 | 1696 |  |  |  |  |
 | 1697 |  |  |  |  |
 | 1698 |  |  |  |  |
-| 1699 |  |  |  |  |
+| 1699 | Number of Calls Between Two Persons | Medium | 2024-06-12 | [Pandas](./records/Pandas/Question_1699.md): 98.04% |
 | 1700 |  |  |  |  |
 | 1701 |  |  |  |  |
 | 1702 |  |  |  |  |
