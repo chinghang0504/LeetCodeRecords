@@ -1833,7 +1833,7 @@
 | 1828 |  |  |  |  |
 | 1829 |  |  |  |  |
 | 1830 |  |  |  |  |
-| 1831 |  |  |  |  |
+| 1831 | Maximum Transaction Each Day | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_1831.md): 97.37% |
 | 1832 |  |  |  |  |
 | 1833 |  |  |  |  |
 | 1834 |  |  |  |  |
