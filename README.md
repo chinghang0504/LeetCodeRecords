@@ -2374,7 +2374,7 @@
 | 2369 |  |  |  |  |
 | 2370 |  |  |  |  |
 | 2371 |  |  |  |  |
-| 2372 |  |  |  |  |
+| 2372 | Calculate the Influence of Each Salesperson | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2372.md): 100.00% |
 | 2373 |  |  |  |  |
 | 2374 |  |  |  |  |
 | 2375 |  |  |  |  |
