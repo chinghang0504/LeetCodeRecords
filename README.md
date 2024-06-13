@@ -2637,7 +2637,7 @@
 | 2632 |  |  |  |  |
 | 2633 |  |  |  |  |
 | 2634 |  |  |  |  |
-| 2635 |  |  |  |  |
+| 2635 | Apply Transform Over Each Element in Array | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2635.md): 87.77% |
 | 2636 |  |  |  |  |
 | 2637 |  |  |  |  |
 | 2638 |  |  |  |  |
