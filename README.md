@@ -2668,7 +2668,7 @@
 | 2663 |  |  |  |  |
 | 2664 |  |  |  |  |
 | 2665 | Counter II | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2665.md): 90.61% |
-| 2666 |  |  |  |  |
+| 2666 | Allow One Function Call | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2666.md): 94.57% |
 | 2667 | Create Hello World Function | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2667.md): 92.39% |
 | 2668 | Find Latest Salaries | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2668.md): 100.00% |
 | 2669 | Count Artist Occurrences On Spotify Ranking List | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2669.md): 100.00% |
