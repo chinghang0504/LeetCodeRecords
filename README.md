@@ -2667,7 +2667,7 @@
 | 2662 |  |  |  |  |
 | 2663 |  |  |  |  |
 | 2664 |  |  |  |  |
-| 2665 |  |  |  |  |
+| 2665 | Counter II | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2665.md): 90.61% |
 | 2666 |  |  |  |  |
 | 2667 | Create Hello World Function | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2667.md): 92.39% |
 | 2668 | Find Latest Salaries | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2668.md): 100.00% |
