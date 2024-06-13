@@ -2628,7 +2628,7 @@
 | 2623 |  |  |  |  |
 | 2624 |  |  |  |  |
 | 2625 |  |  |  |  |
-| 2626 |  |  |  |  |
+| 2626 | Array Reduce Transformation | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2626.md): 95.15% |
 | 2627 |  |  |  |  |
 | 2628 |  |  |  |  |
 | 2629 |  |  |  |  |
@@ -2636,7 +2636,7 @@
 | 2631 |  |  |  |  |
 | 2632 |  |  |  |  |
 | 2633 |  |  |  |  |
-| 2634 | Filter Elements from Array | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2634.md): 86.14% |
+| 2634 | Filter Elements from Array | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2634.md): 86.14% |
 | 2635 | Apply Transform Over Each Element in Array | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2635.md): 87.77% |
 | 2636 |  |  |  |  |
 | 2637 |  |  |  |  |
