@@ -1267,7 +1267,7 @@
 | 1262 |  |  |  |  |
 | 1263 |  |  |  |  |
 | 1264 |  |  |  |  |
-| 1265 |  |  |  |  |
+| 1265 | Print Immutable Linked List in Reverse | Medium | 2024-06-12 | [Java](./records/Java/Question_1265.md): 100.00% |
 | 1266 |  |  |  |  |
 | 1267 |  |  |  |  |
 | 1268 |  |  |  |  |
