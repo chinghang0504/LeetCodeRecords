@@ -2705,7 +2705,7 @@
 | 2700 |  |  |  |  |
 | 2701 |  |  |  |  |
 | 2702 |  |  |  |  |
-| 2703 |  |  |  |  |
+| 2703 | Return Length of Arguments Passed | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2703.md): 92.33% |
 | 2704 | To Be Or Not To Be | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2704.md): 95.41% |
 | 2705 |  |  |  |  |
 | 2706 |  |  |  |  |
