@@ -2631,7 +2631,7 @@
 | 2626 | Array Reduce Transformation | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2626.md): 95.15% |
 | 2627 |  |  |  |  |
 | 2628 |  |  |  |  |
-| 2629 |  |  |  |  |
+| 2629 | Function Composition | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2629.md): 96.98% |
 | 2630 |  |  |  |  |
 | 2631 |  |  |  |  |
 | 2632 |  |  |  |  |
