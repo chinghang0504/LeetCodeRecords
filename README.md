@@ -2623,7 +2623,7 @@
 | 2618 |  |  |  |  |
 | 2619 |  |  |  |  |
 | 2620 | Counter | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2620.md): 99.40% |
-| 2621 |  |  |  |  |
+| 2621 | Sleep | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2621.md): 95.52% |
 | 2622 |  |  |  |  |
 | 2623 |  |  |  |  |
 | 2624 |  |  |  |  |
