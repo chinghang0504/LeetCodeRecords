@@ -2443,7 +2443,7 @@
 | 2438 |  |  |  |  |
 | 2439 |  |  |  |  |
 | 2440 |  |  |  |  |
-| 2441 |  |  |  |  |
+| 2441 | Largest Positive Integer That Exists With Its Negative | Easy | 2024-06-13 | [Java](./records/Java/Question_2441.md): 17.71% |
 | 2442 |  |  |  |  |
 | 2443 |  |  |  |  |
 | 2444 |  |  |  |  |
