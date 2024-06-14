@@ -2018,7 +2018,7 @@
 | 2013 |  |  |  |  |
 | 2014 |  |  |  |  |
 | 2015 |  |  |  |  |
-| 2016 |  |  |  |  |
+| 2016 | Maximum Difference Between Increasing Elements | Easy | 2024-06-14 | [Java](./records/Java/Question_2016.md): 35.93% |
 | 2017 |  |  |  |  |
 | 2018 |  |  |  |  |
 | 2019 |  |  |  |  |
