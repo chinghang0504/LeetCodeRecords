@@ -2013,7 +2013,7 @@
 | 2008 |  |  |  |  |
 | 2009 |  |  |  |  |
 | 2010 |  |  |  |  |
-| 2011 |  |  |  |  |
+| 2011 | Final Value of Variable After Performing Operations | Easy | 2024-06-14 | [Java](./records/Java/Question_2011.md): 100.00% |
 | 2012 |  |  |  |  |
 | 2013 |  |  |  |  |
 | 2014 |  |  |  |  |
