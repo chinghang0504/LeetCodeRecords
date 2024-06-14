@@ -2008,7 +2008,7 @@
 | 2003 |  |  |  |  |
 | 2004 |  |  |  |  |
 | 2005 |  |  |  |  |
-| 2006 |  |  |  |  |
+| 2006 | Count Number of Pairs With Absolute Difference K | Easy | 2024-06-14 | [Java](./records/Java/Question_2006.md): 73.41% |
 | 2007 |  |  |  |  |
 | 2008 |  |  |  |  |
 | 2009 |  |  |  |  |
