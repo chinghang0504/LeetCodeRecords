@@ -2896,7 +2896,7 @@
 | 2891 | Method Chaining | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2891.md): 98.31% |
 | 2892 |  |  |  |  |
 | 2893 |  |  |  |  |
-| 2894 |  |  |  |  |
+| 2894 | Divisible and Non-divisible Sums Difference | Easy | 2024-06-13 | [Java](./records/Java/Question_2894.md): 100.00% |
 | 2895 |  |  |  |  |
 | 2896 |  |  |  |  |
 | 2897 |  |  |  |  |
