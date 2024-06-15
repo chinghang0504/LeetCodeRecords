@@ -3170,7 +3170,7 @@
 | 3165 |  |  |  |  |
 | 3166 |  |  |  |  |
 | 3167 |  |  |  |  |
-| 3168 |  |  |  |  |
+| 3168 | Minimum Number of Chairs in a Waiting Room | Easy | 2024-06-15 | [Java](./records/Java/Question_3168.md): 100.00% |
 | 3169 |  |  |  |  |
 | 3170 |  |  |  |  |
 | 3171 |  |  |  |  |
