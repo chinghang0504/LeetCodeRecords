@@ -2075,7 +2075,7 @@
 | 2070 |  |  |  |  |
 | 2071 |  |  |  |  |
 | 2072 | The Winner University | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2072.md): 100.00% |
-| 2073 |  |  |  |  |
+| 2073 | Time Needed to Buy Tickets | Easy | 2024-06-14 | [Java](./records/Java/Question_2073.md): 100.00% |
 | 2074 |  |  |  |  |
 | 2075 |  |  |  |  |
 | 2076 |  |  |  |  |
