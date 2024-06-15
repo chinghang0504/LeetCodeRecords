@@ -3160,7 +3160,7 @@
 | 3155 |  |  |  |  |
 | 3156 |  |  |  |  |
 | 3157 |  |  |  |  |
-| 3158 |  |  |  |  |
+| 3158 | Find the XOR of Numbers Which Appear Twice | Easy | 2024-06-15 | [Java](./records/Java/Question_3158.md): 99.47% |
 | 3159 |  |  |  |  |
 | 3160 |  |  |  |  |
 | 3161 |  |  |  |  |
