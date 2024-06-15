@@ -3176,5 +3176,6 @@
 | 3171 |  |  |  |  |
 | 3172 | Second Day Verification | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3172.md): 100.00% |
 | 3173 | Bitwise OR of Adjacent Elements | Easy | 2024-06-15 | [Java](./records/Java/Question_3173.md): 100.00% |
+| 3174 | Clear Digits | Easy | 2024-06-15 | [Java](./records/Java/Question_3174.md): 100.00% |
 
 <br>
