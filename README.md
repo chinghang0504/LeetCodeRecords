@@ -2116,7 +2116,7 @@
 | 2111 |  |  |  |  |
 | 2112 |  |  |  |  |
 | 2113 |  |  |  |  |
-| 2114 |  |  |  |  |
+| 2114 | Maximum Number of Words Found in Sentences | Easy | 2024-06-14 | [Java](./records/Java/Question_2114.md): 100.00% |
 | 2115 |  |  |  |  |
 | 2116 |  |  |  |  |
 | 2117 |  |  |  |  |
