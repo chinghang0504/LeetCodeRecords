@@ -2156,7 +2156,7 @@
 | 2151 |  |  |  |  |
 | 2152 |  |  |  |  |
 | 2153 |  |  |  |  |
-| 2154 |  |  |  |  |
+| 2154 | Keep Multiplying Found Values by Two | Easy | 2024-06-14 | [Java](./records/Java/Question_2154.md): 67.17% |
 | 2155 |  |  |  |  |
 | 2156 |  |  |  |  |
 | 2157 |  |  |  |  |
