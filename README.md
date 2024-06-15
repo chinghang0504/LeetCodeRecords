@@ -2091,7 +2091,7 @@
 | 2086 |  |  |  |  |
 | 2087 |  |  |  |  |
 | 2088 |  |  |  |  |
-| 2089 |  |  |  |  |
+| 2089 | Find Target Indices After Sorting Array | Easy | 2024-06-14 | [Java](./records/Java/Question_2089.md): 83.74% |
 | 2090 |  |  |  |  |
 | 2091 |  |  |  |  |
 | 2092 |  |  |  |  |
