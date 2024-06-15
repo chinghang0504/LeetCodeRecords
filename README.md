@@ -3177,5 +3177,9 @@
 | 3172 | Second Day Verification | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3172.md): 100.00% |
 | 3173 | Bitwise OR of Adjacent Elements | Easy | 2024-06-15 | [Java](./records/Java/Question_3173.md): 100.00% |
 | 3174 | Clear Digits | Easy | 2024-06-15 | [Java](./records/Java/Question_3174.md): 100.00% |
+| 3175 |  |  |  |  |
+| 3176 |  |  |  |  |
+| 3177 |  |  |  |  |
+| 3178 | Find the Child Who Has the Ball After K Seconds | Easy | 2024-06-15 | [Java](./records/Java/Question_3178.md): 100.00% |
 
 <br>
