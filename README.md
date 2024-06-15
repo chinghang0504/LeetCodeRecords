@@ -2126,7 +2126,7 @@
 | 2121 |  |  |  |  |
 | 2122 |  |  |  |  |
 | 2123 |  |  |  |  |
-| 2124 |  |  |  |  |
+| 2124 | Check if All A's Appears Before All B's | Easy | 2024-06-14 | [Java](./records/Java/Question_2124.md): 100.00% |
 | 2125 |  |  |  |  |
 | 2126 |  |  |  |  |
 | 2127 |  |  |  |  |
