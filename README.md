@@ -2826,7 +2826,7 @@
 | 2821 |  |  |  |  |
 | 2822 |  |  |  |  |
 | 2823 |  |  |  |  |
-| 2824 |  |  |  |  |
+| 2824 | Count Pairs Whose Sum is Less than Target | Easy | 2024-06-15 | [Java](./records/Java/Question_2824.md): 96.86% |
 | 2825 |  |  |  |  |
 | 2826 |  |  |  |  |
 | 2827 |  |  |  |  |
