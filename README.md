@@ -2830,7 +2830,7 @@
 | 2825 |  |  |  |  |
 | 2826 |  |  |  |  |
 | 2827 |  |  |  |  |
-| 2828 |  |  |  |  |
+| 2828 | Check if a String Is an Acronym of Words | Easy | 2024-06-15 | [Java](./records/Java/Question_2828.md): 44.23% |
 | 2829 |  |  |  |  |
 | 2830 |  |  |  |  |
 | 2831 |  |  |  |  |
