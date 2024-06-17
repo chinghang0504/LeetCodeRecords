@@ -1986,7 +1986,7 @@
 | 1981 |  |  |  |  |
 | 1982 |  |  |  |  |
 | 1983 |  |  |  |  |
-| 1984 |  |  |  |  |
+| 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | 2024-06-17 | [Java](./records/Java/Question_1984.md): 97.40% |
 | 1985 |  |  |  |  |
 | 1986 |  |  |  |  |
 | 1987 |  |  |  |  |
