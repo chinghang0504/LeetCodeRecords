@@ -2039,7 +2039,7 @@
 | 2034 |  |  |  |  |
 | 2035 |  |  |  |  |
 | 2036 |  |  |  |  |
-| 2037 |  |  |  |  |
+| 2037 | Minimum Number of Moves to Seat Everyone | Easy | 2024-06-17 | [Java](./records/Java/Question_2037.md): 51.50% |
 | 2038 |  |  |  |  |
 | 2039 |  |  |  |  |
 | 2040 |  |  |  |  |
