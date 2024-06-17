@@ -2087,7 +2087,7 @@
 | 2082 | The Number of Rich Customers | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2082.md): 100.00% |
 | 2083 |  |  |  |  |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2084.md): 96.00% |
-| 2085 |  |  |  |  |
+| 2085 | Count Common Words With One Occurrence | Easy | 2024-06-17 | [Java](./records/Java/Question_2085.md): 86.85% |
 | 2086 |  |  |  |  |
 | 2087 |  |  |  |  |
 | 2088 |  |  |  |  |
