@@ -2070,7 +2070,7 @@
 | 2065 |  |  |  |  |
 | 2066 | Account Balance | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2066.md): 100.00% |
 | 2067 |  |  |  |  |
-| 2068 |  |  |  |  |
+| 2068 | Check Whether Two Strings are Almost Equivalent | Easy | 2024-06-17 | [Java](./records/Java/Question_2068.md): 63.91% |
 | 2069 |  |  |  |  |
 | 2070 |  |  |  |  |
 | 2071 |  |  |  |  |
