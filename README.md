@@ -2502,7 +2502,7 @@
 | 2497 |  |  |  |  |
 | 2498 |  |  |  |  |
 | 2499 |  |  |  |  |
-| 2500 |  |  |  |  |
+| 2500 | Delete Greatest Value in Each Row | Easy | 2024-06-19 | [Java](./records/Java/Question_2500.md): 98.35% |
 | 2501 |  |  |  |  |
 | 2502 |  |  |  |  |
 | 2503 |  |  |  |  |
