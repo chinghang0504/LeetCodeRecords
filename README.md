@@ -2522,7 +2522,7 @@
 | 2517 |  |  |  |  |
 | 2518 |  |  |  |  |
 | 2519 |  |  |  |  |
-| 2520 |  |  |  |  |
+| 2520 | Count the Digits That Divide a Number | Easy | 2024-06-19 | [Java](./records/Java/Question_2520.md): 100.00% |
 | 2521 |  |  |  |  |
 | 2522 |  |  |  |  |
 | 2523 |  |  |  |  |
