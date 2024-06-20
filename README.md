@@ -2531,7 +2531,7 @@
 | 2526 |  |  |  |  |
 | 2527 |  |  |  |  |
 | 2528 |  |  |  |  |
-| 2529 |  |  |  |  |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2529.md):  |
 | 2530 |  |  |  |  |
 | 2531 |  |  |  |  |
 | 2532 |  |  |  |  |
