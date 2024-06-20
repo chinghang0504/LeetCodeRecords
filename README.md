@@ -2498,7 +2498,7 @@
 | 2493 |  |  |  |  |
 | 2494 |  |  |  |  |
 | 2495 |  |  |  |  |
-| 2496 |  |  |  |  |
+| 2496 | Maximum Value of a String in an Array | Easy | 2024-06-19 | [Java](./records/Java/Question_2496.md): 38.77% |
 | 2497 |  |  |  |  |
 | 2498 |  |  |  |  |
 | 2499 |  |  |  |  |
