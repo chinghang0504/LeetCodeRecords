@@ -2222,7 +2222,7 @@
 | 2217 |  |  |  |  |
 | 2218 |  |  |  |  |
 | 2219 |  |  |  |  |
-| 2220 |  |  |  |  |
+| 2220 | Minimum Bit Flips to Convert Number | Easy | 2024-06-20 | [Java](./records/Java/Question_2220.md): 100.00% |
 | 2221 |  |  |  |  |
 | 2222 |  |  |  |  |
 | 2223 |  |  |  |  |
