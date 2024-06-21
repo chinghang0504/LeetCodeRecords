@@ -2434,7 +2434,7 @@
 | 2429 |  |  |  |  |
 | 2430 |  |  |  |  |
 | 2431 |  |  |  |  |
-| 2432 |  |  |  |  |
+| 2432 | The Employee That Worked on the Longest Task | Easy | 2024-06-20 | [Java](./records/Java/Question_2432.md):  |
 | 2433 |  |  |  |  |
 | 2434 |  |  |  |  |
 | 2435 |  |  |  |  |
