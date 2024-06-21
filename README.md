@@ -2531,7 +2531,7 @@
 | 2526 |  |  |  |  |
 | 2527 |  |  |  |  |
 | 2528 |  |  |  |  |
-| 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2529.md):  |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2529.md): 100.00% |
 | 2530 |  |  |  |  |
 | 2531 |  |  |  |  |
 | 2532 |  |  |  |  |
@@ -2576,7 +2576,7 @@
 | 2571 |  |  |  |  |
 | 2572 |  |  |  |  |
 | 2573 |  |  |  |  |
-| 2574 |  |  |  |  |
+| 2574 | Left and Right Sum Differences | Easy | 2024-06-20 | [Java](./records/Java/Question_2574.md): 98.83% |
 | 2575 |  |  |  |  |
 | 2576 |  |  |  |  |
 | 2577 |  |  |  |  |
