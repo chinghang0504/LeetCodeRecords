@@ -3148,7 +3148,7 @@
 | 3143 |  |  |  |  |
 | 3144 |  |  |  |  |
 | 3145 |  |  |  |  |
-| 3146 |  |  |  |  |
+| 3146 | Permutation Difference between Two Strings | Easy | 2024-06-22 | [Java](./records/Java/Question_3146.md): 100.00% |
 | 3147 |  |  |  |  |
 | 3148 |  |  |  |  |
 | 3149 |  |  |  |  |
