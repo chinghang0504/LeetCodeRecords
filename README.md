@@ -2771,7 +2771,7 @@
 | 2766 |  |  |  |  |
 | 2767 |  |  |  |  |
 | 2768 |  |  |  |  |
-| 2769 |  |  |  |  |
+| 2769 | Find the Maximum Achievable Number | Easy | 2024-06-22 | [Java](./records/Java/Question_2769.md): 100.00% |
 | 2770 |  |  |  |  |
 | 2771 |  |  |  |  |
 | 2772 |  |  |  |  |
