@@ -2537,7 +2537,7 @@
 | 2532 |  |  |  |  |
 | 2533 |  |  |  |  |
 | 2534 |  |  |  |  |
-| 2535 |  |  |  |  |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | Easy | 2024-06-21 | [Java](./records/Java/Question_2535.md): 98.25% |
 | 2536 |  |  |  |  |
 | 2537 |  |  |  |  |
 | 2538 |  |  |  |  |
