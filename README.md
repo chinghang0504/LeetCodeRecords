@@ -2588,7 +2588,7 @@
 | 2583 |  |  |  |  |
 | 2584 |  |  |  |  |
 | 2585 |  |  |  |  |
-| 2586 |  |  |  |  |
+| 2586 | Count the Number of Vowel Strings in Range | Easy | 2024-06-24 | [Java](./records/Java/Question_2586.md): 100.00% |
 | 2587 |  |  |  |  |
 | 2588 |  |  |  |  |
 | 2589 |  |  |  |  |
