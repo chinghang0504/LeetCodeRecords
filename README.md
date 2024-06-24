@@ -2780,7 +2780,7 @@
 | 2775 |  |  |  |  |
 | 2776 |  |  |  |  |
 | 2777 |  |  |  |  |
-| 2778 |  |  |  |  |
+| 2778 | Sum of Squares of Special Elements | Easy | 2024-06-24 | [Java](./records/Java/Question_2778.md): 100.00% |
 | 2779 |  |  |  |  |
 | 2780 |  |  |  |  |
 | 2781 |  |  |  |  |
