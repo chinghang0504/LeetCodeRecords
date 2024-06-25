@@ -3192,7 +3192,7 @@
 | 3187 |  |  |  |  |
 | 3188 |  |  |  |  |
 | 3189 |  |  |  |  |
-| 3190 |  |  |  |  |
+| 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | 2024-06-25 | [Java](./records/Java/Question_3190.md): 100.00% |
 | 3191 |  |  |  |  |
 | 3192 |  |  |  |  |
 | 3193 |  |  |  |  |
