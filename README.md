@@ -2375,7 +2375,7 @@
 | 2370 |  |  |  |  |
 | 2371 |  |  |  |  |
 | 2372 | Calculate the Influence of Each Salesperson | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2372.md): 100.00% |
-| 2373 |  |  |  |  |
+| 2373 | Largest Local Values in a Matrix | Easy | 2024-06-25 | [Java](./records/Java/Question_2373.md): 99.90% |
 | 2374 |  |  |  |  |
 | 2375 |  |  |  |  |
 | 2376 |  |  |  |  |
