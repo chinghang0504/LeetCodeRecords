@@ -2944,7 +2944,7 @@
 | 2939 |  |  |  |  |
 | 2940 |  |  |  |  |
 | 2941 |  |  |  |  |
-| 2942 |  |  |  |  |
+| 2942 | Find Words Containing Character | Easy | 2024-06-25 | [Java](./records/Java/Question_2942.md): 57.97% |
 | 2943 |  |  |  |  |
 | 2944 |  |  |  |  |
 | 2945 |  |  |  |  |
