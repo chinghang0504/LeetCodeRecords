@@ -1433,7 +1433,7 @@
 | 1428 |  |  |  |  |
 | 1429 |  |  |  |  |
 | 1430 |  |  |  |  |
-| 1431 |  |  |  |  |
+| 1431 | Kids With the Greatest Number of Candies | Easy | 2024-06-25 | [Java](./records/Java/Question_1431.md): 100.00% |
 | 1432 |  |  |  |  |
 | 1433 |  |  |  |  |
 | 1434 |  |  |  |  |
