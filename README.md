@@ -1639,7 +1639,7 @@
 | 1634 |  |  |  |  |
 | 1635 |  |  |  |  |
 | 1636 |  |  |  |  |
-| 1637 |  |  |  |  |
+| 1637 | Widest Vertical Area Between Two Points Containing No Points | Easy | 2024-06-26 | [Java](./records/Java/Question_1637.md): 96.35% |
 | 1638 |  |  |  |  |
 | 1639 |  |  |  |  |
 | 1640 |  |  |  |  |
