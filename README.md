@@ -2238,7 +2238,7 @@
 | 2233 |  |  |  |  |
 | 2234 |  |  |  |  |
 | 2235 | Add Two Integers | Easy | 2024-06-25 | [Java](./records/Java/Question_2235.md): 100.00% |
-| 2236 |  |  |  |  |
+| 2236 | Root Equals Sum of Children | Easy | 2024-06-26 | [Java](./records/Java/Question_2236.md): 100.00% |
 | 2237 |  |  |  |  |
 | 2238 |  |  |  |  |
 | 2239 |  |  |  |  |
