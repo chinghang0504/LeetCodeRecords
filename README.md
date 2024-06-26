@@ -2712,7 +2712,7 @@
 | 2707 |  |  |  |  |
 | 2708 |  |  |  |  |
 | 2709 |  |  |  |  |
-| 2710 |  |  |  |  |
+| 2710 | Remove Trailing Zeros From a String | Easy | 2024-06-26 | [Java](./records/Java/Question_2710.md): 40.82% |
 | 2711 |  |  |  |  |
 | 2712 |  |  |  |  |
 | 2713 |  |  |  |  |
