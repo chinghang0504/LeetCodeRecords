@@ -2654,7 +2654,7 @@
 | 2649 |  |  |  |  |
 | 2650 |  |  |  |  |
 | 2651 | Calculate Delayed Arrival Time | Easy | 2024-06-26 | [Java](./records/Java/Question_2651.md): 100.00% |
-| 2652 |  |  |  |  |
+| 2652 | Sum Multiples | Easy | 2024-06-29 | [Java](./records/Java/Question_2652.md): 96.45% |
 | 2653 |  |  |  |  |
 | 2654 |  |  |  |  |
 | 2655 |  |  |  |  |
