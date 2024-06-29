@@ -1834,7 +1834,7 @@
 | 1829 |  |  |  |  |
 | 1830 |  |  |  |  |
 | 1831 | Maximum Transaction Each Day | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_1831.md): 97.37% |
-| 1832 |  |  |  |  |
+| 1832 | Check if the Sentence Is Pangram | Easy | 2024-06-29 | [Java](./records/Java/Question_1832.md): 88.04% |
 | 1833 |  |  |  |  |
 | 1834 |  |  |  |  |
 | 1835 |  |  |  |  |
