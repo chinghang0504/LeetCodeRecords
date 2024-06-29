@@ -2730,7 +2730,7 @@
 | 2725 |  |  |  |  |
 | 2726 |  |  |  |  |
 | 2727 |  |  |  |  |
-| 2728 |  |  |  |  |
+| 2728 | Count Houses in a Circular Street | Easy | 2024-06-29 | [Java](./records/Java/Question_2728.md): 78.95% |
 | 2729 |  |  |  |  |
 | 2730 |  |  |  |  |
 | 2731 |  |  |  |  |
