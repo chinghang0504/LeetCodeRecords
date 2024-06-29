@@ -2110,7 +2110,7 @@
 | 2105 |  |  |  |  |
 | 2106 |  |  |  |  |
 | 2107 |  |  |  |  |
-| 2108 |  |  |  |  |
+| 2108 | Find First Palindromic String in the Array | Easy | 2024-06-29 | [Java](./records/Java/Question_2108.md): 100.00% |
 | 2109 |  |  |  |  |
 | 2110 |  |  |  |  |
 | 2111 |  |  |  |  |
