@@ -3196,7 +3196,7 @@
 | 3191 |  |  |  |  |
 | 3192 |  |  |  |  |
 | 3193 |  |  |  |  |
-| 3194 |  |  |  |  |
+| 3194 | Minimum Average of Smallest and Largest Elements | Easy | 2024-06-28 | [Java](./records/Java/Question_3194.md): 98.83% |
 | 3195 |  |  |  |  |
 | 3196 |  |  |  |  |
 | 3197 |  |  |  |  |
