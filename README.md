@@ -3067,7 +3067,7 @@
 | 3062 |  |  |  |  |
 | 3063 | Linked List Frequency | Easy | 2024-06-26 | [Java](./records/Java/Question_3063.md): 76.42% |
 | 3064 |  |  |  |  |
-| 3065 |  |  |  |  |
+| 3065 | Minimum Operations to Exceed Threshold Value I | Easy | 2024-06-29 | [Java](./records/Java/Question_3065.md): 100.00% |
 | 3066 |  |  |  |  |
 | 3067 |  |  |  |  |
 | 3068 |  |  |  |  |
