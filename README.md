@@ -2958,7 +2958,7 @@
 | 2953 |  |  |  |  |
 | 2954 |  |  |  |  |
 | 2955 |  |  |  |  |
-| 2956 |  |  |  |  |
+| 2956 | Find Common Elements Between Two Arrays | Easy | 2024-06-29 | [Java](./records/Java/Question_2956.md): 66.24% |
 | 2957 |  |  |  |  |
 | 2958 |  |  |  |  |
 | 2959 |  |  |  |  |
