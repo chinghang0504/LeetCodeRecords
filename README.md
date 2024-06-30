@@ -2333,7 +2333,7 @@
 | 2328 |  |  |  |  |
 | 2329 | Product Sales Analysis V | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2329.md): 100.00% |
 | 2330 |  |  |  |  |
-| 2331 |  |  |  |  |
+| 2331 | Evaluate Boolean Binary Tree | Easy | 2024-06-30 | [Java](./records/Java/Question_2331.md): 100.00% |
 | 2332 |  |  |  |  |
 | 2333 |  |  |  |  |
 | 2334 |  |  |  |  |
