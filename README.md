@@ -2658,7 +2658,7 @@
 | 2653 |  |  |  |  |
 | 2654 |  |  |  |  |
 | 2655 |  |  |  |  |
-| 2656 |  |  |  |  |
+| 2656 | Maximum Sum With Exactly K Elements | Easy | 2024-06-30 | [Java](./records/Java/Question_2656.md): 100.00% |
 | 2657 |  |  |  |  |
 | 2658 |  |  |  |  |
 | 2659 |  |  |  |  |
