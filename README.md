@@ -2726,7 +2726,7 @@
 | 2721 |  |  |  |  |
 | 2722 |  |  |  |  |
 | 2723 | Add Two Promises | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2723.md): 97.46% |
-| 2724 |  |  |  |  |
+| 2724 | Sort By | Easy | 2024-06-30 | [JavaScript](./records/JavaScript/Question_2724.md): 98.35% |
 | 2725 |  |  |  |  |
 | 2726 |  |  |  |  |
 | 2727 |  |  |  |  |
