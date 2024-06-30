@@ -1915,7 +1915,7 @@
 | 1910 |  |  |  |  |
 | 1911 |  |  |  |  |
 | 1912 |  |  |  |  |
-| 1913 |  |  |  |  |
+| 1913 | Maximum Product Difference Between Two Pairs | Easy | 2024-06-30 | [Java](./records/Java/Question_1913.md): 59.21% |
 | 1914 |  |  |  |  |
 | 1915 |  |  |  |  |
 | 1916 |  |  |  |  |
