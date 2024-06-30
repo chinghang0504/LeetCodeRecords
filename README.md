@@ -3064,7 +3064,7 @@
 | 3059 | Find All Unique Email Domains | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3059.md): 100.00% |
 | 3060 |  |  |  |  |
 | 3061 |  |  |  |  |
-| 3062 |  |  |  |  |
+| 3062 | Winner of the Linked List Game | Easy | 2024-06-30 | [Java](./records/Java/Question_3062.md): 100.00% |
 | 3063 | Linked List Frequency | Easy | 2024-06-26 | [Java](./records/Java/Question_3063.md): 76.42% |
 | 3064 |  |  |  |  |
 | 3065 | Minimum Operations to Exceed Threshold Value I | Easy | 2024-06-29 | [Java](./records/Java/Question_3065.md): 100.00% |
