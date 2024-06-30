@@ -1268,7 +1268,7 @@
 | 1263 |  |  |  |  |
 | 1264 |  |  |  |  |
 | 1265 | Print Immutable Linked List in Reverse | Medium | 2024-06-12 | [Java](./records/Java/Question_1265.md): 100.00% |
-| 1266 |  |  |  |  |
+| 1266 | Minimum Time Visiting All Points | Easy | 2024-06-30 | [Java](./records/Java/Question_1266.md): 91.68% |
 | 1267 |  |  |  |  |
 | 1268 |  |  |  |  |
 | 1269 |  |  |  |  |
