@@ -2962,7 +2962,7 @@
 | 2957 |  |  |  |  |
 | 2958 |  |  |  |  |
 | 2959 |  |  |  |  |
-| 2960 |  |  |  |  |
+| 2960 | Count Tested Devices After Test Operations | Easy | 2024-06-30 | [Java](./records/Java/Question_2960.md): 100.00% |
 | 2961 |  |  |  |  |
 | 2962 |  |  |  |  |
 | 2963 |  |  |  |  |
