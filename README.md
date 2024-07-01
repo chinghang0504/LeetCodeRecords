@@ -1829,7 +1829,7 @@
 | 1824 |  |  |  |  |
 | 1825 |  |  |  |  |
 | 1826 |  |  |  |  |
-| 1827 |  |  |  |  |
+| 1827 | Minimum Operations to Make the Array Increasing | Easy | 2024-07-01 | [Java](./records/Java/Question_1827.md): 100.00% |
 | 1828 |  |  |  |  |
 | 1829 |  |  |  |  |
 | 1830 |  |  |  |  |
