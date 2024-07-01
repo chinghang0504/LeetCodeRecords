@@ -1376,7 +1376,7 @@
 | 1371 |  |  |  |  |
 | 1372 |  |  |  |  |
 | 1373 |  |  |  |  |
-| 1374 |  |  |  |  |
+| 1374 | Generate a String With Characters That Have Odd Counts | Easy | 2024-06-30 | [Java](./records/Java/Question_1374.md): 85.83% |
 | 1375 |  |  |  |  |
 | 1376 |  |  |  |  |
 | 1377 |  |  |  |  |
