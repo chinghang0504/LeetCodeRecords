@@ -2217,7 +2217,7 @@
 | 2212 |  |  |  |  |
 | 2213 |  |  |  |  |
 | 2214 |  |  |  |  |
-| 2215 |  |  |  |  |
+| 2215 | Find the Difference of Two Arrays | Easy | 2024-06-30 | [Java](./records/Java/Question_2215.md): 99.72% |
 | 2216 |  |  |  |  |
 | 2217 |  |  |  |  |
 | 2218 |  |  |  |  |
