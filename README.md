@@ -3007,7 +3007,7 @@
 | 3002 |  |  |  |  |
 | 3003 |  |  |  |  |
 | 3004 |  |  |  |  |
-| 3005 |  |  |  |  |
+| 3005 | Count Elements With Maximum Frequency | Easy | 2024-07-01 | [Java](./records/Java/Question_3005.md): 99.65% |
 | 3006 |  |  |  |  |
 | 3007 |  |  |  |  |
 | 3008 |  |  |  |  |
