@@ -2680,7 +2680,7 @@
 | 2675 |  |  |  |  |
 | 2676 |  |  |  |  |
 | 2677 | Chunk Array | Easy | 2024-06-29 | [JavaScript](./records/JavaScript/Question_2677.md): 86.88% |
-| 2678 |  |  |  |  |
+| 2678 | Number of Senior Citizens | Easy | 2024-06-30 | [Java](./records/Java/Question_2678.md): 100.00% |
 | 2679 |  |  |  |  |
 | 2680 |  |  |  |  |
 | 2681 |  |  |  |  |
