@@ -1981,7 +1981,7 @@
 | 1976 |  |  |  |  |
 | 1977 |  |  |  |  |
 | 1978 | Employees Whose Manager Left the Company | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1978.md): 98.11% |
-| 1979 |  |  |  |  |
+| 1979 | Find Greatest Common Divisor of Array | Easy | 2024-07-01 | [Java](./records/Java/Question_1979.md): 100.00% |
 | 1980 |  |  |  |  |
 | 1981 |  |  |  |  |
 | 1982 |  |  |  |  |
