@@ -1846,7 +1846,7 @@
 | 1841 |  |  |  |  |
 | 1842 |  |  |  |  |
 | 1843 |  |  |  |  |
-| 1844 |  |  |  |  |
+| 1844 | Replace All Digits with Characters | Easy | 2024-06-30 | [Java](./records/Java/Question_1844.md): 100.00% |
 | 1845 |  |  |  |  |
 | 1846 |  |  |  |  |
 | 1847 |  |  |  |  |
