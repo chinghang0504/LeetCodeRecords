@@ -2187,7 +2187,7 @@
 | 2182 |  |  |  |  |
 | 2183 |  |  |  |  |
 | 2184 |  |  |  |  |
-| 2185 |  |  |  |  |
+| 2185 | Counting Words With a Given Prefix | Easy | 2024-07-02 | [Java](./records/Java/Question_2185.md): 100.00% |
 | 2186 |  |  |  |  |
 | 2187 |  |  |  |  |
 | 2188 |  |  |  |  |
