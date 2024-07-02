@@ -1727,7 +1727,7 @@
 | 1722 |  |  |  |  |
 | 1723 |  |  |  |  |
 | 1724 |  |  |  |  |
-| 1725 |  |  |  |  |
+| 1725 | Number Of Rectangles That Can Form The Largest Square | Easy | 2024-07-02 | [Java](./records/Java/Question_1725.md): 99.38% |
 | 1726 |  |  |  |  |
 | 1727 |  |  |  |  |
 | 1728 |  |  |  |  |
