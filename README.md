@@ -2178,7 +2178,7 @@
 | 2173 |  |  |  |  |
 | 2174 |  |  |  |  |
 | 2175 |  |  |  |  |
-| 2176 |  |  |  |  |
+| 2176 | Count Equal and Divisible Pairs in an Array | Easy | 2024-07-02 | [Java](./records/Java/Question_2176.md): 98.42% |
 | 2177 |  |  |  |  |
 | 2178 |  |  |  |  |
 | 2179 |  |  |  |  |
