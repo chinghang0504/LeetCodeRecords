@@ -1353,7 +1353,7 @@
 | 1348 |  |  |  |  |
 | 1349 |  |  |  |  |
 | 1350 | Students With Invalid Departments | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1350.md): 99.22% |
-| 1351 |  |  |  |  |
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | 2024-07-02 | [Java](./records/Java/Question_1351.md): 54.65% |
 | 1352 |  |  |  |  |
 | 1353 |  |  |  |  |
 | 1354 |  |  |  |  |
