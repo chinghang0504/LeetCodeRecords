@@ -2162,7 +2162,7 @@
 | 2157 |  |  |  |  |
 | 2158 |  |  |  |  |
 | 2159 |  |  |  |  |
-| 2160 |  |  |  |  |
+| 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy | 2024-07-03 | [Java](./records/Java/Question_2160.md): 100.00% |
 | 2161 |  |  |  |  |
 | 2162 |  |  |  |  |
 | 2163 |  |  |  |  |
