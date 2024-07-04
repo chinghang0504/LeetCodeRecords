@@ -2672,7 +2672,7 @@
 | 2667 | Create Hello World Function | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2667.md): 92.39% |
 | 2668 | Find Latest Salaries | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2668.md): 100.00% |
 | 2669 | Count Artist Occurrences On Spotify Ranking List | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2669.md): 100.00% |
-| 2670 |  |  |  |  |
+| 2670 | Find the Distinct Difference Array | Easy | 2024-07-04 | [Java](./records/Java/Question_2670.md): 17.87% |
 | 2671 |  |  |  |  |
 | 2672 |  |  |  |  |
 | 2673 |  |  |  |  |
