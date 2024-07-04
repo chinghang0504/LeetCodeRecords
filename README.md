@@ -1486,7 +1486,7 @@
 | 1481 |  |  |  |  |
 | 1482 |  |  |  |  |
 | 1483 |  |  |  |  |
-| 1484 |  |  |  |  |
+| 1484 | Group Sold Products By The Date | Easy | 2024-07-04 | [Pandas](./records/Pandas/Question_1484.md): 95.05% |
 | 1485 |  |  |  |  |
 | 1486 | XOR Operation in an Array | Easy | 2024-06-05 | [Java](./records/Java/Question_1486.md): 100.00% |
 | 1487 |  |  |  |  |
