@@ -1882,7 +1882,7 @@
 | 1877 |  |  |  |  |
 | 1878 |  |  |  |  |
 | 1879 |  |  |  |  |
-| 1880 |  |  |  |  |
+| 1880 | Check if Word Equals Summation of Two Words | Easy | 2024-07-05 | [Java](./records/Java/Question_1880.md): 100.00% |
 | 1881 |  |  |  |  |
 | 1882 |  |  |  |  |
 | 1883 |  |  |  |  |
