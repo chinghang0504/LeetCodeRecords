@@ -1004,7 +1004,7 @@
 | 999 | Available Captures for Rook | Easy | 2024-05-11 | [Java](./records/Java/Question_999.md): 100.00% |
 | 1000 |  |  |  |  |
 | 1001 |  |  |  |  |
-| 1002 |  |  |  |  |
+| 1002 | Find Common Characters | Easy | 2024-07-05 | [Java](./records/Java/Question_1002.md): 42.74% |
 | 1003 |  |  |  |  |
 | 1004 |  |  |  |  |
 | 1005 |  |  |  |  |
