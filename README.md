@@ -2343,7 +2343,7 @@
 | 2338 |  |  |  |  |
 | 2339 | All the Matches of the League | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2339.md): 96.15% |
 | 2340 |  |  |  |  |
-| 2341 |  |  |  |  |
+| 2341 | Maximum Number of Pairs in Array | Easy | 2024-07-04 | [Java](./records/Java/Question_2341.md): 100.00% |
 | 2342 |  |  |  |  |
 | 2343 |  |  |  |  |
 | 2344 |  |  |  |  |
