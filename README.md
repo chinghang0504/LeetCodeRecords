@@ -1976,7 +1976,7 @@
 | 1971 |  |  |  |  |
 | 1972 |  |  |  |  |
 | 1973 |  |  |  |  |
-| 1974 |  |  |  |  |
+| 1974 | Minimum Time to Type Word Using Special Typewriter | Easy | 2024-07-04 | [Java](./records/Java/Question_1974.md): 100.00% |
 | 1975 |  |  |  |  |
 | 1976 |  |  |  |  |
 | 1977 |  |  |  |  |
