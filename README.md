@@ -3071,7 +3071,7 @@
 | 3066 |  |  |  |  |
 | 3067 |  |  |  |  |
 | 3068 |  |  |  |  |
-| 3069 |  |  |  |  |
+| 3069 | Distribute Elements Into Two Arrays I | Easy | 2024-07-06 | [Java](./records/Java/Question_3069.md): 99.66% |
 | 3070 |  |  |  |  |
 | 3071 |  |  |  |  |
 | 3072 |  |  |  |  |
