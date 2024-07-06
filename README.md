@@ -1937,7 +1937,7 @@
 | 1932 |  |  |  |  |
 | 1933 |  |  |  |  |
 | 1934 |  |  |  |  |
-| 1935 |  |  |  |  |
+| 1935 | Maximum Number of Words You Can Type | Easy | 2024-07-06 | [Java](./records/Java/Question_1935.md): 39.93% |
 | 1936 |  |  |  |  |
 | 1937 |  |  |  |  |
 | 1938 |  |  |  |  |
