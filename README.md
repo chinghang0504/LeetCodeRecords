@@ -1878,7 +1878,7 @@
 | 1873 | Calculate Special Bonus | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1873.md): 99.22% |
 | 1874 | Minimize Product Sum of Two Arrays | Medium | 2024-06-25 | [Java](./records/Java/Question_1874.md): 84.40% |
 | 1875 |  |  |  |  |
-| 1876 |  |  |  |  |
+| 1876 | Substrings of Size Three with Distinct Characters | Easy | 2024-07-06 | [Java](./records/Java/Question_1876.md): 100.00% |
 | 1877 |  |  |  |  |
 | 1878 |  |  |  |  |
 | 1879 |  |  |  |  |
