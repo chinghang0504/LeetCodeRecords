@@ -3081,7 +3081,7 @@
 | 3076 |  |  |  |  |
 | 3077 |  |  |  |  |
 | 3078 |  |  |  |  |
-| 3079 |  |  |  |  |
+| 3079 | Find the Sum of Encrypted Integers | Easy | 2024-07-06 | [Java](./records/Java/Question_3079.md): 99.89% |
 | 3080 |  |  |  |  |
 | 3081 |  |  |  |  |
 | 3082 |  |  |  |  |
