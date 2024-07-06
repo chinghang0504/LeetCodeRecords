@@ -2359,7 +2359,7 @@
 | 2354 |  |  |  |  |
 | 2355 |  |  |  |  |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2356.md): 99.94% |
-| 2357 |  |  |  |  |
+| 2357 | Make Array Zero by Subtracting Equal Amounts | Easy | 2024-07-06 | [Java](./records/Java/Question_2357.md): 100.00% |
 | 2358 |  |  |  |  |
 | 2359 |  |  |  |  |
 | 2360 |  |  |  |  |
