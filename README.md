@@ -2391,7 +2391,7 @@
 | 2386 |  |  |  |  |
 | 2387 |  |  |  |  |
 | 2388 |  |  |  |  |
-| 2389 |  |  |  |  |
+| 2389 | Longest Subsequence With Limited Sum | Easy | 2024-07-07 | [Java](./records/Java/Question_2389.md): 59.11% |
 | 2390 |  |  |  |  |
 | 2391 |  |  |  |  |
 | 2392 |  |  |  |  |
