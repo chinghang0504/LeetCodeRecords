@@ -2477,7 +2477,7 @@
 | 2472 |  |  |  |  |
 | 2473 |  |  |  |  |
 | 2474 |  |  |  |  |
-| 2475 |  |  |  |  |
+| 2475 | Number of Unequal Triplets in Array | Easy | 2024-07-08 | [Java](./records/Java/Question_2475.md): 89.01% |
 | 2476 |  |  |  |  |
 | 2477 |  |  |  |  |
 | 2478 |  |  |  |  |
