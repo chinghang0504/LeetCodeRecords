@@ -1462,7 +1462,7 @@
 | 1457 |  |  |  |  |
 | 1458 |  |  |  |  |
 | 1459 |  |  |  |  |
-| 1460 |  |  |  |  |
+| 1460 | Make Two Arrays Equal by Reversing Subarrays | Easy | 2024-07-08 | [Java](./records/Java/Question_1460.md): 85.33% |
 | 1461 |  |  |  |  |
 | 1462 |  |  |  |  |
 | 1463 |  |  |  |  |
