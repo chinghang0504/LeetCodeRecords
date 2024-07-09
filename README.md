@@ -2285,7 +2285,7 @@
 | 2280 |  |  |  |  |
 | 2281 |  |  |  |  |
 | 2282 |  |  |  |  |
-| 2283 |  |  |  |  |
+| 2283 | Check if Number Has Equal Digit Count and Digit Value | Easy | 2024-07-08 | [Java](./records/Java/Question_2283.md): 100.00% |
 | 2284 |  |  |  |  |
 | 2285 |  |  |  |  |
 | 2286 |  |  |  |  |
