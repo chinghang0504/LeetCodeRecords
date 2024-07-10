@@ -2982,7 +2982,7 @@
 | 2977 |  |  |  |  |
 | 2978 |  |  |  |  |
 | 2979 |  |  |  |  |
-| 2980 |  |  |  |  |
+| 2980 | Check if Bitwise OR Has Trailing Zeros | Easy | 2024-07-09 | [Java](./records/Java/Question_2980.md): 63.57% |
 | 2981 |  |  |  |  |
 | 2982 |  |  |  |  |
 | 2983 |  |  |  |  |
