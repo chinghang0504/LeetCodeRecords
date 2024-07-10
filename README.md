@@ -2044,7 +2044,7 @@
 | 2039 |  |  |  |  |
 | 2040 |  |  |  |  |
 | 2041 |  |  |  |  |
-| 2042 |  |  |  |  |
+| 2042 | Check if Numbers Are Ascending in a Sentence | Easy | 2024-07-10 | [Java](./records/Java/Question_2042.md): 100.00% |
 | 2043 |  |  |  |  |
 | 2044 |  |  |  |  |
 | 2045 |  |  |  |  |
