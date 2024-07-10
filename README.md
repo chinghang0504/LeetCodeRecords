@@ -3201,5 +3201,17 @@
 | 3196 |  |  |  |  |
 | 3197 |  |  |  |  |
 | 3198 | Find Cities in Each State | Easy | 2024-06-25 | [Pandas](./records/Pandas/Question_3198.md): 100.00% |
+| 3199 |  |  |  |  |
+| 3200 |  |  |  |  |
+| 3201 |  |  |  |  |
+| 3202 |  |  |  |  |
+| 3203 |  |  |  |  |
+| 3204 |  |  |  |  |
+| 3205 |  |  |  |  |
+| 3206 |  |  |  |  |
+| 3207 |  |  |  |  |
+| 3208 |  |  |  |  |
+| 3209 |  |  |  |  |
+| 3210 | Find the Encrypted String | Easy | 2024-07-10 | [Java](./records/Java/Question_3210.md): 100.00% |
 
 <br>
