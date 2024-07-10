@@ -1162,7 +1162,7 @@
 | 1157 |  |  |  |  |
 | 1158 | Market Analysis I | Medium | 2024-05-28 | [Pandas](./records/Pandas/Question_1158.md): 97.34% |
 | 1159 |  |  |  |  |
-| 1160 |  |  |  |  |
+| 1160 | Find Words That Can Be Formed by Characters | Easy | 2024-07-09 | [Java](./records/Java/Question_1160.md): 90.29% |
 | 1161 |  |  |  |  |
 | 1162 |  |  |  |  |
 | 1163 |  |  |  |  |
