@@ -764,7 +764,7 @@
 | 759 |  |  |  |  |
 | 760 | Find Anagram Mappings | Easy | 2024-05-02 | [Java](./records/Java/Question_760.md): 98.80% |
 | 761 |  |  |  |  |
-| 762 |  |  |  |  |
+| 762 | Prime Number of Set Bits in Binary Representation | Easy | 2024-07-10 | [Java](./records/Java/Question_762.md): 58.34% |
 | 763 |  |  |  |  |
 | 764 |  |  |  |  |
 | 765 |  |  |  |  |
