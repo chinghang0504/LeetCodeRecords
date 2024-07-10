@@ -2564,7 +2564,7 @@
 | 2559 |  |  |  |  |
 | 2560 |  |  |  |  |
 | 2561 |  |  |  |  |
-| 2562 |  |  |  |  |
+| 2562 | Find the Array Concatenation Value | Easy | 2024-07-10 | [Java](./records/Java/Question_2562.md): 96.36% |
 | 2563 |  |  |  |  |
 | 2564 |  |  |  |  |
 | 2565 |  |  |  |  |
