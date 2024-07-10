@@ -2311,7 +2311,7 @@
 | 2306 |  |  |  |  |
 | 2307 |  |  |  |  |
 | 2308 |  |  |  |  |
-| 2309 |  |  |  |  |
+| 2309 | Greatest English Letter in Upper and Lower Case | Easy | 2024-07-09 | [Java](./records/Java/Question_2309.md): 79.20% |
 | 2310 |  |  |  |  |
 | 2311 |  |  |  |  |
 | 2312 |  |  |  |  |
