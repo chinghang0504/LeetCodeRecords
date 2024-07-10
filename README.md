@@ -1049,7 +1049,7 @@
 | 1044 |  |  |  |  |
 | 1045 |  |  |  |  |
 | 1046 |  |  |  |  |
-| 1047 |  |  |  |  |
+| 1047 | Remove All Adjacent Duplicates In String | Easy | 2024-07-10 | [Java](./records/Java/Question_1047.md): 77.53% |
 | 1048 |  |  |  |  |
 | 1049 |  |  |  |  |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | 2024-06-03 | [Pandas](./records/Pandas/Question_1050.md): 96.59% |
