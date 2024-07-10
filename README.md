@@ -2508,7 +2508,7 @@
 | 2503 |  |  |  |  |
 | 2504 | Concatenate the Name and the Profession | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2504.md): 94.74% |
 | 2505 |  |  |  |  |
-| 2506 |  |  |  |  |
+| 2506 | Count Pairs Of Similar Strings | Easy | 2024-07-09 | [Java](./records/Java/Question_2506.md): 56.17% |
 | 2507 |  |  |  |  |
 | 2508 |  |  |  |  |
 | 2509 |  |  |  |  |
