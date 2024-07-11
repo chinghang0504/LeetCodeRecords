@@ -2266,7 +2266,7 @@
 | 2261 |  |  |  |  |
 | 2262 |  |  |  |  |
 | 2263 |  |  |  |  |
-| 2264 |  |  |  |  |
+| 2264 | Largest 3-Same-Digit Number in String | Easy | 2024-07-11 | [Java](./records/Java/Question_2264.md): 89.25% |
 | 2265 |  |  |  |  |
 | 2266 |  |  |  |  |
 | 2267 |  |  |  |  |
