@@ -1116,7 +1116,7 @@
 | 1111 |  |  |  |  |
 | 1112 | Highest Grade For Each Student | Medium | 2024-05-30 | [Pandas](./records/Pandas/Question_1112.md): 92.19% |
 | 1113 | Reported Posts | Easy | 2024-05-30 | [Pandas](./records/Pandas/Question_1113.md): 98.08% |
-| 1114 |  |  |  |  |
+| 1114 | Print in Order | Easy | 2024-07-10 | [Java](./records/Java/Question_1114.md): 99.83% |
 | 1115 |  |  |  |  |
 | 1116 |  |  |  |  |
 | 1117 |  |  |  |  |
