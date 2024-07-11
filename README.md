@@ -1135,7 +1135,7 @@
 | 1130 |  |  |  |  |
 | 1131 |  |  |  |  |
 | 1132 |  |  |  |  |
-| 1133 |  |  |  |  |
+| 1133 | Largest Unique Number | Easy | 2024-07-11 | [Java](./records/Java/Question_1133.md): 88.62% |
 | 1134 | Armstrong Number | Easy | 2024-07-02 | [Java](./records/Java/Question_1134.md): 100.00% |
 | 1135 |  |  |  |  |
 | 1136 |  |  |  |  |
