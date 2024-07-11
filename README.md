@@ -2708,7 +2708,7 @@
 | 2703 | Return Length of Arguments Passed | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2703.md): 92.33% |
 | 2704 | To Be Or Not To Be | Easy | 2024-06-12 | [JavaScript](./records/JavaScript/Question_2704.md): 95.41% |
 | 2705 |  |  |  |  |
-| 2706 |  |  |  |  |
+| 2706 | Buy Two Chocolates | Easy | 2024-07-11 | [Java](./records/Java/Question_2706.md): 72.66% |
 | 2707 |  |  |  |  |
 | 2708 |  |  |  |  |
 | 2709 |  |  |  |  |
