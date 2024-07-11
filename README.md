@@ -1626,7 +1626,7 @@
 | 1621 |  |  |  |  |
 | 1622 |  |  |  |  |
 | 1623 |  |  |  |  |
-| 1624 |  |  |  |  |
+| 1624 | Largest Substring Between Two Equal Characters | Easy | 2024-07-11 | [Java](./records/Java/Question_1624.md): 100.00% |
 | 1625 |  |  |  |  |
 | 1626 |  |  |  |  |
 | 1627 |  |  |  |  |
