@@ -3035,7 +3035,7 @@
 | 3030 |  |  |  |  |
 | 3031 |  |  |  |  |
 | 3032 | Count Numbers With Unique Digits II | Easy | 2024-07-01 | [Java](./records/Java/Question_3032.md): 35.56% |
-| 3033 |  |  |  |  |
+| 3033 | Modify the Matrix | Easy | 2024-07-12 | [Java](./records/Java/Question_3033.md): 100.00% |
 | 3034 |  |  |  |  |
 | 3035 |  |  |  |  |
 | 3036 |  |  |  |  |
