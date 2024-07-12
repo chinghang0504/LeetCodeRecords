@@ -826,7 +826,7 @@
 | 821 | Shortest Distance to a Character | Easy | 2024-05-15 | [Java](./records/Java/Question_821.md): 98.40% |
 | 822 |  |  |  |  |
 | 823 |  |  |  |  |
-| 824 |  |  |  |  |
+| 824 | Goat Latin | Easy | 2024-07-12 | [Java](./records/Java/Question_824.md): 100.00% |
 | 825 |  |  |  |  |
 | 826 |  |  |  |  |
 | 827 |  |  |  |  |
