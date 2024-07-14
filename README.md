@@ -1304,7 +1304,7 @@
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | 2024-05-25 | [Java](./records/Java/Question_1299.md): 100.00% |
 | 1300 |  |  |  |  |
 | 1301 |  |  |  |  |
-| 1302 |  |  |  |  |
+| 1302 | Deepest Leaves Sum | Medium | 2024-07-14 | [Java](./records/Java/Question_1302.md): 100.00% |
 | 1303 | Find the Team Size | Easy | 2024-05-25 | [Pandas](./records/Pandas/Question_1303.md): 96.43% |
 | 1304 | Find N Unique Integers Sum up to Zero | Easy | 2024-05-25 | [Java](./records/Java/Question_1304.md): 100.00% |
 | 1305 |  |  |  |  |
