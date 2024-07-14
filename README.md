@@ -2547,7 +2547,7 @@
 | 2542 |  |  |  |  |
 | 2543 |  |  |  |  |
 | 2544 | Alternating Digit Sum | Easy | 2024-06-21 | [Java](./records/Java/Question_2544.md): 100.00% |
-| 2545 |  |  |  |  |
+| 2545 | Sort the Students by Their Kth Score | Medium | 2024-07-14 | [Java](./records/Java/Question_2545.md): 92.73% |
 | 2546 |  |  |  |  |
 | 2547 |  |  |  |  |
 | 2548 |  |  |  |  |
