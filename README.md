@@ -1492,7 +1492,7 @@
 | 1487 |  |  |  |  |
 | 1488 |  |  |  |  |
 | 1489 |  |  |  |  |
-| 1490 |  |  |  |  |
+| 1490 | Clone N-ary Tree | Medium | 2024-07-14 | [Java](./records/Java/Question_1490.md): 100.00% |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | 2024-05-30 | [Java](./records/Java/Question_1491.md): 100.00% |
 | 1492 |  |  |  |  |
 | 1493 |  |  |  |  |
