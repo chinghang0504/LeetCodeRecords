@@ -2127,7 +2127,7 @@
 | 2122 |  |  |  |  |
 | 2123 |  |  |  |  |
 | 2124 | Check if All A's Appears Before All B's | Easy | 2024-06-14 | [Java](./records/Java/Question_2124.md): 100.00% |
-| 2125 |  |  |  |  |
+| 2125 | Number of Laser Beams in a Bank | Medium | 2024-07-14 | [Java](./records/Java/Question_2125.md): 89.86% |
 | 2126 |  |  |  |  |
 | 2127 |  |  |  |  |
 | 2128 |  |  |  |  |
