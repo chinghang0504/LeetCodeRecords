@@ -1691,7 +1691,7 @@
 | 1686 |  |  |  |  |
 | 1687 |  |  |  |  |
 | 1688 | Count of Matches in Tournament | Easy | 2024-06-06 | [Java](./records/Java/Question_1688.md): 100.00% |
-| 1689 |  |  |  |  |
+| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | 2024-07-13 | [Java](./records/Java/Question_1689.md): 75.33% |
 | 1690 |  |  |  |  |
 | 1691 |  |  |  |  |
 | 1692 |  |  |  |  |
