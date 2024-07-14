@@ -2612,7 +2612,7 @@
 | 2607 |  |  |  |  |
 | 2608 |  |  |  |  |
 | 2609 |  |  |  |  |
-| 2610 |  |  |  |  |
+| 2610 | Convert an Array Into a 2D Array With Conditions | Medium | 2024-07-13 | [Java](./records/Java/Question_2610.md): 90.15% |
 | 2611 |  |  |  |  |
 | 2612 |  |  |  |  |
 | 2613 |  |  |  |  |
