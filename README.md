@@ -1317,7 +1317,7 @@
 | 1312 |  |  |  |  |
 | 1313 | Decompress Run-Length Encoded List | Easy | 2024-05-25 | [Java](./records/Java/Question_1313.md): 75.45% |
 | 1314 |  |  |  |  |
-| 1315 |  |  |  |  |
+| 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | 2024-07-14 | [Java](./records/Java/Question_1315.md): 100.00% |
 | 1316 |  |  |  |  |
 | 1317 |  |  |  |  |
 | 1318 |  |  |  |  |
