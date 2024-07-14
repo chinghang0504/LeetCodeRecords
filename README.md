@@ -656,7 +656,7 @@
 | 651 |  |  |  |  |
 | 652 |  |  |  |  |
 | 653 | Two Sum IV - Input is a BST | Easy | 2024-04-29 | [Java](./records/Java/Question_653.md): 15.03% |
-| 654 |  |  |  |  |
+| 654 | Maximum Binary Tree | Medium | 2024-07-14 | [Java](./records/Java/Question_654.md): 100.00% |
 | 655 |  |  |  |  |
 | 656 |  |  |  |  |
 | 657 | Robot Return to Origin | Easy | 2024-04-29 | [Java](./records/Java/Question_657.md): 97.65% |
