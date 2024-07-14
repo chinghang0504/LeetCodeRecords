@@ -1478,7 +1478,7 @@
 | 1473 |  |  |  |  |
 | 1474 |  |  |  |  |
 | 1475 | Final Prices With a Special Discount in a Shop | Easy | 2024-05-29 | [Java](./records/Java/Question_1475.md): 98.67% |
-| 1476 |  |  |  |  |
+| 1476 | Subrectangle Queries | Medium | 2024-07-13 | [Java](./records/Java/Question_1476.md): 100.00% |
 | 1477 |  |  |  |  |
 | 1478 |  |  |  |  |
 | 1479 |  |  |  |  |
