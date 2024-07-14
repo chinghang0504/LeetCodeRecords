@@ -1771,7 +1771,7 @@
 | 1766 |  |  |  |  |
 | 1767 |  |  |  |  |
 | 1768 |  |  |  |  |
-| 1769 |  |  |  |  |
+| 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | 2024-07-14 | [Java](./records/Java/Question_1769.md): 66.64% |
 | 1770 |  |  |  |  |
 | 1771 |  |  |  |  |
 | 1772 |  |  |  |  |
