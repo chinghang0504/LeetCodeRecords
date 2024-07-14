@@ -1040,7 +1040,7 @@
 | 1035 |  |  |  |  |
 | 1036 |  |  |  |  |
 | 1037 |  |  |  |  |
-| 1038 |  |  |  |  |
+| 1038 | Binary Search Tree to Greater Sum Tree | Medium | 2024-07-13 | [Java](./records/Java/Question_1038.md): 100.00% |
 | 1039 |  |  |  |  |
 | 1040 |  |  |  |  |
 | 1041 |  |  |  |  |
