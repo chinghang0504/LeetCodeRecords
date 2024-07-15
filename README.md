@@ -2484,7 +2484,7 @@
 | 2479 |  |  |  |  |
 | 2480 | Form a Chemical Bond | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2480.md): 100.00% |
 | 2481 | Minimum Cuts to Divide a Circle | Easy | 2024-06-24 | [Java](./records/Java/Question_2481.md): 100.00% |
-| 2482 |  |  |  |  |
+| 2482 | Difference Between Ones and Zeros in Row and Column | Medium | 2024-07-14 | [Java](./records/Java/Question_2482.md): 65.63% |
 | 2483 |  |  |  |  |
 | 2484 |  |  |  |  |
 | 2485 | Find the Pivot Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2485.md): 100.00% |
