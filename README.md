@@ -1563,7 +1563,7 @@
 | 1558 |  |  |  |  |
 | 1559 |  |  |  |  |
 | 1560 |  |  |  |  |
-| 1561 |  |  |  |  |
+| 1561 | Maximum Number of Coins You Can Get | Medium | 2024-07-14 | [Java](./records/Java/Question_1561.md): 64.02% |
 | 1562 |  |  |  |  |
 | 1563 |  |  |  |  |
 | 1564 |  |  |  |  |
