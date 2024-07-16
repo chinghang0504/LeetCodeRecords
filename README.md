@@ -1198,7 +1198,7 @@
 | 1193 |  |  |  |  |
 | 1194 |  |  |  |  |
 | 1195 |  |  |  |  |
-| 1196 |  |  |  |  |
+| 1196 | How Many Apples Can You Put into the Basket | Easy | 2024-07-16 | [Java](./records/Java/Question_1196.md): 97.07% |
 | 1197 |  |  |  |  |
 | 1198 |  |  |  |  |
 | 1199 |  |  |  |  |
