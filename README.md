@@ -2250,7 +2250,7 @@
 | 2245 |  |  |  |  |
 | 2246 |  |  |  |  |
 | 2247 |  |  |  |  |
-| 2248 |  |  |  |  |
+| 2248 | Intersection of Multiple Arrays | Easy | 2024-07-15 | [Java](./records/Java/Question_2248.md): 60.74% |
 | 2249 |  |  |  |  |
 | 2250 |  |  |  |  |
 | 2251 |  |  |  |  |
