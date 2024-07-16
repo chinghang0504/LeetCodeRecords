@@ -2641,7 +2641,7 @@
 | 2636 |  |  |  |  |
 | 2637 |  |  |  |  |
 | 2638 |  |  |  |  |
-| 2639 |  |  |  |  |
+| 2639 | Find the Width of Columns of a Grid | Easy | 2024-07-15 | [Java](./records/Java/Question_2639.md): 75.09% |
 | 2640 |  |  |  |  |
 | 2641 |  |  |  |  |
 | 2642 |  |  |  |  |
