@@ -1899,7 +1899,7 @@
 | 1894 |  |  |  |  |
 | 1895 |  |  |  |  |
 | 1896 |  |  |  |  |
-| 1897 |  |  |  |  |
+| 1897 | Redistribute Characters to Make All Strings Equal | Easy | 2024-07-16 | [Java](./records/Java/Question_1897.md): 95.21% |
 | 1898 |  |  |  |  |
 | 1899 |  |  |  |  |
 | 1900 |  |  |  |  |
