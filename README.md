@@ -2182,7 +2182,7 @@
 | 2177 |  |  |  |  |
 | 2178 |  |  |  |  |
 | 2179 |  |  |  |  |
-| 2180 |  |  |  |  |
+| 2180 | Count Integers With Even Digit Sum | Easy | 2024-07-16 | [Java](./records/Java/Question_2180.md):  |
 | 2181 |  |  |  |  |
 | 2182 |  |  |  |  |
 | 2183 |  |  |  |  |
