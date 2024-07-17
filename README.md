@@ -3012,7 +3012,7 @@
 | 3007 |  |  |  |  |
 | 3008 |  |  |  |  |
 | 3009 |  |  |  |  |
-| 3010 |  |  |  |  |
+| 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | 2024-07-16 | [Java](./records/Java/Question_3010.md): 33.33% |
 | 3011 |  |  |  |  |
 | 3012 |  |  |  |  |
 | 3013 |  |  |  |  |
