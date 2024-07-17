@@ -2132,7 +2132,7 @@
 | 2127 |  |  |  |  |
 | 2128 |  |  |  |  |
 | 2129 |  |  |  |  |
-| 2130 |  |  |  |  |
+| 2130 | Maximum Twin Sum of a Linked List | Medium | 2024-07-17 | [Java](./records/Java/Question_2130.md): 69.28% |
 | 2131 |  |  |  |  |
 | 2132 |  |  |  |  |
 | 2133 |  |  |  |  |
