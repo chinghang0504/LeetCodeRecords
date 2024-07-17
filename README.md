@@ -708,7 +708,7 @@
 | 703 | Kth Largest Element in a Stream | Easy | 2024-04-30 | [Java](./records/Java/Question_703.md): 6.19% |
 | 704 | Binary Search | Easy | 2024-04-30 | [Java](./records/Java/Question_704.md): 100.00% |
 | 705 | Design HashSet | Easy | 2024-07-17 | [Java](./records/Java/Question_705.md): 17.31% |
-| 706 |  |  |  |  |
+| 706 | Design HashMap | Easy | 2024-07-17 | [Java](./records/Java/Question_706.md): 69.03% |
 | 707 |  |  |  |  |
 | 708 |  |  |  |  |
 | 709 | To Lower Case | Easy | 2024-04-30 | [Java](./records/Java/Question_709.md): 100.00% |
