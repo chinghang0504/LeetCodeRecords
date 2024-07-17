@@ -3076,7 +3076,7 @@
 | 3071 |  |  |  |  |
 | 3072 |  |  |  |  |
 | 3073 |  |  |  |  |
-| 3074 |  |  |  |  |
+| 3074 | Apple Redistribution into Boxes | Easy | 2024-07-16 | [Java](./records/Java/Question_3074.md): 99.73% |
 | 3075 |  |  |  |  |
 | 3076 |  |  |  |  |
 | 3077 |  |  |  |  |
