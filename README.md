@@ -1824,7 +1824,7 @@
 | 1819 |  |  |  |  |
 | 1820 |  |  |  |  |
 | 1821 | Find Customers With Positive Revenue this Year | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1821.md): 100.00% |
-| 1822 |  |  |  |  |
+| 1822 | Sign of the Product of an Array | Easy | 2024-07-17 | [Java](./records/Java/Question_1822.md): 100.00% |
 | 1823 |  |  |  |  |
 | 1824 |  |  |  |  |
 | 1825 |  |  |  |  |
