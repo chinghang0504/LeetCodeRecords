@@ -1415,7 +1415,7 @@
 | 1410 |  |  |  |  |
 | 1411 |  |  |  |  |
 | 1412 | Find the Quiet Students in All Exams | Hard | 2024-06-01 | [Pandas](./records/Pandas/Question_1412.md): 90.48% |
-| 1413 |  |  |  |  |
+| 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | 2024-07-17 | [Java](./records/Java/Question_1413.md): 100.00% |
 | 1414 |  |  |  |  |
 | 1415 |  |  |  |  |
 | 1416 |  |  |  |  |
