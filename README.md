@@ -2226,7 +2226,7 @@
 | 2221 |  |  |  |  |
 | 2222 |  |  |  |  |
 | 2223 |  |  |  |  |
-| 2224 |  |  |  |  |
+| 2224 | Minimum Number of Operations to Convert Time | Easy | 2024-07-17 | [Java](./records/Java/Question_2224.md): 100.00% |
 | 2225 |  |  |  |  |
 | 2226 |  |  |  |  |
 | 2227 |  |  |  |  |
