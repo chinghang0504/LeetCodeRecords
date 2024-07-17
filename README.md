@@ -3085,7 +3085,7 @@
 | 3080 |  |  |  |  |
 | 3081 |  |  |  |  |
 | 3082 |  |  |  |  |
-| 3083 |  |  |  |  |
+| 3083 | Existence of a Substring in a String and Its Reverse | Easy | 2024-07-17 | [Java](./records/Java/Question_3083.md): 100.00% |
 | 3084 |  |  |  |  |
 | 3085 |  |  |  |  |
 | 3086 |  |  |  |  |
