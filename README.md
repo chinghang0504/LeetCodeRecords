@@ -1610,7 +1610,7 @@
 | 1605 |  |  |  |  |
 | 1606 |  |  |  |  |
 | 1607 | Sellers With No Sales | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1607.md): 98.21% |
-| 1608 |  |  |  |  |
+| 1608 | Special Array With X Elements Greater Than or Equal X | Easy | 2024-07-17 | [Java](./records/Java/Question_1608.md): 57.90% |
 | 1609 |  |  |  |  |
 | 1610 |  |  |  |  |
 | 1611 |  |  |  |  |
