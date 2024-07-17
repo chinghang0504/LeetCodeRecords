@@ -2140,7 +2140,7 @@
 | 2135 |  |  |  |  |
 | 2136 |  |  |  |  |
 | 2137 |  |  |  |  |
-| 2138 |  |  |  |  |
+| 2138 | Divide a String Into Groups of Size k | Easy | 2024-07-16 | [Java](./records/Java/Question_2138.md): 92.88% |
 | 2139 |  |  |  |  |
 | 2140 |  |  |  |  |
 | 2141 |  |  |  |  |
