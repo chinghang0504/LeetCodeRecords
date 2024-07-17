@@ -1401,7 +1401,7 @@
 | 1396 |  |  |  |  |
 | 1397 |  |  |  |  |
 | 1398 | Customers Who Bought Products A and B but Not C | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1398.md): 93.33% |
-| 1399 |  |  |  |  |
+| 1399 | Count Largest Group | Easy | 2024-07-16 | [Java](./records/Java/Question_1399.md): 92.92% |
 | 1400 |  |  |  |  |
 | 1401 |  |  |  |  |
 | 1402 |  |  |  |  |
