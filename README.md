@@ -3208,7 +3208,7 @@
 | 3203 |  |  |  |  |
 | 3204 |  |  |  |  |
 | 3205 | Maximum Array Hopping Score I | Medium | 2024-07-14 | [Java](./records/Java/Question_3205.md): 21.74% |
-| 3206 |  |  |  |  |
+| 3206 | Alternating Groups I | Easy | 2024-07-16 | [Java](./records/Java/Question_3206.md): 100.00% |
 | 3207 |  |  |  |  |
 | 3208 |  |  |  |  |
 | 3209 |  |  |  |  |
