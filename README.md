@@ -1048,7 +1048,7 @@
 | 1043 |  |  |  |  |
 | 1044 |  |  |  |  |
 | 1045 |  |  |  |  |
-| 1046 |  |  |  |  |
+| 1046 | Last Stone Weight | Easy | 2024-07-17 | [Java](./records/Java/Question_1046.md): 98.57% |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | 2024-07-10 | [Java](./records/Java/Question_1047.md): 77.53% |
 | 1048 |  |  |  |  |
 | 1049 |  |  |  |  |
