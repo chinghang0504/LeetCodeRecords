@@ -1760,7 +1760,7 @@
 | 1755 |  |  |  |  |
 | 1756 |  |  |  |  |
 | 1757 | Recyclable and Low Fat Products | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1757.md): 99.83% |
-| 1758 |  |  |  |  |
+| 1758 | Minimum Changes To Make Alternating Binary String | Easy | 2024-07-18 | [Java](./records/Java/Question_1758.md): 90.34% |
 | 1759 |  |  |  |  |
 | 1760 |  |  |  |  |
 | 1761 |  |  |  |  |
