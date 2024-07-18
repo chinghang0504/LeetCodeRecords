@@ -3016,7 +3016,7 @@
 | 3011 |  |  |  |  |
 | 3012 |  |  |  |  |
 | 3013 |  |  |  |  |
-| 3014 |  |  |  |  |
+| 3014 | Minimum Number of Pushes to Type Word I | Easy | 2024-07-18 | [Java](./records/Java/Question_3014.md): 100.00% |
 | 3015 |  |  |  |  |
 | 3016 |  |  |  |  |
 | 3017 |  |  |  |  |
