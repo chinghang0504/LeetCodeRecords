@@ -2910,7 +2910,7 @@
 | 2905 |  |  |  |  |
 | 2906 |  |  |  |  |
 | 2907 |  |  |  |  |
-| 2908 |  |  |  |  |
+| 2908 | Minimum Sum of Mountain Triplets I | Easy | 2024-07-17 | [Java](./records/Java/Question_2908.md): 100.00% |
 | 2909 |  |  |  |  |
 | 2910 |  |  |  |  |
 | 2911 |  |  |  |  |
