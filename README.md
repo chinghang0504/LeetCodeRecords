@@ -3092,7 +3092,7 @@
 | 3087 |  |  |  |  |
 | 3088 |  |  |  |  |
 | 3089 |  |  |  |  |
-| 3090 |  |  |  |  |
+| 3090 | Maximum Length Substring With Two Occurrences | Easy | 2024-07-18 | [Java](./records/Java/Question_3090.md): 100.00% |
 | 3091 |  |  |  |  |
 | 3092 |  |  |  |  |
 | 3093 |  |  |  |  |
