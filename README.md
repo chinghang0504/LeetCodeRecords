@@ -1410,7 +1410,7 @@
 | 1405 |  |  |  |  |
 | 1406 |  |  |  |  |
 | 1407 | Top Travellers | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1407.md): 91.37% |
-| 1408 |  |  |  |  |
+| 1408 | String Matching in an Array | Easy | 2024-07-17 | [Java](./records/Java/Question_1408.md): 83.75% |
 | 1409 |  |  |  |  |
 | 1410 |  |  |  |  |
 | 1411 |  |  |  |  |
