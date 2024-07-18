@@ -3122,7 +3122,7 @@
 | 3117 |  |  |  |  |
 | 3118 |  |  |  |  |
 | 3119 |  |  |  |  |
-| 3120 |  |  |  |  |
+| 3120 | Count the Number of Special Characters I | Easy | 2024-07-17 | [Java](./records/Java/Question_3120.md): 100.00% |
 | 3121 |  |  |  |  |
 | 3122 |  |  |  |  |
 | 3123 |  |  |  |  |
