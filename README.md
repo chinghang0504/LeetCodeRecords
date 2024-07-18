@@ -1139,7 +1139,7 @@
 | 1134 | Armstrong Number | Easy | 2024-07-02 | [Java](./records/Java/Question_1134.md): 100.00% |
 | 1135 |  |  |  |  |
 | 1136 |  |  |  |  |
-| 1137 |  |  |  |  |
+| 1137 | N-th Tribonacci Number | Easy | 2024-07-18 | [Java](./records/Java/Question_1137.md): 100.00% |
 | 1138 |  |  |  |  |
 | 1139 |  |  |  |  |
 | 1140 |  |  |  |  |
