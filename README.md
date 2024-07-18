@@ -1080,7 +1080,7 @@
 | 1075 | Project Employees I | Easy | 2024-05-18 | [Pandas](./records/Pandas/Question_1075.md): 99.46% |
 | 1076 | Project Employees II | Easy | 2024-05-18 | [Pandas](./records/Pandas/Question_1076.md): 96.67% |
 | 1077 | Project Employees III | Medium | 2024-05-18 | [Pandas](./records/Pandas/Question_1077.md): 96.00% |
-| 1078 |  |  |  |  |
+| 1078 | Occurrences After Bigram | Easy | 2024-07-18 | [Java](./records/Java/Question_1078.md): 100.00% |
 | 1079 |  |  |  |  |
 | 1080 |  |  |  |  |
 | 1081 |  |  |  |  |
