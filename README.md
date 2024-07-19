@@ -1947,7 +1947,7 @@
 | 1942 |  |  |  |  |
 | 1943 |  |  |  |  |
 | 1944 |  |  |  |  |
-| 1945 |  |  |  |  |
+| 1945 | Sum of Digits of String After Convert | Easy | 2024-07-18 | [Java](./records/Java/Question_1945.md): 100.00% |
 | 1946 |  |  |  |  |
 | 1947 |  |  |  |  |
 | 1948 |  |  |  |  |
