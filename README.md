@@ -2905,7 +2905,7 @@
 | 2900 |  |  |  |  |
 | 2901 |  |  |  |  |
 | 2902 |  |  |  |  |
-| 2903 |  |  |  |  |
+| 2903 | Find Indices With Index and Value Difference I | Easy | 2024-07-18 | [Java](./records/Java/Question_2903.md): 98.88% |
 | 2904 |  |  |  |  |
 | 2905 |  |  |  |  |
 | 2906 |  |  |  |  |
