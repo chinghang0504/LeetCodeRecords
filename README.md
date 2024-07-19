@@ -1424,7 +1424,7 @@
 | 1419 |  |  |  |  |
 | 1420 |  |  |  |  |
 | 1421 | NPV Queries | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1421.md): 98.36% |
-| 1422 |  |  |  |  |
+| 1422 | Maximum Score After Splitting a String | Easy | 2024-07-18 | [Java](./records/Java/Question_1422.md): 99.04% |
 | 1423 |  |  |  |  |
 | 1424 |  |  |  |  |
 | 1425 |  |  |  |  |
