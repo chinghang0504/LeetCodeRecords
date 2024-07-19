@@ -2166,7 +2166,7 @@
 | 2161 | Partition Array According to Given Pivot | Medium | 2024-07-14 | [Java](./records/Java/Question_2161.md): 100.00% |
 | 2162 |  |  |  |  |
 | 2163 |  |  |  |  |
-| 2164 |  |  |  |  |
+| 2164 | Sort Even and Odd Indices Independently | Easy | 2024-07-18 | [Java](./records/Java/Question_2164.md): 93.62% |
 | 2165 |  |  |  |  |
 | 2166 |  |  |  |  |
 | 2167 |  |  |  |  |
