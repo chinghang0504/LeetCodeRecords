@@ -2233,7 +2233,7 @@
 | 2228 |  |  |  |  |
 | 2229 |  |  |  |  |
 | 2230 |  |  |  |  |
-| 2231 |  |  |  |  |
+| 2231 | Largest Number After Digit Swaps by Parity | Easy | 2024-07-19 | [Java](./records/Java/Question_2231.md): 100.00% |
 | 2232 |  |  |  |  |
 | 2233 |  |  |  |  |
 | 2234 |  |  |  |  |
