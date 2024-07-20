@@ -1871,7 +1871,7 @@
 | 1866 |  |  |  |  |
 | 1867 |  |  |  |  |
 | 1868 |  |  |  |  |
-| 1869 |  |  |  |  |
+| 1869 | Longer Contiguous Segments of Ones than Zeros | Easy | 2024-07-19 | [Java](./records/Java/Question_1869.md): 100.00% |
 | 1870 |  |  |  |  |
 | 1871 |  |  |  |  |
 | 1872 |  |  |  |  |
