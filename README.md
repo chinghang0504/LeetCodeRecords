@@ -2146,7 +2146,7 @@
 | 2141 |  |  |  |  |
 | 2142 |  |  |  |  |
 | 2143 |  |  |  |  |
-| 2144 |  |  |  |  |
+| 2144 | Minimum Cost of Buying Candies With Discount | Easy | 2024-07-19 | [Java](./records/Java/Question_2144.md): 96.91% |
 | 2145 |  |  |  |  |
 | 2146 |  |  |  |  |
 | 2147 |  |  |  |  |
