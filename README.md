@@ -2275,7 +2275,7 @@
 | 2270 |  |  |  |  |
 | 2271 |  |  |  |  |
 | 2272 |  |  |  |  |
-| 2273 |  |  |  |  |
+| 2273 | Find Resultant Array After Removing Anagrams | Easy | 2024-07-21 | [Java](./records/Java/Question_2273.md): 93.02% |
 | 2274 |  |  |  |  |
 | 2275 |  |  |  |  |
 | 2276 |  |  |  |  |
