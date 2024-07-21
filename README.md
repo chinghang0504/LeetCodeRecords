@@ -1562,7 +1562,7 @@
 | 1557 |  |  |  |  |
 | 1558 |  |  |  |  |
 | 1559 |  |  |  |  |
-| 1560 |  |  |  |  |
+| 1560 | Most Visited Sector in a Circular Track | Easy | 2024-07-21 | [Java](./records/Java/Question_1560.md): 41.30% |
 | 1561 | Maximum Number of Coins You Can Get | Medium | 2024-07-14 | [Java](./records/Java/Question_1561.md): 64.02% |
 | 1562 |  |  |  |  |
 | 1563 |  |  |  |  |
