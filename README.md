@@ -2289,7 +2289,7 @@
 | 2284 |  |  |  |  |
 | 2285 |  |  |  |  |
 | 2286 |  |  |  |  |
-| 2287 |  |  |  |  |
+| 2287 | Rearrange Characters to Make Target String | Easy | 2024-07-20 | [Java](./records/Java/Question_2287.md): 100.00% |
 | 2288 |  |  |  |  |
 | 2289 |  |  |  |  |
 | 2290 |  |  |  |  |
