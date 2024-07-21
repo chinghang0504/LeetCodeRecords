@@ -2150,7 +2150,7 @@
 | 2145 |  |  |  |  |
 | 2146 |  |  |  |  |
 | 2147 |  |  |  |  |
-| 2148 |  |  |  |  |
+| 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | 2024-07-20 | [Java](./records/Java/Question_2148.md): 100.00% |
 | 2149 |  |  |  |  |
 | 2150 |  |  |  |  |
 | 2151 |  |  |  |  |
