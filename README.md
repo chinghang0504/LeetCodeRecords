@@ -1152,7 +1152,7 @@
 | 1147 |  |  |  |  |
 | 1148 | Article Views I | Easy | 2024-05-20 | [Pandas](./records/Pandas/Question_1148.md): 78.83% |
 | 1149 | Article Views II | Medium | 2024-05-28 | [Pandas](./records/Pandas/Question_1149.md): 100.00% |
-| 1150 |  |  |  |  |
+| 1150 | Check If a Number Is Majority Element in a Sorted Array | Easy | 2024-07-21 | [Java](./records/Java/Question_1150.md): 100.00% |
 | 1151 |  |  |  |  |
 | 1152 |  |  |  |  |
 | 1153 |  |  |  |  |
