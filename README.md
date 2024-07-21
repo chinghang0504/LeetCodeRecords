@@ -2192,7 +2192,7 @@
 | 2187 |  |  |  |  |
 | 2188 |  |  |  |  |
 | 2189 |  |  |  |  |
-| 2190 |  |  |  |  |
+| 2190 | Most Frequent Number Following Key In an Array | Easy | 2024-07-21 | [Java](./records/Java/Question_2190.md): 100.00% |
 | 2191 |  |  |  |  |
 | 2192 |  |  |  |  |
 | 2193 |  |  |  |  |
