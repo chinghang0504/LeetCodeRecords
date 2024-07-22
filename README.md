@@ -2267,7 +2267,7 @@
 | 2262 |  |  |  |  |
 | 2263 |  |  |  |  |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | 2024-07-11 | [Java](./records/Java/Question_2264.md): 89.25% |
-| 2265 |  |  |  |  |
+| 2265 | Count Nodes Equal to Average of Subtree | Medium | 2024-07-22 | [Java](./records/Java/Question_2265.md): 100.00% |
 | 2266 |  |  |  |  |
 | 2267 |  |  |  |  |
 | 2268 |  |  |  |  |
