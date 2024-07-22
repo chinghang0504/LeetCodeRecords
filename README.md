@@ -1888,7 +1888,7 @@
 | 1883 |  |  |  |  |
 | 1884 |  |  |  |  |
 | 1885 |  |  |  |  |
-| 1886 |  |  |  |  |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | 2024-07-21 | [Java](./records/Java/Question_1886.md): 100.00% |
 | 1887 |  |  |  |  |
 | 1888 |  |  |  |  |
 | 1889 |  |  |  |  |
