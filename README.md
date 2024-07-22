@@ -3107,7 +3107,7 @@
 | 3102 |  |  |  |  |
 | 3103 |  |  |  |  |
 | 3104 |  |  |  |  |
-| 3105 |  |  |  |  |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | 2024-07-21 | [Java](./records/Java/Question_3105.md): 89.21% |
 | 3106 |  |  |  |  |
 | 3107 |  |  |  |  |
 | 3108 |  |  |  |  |
