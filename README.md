@@ -2861,7 +2861,7 @@
 | 2856 |  |  |  |  |
 | 2857 |  |  |  |  |
 | 2858 |  |  |  |  |
-| 2859 |  |  |  |  |
+| 2859 | Sum of Values at Indices With K Set Bits | Easy | 2024-07-21 | [Java](./records/Java/Question_2859.md): 38.46% |
 | 2860 |  |  |  |  |
 | 2861 |  |  |  |  |
 | 2862 |  |  |  |  |
