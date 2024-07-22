@@ -2948,7 +2948,7 @@
 | 2943 |  |  |  |  |
 | 2944 |  |  |  |  |
 | 2945 |  |  |  |  |
-| 2946 |  |  |  |  |
+| 2946 | Matrix Similarity After Cyclic Shifts | Easy | 2024-07-21 | [Java](./records/Java/Question_2946.md): 29.83% |
 | 2947 |  |  |  |  |
 | 2948 |  |  |  |  |
 | 2949 |  |  |  |  |
