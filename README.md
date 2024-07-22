@@ -1959,7 +1959,7 @@
 | 1954 |  |  |  |  |
 | 1955 |  |  |  |  |
 | 1956 |  |  |  |  |
-| 1957 |  |  |  |  |
+| 1957 | Delete Characters to Make Fancy String | Easy | 2024-07-21 | [Java](./records/Java/Question_1957.md): 97.11% |
 | 1958 |  |  |  |  |
 | 1959 |  |  |  |  |
 | 1960 |  |  |  |  |
