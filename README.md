@@ -2746,7 +2746,7 @@
 | 2741 |  |  |  |  |
 | 2742 |  |  |  |  |
 | 2743 |  |  |  |  |
-| 2744 |  |  |  |  |
+| 2744 | Find Maximum Number of String Pairs | Easy | 2024-07-24 | [Java](./records/Java/Question_2744.md): 79.25% |
 | 2745 |  |  |  |  |
 | 2746 |  |  |  |  |
 | 2747 |  |  |  |  |
