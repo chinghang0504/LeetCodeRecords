@@ -2699,7 +2699,7 @@
 | 2694 |  |  |  |  |
 | 2695 |  |  |  |  |
 | 2696 | Minimum String Length After Removing Substrings | Easy | 2024-07-10 | [Java](./records/Java/Question_2696.md): 88.87% |
-| 2697 |  |  |  |  |
+| 2697 | Lexicographically Smallest Palindrome | Easy | 2024-07-24 | [Java](./records/Java/Question_2697.md): 60.12% |
 | 2698 |  |  |  |  |
 | 2699 |  |  |  |  |
 | 2700 |  |  |  |  |
