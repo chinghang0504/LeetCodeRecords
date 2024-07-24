@@ -1223,7 +1223,7 @@
 | 1218 |  |  |  |  |
 | 1219 |  |  |  |  |
 | 1220 |  |  |  |  |
-| 1221 |  |  |  |  |
+| 1221 | Split a String in Balanced Strings | Easy | 2024-07-23 | [Java](./records/Java/Question_1221.md): 100.00% |
 | 1222 |  |  |  |  |
 | 1223 |  |  |  |  |
 | 1224 |  |  |  |  |
