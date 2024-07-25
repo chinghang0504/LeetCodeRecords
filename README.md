@@ -944,7 +944,7 @@
 | 939 |  |  |  |  |
 | 940 |  |  |  |  |
 | 941 |  |  |  |  |
-| 942 |  |  |  |  |
+| 942 | DI String Match | Easy | 2024-07-25 | [Java](./records/Java/Question_942.md): 11.32% |
 | 943 |  |  |  |  |
 | 944 | Delete Columns to Make Sorted | Easy | 2024-05-07 | [Java](./records/Java/Question_944.md): 97.60% |
 | 945 |  |  |  |  |
