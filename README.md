@@ -3186,7 +3186,7 @@
 | 3181 |  |  |  |  |
 | 3182 |  |  |  |  |
 | 3183 |  |  |  |  |
-| 3184 |  |  |  |  |
+| 3184 | Count Pairs That Form a Complete Day I | Easy | 2024-07-24 | [Java](./records/Java/Question_3184.md): 98.16% |
 | 3185 |  |  |  |  |
 | 3186 |  |  |  |  |
 | 3187 |  |  |  |  |
