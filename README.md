@@ -1358,7 +1358,7 @@
 | 1353 |  |  |  |  |
 | 1354 |  |  |  |  |
 | 1355 | Activity Participants | Medium | 2024-05-31 | [Pandas](./records/Pandas/Question_1355.md): 97.44% |
-| 1356 |  |  |  |  |
+| 1356 | Sort Integers by The Number of 1 Bits | Easy | 2024-07-25 | [Java](./records/Java/Question_1356.md): 22.27% |
 | 1357 |  |  |  |  |
 | 1358 |  |  |  |  |
 | 1359 |  |  |  |  |
