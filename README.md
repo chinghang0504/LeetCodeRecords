@@ -1124,7 +1124,7 @@
 | 1119 | Remove Vowels from a String | Easy | 2024-06-13 | [Java](./records/Java/Question_1119.md): 100.00% |
 | 1120 |  |  |  |  |
 | 1121 |  |  |  |  |
-| 1122 |  |  |  |  |
+| 1122 | Relative Sort Array | Easy | 2024-07-26 | [Java](./records/Java/Question_1122.md): 12.33% |
 | 1123 |  |  |  |  |
 | 1124 |  |  |  |  |
 | 1125 |  |  |  |  |
