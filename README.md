@@ -3153,7 +3153,7 @@
 | 3148 |  |  |  |  |
 | 3149 |  |  |  |  |
 | 3150 | Invalid Tweets II | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3150.md): 100.00% |
-| 3151 |  |  |  |  |
+| 3151 | Special Array I | Easy | 2024-07-26 | [Java](./records/Java/Question_3151.md): 100.00% |
 | 3152 |  |  |  |  |
 | 3153 |  |  |  |  |
 | 3154 |  |  |  |  |
