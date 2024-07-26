@@ -2930,7 +2930,7 @@
 | 2925 |  |  |  |  |
 | 2926 |  |  |  |  |
 | 2927 |  |  |  |  |
-| 2928 |  |  |  |  |
+| 2928 | Distribute Candies Among Children I | Easy | 2024-07-26 | [Java](./records/Java/Question_2928.md): 41.45% |
 | 2929 |  |  |  |  |
 | 2930 |  |  |  |  |
 | 2931 |  |  |  |  |
