@@ -3116,7 +3116,7 @@
 | 3111 |  |  |  |  |
 | 3112 |  |  |  |  |
 | 3113 |  |  |  |  |
-| 3114 |  |  |  |  |
+| 3114 | Latest Time You Can Obtain After Replacing Characters | Easy | 2024-07-26 | [Java](./records/Java/Question_3114.md): 100.00% |
 | 3115 |  |  |  |  |
 | 3116 |  |  |  |  |
 | 3117 |  |  |  |  |
