@@ -2875,7 +2875,7 @@
 | 2870 |  |  |  |  |
 | 2871 |  |  |  |  |
 | 2872 |  |  |  |  |
-| 2873 |  |  |  |  |
+| 2873 | Maximum Value of an Ordered Triplet I | Easy | 2024-07-27 | [Java](./records/Java/Question_2873.md): 52.42% |
 | 2874 |  |  |  |  |
 | 2875 |  |  |  |  |
 | 2876 |  |  |  |  |
