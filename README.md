@@ -3218,7 +3218,7 @@
 | 3213 |  |  |  |  |
 | 3214 |  |  |  |  |
 | 3215 |  |  |  |  |
-| 3216 |  |  |  |  |
+| 3216 | Lexicographically Smallest String After a Swap | Easy | 2024-07-26 | [Java](./records/Java/Question_3216.md): 100.00% |
 | 3217 |  |  |  |  |
 | 3218 |  |  |  |  |
 | 3219 |  |  |  |  |
