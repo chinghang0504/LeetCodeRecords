@@ -2572,7 +2572,7 @@
 | 2567 |  |  |  |  |
 | 2568 |  |  |  |  |
 | 2569 |  |  |  |  |
-| 2570 |  |  |  |  |
+| 2570 | Merge Two 2D Arrays by Summing Values | Easy | 2024-07-27 | [Java](./records/Java/Question_2570.md): 63.15% |
 | 2571 |  |  |  |  |
 | 2572 |  |  |  |  |
 | 2573 |  |  |  |  |
