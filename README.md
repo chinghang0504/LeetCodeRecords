@@ -3040,7 +3040,7 @@
 | 3035 |  |  |  |  |
 | 3036 |  |  |  |  |
 | 3037 |  |  |  |  |
-| 3038 |  |  |  |  |
+| 3038 | Maximum Number of Operations With the Same Score I | Easy | 2024-07-26 | [Java](./records/Java/Question_3038.md): 100.00% |
 | 3039 |  |  |  |  |
 | 3040 |  |  |  |  |
 | 3041 |  |  |  |  |
