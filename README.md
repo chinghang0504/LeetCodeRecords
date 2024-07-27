@@ -3002,7 +3002,7 @@
 | 2997 |  |  |  |  |
 | 2998 |  |  |  |  |
 | 2999 |  |  |  |  |
-| 3000 |  |  |  |  |
+| 3000 | Maximum Area of Longest Diagonal Rectangle | Easy | 2024-07-26 | [Java](./records/Java/Question_3000.md): 96.53% |
 | 3001 |  |  |  |  |
 | 3002 |  |  |  |  |
 | 3003 |  |  |  |  |
