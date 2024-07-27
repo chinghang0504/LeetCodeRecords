@@ -3144,7 +3144,7 @@
 | 3139 |  |  |  |  |
 | 3140 |  |  |  |  |
 | 3141 |  |  |  |  |
-| 3142 |  |  |  |  |
+| 3142 | Check if Grid Satisfies Conditions | Easy | 2024-07-26 | [Java](./records/Java/Question_3142.md): 92.55% |
 | 3143 |  |  |  |  |
 | 3144 |  |  |  |  |
 | 3145 |  |  |  |  |
