@@ -3202,7 +3202,7 @@
 | 3197 |  |  |  |  |
 | 3198 | Find Cities in Each State | Easy | 2024-06-25 | [Pandas](./records/Pandas/Question_3198.md): 100.00% |
 | 3199 | Count Triplets with Even XOR Set Bits I | Easy | 2024-07-23 | [Java](./records/Java/Question_3199.md): 25.93% |
-| 3200 |  |  |  |  |
+| 3200 | Maximum Height of a Triangle | Easy | 2024-07-26 | [Java](./records/Java/Question_3200.md): 85.10% |
 | 3201 |  |  |  |  |
 | 3202 |  |  |  |  |
 | 3203 |  |  |  |  |
