@@ -1027,7 +1027,7 @@
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | 2024-05-11 | [Java](./records/Java/Question_1022.md): 100.00% |
 | 1023 |  |  |  |  |
 | 1024 |  |  |  |  |
-| 1025 |  |  |  |  |
+| 1025 | Divisor Game | Easy | 2024-07-27 | [Java](./records/Java/Question_1025.md): 100.00% |
 | 1026 |  |  |  |  |
 | 1027 |  |  |  |  |
 | 1028 |  |  |  |  |
