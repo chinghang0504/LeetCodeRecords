@@ -3229,5 +3229,11 @@
 | 3224 |  |  |  |  |
 | 3225 |  |  |  |  |
 | 3226 | Number of Bit Changes to Make Two Integers Equal | Easy | 2024-07-20 | [Java](./records/Java/Question_3226.md): 100.00% |
+| 3227 |  |  |  |  |
+| 3228 |  |  |  |  |
+| 3229 |  |  |  |  |
+| 3230 |  |  |  |  |
+| 3231 |  |  |  |  |
+| 3232 | Find if Digit Game Can Be Won | Easy | 2024-07-27 | [Java](./records/Java/Question_3232.md): 100.00% |
 
 <br>
