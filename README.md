@@ -1219,7 +1219,7 @@
 | 1214 |  |  |  |  |
 | 1215 |  |  |  |  |
 | 1216 |  |  |  |  |
-| 1217 |  |  |  |  |
+| 1217 | Minimum Cost to Move Chips to The Same Position | Easy | 2024-07-29 | [Java](./records/Java/Question_1217.md): 100.00% |
 | 1218 |  |  |  |  |
 | 1219 |  |  |  |  |
 | 1220 |  |  |  |  |
