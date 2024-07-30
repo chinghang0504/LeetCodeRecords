@@ -2064,7 +2064,7 @@
 | 2059 |  |  |  |  |
 | 2060 |  |  |  |  |
 | 2061 |  |  |  |  |
-| 2062 |  |  |  |  |
+| 2062 | Count Vowel Substrings of a String | Easy | 2024-07-29 | [Java](./records/Java/Question_2062.md): 34.04% |
 | 2063 |  |  |  |  |
 | 2064 |  |  |  |  |
 | 2065 |  |  |  |  |
