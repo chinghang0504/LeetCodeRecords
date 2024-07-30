@@ -1405,7 +1405,7 @@
 | 1400 |  |  |  |  |
 | 1401 |  |  |  |  |
 | 1402 |  |  |  |  |
-| 1403 |  |  |  |  |
+| 1403 | Minimum Subsequence in Non-Increasing Order | Easy | 2024-07-29 | [Java](./records/Java/Question_1403.md): 94.96% |
 | 1404 |  |  |  |  |
 | 1405 |  |  |  |  |
 | 1406 |  |  |  |  |
