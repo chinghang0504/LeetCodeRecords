@@ -1718,7 +1718,7 @@
 | 1713 |  |  |  |  |
 | 1714 |  |  |  |  |
 | 1715 |  |  |  |  |
-| 1716 |  |  |  |  |
+| 1716 | Calculate Money in Leetcode Bank | Easy | 2024-07-30 | [Java](./records/Java/Question_1716.md): 59.95% |
 | 1717 |  |  |  |  |
 | 1718 |  |  |  |  |
 | 1719 |  |  |  |  |
