@@ -2401,7 +2401,7 @@
 | 2396 |  |  |  |  |
 | 2397 |  |  |  |  |
 | 2398 |  |  |  |  |
-| 2399 |  |  |  |  |
+| 2399 | Check Distances Between Same Letters | Easy | 2024-07-29 | [Java](./records/Java/Question_2399.md): 92.95% |
 | 2400 |  |  |  |  |
 | 2401 |  |  |  |  |
 | 2402 |  |  |  |  |
