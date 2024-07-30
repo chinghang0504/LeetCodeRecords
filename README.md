@@ -1702,7 +1702,7 @@
 | 1697 |  |  |  |  |
 | 1698 |  |  |  |  |
 | 1699 | Number of Calls Between Two Persons | Medium | 2024-06-12 | [Pandas](./records/Pandas/Question_1699.md): 98.04% |
-| 1700 |  |  |  |  |
+| 1700 | Number of Students Unable to Eat Lunch | Easy | 2024-07-30 | [Java](./records/Java/Question_1700.md): 41.96% |
 | 1701 |  |  |  |  |
 | 1702 |  |  |  |  |
 | 1703 |  |  |  |  |
