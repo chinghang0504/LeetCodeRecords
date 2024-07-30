@@ -1088,7 +1088,7 @@
 | 1083 | Sales Analysis II | Easy | 2024-05-19 | [Pandas](./records/Pandas/Question_1083.md): 98.61% |
 | 1084 | Sales Analysis III | Easy | 2024-05-19 | [Pandas](./records/Pandas/Question_1084.md): 93.44% |
 | 1085 | Sum of Digits in the Minimum Number | Easy | 2024-05-16 | [Java](./records/Java/Question_1085.md): 100.00% |
-| 1086 |  |  |  |  |
+| 1086 | High Five | Easy | 2024-07-30 | [Java](./records/Java/Question_1086.md): 99.18% |
 | 1087 |  |  |  |  |
 | 1088 |  |  |  |  |
 | 1089 | Duplicate Zeros | Easy | 2024-05-16 | [Java](./records/Java/Question_1089.md): 97.21% |
