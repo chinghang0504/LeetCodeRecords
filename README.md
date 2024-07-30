@@ -2915,7 +2915,7 @@
 | 2910 |  |  |  |  |
 | 2911 |  |  |  |  |
 | 2912 |  |  |  |  |
-| 2913 |  |  |  |  |
+| 2913 | Subarrays Distinct Element Sum of Squares I | Easy | 2024-07-30 | [Java](./records/Java/Question_2913.md): 44.92% |
 | 2914 |  |  |  |  |
 | 2915 |  |  |  |  |
 | 2916 |  |  |  |  |
