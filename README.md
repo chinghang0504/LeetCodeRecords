@@ -699,7 +699,7 @@
 | 694 |  |  |  |  |
 | 695 |  |  |  |  |
 | 696 |  |  |  |  |
-| 697 |  |  |  |  |
+| 697 | Degree of an Array | Easy | 2024-07-30 | [Java](./records/Java/Question_697.md): 24.95% |
 | 698 |  |  |  |  |
 | 699 |  |  |  |  |
 | 700 | Search in a Binary Search Tree | Easy | 2024-04-29 | [Java](./records/Java/Question_700.md): 100.00% |
