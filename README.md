@@ -2029,7 +2029,7 @@
 | 2024 |  |  |  |  |
 | 2025 |  |  |  |  |
 | 2026 | Low-Quality Problems | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2026.md): 100.00% |
-| 2027 |  |  |  |  |
+| 2027 | Minimum Moves to Convert String | Easy | 2024-07-30 | [Java](./records/Java/Question_2027.md): 100.00% |
 | 2028 |  |  |  |  |
 | 2029 |  |  |  |  |
 | 2030 |  |  |  |  |
