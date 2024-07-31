@@ -2796,7 +2796,7 @@
 | 2791 |  |  |  |  |
 | 2792 |  |  |  |  |
 | 2793 |  |  |  |  |
-| 2794 |  |  |  |  |
+| 2794 | Create Object from Two Arrays | Easy | 2024-07-30 | [JavaScript](./records/JavaScript/Question_2794.md): 98.55% |
 | 2795 |  |  |  |  |
 | 2796 | Repeat String | Easy | 2024-06-22 | [JavaScript](./records/JavaScript/Question_2796.md): 96.43% |
 | 2797 |  |  |  |  |
