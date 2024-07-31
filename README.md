@@ -1850,7 +1850,7 @@
 | 1845 |  |  |  |  |
 | 1846 |  |  |  |  |
 | 1847 |  |  |  |  |
-| 1848 |  |  |  |  |
+| 1848 | Minimum Distance to the Target Element | Easy | 2024-07-30 | [Java](./records/Java/Question_1848.md): 100.00% |
 | 1849 |  |  |  |  |
 | 1850 |  |  |  |  |
 | 1851 |  |  |  |  |
