@@ -978,7 +978,7 @@
 | 973 |  |  |  |  |
 | 974 |  |  |  |  |
 | 975 |  |  |  |  |
-| 976 |  |  |  |  |
+| 976 | Largest Perimeter Triangle | Easy | 2024-07-30 | [Java](./records/Java/Question_976.md): 14.40% |
 | 977 | Squares of a Sorted Array | Easy | 2024-05-09 | [Java](./records/Java/Question_977.md): 48.13% |
 | 978 |  |  |  |  |
 | 979 |  |  |  |  |
