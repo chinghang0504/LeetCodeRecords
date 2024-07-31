@@ -955,7 +955,7 @@
 | 950 |  |  |  |  |
 | 951 |  |  |  |  |
 | 952 |  |  |  |  |
-| 953 |  |  |  |  |
+| 953 | Verifying an Alien Dictionary | Easy | 2024-07-30 | [Java](./records/Java/Question_953.md): 56.85% |
 | 954 |  |  |  |  |
 | 955 |  |  |  |  |
 | 956 |  |  |  |  |
