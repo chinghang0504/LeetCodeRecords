@@ -2241,7 +2241,7 @@
 | 2236 | Root Equals Sum of Children | Easy | 2024-06-26 | [Java](./records/Java/Question_2236.md): 100.00% |
 | 2237 |  |  |  |  |
 | 2238 |  |  |  |  |
-| 2239 |  |  |  |  |
+| 2239 | Find Closest Number to Zero | Easy | 2024-07-30 | [Java](./records/Java/Question_2239.md): 90.24% |
 | 2240 |  |  |  |  |
 | 2241 |  |  |  |  |
 | 2242 |  |  |  |  |
