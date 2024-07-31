@@ -630,7 +630,7 @@
 | 625 |  |  |  |  |
 | 626 |  |  |  |  |
 | 627 | Swap Salary | Easy | 2024-04-29 | [Pandas](./records/Pandas/Question_627.md): 96.02% |
-| 628 |  |  |  |  |
+| 628 | Maximum Product of Three Numbers | Easy | 2024-07-30 | [Java](./records/Java/Question_628.md): 81.18% |
 | 629 |  |  |  |  |
 | 630 |  |  |  |  |
 | 631 |  |  |  |  |
