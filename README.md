@@ -1130,7 +1130,7 @@
 | 1125 |  |  |  |  |
 | 1126 |  |  |  |  |
 | 1127 |  |  |  |  |
-| 1128 |  |  |  |  |
+| 1128 | Number of Equivalent Domino Pairs | Easy | 2024-08-01 | [Java](./records/Java/Question_1128.md): 100.00% |
 | 1129 |  |  |  |  |
 | 1130 |  |  |  |  |
 | 1131 |  |  |  |  |
