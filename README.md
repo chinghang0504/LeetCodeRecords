@@ -1007,7 +1007,7 @@
 | 1002 | Find Common Characters | Easy | 2024-07-05 | [Java](./records/Java/Question_1002.md): 42.74% |
 | 1003 |  |  |  |  |
 | 1004 |  |  |  |  |
-| 1005 |  |  |  |  |
+| 1005 | Maximize Sum Of Array After K Negations | Easy | 2024-07-31 | [Java](./records/Java/Question_1005.md): 12.97% |
 | 1006 |  |  |  |  |
 | 1007 |  |  |  |  |
 | 1008 |  |  |  |  |
