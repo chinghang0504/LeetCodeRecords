@@ -2607,7 +2607,7 @@
 | 2602 |  |  |  |  |
 | 2603 |  |  |  |  |
 | 2604 |  |  |  |  |
-| 2605 |  |  |  |  |
+| 2605 | Form Smallest Number From Two Digit Arrays | Easy | 2024-07-31 | [Java](./records/Java/Question_2605.md): 87.68% |
 | 2606 |  |  |  |  |
 | 2607 |  |  |  |  |
 | 2608 |  |  |  |  |
