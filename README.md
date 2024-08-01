@@ -2857,7 +2857,7 @@
 | 2852 |  |  |  |  |
 | 2853 | Highest Salaries Difference | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2853.md): 94.74% |
 | 2854 |  |  |  |  |
-| 2855 |  |  |  |  |
+| 2855 | Minimum Right Shifts to Sort the Array | Easy | 2024-07-31 | [Java](./records/Java/Question_2855.md): 100.00% |
 | 2856 |  |  |  |  |
 | 2857 |  |  |  |  |
 | 2858 |  |  |  |  |
