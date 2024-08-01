@@ -2841,7 +2841,7 @@
 | 2836 |  |  |  |  |
 | 2837 | Total Traveled Distance | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2837.md): 100.00% |
 | 2838 |  |  |  |  |
-| 2839 |  |  |  |  |
+| 2839 | Check if Strings Can be Made Equal With Operations I | Easy | 2024-08-01 | [Java](./records/Java/Question_2839.md): 96.52% |
 | 2840 |  |  |  |  |
 | 2841 |  |  |  |  |
 | 2842 |  |  |  |  |
