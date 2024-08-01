@@ -1319,7 +1319,7 @@
 | 1314 |  |  |  |  |
 | 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | 2024-07-14 | [Java](./records/Java/Question_1315.md): 100.00% |
 | 1316 |  |  |  |  |
-| 1317 |  |  |  |  |
+| 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | 2024-07-31 | [Java](./records/Java/Question_1317.md): 100.00% |
 | 1318 |  |  |  |  |
 | 1319 |  |  |  |  |
 | 1320 |  |  |  |  |
