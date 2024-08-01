@@ -2646,7 +2646,7 @@
 | 2641 |  |  |  |  |
 | 2642 |  |  |  |  |
 | 2643 | Row With Maximum Ones | Easy | 2024-07-04 | [Java](./records/Java/Question_2643.md): 100.00% |
-| 2644 |  |  |  |  |
+| 2644 | Find the Maximum Divisibility Score | Easy | 2024-08-01 | [Java](./records/Java/Question_2644.md): 94.21% |
 | 2645 |  |  |  |  |
 | 2646 |  |  |  |  |
 | 2647 |  |  |  |  |
