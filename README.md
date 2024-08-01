@@ -2731,7 +2731,7 @@
 | 2726 | Calculator with Method Chaining | Easy | 2024-07-30 | [JavaScript](./records/JavaScript/Question_2726.md): 93.62% |
 | 2727 |  |  |  |  |
 | 2728 | Count Houses in a Circular Street | Easy | 2024-06-29 | [Java](./records/Java/Question_2728.md): 78.95% |
-| 2729 |  |  |  |  |
+| 2729 | Check if The Number is Fascinating | Easy | 2024-07-31 | [Java](./records/Java/Question_2729.md): 93.00% |
 | 2730 |  |  |  |  |
 | 2731 |  |  |  |  |
 | 2732 |  |  |  |  |
