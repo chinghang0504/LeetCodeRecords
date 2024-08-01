@@ -1178,7 +1178,7 @@
 | 1173 | Immediate Food Delivery I | Easy | 2024-05-21 | [Pandas](./records/Pandas/Question_1173.md): 97.46% |
 | 1174 | Immediate Food Delivery II | Medium | 2024-05-21 | [Pandas](./records/Pandas/Question_1174.md): 57.04% |
 | 1175 |  |  |  |  |
-| 1176 |  |  |  |  |
+| 1176 | Diet Plan Performance | Easy | 2024-07-31 | [Java](./records/Java/Question_1176.md): 17.65% |
 | 1177 |  |  |  |  |
 | 1178 |  |  |  |  |
 | 1179 | Reformat Department Table | Easy | 2024-06-10 | [Pandas](./records/Pandas/Question_1179.md): 20.28% |
