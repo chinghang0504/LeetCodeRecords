@@ -1020,7 +1020,7 @@
 | 1015 |  |  |  |  |
 | 1016 |  |  |  |  |
 | 1017 |  |  |  |  |
-| 1018 |  |  |  |  |
+| 1018 | Binary Prefix Divisible By 5 | Easy | 2024-08-01 | [Java](./records/Java/Question_1018.md): 99.65% |
 | 1019 |  |  |  |  |
 | 1020 |  |  |  |  |
 | 1021 | Remove Outermost Parentheses | Easy | 2024-05-15 | [Java](./records/Java/Question_1021.md): 99.52% |
