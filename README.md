@@ -2527,7 +2527,7 @@
 | 2522 |  |  |  |  |
 | 2523 |  |  |  |  |
 | 2524 |  |  |  |  |
-| 2525 |  |  |  |  |
+| 2525 | Categorize Box According to Criteria | Easy | 2024-08-02 | [Java](./records/Java/Question_2525.md): 100.00% |
 | 2526 |  |  |  |  |
 | 2527 |  |  |  |  |
 | 2528 |  |  |  |  |
