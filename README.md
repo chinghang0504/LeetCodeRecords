@@ -673,7 +673,7 @@
 | 668 |  |  |  |  |
 | 669 |  |  |  |  |
 | 670 |  |  |  |  |
-| 671 |  |  |  |  |
+| 671 | Second Minimum Node In a Binary Tree | Easy | 2024-08-01 | [Java](./records/Java/Question_671.md): 100.00% |
 | 672 |  |  |  |  |
 | 673 |  |  |  |  |
 | 674 |  |  |  |  |
