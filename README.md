@@ -1578,7 +1578,7 @@
 | 1573 |  |  |  |  |
 | 1574 |  |  |  |  |
 | 1575 |  |  |  |  |
-| 1576 |  |  |  |  |
+| 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | 2024-08-01 | [Java](./records/Java/Question_1576.md): 100.00% |
 | 1577 |  |  |  |  |
 | 1578 |  |  |  |  |
 | 1579 |  |  |  |  |
