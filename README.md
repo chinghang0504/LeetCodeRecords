@@ -2611,7 +2611,7 @@
 | 2606 |  |  |  |  |
 | 2607 |  |  |  |  |
 | 2608 |  |  |  |  |
-| 2609 |  |  |  |  |
+| 2609 | Find the Longest Balanced Substring of a Binary String | Easy | 2024-08-01 | [Java](./records/Java/Question_2609.md): 23.10% |
 | 2610 | Convert an Array Into a 2D Array With Conditions | Medium | 2024-07-13 | [Java](./records/Java/Question_2610.md): 90.15% |
 | 2611 |  |  |  |  |
 | 2612 |  |  |  |  |
