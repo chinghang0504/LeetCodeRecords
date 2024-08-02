@@ -682,7 +682,7 @@
 | 677 |  |  |  |  |
 | 678 |  |  |  |  |
 | 679 |  |  |  |  |
-| 680 |  |  |  |  |
+| 680 | Valid Palindrome II | Easy | 2024-08-02 | [Java](./records/Java/Question_680.md): 26.01% |
 | 681 |  |  |  |  |
 | 682 | Baseball Game | Easy | 2024-04-29 | [Java](./records/Java/Question_682.md): 100.00% |
 | 683 |  |  |  |  |
