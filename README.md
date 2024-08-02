@@ -3097,7 +3097,7 @@
 | 3092 |  |  |  |  |
 | 3093 |  |  |  |  |
 | 3094 |  |  |  |  |
-| 3095 |  |  |  |  |
+| 3095 | Shortest Subarray With OR at Least K I | Easy | 2024-08-02 | [Java](./records/Java/Question_3095.md): 98.47% |
 | 3096 |  |  |  |  |
 | 3097 |  |  |  |  |
 | 3098 |  |  |  |  |
