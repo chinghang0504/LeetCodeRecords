@@ -2684,7 +2684,7 @@
 | 2679 |  |  |  |  |
 | 2680 |  |  |  |  |
 | 2681 |  |  |  |  |
-| 2682 |  |  |  |  |
+| 2682 | Find the Losers of the Circular Game | Easy | 2024-08-03 | [Java](./records/Java/Question_2682.md): 58.21% |
 | 2683 |  |  |  |  |
 | 2684 |  |  |  |  |
 | 2685 |  |  |  |  |
