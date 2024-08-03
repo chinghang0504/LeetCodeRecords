@@ -2662,7 +2662,7 @@
 | 2657 |  |  |  |  |
 | 2658 |  |  |  |  |
 | 2659 |  |  |  |  |
-| 2660 |  |  |  |  |
+| 2660 | Determine the Winner of a Bowling Game | Easy | 2024-08-02 | [Java](./records/Java/Question_2660.md): 100.00% |
 | 2661 |  |  |  |  |
 | 2662 |  |  |  |  |
 | 2663 |  |  |  |  |
