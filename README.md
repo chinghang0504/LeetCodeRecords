@@ -1039,7 +1039,7 @@
 | 1034 |  |  |  |  |
 | 1035 |  |  |  |  |
 | 1036 |  |  |  |  |
-| 1037 |  |  |  |  |
+| 1037 | Valid Boomerang | Easy | 2024-08-02 | [Java](./records/Java/Question_1037.md): 100.00% |
 | 1038 | Binary Search Tree to Greater Sum Tree | Medium | 2024-07-13 | [Java](./records/Java/Question_1038.md): 100.00% |
 | 1039 |  |  |  |  |
 | 1040 |  |  |  |  |
