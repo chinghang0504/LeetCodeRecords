@@ -3235,5 +3235,11 @@
 | 3230 |  |  |  |  |
 | 3231 |  |  |  |  |
 | 3232 | Find if Digit Game Can Be Won | Easy | 2024-07-27 | [Java](./records/Java/Question_3232.md): 100.00% |
+| 3233 |  |  |  |  |
+| 3234 |  |  |  |  |
+| 3235 |  |  |  |  |
+| 3236 |  |  |  |  |
+| 3237 |  |  |  |  |
+| 3238 | Find the Number of Winning Players | Easy | 2024-08-03 | [Java](./records/Java/Question_3238.md): 100.00% |
 
 <br>
