@@ -1642,7 +1642,7 @@
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | Easy | 2024-06-26 | [Java](./records/Java/Question_1637.md): 96.35% |
 | 1638 |  |  |  |  |
 | 1639 |  |  |  |  |
-| 1640 |  |  |  |  |
+| 1640 | Check Array Formation Through Concatenation | Easy | 2024-08-03 | [Java](./records/Java/Question_1640.md): 79.55% |
 | 1641 |  |  |  |  |
 | 1642 |  |  |  |  |
 | 1643 |  |  |  |  |
