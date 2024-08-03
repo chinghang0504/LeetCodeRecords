@@ -999,7 +999,7 @@
 | 994 |  |  |  |  |
 | 995 |  |  |  |  |
 | 996 |  |  |  |  |
-| 997 |  |  |  |  |
+| 997 | Find the Town Judge | Easy | 2024-08-03 | [Java](./records/Java/Question_997.md): 60.92% |
 | 998 |  |  |  |  |
 | 999 | Available Captures for Rook | Easy | 2024-05-11 | [Java](./records/Java/Question_999.md): 100.00% |
 | 1000 |  |  |  |  |
