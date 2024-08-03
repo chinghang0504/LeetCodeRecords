@@ -2517,7 +2517,7 @@
 | 2512 |  |  |  |  |
 | 2513 |  |  |  |  |
 | 2514 |  |  |  |  |
-| 2515 |  |  |  |  |
+| 2515 | Shortest Distance to Target String in a Circular Array | Easy | 2024-08-02 | [Java](./records/Java/Question_2515.md): 100.00% |
 | 2516 |  |  |  |  |
 | 2517 |  |  |  |  |
 | 2518 |  |  |  |  |
