@@ -3224,7 +3224,7 @@
 | 3219 |  |  |  |  |
 | 3220 |  |  |  |  |
 | 3221 |  |  |  |  |
-| 3222 |  |  |  |  |
+| 3222 | Find the Winning Player in Coin Game | Easy | 2024-08-04 | [Java](./records/Java/Question_3222.md): 100.00% |
 | 3223 |  |  |  |  |
 | 3224 |  |  |  |  |
 | 3225 |  |  |  |  |
