@@ -1186,7 +1186,7 @@
 | 1181 |  |  |  |  |
 | 1182 |  |  |  |  |
 | 1183 |  |  |  |  |
-| 1184 |  |  |  |  |
+| 1184 | Distance Between Bus Stops | Easy | 2024-08-04 | [Java](./records/Java/Question_1184.md): 100.00% |
 | 1185 | Day of the Week | Easy | 2024-07-31 | [Java](./records/Java/Question_1185.md): 100.00% |
 | 1186 |  |  |  |  |
 | 1187 |  |  |  |  |
