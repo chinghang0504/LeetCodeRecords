@@ -2135,7 +2135,7 @@
 | 2130 | Maximum Twin Sum of a Linked List | Medium | 2024-07-17 | [Java](./records/Java/Question_2130.md): 69.28% |
 | 2131 |  |  |  |  |
 | 2132 |  |  |  |  |
-| 2133 |  |  |  |  |
+| 2133 | Check if Every Row and Column Contains All Numbers | Easy | 2024-08-04 | [Java](./records/Java/Question_2133.md): 99.69% |
 | 2134 |  |  |  |  |
 | 2135 |  |  |  |  |
 | 2136 |  |  |  |  |
