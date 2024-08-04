@@ -750,7 +750,7 @@
 | 745 |  |  |  |  |
 | 746 | Min Cost Climbing Stairs | Easy | 2024-07-28 | [Java](./records/Java/Question_746.md): 100.00% |
 | 747 | Largest Number At Least Twice of Others | Easy | 2024-05-02 | [Java](./records/Java/Question_747.md): 100.00% |
-| 748 |  |  |  |  |
+| 748 | Shortest Completing Word | Easy | 2024-08-03 | [Java](./records/Java/Question_748.md): 98.15% |
 | 749 |  |  |  |  |
 | 750 |  |  |  |  |
 | 751 |  |  |  |  |
