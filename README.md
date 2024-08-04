@@ -2080,7 +2080,7 @@
 | 2075 |  |  |  |  |
 | 2076 |  |  |  |  |
 | 2077 |  |  |  |  |
-| 2078 |  |  |  |  |
+| 2078 | Two Furthest Houses With Different Colors | Easy | 2024-08-03 | [Java](./records/Java/Question_2078.md): 100.00% |
 | 2079 |  |  |  |  |
 | 2080 |  |  |  |  |
 | 2081 |  |  |  |  |
