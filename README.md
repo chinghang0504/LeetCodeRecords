@@ -2337,7 +2337,7 @@
 | 2332 |  |  |  |  |
 | 2333 |  |  |  |  |
 | 2334 |  |  |  |  |
-| 2335 |  |  |  |  |
+| 2335 | Minimum Amount of Time to Fill Cups | Easy | 2024-08-04 | [Java](./records/Java/Question_2335.md): 66.83% |
 | 2336 |  |  |  |  |
 | 2337 |  |  |  |  |
 | 2338 |  |  |  |  |
