@@ -1973,7 +1973,7 @@
 | 1968 |  |  |  |  |
 | 1969 |  |  |  |  |
 | 1970 |  |  |  |  |
-| 1971 |  |  |  |  |
+| 1971 | Find if Path Exists in Graph | Easy | 2024-08-03 | [Java](./records/Java/Question_1971.md): 17.44% |
 | 1972 |  |  |  |  |
 | 1973 |  |  |  |  |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | Easy | 2024-07-04 | [Java](./records/Java/Question_1974.md): 100.00% |
