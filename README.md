@@ -2871,7 +2871,7 @@
 | 2866 |  |  |  |  |
 | 2867 |  |  |  |  |
 | 2868 |  |  |  |  |
-| 2869 |  |  |  |  |
+| 2869 | Minimum Operations to Collect Elements | Easy | 2024-08-03 | [Java](./records/Java/Question_2869.md): 99.37% |
 | 2870 |  |  |  |  |
 | 2871 |  |  |  |  |
 | 2872 |  |  |  |  |
