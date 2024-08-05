@@ -2448,7 +2448,7 @@
 | 2443 |  |  |  |  |
 | 2444 |  |  |  |  |
 | 2445 |  |  |  |  |
-| 2446 |  |  |  |  |
+| 2446 | Determine if Two Events Have Conflict | Easy | 2024-08-04 | [Java](./records/Java/Question_2446.md): 100.00% |
 | 2447 |  |  |  |  |
 | 2448 |  |  |  |  |
 | 2449 |  |  |  |  |
