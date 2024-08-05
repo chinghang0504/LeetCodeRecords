@@ -676,7 +676,7 @@
 | 671 | Second Minimum Node In a Binary Tree | Easy | 2024-08-01 | [Java](./records/Java/Question_671.md): 100.00% |
 | 672 |  |  |  |  |
 | 673 |  |  |  |  |
-| 674 |  |  |  |  |
+| 674 | Longest Continuous Increasing Subsequence | Easy | 2024-08-04 | [Java](./records/Java/Question_674.md): 99.69% |
 | 675 |  |  |  |  |
 | 676 |  |  |  |  |
 | 677 |  |  |  |  |
