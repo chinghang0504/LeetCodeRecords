@@ -1935,7 +1935,7 @@
 | 1930 |  |  |  |  |
 | 1931 |  |  |  |  |
 | 1932 |  |  |  |  |
-| 1933 |  |  |  |  |
+| 1933 | Check if String Is Decomposable Into Value-Equal Substrings | Easy | 2024-08-04 | [Java](./records/Java/Question_1933.md): 100.00% |
 | 1934 |  |  |  |  |
 | 1935 | Maximum Number of Words You Can Type | Easy | 2024-07-06 | [Java](./records/Java/Question_1935.md): 39.93% |
 | 1936 |  |  |  |  |
