@@ -2972,7 +2972,7 @@
 | 2967 |  |  |  |  |
 | 2968 |  |  |  |  |
 | 2969 |  |  |  |  |
-| 2970 |  |  |  |  |
+| 2970 | Count the Number of Incremovable Subarrays I | Easy | 2024-08-04 | [Java](./records/Java/Question_2970.md): 56.08% |
 | 2971 |  |  |  |  |
 | 2972 |  |  |  |  |
 | 2973 |  |  |  |  |
