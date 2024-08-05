@@ -1754,7 +1754,7 @@
 | 1749 |  |  |  |  |
 | 1750 |  |  |  |  |
 | 1751 |  |  |  |  |
-| 1752 |  |  |  |  |
+| 1752 | Check if Array Is Sorted and Rotated | Easy | 2024-08-04 | [Java](./records/Java/Question_1752.md): 100.00% |
 | 1753 |  |  |  |  |
 | 1754 |  |  |  |  |
 | 1755 |  |  |  |  |
