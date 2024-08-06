@@ -1625,7 +1625,7 @@
 | 1620 |  |  |  |  |
 | 1621 |  |  |  |  |
 | 1622 |  |  |  |  |
-| 1623 |  |  |  |  |
+| 1623 | All Valid Triplets That Can Represent a Country | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_1623.md): 95.24% |
 | 1624 | Largest Substring Between Two Equal Characters | Easy | 2024-07-11 | [Java](./records/Java/Question_1624.md): 100.00% |
 | 1625 |  |  |  |  |
 | 1626 |  |  |  |  |
