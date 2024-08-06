@@ -1545,7 +1545,7 @@
 | 1540 |  |  |  |  |
 | 1541 |  |  |  |  |
 | 1542 |  |  |  |  |
-| 1543 |  |  |  |  |
+| 1543 | Fix Product Name Format | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1543.md): 98.11% |
 | 1544 | Make The String Great | Easy | 2024-07-29 | [Java](./records/Java/Question_1544.md): 57.93% |
 | 1545 |  |  |  |  |
 | 1546 |  |  |  |  |
