@@ -3243,5 +3243,11 @@
 | 3238 | Find the Number of Winning Players | Easy | 2024-08-03 | [Java](./records/Java/Question_3238.md): 100.00% |
 | 3239 |  |  |  |  |
 | 3240 | Design Neighbor Sum Service | Easy | 2024-08-04 | [Java](./records/Java/Question_3240.md): 100.00% |
+| 3241 |  |  |  |  |
+| 3242 |  |  |  |  |
+| 3243 |  |  |  |  |
+| 3244 |  |  |  |  |
+| 3245 |  |  |  |  |
+| 3246 | Premier League Table Ranking | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_3246.md): 100.00% |
 
 <br>
