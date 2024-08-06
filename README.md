@@ -1663,7 +1663,7 @@
 | 1658 |  |  |  |  |
 | 1659 |  |  |  |  |
 | 1660 |  |  |  |  |
-| 1661 |  |  |  |  |
+| 1661 | Average Time of Process per Machine | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_1661.md): 98.81% |
 | 1662 | Check If Two String Arrays are Equivalent | Easy | 2024-06-06 | [Java](./records/Java/Question_1662.md): 100.00% |
 | 1663 |  |  |  |  |
 | 1664 |  |  |  |  |
