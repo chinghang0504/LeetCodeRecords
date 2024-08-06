@@ -1791,7 +1791,7 @@
 | 1786 |  |  |  |  |
 | 1787 |  |  |  |  |
 | 1788 |  |  |  |  |
-| 1789 |  |  |  |  |
+| 1789 | Primary Department for Each Employee | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1789.md): 96.68% |
 | 1790 | Check if One String Swap Can Make Strings Equal | Easy | 2024-08-01 | [Java](./records/Java/Question_1790.md): 100.00% |
 | 1791 | Find Center of Star Graph | Easy | 2024-06-11 | [Java](./records/Java/Question_1791.md): 100.00% |
 | 1792 |  |  |  |  |
