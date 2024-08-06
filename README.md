@@ -2729,7 +2729,7 @@
 | 2724 | Sort By | Easy | 2024-06-30 | [JavaScript](./records/JavaScript/Question_2724.md): 98.35% |
 | 2725 |  |  |  |  |
 | 2726 | Calculator with Method Chaining | Easy | 2024-07-30 | [JavaScript](./records/JavaScript/Question_2726.md): 93.62% |
-| 2727 |  |  |  |  |
+| 2727 | Is Object Empty | Easy | 2024-08-05 | [JavaScript](./records/JavaScript/Question_2727.md): 88.98% |
 | 2728 | Count Houses in a Circular Street | Easy | 2024-06-29 | [Java](./records/Java/Question_2728.md): 78.95% |
 | 2729 | Check if The Number is Fascinating | Easy | 2024-07-31 | [Java](./records/Java/Question_2729.md): 93.00% |
 | 2730 |  |  |  |  |
