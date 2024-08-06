@@ -1334,7 +1334,7 @@
 | 1329 |  |  |  |  |
 | 1330 |  |  |  |  |
 | 1331 | Rank Transform of an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1331.md): 94.01% |
-| 1332 |  |  |  |  |
+| 1332 | Ads Performance | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1332.md): 91.39% |
 | 1333 |  |  |  |  |
 | 1334 |  |  |  |  |
 | 1335 |  |  |  |  |
