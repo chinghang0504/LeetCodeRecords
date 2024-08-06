@@ -1182,7 +1182,7 @@
 | 1177 |  |  |  |  |
 | 1178 |  |  |  |  |
 | 1179 | Reformat Department Table | Easy | 2024-06-10 | [Pandas](./records/Pandas/Question_1179.md): 20.28% |
-| 1180 |  |  |  |  |
+| 1180 | Count Substrings with Only One Distinct Letter | Easy | 2024-08-05 | [Java](./records/Java/Question_1180.md): 100.00% |
 | 1181 |  |  |  |  |
 | 1182 |  |  |  |  |
 | 1183 |  |  |  |  |
