@@ -1529,7 +1529,7 @@
 | 1524 |  |  |  |  |
 | 1525 |  |  |  |  |
 | 1526 |  |  |  |  |
-| 1527 |  |  |  |  |
+| 1527 | Patients With a Condition | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1527.md): 80.43% |
 | 1528 | Shuffle String | Easy | 2024-05-31 | [Java](./records/Java/Question_1528.md): 73.16% |
 | 1529 |  |  |  |  |
 | 1530 |  |  |  |  |
