@@ -1733,7 +1733,7 @@
 | 1728 |  |  |  |  |
 | 1729 | Find Followers Count | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1729.md): 99.21% |
 | 1730 |  |  |  |  |
-| 1731 |  |  |  |  |
+| 1731 | The Number of Employees Which Report to Each Employee | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1731.md): 95.36% |
 | 1732 | Find the Highest Altitude | Easy | 2024-06-10 | [Java](./records/Java/Question_1732.md): 100.00% |
 | 1733 |  |  |  |  |
 | 1734 |  |  |  |  |
