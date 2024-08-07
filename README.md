@@ -1679,7 +1679,7 @@
 | 1674 |  |  |  |  |
 | 1675 |  |  |  |  |
 | 1676 |  |  |  |  |
-| 1677 |  |  |  |  |
+| 1677 | Product's Worth Over Invoices | Easy | 2024-08-07 | [Pandas](./records/Pandas/Question_1677.md): 97.73% |
 | 1678 | Goal Parser Interpretation | Easy | 2024-06-05 | [Java](./records/Java/Question_1678.md): 100.00% |
 | 1679 |  |  |  |  |
 | 1680 |  |  |  |  |
