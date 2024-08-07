@@ -1253,7 +1253,7 @@
 | 1248 |  |  |  |  |
 | 1249 |  |  |  |  |
 | 1250 |  |  |  |  |
-| 1251 |  |  |  |  |
+| 1251 | Average Selling Price | Easy | 2024-08-07 | [Pandas](./records/Pandas/Question_1251.md): 92.07% |
 | 1252 | Cells with Odd Values in a Matrix | Easy | 2024-05-23 | [Java](./records/Java/Question_1252.md): 91.10% |
 | 1253 |  |  |  |  |
 | 1254 |  |  |  |  |
