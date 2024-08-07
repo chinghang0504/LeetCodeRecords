@@ -2902,7 +2902,7 @@
 | 2897 |  |  |  |  |
 | 2898 |  |  |  |  |
 | 2899 |  |  |  |  |
-| 2900 |  |  |  |  |
+| 2900 | Longest Unequal Adjacent Groups Subsequence I | Easy | 2024-08-07 | [Java](./records/Java/Question_2900.md): 95.75% |
 | 2901 |  |  |  |  |
 | 2902 |  |  |  |  |
 | 2903 | Find Indices With Index and Value Difference I | Easy | 2024-07-18 | [Java](./records/Java/Question_2903.md): 98.88% |
