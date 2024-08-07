@@ -2568,7 +2568,7 @@
 | 2563 |  |  |  |  |
 | 2564 |  |  |  |  |
 | 2565 |  |  |  |  |
-| 2566 |  |  |  |  |
+| 2566 | Maximum Difference by Remapping a Digit | Easy | 2024-08-07 | [Java](./records/Java/Question_2566.md): 100.00% |
 | 2567 |  |  |  |  |
 | 2568 |  |  |  |  |
 | 2569 |  |  |  |  |
