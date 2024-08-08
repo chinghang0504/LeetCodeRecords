@@ -1963,7 +1963,7 @@
 | 1958 |  |  |  |  |
 | 1959 |  |  |  |  |
 | 1960 |  |  |  |  |
-| 1961 |  |  |  |  |
+| 1961 | Check If String Is a Prefix of Array | Easy | 2024-08-08 | [Java](./records/Java/Question_1961.md): 78.42% |
 | 1962 |  |  |  |  |
 | 1963 |  |  |  |  |
 | 1964 |  |  |  |  |
