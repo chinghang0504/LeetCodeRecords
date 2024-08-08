@@ -2202,7 +2202,7 @@
 | 2197 |  |  |  |  |
 | 2198 |  |  |  |  |
 | 2199 |  |  |  |  |
-| 2200 |  |  |  |  |
+| 2200 | Find All K-Distant Indices in an Array | Easy | 2024-08-08 | [Java](./records/Java/Question_2200.md): 67.95% |
 | 2201 |  |  |  |  |
 | 2202 |  |  |  |  |
 | 2203 |  |  |  |  |
