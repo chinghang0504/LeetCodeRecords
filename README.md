@@ -2101,7 +2101,7 @@
 | 2096 |  |  |  |  |
 | 2097 |  |  |  |  |
 | 2098 |  |  |  |  |
-| 2099 |  |  |  |  |
+| 2099 | Find Subsequence of Length K With the Largest Sum | Easy | 2024-08-08 | [Java](./records/Java/Question_2099.md): 10.20% |
 | 2100 |  |  |  |  |
 | 2101 |  |  |  |  |
 | 2102 |  |  |  |  |
