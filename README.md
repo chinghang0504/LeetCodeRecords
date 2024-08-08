@@ -2261,7 +2261,7 @@
 | 2256 |  |  |  |  |
 | 2257 |  |  |  |  |
 | 2258 |  |  |  |  |
-| 2259 |  |  |  |  |
+| 2259 | Remove Digit From Number to Maximize Result | Easy | 2024-08-07 | [Java](./records/Java/Question_2259.md): 100.00% |
 | 2260 |  |  |  |  |
 | 2261 |  |  |  |  |
 | 2262 |  |  |  |  |
