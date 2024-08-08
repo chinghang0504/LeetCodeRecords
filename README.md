@@ -1786,7 +1786,7 @@
 | 1781 |  |  |  |  |
 | 1782 |  |  |  |  |
 | 1783 | Grand Slam Titles | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_1783.md): 100.00% |
-| 1784 |  |  |  |  |
+| 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | 2024-08-08 | [Java](./records/Java/Question_1784.md): 100.00% |
 | 1785 |  |  |  |  |
 | 1786 |  |  |  |  |
 | 1787 |  |  |  |  |
