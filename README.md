@@ -1273,7 +1273,7 @@
 | 1268 |  |  |  |  |
 | 1269 |  |  |  |  |
 | 1270 | All People Report to the Given Manager | Medium | 2024-05-29 | [Pandas](./records/Pandas/Question_1270.md): 90.32% |
-| 1271 |  |  |  |  |
+| 1271 | Hexspeak | Easy | 2024-08-07 | [Java](./records/Java/Question_1271.md): 80.56% |
 | 1272 |  |  |  |  |
 | 1273 |  |  |  |  |
 | 1274 |  |  |  |  |
