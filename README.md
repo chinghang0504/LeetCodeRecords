@@ -574,7 +574,7 @@
 | 569 |  |  |  |  |
 | 570 |  |  |  |  |
 | 571 |  |  |  |  |
-| 572 |  |  |  |  |
+| 572 | Subtree of Another Tree | Easy | 2024-08-07 | [Java](./records/Java/Question_572.md): 96.95% |
 | 573 |  |  |  |  |
 | 574 |  |  |  |  |
 | 575 | Distribute Candies | Easy | 2024-04-27 | [Java](./records/Java/Question_575.md): 81.25% |
