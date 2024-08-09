@@ -1670,7 +1670,7 @@
 | 1665 |  |  |  |  |
 | 1666 |  |  |  |  |
 | 1667 | Fix Names in a Table | Easy | 2024-06-06 | [Pandas](./records/Pandas/Question_1667.md): 99.62% |
-| 1668 |  |  |  |  |
+| 1668 | Maximum Repeating Substring | Easy | 2024-08-08 | [Java](./records/Java/Question_1668.md): 57.52% |
 | 1669 |  |  |  |  |
 | 1670 |  |  |  |  |
 | 1671 |  |  |  |  |
