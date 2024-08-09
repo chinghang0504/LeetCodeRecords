@@ -1738,7 +1738,7 @@
 | 1733 |  |  |  |  |
 | 1734 |  |  |  |  |
 | 1735 |  |  |  |  |
-| 1736 |  |  |  |  |
+| 1736 | Latest Time by Replacing Hidden Digits | Easy | 2024-08-08 | [Java](./records/Java/Question_1736.md): 100.00% |
 | 1737 |  |  |  |  |
 | 1738 |  |  |  |  |
 | 1739 |  |  |  |  |
