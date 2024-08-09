@@ -943,7 +943,7 @@
 | 938 | Range Sum of BST | Easy | 2024-05-07 | [Java](./records/Java/Question_938.md): 100.00% |
 | 939 |  |  |  |  |
 | 940 |  |  |  |  |
-| 941 |  |  |  |  |
+| 941 | Valid Mountain Array | Easy | 2024-08-09 | [Java](./records/Java/Question_941.md): 100.00% |
 | 942 | DI String Match | Easy | 2024-07-25 | [Java](./records/Java/Question_942.md): 11.32% |
 | 943 |  |  |  |  |
 | 944 | Delete Columns to Make Sorted | Easy | 2024-05-07 | [Java](./records/Java/Question_944.md): 97.60% |
