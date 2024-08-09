@@ -606,7 +606,7 @@
 | 601 |  |  |  |  |
 | 602 |  |  |  |  |
 | 603 | Consecutive Available Seats | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_603.md): 78.64% |
-| 604 |  |  |  |  |
+| 604 | Design Compressed String Iterator | Easy | 2024-08-08 | [Java](./records/Java/Question_604.md): 62.42% |
 | 605 |  |  |  |  |
 | 606 |  |  |  |  |
 | 607 | Sales Person | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_607.md): 68.96% |
