@@ -861,7 +861,7 @@
 | 856 |  |  |  |  |
 | 857 |  |  |  |  |
 | 858 |  |  |  |  |
-| 859 |  |  |  |  |
+| 859 | Buddy Strings | Easy | 2024-08-09 | [Java](./records/Java/Question_859.md): 100.00% |
 | 860 | Lemonade Change | Easy | 2024-05-12 | [Java](./records/Java/Question_860.md): 95.75% |
 | 861 |  |  |  |  |
 | 862 |  |  |  |  |
