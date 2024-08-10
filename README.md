@@ -916,7 +916,7 @@
 | 911 |  |  |  |  |
 | 912 |  |  |  |  |
 | 913 |  |  |  |  |
-| 914 |  |  |  |  |
+| 914 | X of a Kind in a Deck of Cards | Easy | 2024-08-09 | [Java](./records/Java/Question_914.md): 92.24% |
 | 915 |  |  |  |  |
 | 916 |  |  |  |  |
 | 917 | Reverse Only Letters | Easy | 2024-05-07 | [Java](./records/Java/Question_917.md): 100.00% |
