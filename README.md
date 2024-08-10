@@ -2049,7 +2049,7 @@
 | 2044 |  |  |  |  |
 | 2045 |  |  |  |  |
 | 2046 |  |  |  |  |
-| 2047 |  |  |  |  |
+| 2047 | Number of Valid Words in a Sentence | Easy | 2024-08-10 | [Java](./records/Java/Question_2047.md): 95.25% |
 | 2048 |  |  |  |  |
 | 2049 |  |  |  |  |
 | 2050 |  |  |  |  |
