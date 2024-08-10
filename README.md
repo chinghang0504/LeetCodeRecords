@@ -2381,7 +2381,7 @@
 | 2376 |  |  |  |  |
 | 2377 | Sort the Olympic Table | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2377.md): 100.00% |
 | 2378 |  |  |  |  |
-| 2379 |  |  |  |  |
+| 2379 | Minimum Recolors to Get K Consecutive Black Blocks | Easy | 2024-08-10 | [Java](./records/Java/Question_2379.md): 88.27% |
 | 2380 |  |  |  |  |
 | 2381 |  |  |  |  |
 | 2382 |  |  |  |  |
