@@ -698,7 +698,7 @@
 | 693 | Binary Number with Alternating Bits | Easy | 2024-05-12 | [Java](./records/Java/Question_693.md): 100.00% |
 | 694 |  |  |  |  |
 | 695 |  |  |  |  |
-| 696 |  |  |  |  |
+| 696 | Count Binary Substrings | Easy | 2024-08-10 | [Java](./records/Java/Question_696.md): 90.90% |
 | 697 | Degree of an Array | Easy | 2024-07-30 | [Java](./records/Java/Question_697.md): 24.95% |
 | 698 |  |  |  |  |
 | 699 |  |  |  |  |
