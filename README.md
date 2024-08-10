@@ -2998,7 +2998,7 @@
 | 2993 |  |  |  |  |
 | 2994 |  |  |  |  |
 | 2995 |  |  |  |  |
-| 2996 |  |  |  |  |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | 2024-08-09 | [Java](./records/Java/Question_2996.md): 91.29% |
 | 2997 |  |  |  |  |
 | 2998 |  |  |  |  |
 | 2999 |  |  |  |  |
