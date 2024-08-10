@@ -927,7 +927,7 @@
 | 922 | Sort Array By Parity II | Easy | 2024-07-08 | [Java](./records/Java/Question_922.md): 99.47% |
 | 923 |  |  |  |  |
 | 924 |  |  |  |  |
-| 925 |  |  |  |  |
+| 925 | Long Pressed Name | Easy | 2024-08-09 | [Java](./records/Java/Question_925.md): 100.00% |
 | 926 |  |  |  |  |
 | 927 |  |  |  |  |
 | 928 |  |  |  |  |
