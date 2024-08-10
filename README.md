@@ -1067,7 +1067,7 @@
 | 1062 |  |  |  |  |
 | 1063 |  |  |  |  |
 | 1064 | Fixed Point | Easy | 2024-05-17 | [Java](./records/Java/Question_1064.md): 100.00% |
-| 1065 |  |  |  |  |
+| 1065 | Index Pairs of a String | Easy | 2024-08-10 | [Java](./records/Java/Question_1065.md): 86.67% |
 | 1066 |  |  |  |  |
 | 1067 |  |  |  |  |
 | 1068 | Product Sales Analysis I | Easy | 2024-05-17 | [Pandas](./records/Pandas/Question_1068.md): 98.06% |
