@@ -2901,7 +2901,7 @@
 | 2896 |  |  |  |  |
 | 2897 |  |  |  |  |
 | 2898 |  |  |  |  |
-| 2899 |  |  |  |  |
+| 2899 | Last Visited Integers | Easy | 2024-08-10 | [Java](./records/Java/Question_2899.md): 40.47% |
 | 2900 | Longest Unequal Adjacent Groups Subsequence I | Easy | 2024-08-07 | [Java](./records/Java/Question_2900.md): 95.75% |
 | 2901 |  |  |  |  |
 | 2902 |  |  |  |  |
