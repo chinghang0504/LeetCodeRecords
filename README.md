@@ -2385,7 +2385,7 @@
 | 2380 |  |  |  |  |
 | 2381 |  |  |  |  |
 | 2382 |  |  |  |  |
-| 2383 |  |  |  |  |
+| 2383 | Minimum Hours of Training to Win a Competition | Easy | 2024-08-11 | [Java](./records/Java/Question_2383.md): 100.00% |
 | 2384 |  |  |  |  |
 | 2385 |  |  |  |  |
 | 2386 |  |  |  |  |
