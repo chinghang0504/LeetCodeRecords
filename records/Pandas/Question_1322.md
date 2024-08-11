@@ -1,4 +1,4 @@
-# [LeetCode Records](../../README.md) - Question 1332 Ads Performance
+# [LeetCode Records](../../README.md) - Question 1322 Ads Performance
 
 ### Attempt 1: Use groupby(), count(), pd.merge(), isin(), and pd.concat()
 ```py

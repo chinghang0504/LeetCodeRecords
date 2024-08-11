@@ -1324,7 +1324,7 @@
 | 1319 |  |  |  |  |
 | 1320 |  |  |  |  |
 | 1321 |  |  |  |  |
-| 1322 |  |  |  |  |
+| 1322 | Ads Performance | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1322.md): 91.39% |
 | 1323 | Maximum 69 Number | Easy | 2024-05-26 | [Java](./records/Java/Question_1323.md): 100.00% |
 | 1324 |  |  |  |  |
 | 1325 |  |  |  |  |
@@ -1334,7 +1334,7 @@
 | 1329 |  |  |  |  |
 | 1330 |  |  |  |  |
 | 1331 | Rank Transform of an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1331.md): 94.01% |
-| 1332 | Ads Performance | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1332.md): 91.39% |
+| 1332 |  |  |  |  |
 | 1333 |  |  |  |  |
 | 1334 |  |  |  |  |
 | 1335 |  |  |  |  |
