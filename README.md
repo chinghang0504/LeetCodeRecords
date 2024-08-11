@@ -1015,7 +1015,7 @@
 | 1010 |  |  |  |  |
 | 1011 |  |  |  |  |
 | 1012 |  |  |  |  |
-| 1013 |  |  |  |  |
+| 1013 | Partition Array Into Three Parts With Equal Sum | Easy | 2024-08-11 | [Java](./records/Java/Question_1013.md): 51.95% |
 | 1014 |  |  |  |  |
 | 1015 |  |  |  |  |
 | 1016 |  |  |  |  |
