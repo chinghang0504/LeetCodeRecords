@@ -1807,7 +1807,7 @@
 | 1802 |  |  |  |  |
 | 1803 |  |  |  |  |
 | 1804 |  |  |  |  |
-| 1805 |  |  |  |  |
+| 1805 | Number of Different Integers in a String | Easy | 2024-08-11 | [Java](./records/Java/Question_1805.md): 98.52% |
 | 1806 |  |  |  |  |
 | 1807 |  |  |  |  |
 | 1808 |  |  |  |  |
