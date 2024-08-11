@@ -3249,5 +3249,7 @@
 | 3244 |  |  |  |  |
 | 3245 |  |  |  |  |
 | 3246 | Premier League Table Ranking | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_3246.md): 100.00% |
+| 3247 |  |  |  |  |
+| 3248 | Snake in Matrix | Easy | 2024-08-11 | [Java](./records/Java/Question_3248.md): 100.00% |
 
 <br>
