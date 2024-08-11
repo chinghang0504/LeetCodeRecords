@@ -523,7 +523,7 @@
 | 518 |  |  |  |  |
 | 519 |  |  |  |  |
 | 520 | Detect Capital | Easy | 2024-04-25 | [Java](./records/Java/Question_520.md): 100.00% |
-| 521 |  |  |  |  |
+| 521 | Longest Uncommon Subsequence I | Easy | 2024-08-10 | [Java](./records/Java/Question_521.md): 100.00% |
 | 522 |  |  |  |  |
 | 523 |  |  |  |  |
 | 524 |  |  |  |  |
