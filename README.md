@@ -596,7 +596,7 @@
 | 591 |  |  |  |  |
 | 592 |  |  |  |  |
 | 593 |  |  |  |  |
-| 594 |  |  |  |  |
+| 594 | Longest Harmonious Subsequence | Easy | 2024-08-10 | [Java](./records/Java/Question_594.md): 99.76% |
 | 595 | Big Countries | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_595.md): 94.66% |
 | 596 | Classes More Than 5 Students | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_596.md): 99.52% |
 | 597 | Friend Requests I: Overall Acceptance Rate | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_597.md): 87.50% |
