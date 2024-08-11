@@ -2762,7 +2762,7 @@
 | 2757 |  |  |  |  |
 | 2758 |  |  |  |  |
 | 2759 |  |  |  |  |
-| 2760 |  |  |  |  |
+| 2760 | Longest Even Odd Subarray With Threshold | Easy | 2024-08-11 | [Java](./records/Java/Question_2760.md): 5.38% |
 | 2761 |  |  |  |  |
 | 2762 |  |  |  |  |
 | 2763 |  |  |  |  |
