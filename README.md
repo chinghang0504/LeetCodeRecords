@@ -2719,7 +2719,7 @@
 | 2714 |  |  |  |  |
 | 2715 |  |  |  |  |
 | 2716 | Minimize String Length | Easy | 2024-07-04 | [Java](./records/Java/Question_2716.md): 100.00% |
-| 2717 |  |  |  |  |
+| 2717 | Semi-Ordered Permutation | Easy | 2024-08-10 | [Java](./records/Java/Question_2717.md): 100.00% |
 | 2718 |  |  |  |  |
 | 2719 |  |  |  |  |
 | 2720 |  |  |  |  |
