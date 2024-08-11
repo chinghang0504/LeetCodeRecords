@@ -1568,7 +1568,7 @@
 | 1563 |  |  |  |  |
 | 1564 |  |  |  |  |
 | 1565 | Unique Orders and Customers Per Month | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1565.md): 100.00% |
-| 1566 |  |  |  |  |
+| 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | 2024-08-10 | [Java](./records/Java/Question_1566.md): 30.00% |
 | 1567 |  |  |  |  |
 | 1568 |  |  |  |  |
 | 1569 |  |  |  |  |
