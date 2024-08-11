@@ -1828,7 +1828,7 @@
 | 1823 |  |  |  |  |
 | 1824 |  |  |  |  |
 | 1825 |  |  |  |  |
-| 1826 |  |  |  |  |
+| 1826 | Faulty Sensor | Easy | 2024-08-10 | [Java](./records/Java/Question_1826.md): 100.00% |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | 2024-07-01 | [Java](./records/Java/Question_1827.md): 100.00% |
 | 1828 | Queries on Number of Points Inside a Circle | Medium | 2024-07-13 | [Java](./records/Java/Question_1828.md): 37.97% |
 | 1829 |  |  |  |  |
