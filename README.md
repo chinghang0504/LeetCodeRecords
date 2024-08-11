@@ -2513,7 +2513,7 @@
 | 2508 |  |  |  |  |
 | 2509 |  |  |  |  |
 | 2510 |  |  |  |  |
-| 2511 |  |  |  |  |
+| 2511 | Maximum Enemy Forts That Can Be Captured | Easy | 2024-08-11 | [Java](./records/Java/Question_2511.md): 100.00% |
 | 2512 |  |  |  |  |
 | 2513 |  |  |  |  |
 | 2514 |  |  |  |  |
