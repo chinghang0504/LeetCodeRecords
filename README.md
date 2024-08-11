@@ -2212,7 +2212,7 @@
 | 2207 |  |  |  |  |
 | 2208 |  |  |  |  |
 | 2209 |  |  |  |  |
-| 2210 |  |  |  |  |
+| 2210 | Count Hills and Valleys in an Array | Easy | 2024-08-10 | [Java](./records/Java/Question_2210.md): 100.00% |
 | 2211 |  |  |  |  |
 | 2212 |  |  |  |  |
 | 2213 |  |  |  |  |
