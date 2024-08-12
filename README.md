@@ -2593,7 +2593,7 @@
 | 2588 |  |  |  |  |
 | 2589 |  |  |  |  |
 | 2590 |  |  |  |  |
-| 2591 |  |  |  |  |
+| 2591 | Distribute Money to Maximum Children | Easy | 2024-08-11 | [Java](./records/Java/Question_2591.md): 100.00% |
 | 2592 |  |  |  |  |
 | 2593 |  |  |  |  |
 | 2594 |  |  |  |  |
