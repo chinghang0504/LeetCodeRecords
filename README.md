@@ -2760,7 +2760,7 @@
 | 2755 |  |  |  |  |
 | 2756 |  |  |  |  |
 | 2757 |  |  |  |  |
-| 2758 |  |  |  |  |
+| 2758 | Next Day | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2758.md): 84.75% |
 | 2759 |  |  |  |  |
 | 2760 | Longest Even Odd Subarray With Threshold | Easy | 2024-08-11 | [Java](./records/Java/Question_2760.md): 5.38% |
 | 2761 |  |  |  |  |
