@@ -2717,7 +2717,7 @@
 | 2712 |  |  |  |  |
 | 2713 |  |  |  |  |
 | 2714 |  |  |  |  |
-| 2715 |  |  |  |  |
+| 2715 | Timeout Cancellation | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2715.md): 82.15% |
 | 2716 | Minimize String Length | Easy | 2024-07-04 | [Java](./records/Java/Question_2716.md): 100.00% |
 | 2717 | Semi-Ordered Permutation | Easy | 2024-08-10 | [Java](./records/Java/Question_2717.md): 100.00% |
 | 2718 |  |  |  |  |
