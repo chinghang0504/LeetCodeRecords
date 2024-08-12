@@ -1911,7 +1911,7 @@
 | 1906 |  |  |  |  |
 | 1907 |  |  |  |  |
 | 1908 |  |  |  |  |
-| 1909 |  |  |  |  |
+| 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | 2024-08-11 | [Java](./records/Java/Question_1909.md): 100.00% |
 | 1910 |  |  |  |  |
 | 1911 |  |  |  |  |
 | 1912 |  |  |  |  |
