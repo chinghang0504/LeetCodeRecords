@@ -2806,7 +2806,7 @@
 | 2801 |  |  |  |  |
 | 2802 |  |  |  |  |
 | 2803 |  |  |  |  |
-| 2804 |  |  |  |  |
+| 2804 | Array Prototype ForEach | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2804.md): 85.19% |
 | 2805 |  |  |  |  |
 | 2806 | Account Balance After Rounded Purchase | Easy | 2024-07-31 | [Java](./records/Java/Question_2806.md): 100.00% |
 | 2807 | Insert Greatest Common Divisors in Linked List | Medium | 2024-07-13 | [Java](./records/Java/Question_2807.md): 33.22% |
