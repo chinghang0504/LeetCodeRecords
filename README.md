@@ -2799,7 +2799,7 @@
 | 2794 | Create Object from Two Arrays | Easy | 2024-07-30 | [JavaScript](./records/JavaScript/Question_2794.md): 98.55% |
 | 2795 |  |  |  |  |
 | 2796 | Repeat String | Easy | 2024-06-22 | [JavaScript](./records/JavaScript/Question_2796.md): 96.43% |
-| 2797 |  |  |  |  |
+| 2797 | Partial Function with Placeholders | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2797.md): 88.68% |
 | 2798 | Number of Employees Who Met the Target | Easy | 2024-06-23 | [Java](./records/Java/Question_2798.md): 100.00% |
 | 2799 |  |  |  |  |
 | 2800 |  |  |  |  |
