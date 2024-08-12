@@ -2425,7 +2425,7 @@
 | 2420 |  |  |  |  |
 | 2421 |  |  |  |  |
 | 2422 |  |  |  |  |
-| 2423 |  |  |  |  |
+| 2423 | Remove Letter To Equalize Frequency | Easy | 2024-08-12 | [Java](./records/Java/Question_2423.md): 57.05% |
 | 2424 |  |  |  |  |
 | 2425 |  |  |  |  |
 | 2426 |  |  |  |  |
