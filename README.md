@@ -2805,7 +2805,7 @@
 | 2800 |  |  |  |  |
 | 2801 |  |  |  |  |
 | 2802 |  |  |  |  |
-| 2803 |  |  |  |  |
+| 2803 | Factorial Generator | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2803.md): 92.68% |
 | 2804 | Array Prototype ForEach | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2804.md): 85.19% |
 | 2805 |  |  |  |  |
 | 2806 | Account Balance After Rounded Purchase | Easy | 2024-07-31 | [Java](./records/Java/Question_2806.md): 100.00% |
