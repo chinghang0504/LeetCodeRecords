@@ -1,6 +1,47 @@
 # LeetCode Records
 ![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)
 
+## Overview
+Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
+
+## Project Details
+- Project Start Date: March 22, 2024
+- Total Problems Solved (as of August 12, 2024): 976
+- Current Focus: Solving Medium-level problems
+- Languages Used: Java, Pandas, JavaScript
+
+## Problem-Solving Approach
+For each problem, I document the following:
+- Difficulty Level: Categorized as Easy, Medium, or Hard
+- First Attempt Date: The date when I first attempted the problem
+- Runtime Beats: A measure of how my solution's runtime compares to other submissions
+- Technical Skills: The specific programming concepts and techniques I applied to solve the problem
+
+## Progress
+### Easy Problems
+- Solved: All Easy problems except for the following problems
+
+#### Bash Problems
+- Problem 193: Valid Phone Numbers
+- Problem 195: Tenth Line
+
+#### Pandas Problems
+- Problem 2205: The Number of Users That Are Eligible for Discount (Technical Bug: Reported)
+- Problem 2230:  The Users That Are Eligible for Discount (Technical Bug: Reported)
+
+### Medium Problems
+Focus: Currently concentrating on solving Medium-level problems daily
+
+## About Me
+My name is Ching Hang Lam (Richard), and I'm passionate about improving my problem-solving skills. This project is a reflection of my continuous effort to learn and grow in the field of software development.
+
+## Future Goals
+I will continue to solve problems every day, aiming to cover more Medium and eventually Hard problems. My ultimate goal is to enhance my proficiency in multiple programming languages and deepen my understanding of complex algorithms.
+
+## Get in Touch
+Feel free to explore my solutions and reach out if you have any questions or suggestions!
+
+## Records
 | Question | Title | Level | First Attempt | Runtime Beats  |
 | :- | :- | :-: | :-: | :-: |
 | 1 | Two Sum | Easy | 2024-03-22 | [Java](./records/Java/Question_1.md): 97.88% |
