@@ -2650,7 +2650,7 @@
 | 2645 |  |  |  |  |
 | 2646 |  |  |  |  |
 | 2647 |  |  |  |  |
-| 2648 |  |  |  |  |
+| 2648 | Generate Fibonacci Sequence | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2648.md): 92.07% |
 | 2649 |  |  |  |  |
 | 2650 |  |  |  |  |
 | 2651 | Calculate Delayed Arrival Time | Easy | 2024-06-26 | [Java](./records/Java/Question_2651.md): 100.00% |
