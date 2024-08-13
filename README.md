@@ -2692,7 +2692,7 @@
 | 2687 | Bikes Last Time Used | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2687.md): 100.00% |
 | 2688 |  |  |  |  |
 | 2689 | Extract Kth Character From The Rope Tree | Easy | 2024-07-30 | [Java](./records/Java/Question_2689.md): 73.61% |
-| 2690 |  |  |  |  |
+| 2690 | Infinite Method Object | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2690.md): 87.81% |
 | 2691 |  |  |  |  |
 | 2692 |  |  |  |  |
 | 2693 |  |  |  |  |
