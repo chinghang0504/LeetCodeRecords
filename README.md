@@ -3247,7 +3247,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3201 |  |  |  |  |
 | 3202 |  |  |  |  |
 | 3203 |  |  |  |  |
-| 3204 |  |  |  |  |
+| 3204 | Bitwise User Permissions Analysis | Medium | 2024-08-13 | [Pandas](./records/Pandas/Question_3204.md): 100.00% |
 | 3205 | Maximum Array Hopping Score I | Medium | 2024-07-14 | [Java](./records/Java/Question_3205.md): 21.74% |
 | 3206 | Alternating Groups I | Easy | 2024-07-16 | [Java](./records/Java/Question_3206.md): 100.00% |
 | 3207 |  |  |  |  |
