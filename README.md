@@ -3040,7 +3040,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2994 |  |  |  |  |
 | 2995 |  |  |  |  |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | 2024-08-09 | [Java](./records/Java/Question_2996.md): 91.29% |
-| 2997 |  |  |  |  |
+| 2997 | Minimum Number of Operations to Make Array XOR Equal to K | Medium | 2024-08-13 | [Java](./records/Java/Question_2997.md): 100.00% |
 | 2998 |  |  |  |  |
 | 2999 |  |  |  |  |
 | 3000 | Maximum Area of Longest Diagonal Rectangle | Easy | 2024-07-26 | [Java](./records/Java/Question_3000.md): 96.53% |
