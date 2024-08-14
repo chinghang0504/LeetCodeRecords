@@ -1485,7 +1485,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1439 |  |  |  |  |
 | 1440 |  |  |  |  |
 | 1441 |  |  |  |  |
-| 1442 |  |  |  |  |
+| 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | 2024-08-13 | [Java](./records/Java/Question_1442.md): 5.08% |
 | 1443 |  |  |  |  |
 | 1444 |  |  |  |  |
 | 1445 | Apples & Oranges | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1445.md): 94.87% |
