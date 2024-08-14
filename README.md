@@ -2223,8 +2223,8 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2177 |  |  |  |  |
 | 2178 |  |  |  |  |
 | 2179 |  |  |  |  |
-| 2180 | Count Integers With Even Digit Sum | Easy | 2024-07-16 | [Java](./records/Java/Question_2180.md):  |
-| 2181 |  |  |  |  |
+| 2180 | Count Integers With Even Digit Sum | Easy | 2024-07-16 | [Java](./records/Java/Question_2180.md): 92.03% |
+| 2181 | Merge Nodes in Between Zeros | Medium | 2024-08-13 | [Java](./records/Java/Question_2181.md): 67.54% |
 | 2182 |  |  |  |  |
 | 2183 |  |  |  |  |
 | 2184 |  |  |  |  |
