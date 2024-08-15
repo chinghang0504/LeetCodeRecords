@@ -3031,7 +3031,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2985 | Calculate Compressed Mean | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2985.md): 100.00% |
 | 2986 |  |  |  |  |
 | 2987 | Find Expensive Cities | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2987.md): 100.00% |
-| 2988 |  |  |  |  |
+| 2988 | Manager of the Largest Department | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_2988.md): 90.00% |
 | 2989 | Class Performance | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2989.md): 100.00% |
 | 2990 | Loan Types | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2990.md): 96.97% |
 | 2991 |  |  |  |  |
