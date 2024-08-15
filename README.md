@@ -3254,7 +3254,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3208 |  |  |  |  |
 | 3209 |  |  |  |  |
 | 3210 | Find the Encrypted String | Easy | 2024-07-10 | [Java](./records/Java/Question_3210.md): 100.00% |
-| 3211 |  |  |  |  |
+| 3211 | Generate Binary Strings Without Adjacent Zeros | Medium | 2024-08-14 | [Java](./records/Java/Question_3211.md): 41.58% |
 | 3212 |  |  |  |  |
 | 3213 |  |  |  |  |
 | 3214 |  |  |  |  |
