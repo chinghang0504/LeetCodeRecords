@@ -3036,7 +3036,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2990 | Loan Types | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2990.md): 96.97% |
 | 2991 |  |  |  |  |
 | 2992 |  |  |  |  |
-| 2993 |  |  |  |  |
+| 2993 | Friday Purchases I | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_2993.md): 94.74% |
 | 2994 |  |  |  |  |
 | 2995 |  |  |  |  |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | 2024-08-09 | [Java](./records/Java/Question_2996.md): 91.29% |
