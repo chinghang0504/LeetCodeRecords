@@ -2341,7 +2341,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2295 |  |  |  |  |
 | 2296 |  |  |  |  |
 | 2297 |  |  |  |  |
-| 2298 |  |  |  |  |
+| 2298 | Tasks Count in the Weekend | Easy | 2024-08-14 | [Pandas](./records/Pandas/Question_2298.md): 92.31% |
 | 2299 | Strong Password Checker II | Easy | 2024-07-30 | [Java](./records/Java/Question_2299.md): 86.25% |
 | 2300 |  |  |  |  |
 | 2301 |  |  |  |  |
