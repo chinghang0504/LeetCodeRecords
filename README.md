@@ -3263,7 +3263,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3217 |  |  |  |  |
 | 3218 |  |  |  |  |
 | 3219 |  |  |  |  |
-| 3220 |  |  |  |  |
+| 3220 | Odd and Even Transactions | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_3220.md): 82.18% |
 | 3221 |  |  |  |  |
 | 3222 | Find the Winning Player in Coin Game | Easy | 2024-08-04 | [Java](./records/Java/Question_3222.md): 100.00% |
 | 3223 |  |  |  |  |
