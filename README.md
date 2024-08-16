@@ -2084,7 +2084,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2038 |  |  |  |  |
 | 2039 |  |  |  |  |
 | 2040 |  |  |  |  |
-| 2041 |  |  |  |  |
+| 2041 | Accepted Candidates From the Interviews | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_2041.md): 95.06% |
 | 2042 | Check if Numbers Are Ascending in a Sentence | Easy | 2024-07-10 | [Java](./records/Java/Question_2042.md): 100.00% |
 | 2043 |  |  |  |  |
 | 2044 |  |  |  |  |
