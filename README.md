@@ -1639,7 +1639,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1593 |  |  |  |  |
 | 1594 |  |  |  |  |
 | 1595 |  |  |  |  |
-| 1596 |  |  |  |  |
+| 1596 | The Most Frequently Ordered Products for Each Customer | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_1596.md): 100.00% |
 | 1597 |  |  |  |  |
 | 1598 | Crawler Log Folder | Easy | 2024-07-10 | [Java](./records/Java/Question_1598.md): 99.42% |
 | 1599 |  |  |  |  |
