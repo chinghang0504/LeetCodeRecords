@@ -1483,7 +1483,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1437 | Check If All 1's Are at Least Length K Places Away | Easy | 2024-05-29 | [Java](./records/Java/Question_1437.md): 100.00% |
 | 1438 |  |  |  |  |
 | 1439 |  |  |  |  |
-| 1440 |  |  |  |  |
+| 1440 | Evaluate Boolean Expression | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1440.md): 84.00% |
 | 1441 |  |  |  |  |
 | 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | 2024-08-13 | [Java](./records/Java/Question_1442.md): 5.08% |
 | 1443 |  |  |  |  |
