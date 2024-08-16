@@ -651,7 +651,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 605 | Can Place Flowers | Easy | 2024-08-09 | [Java](./records/Java/Question_605.md): 97.57% |
 | 606 |  |  |  |  |
 | 607 | Sales Person | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_607.md): 68.96% |
-| 608 |  |  |  |  |
+| 608 | Tree Node | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_608.md): 84.09% |
 | 609 |  |  |  |  |
 | 610 | Triangle Judgement | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_610.md): 78.55% |
 | 611 |  |  |  |  |
