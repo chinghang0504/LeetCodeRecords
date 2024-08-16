@@ -2367,7 +2367,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2321 |  |  |  |  |
 | 2322 |  |  |  |  |
 | 2323 |  |  |  |  |
-| 2324 |  |  |  |  |
+| 2324 | Product Sales Analysis IV | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_2324.md): 96.00% |
 | 2325 | Decode the Message | Easy | 2024-06-26 | [Java](./records/Java/Question_2325.md): 87.46% |
 | 2326 |  |  |  |  |
 | 2327 |  |  |  |  |
