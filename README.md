@@ -2357,7 +2357,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2311 |  |  |  |  |
 | 2312 |  |  |  |  |
 | 2313 |  |  |  |  |
-| 2314 |  |  |  |  |
+| 2314 | The First Day of the Maximum Recorded Degree in Each City | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_2314.md): 100.00% |
 | 2315 | Count Asterisks | Easy | 2024-07-03 | [Java](./records/Java/Question_2315.md): 100.00% |
 | 2316 |  |  |  |  |
 | 2317 |  |  |  |  |
