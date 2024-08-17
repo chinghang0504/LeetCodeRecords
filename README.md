@@ -1910,7 +1910,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1864 |  |  |  |  |
 | 1865 |  |  |  |  |
 | 1866 |  |  |  |  |
-| 1867 |  |  |  |  |
+| 1867 | Orders With Maximum Quantity Above Average | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_1867.md): 92.86% |
 | 1868 |  |  |  |  |
 | 1869 | Longer Contiguous Segments of Ones than Zeros | Easy | 2024-07-19 | [Java](./records/Java/Question_1869.md): 100.00% |
 | 1870 |  |  |  |  |
