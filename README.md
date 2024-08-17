@@ -2063,7 +2063,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2017 |  |  |  |  |
 | 2018 |  |  |  |  |
 | 2019 |  |  |  |  |
-| 2020 |  |  |  |  |
+| 2020 | Number of Accounts That Did Not Stream | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_2020.md): 100.00% |
 | 2021 |  |  |  |  |
 | 2022 | Convert 1D Array Into 2D Array | Easy | 2024-06-14 | [Java](./records/Java/Question_2022.md): 62.32% |
 | 2023 |  |  |  |  |
