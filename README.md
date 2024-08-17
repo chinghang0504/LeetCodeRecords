@@ -2281,7 +2281,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2235 | Add Two Integers | Easy | 2024-06-25 | [Java](./records/Java/Question_2235.md): 100.00% |
 | 2236 | Root Equals Sum of Children | Easy | 2024-06-26 | [Java](./records/Java/Question_2236.md): 100.00% |
 | 2237 |  |  |  |  |
-| 2238 |  |  |  |  |
+| 2238 | Number of Times a Driver Was a Passenger | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_2238.md): 67.50% |
 | 2239 | Find Closest Number to Zero | Easy | 2024-07-30 | [Java](./records/Java/Question_2239.md): 90.24% |
 | 2240 |  |  |  |  |
 | 2241 |  |  |  |  |
