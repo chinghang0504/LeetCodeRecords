@@ -1407,7 +1407,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1361 |  |  |  |  |
 | 1362 |  |  |  |  |
 | 1363 |  |  |  |  |
-| 1364 |  |  |  |  |
+| 1364 | Number of Trusted Contacts of a Customer | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1364.md): 100.00% |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | 2024-06-26 | [Java](./records/Java/Question_1365.md): 85.12% |
 | 1366 |  |  |  |  |
 | 1367 |  |  |  |  |
