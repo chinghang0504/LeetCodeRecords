@@ -1752,7 +1752,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1706 |  |  |  |  |
 | 1707 |  |  |  |  |
 | 1708 | Largest Subarray Length K | Easy | 2024-07-17 | [Java](./records/Java/Question_1708.md): 15.79% |
-| 1709 |  |  |  |  |
+| 1709 | Biggest Window Between Visits | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_1709.md): 73.33% |
 | 1710 | Maximum Units on a Truck | Easy | 2024-07-30 | [Java](./records/Java/Question_1710.md): 92.14% |
 | 1711 |  |  |  |  |
 | 1712 |  |  |  |  |
