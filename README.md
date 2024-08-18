@@ -2155,7 +2155,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2109 |  |  |  |  |
 | 2110 |  |  |  |  |
 | 2111 |  |  |  |  |
-| 2112 |  |  |  |  |
+| 2112 | The Airport With the Most Traffic | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_2112.md): 86.05% |
 | 2113 |  |  |  |  |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | 2024-06-14 | [Java](./records/Java/Question_2114.md): 100.00% |
 | 2115 |  |  |  |  |
