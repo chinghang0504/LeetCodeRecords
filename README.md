@@ -2094,7 +2094,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2048 |  |  |  |  |
 | 2049 |  |  |  |  |
 | 2050 |  |  |  |  |
-| 2051 |  |  |  |  |
+| 2051 | The Category of Each Member in the Store | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_2051.md): 96.77% |
 | 2052 |  |  |  |  |
 | 2053 | Kth Distinct String in an Array | Easy | 2024-07-06 | [Java](./records/Java/Question_2053.md): 92.53% |
 | 2054 |  |  |  |  |
