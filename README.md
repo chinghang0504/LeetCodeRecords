@@ -2351,7 +2351,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2305 |  |  |  |  |
 | 2306 |  |  |  |  |
 | 2307 |  |  |  |  |
-| 2308 |  |  |  |  |
+| 2308 | Arrange Table by Gender | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_2308.md): 8.70% |
 | 2309 | Greatest English Letter in Upper and Lower Case | Easy | 2024-07-09 | [Java](./records/Java/Question_2309.md): 79.20% |
 | 2310 |  |  |  |  |
 | 2311 |  |  |  |  |
