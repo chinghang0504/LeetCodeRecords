@@ -3093,7 +3093,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3047 |  |  |  |  |
 | 3048 |  |  |  |  |
 | 3049 |  |  |  |  |
-| 3050 |  |  |  |  |
+| 3050 | Pizza Toppings Cost Analysis | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_3050.md): 96.43% |
 | 3051 | Find Candidates for Data Scientist Position | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3051.md): 96.55% |
 | 3052 |  |  |  |  |
 | 3053 | Classifying Triangles by Lengths | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3053.md): 100.00% |
