@@ -3292,5 +3292,15 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3246 | Premier League Table Ranking | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_3246.md): 100.00% |
 | 3247 |  |  |  |  |
 | 3248 | Snake in Matrix | Easy | 2024-08-11 | [Java](./records/Java/Question_3248.md): 100.00% |
+| 3249 |  |  |  |  |
+| 3250 |  |  |  |  |
+| 3251 |  |  |  |  |
+| 3252 |  |  |  |  |
+| 3253 |  |  |  |  |
+| 3254 |  |  |  |  |
+| 3255 |  |  |  |  |
+| 3256 |  |  |  |  |
+| 3257 |  |  |  |  |
+| 3258 | Count Substrings That Satisfy K-Constraint I | Easy | 2024-08-17 | [Java](./records/Java/Question_3258.md): 100.00% |
 
 <br>
