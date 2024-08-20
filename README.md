@@ -2897,7 +2897,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2851 |  |  |  |  |
 | 2852 |  |  |  |  |
 | 2853 | Highest Salaries Difference | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2853.md): 94.74% |
-| 2854 |  |  |  |  |
+| 2854 | Rolling Average Steps | Medium | 2024-08-20 | [Pandas](./records/Pandas/Question_2854.md): 9.68% |
 | 2855 | Minimum Right Shifts to Sort the Array | Easy | 2024-07-31 | [Java](./records/Java/Question_2855.md): 100.00% |
 | 2856 |  |  |  |  |
 | 2857 |  |  |  |  |
