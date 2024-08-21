@@ -1169,7 +1169,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1123 |  |  |  |  |
 | 1124 |  |  |  |  |
 | 1125 |  |  |  |  |
-| 1126 |  |  |  |  |
+| 1126 | Active Businesses | Medium | 2024-08-21 | [Pandas](./records/Pandas/Question_1126.md): 88.51% |
 | 1127 |  |  |  |  |
 | 1128 | Number of Equivalent Domino Pairs | Easy | 2024-08-01 | [Java](./records/Java/Question_1128.md): 100.00% |
 | 1129 |  |  |  |  |
