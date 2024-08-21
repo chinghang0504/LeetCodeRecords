@@ -2863,7 +2863,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2817 |  |  |  |  |
 | 2818 |  |  |  |  |
 | 2819 |  |  |  |  |
-| 2820 |  |  |  |  |
+| 2820 | Election Results | Medium | 2024-08-21 | [Pandas](./records/Pandas/Question_2820.md): 97.06% |
 | 2821 |  |  |  |  |
 | 2822 | Inversion of Object | Easy | 2024-08-07 | [JavaScript](./records/JavaScript/Question_2822.md): 95.35% |
 | 2823 |  |  |  |  |
