@@ -3302,5 +3302,10 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3256 |  |  |  |  |
 | 3257 |  |  |  |  |
 | 3258 | Count Substrings That Satisfy K-Constraint I | Easy | 2024-08-17 | [Java](./records/Java/Question_3258.md): 100.00% |
+| 3259 |  |  |  |  |
+| 3260 |  |  |  |  |
+| 3261 |  |  |  |  |
+| 3262 |  |  |  |  |
+| 3263 | Convert Doubly Linked List to Array I | Easy | 2024-08-22 | [Java](./records/Java/Question_3263.md): 100.00% |
 
 <br>
