@@ -1575,7 +1575,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1529 |  |  |  |  |
 | 1530 |  |  |  |  |
 | 1531 |  |  |  |  |
-| 1532 |  |  |  |  |
+| 1532 | The Most Recent Three Orders | Medium | 2024-08-22 | [Pandas](./records/Pandas/Question_1532.md): 98.39% |
 | 1533 |  |  |  |  |
 | 1534 | Count Good Triplets | Easy | 2024-07-24 | [Java](./records/Java/Question_1534.md): 89.59% |
 | 1535 |  |  |  |  |
