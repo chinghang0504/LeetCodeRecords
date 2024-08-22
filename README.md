@@ -1307,7 +1307,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1261 |  |  |  |  |
 | 1262 |  |  |  |  |
 | 1263 |  |  |  |  |
-| 1264 |  |  |  |  |
+| 1264 | Page Recommendations | Medium | 2024-08-22 | [Pandas](./records/Pandas/Question_1264.md): 100.00% |
 | 1265 | Print Immutable Linked List in Reverse | Medium | 2024-06-12 | [Java](./records/Java/Question_1265.md): 100.00% |
 | 1266 | Minimum Time Visiting All Points | Easy | 2024-06-30 | [Java](./records/Java/Question_1266.md): 91.68% |
 | 1267 |  |  |  |  |
