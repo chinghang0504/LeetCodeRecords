@@ -3130,7 +3130,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3084 |  |  |  |  |
 | 3085 |  |  |  |  |
 | 3086 |  |  |  |  |
-| 3087 |  |  |  |  |
+| 3087 | Find Trending Hashtags | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_3087.md): 92.68% |
 | 3088 |  |  |  |  |
 | 3089 |  |  |  |  |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | 2024-07-18 | [Java](./records/Java/Question_3090.md): 100.00% |
