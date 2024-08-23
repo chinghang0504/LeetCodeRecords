@@ -3295,7 +3295,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3249 |  |  |  |  |
 | 3250 |  |  |  |  |
 | 3251 |  |  |  |  |
-| 3252 |  |  |  |  |
+| 3252 | Premier League Table Ranking II | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_3252.md): 94.55% |
 | 3253 |  |  |  |  |
 | 3254 |  |  |  |  |
 | 3255 |  |  |  |  |
