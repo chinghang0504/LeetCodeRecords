@@ -1328,7 +1328,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1282 | Group the People Given the Group Size They Belong To | Medium | 2024-07-13 | [Java](./records/Java/Question_1282.md): 92.60% |
 | 1283 |  |  |  |  |
 | 1284 |  |  |  |  |
-| 1285 |  |  |  |  |
+| 1285 | Find the Start and End Number of Continuous Ranges | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_1285.md): 92.22% |
 | 1286 |  |  |  |  |
 | 1287 | Element Appearing More Than 25% In Sorted Array | Easy | 2024-06-03 | [Java](./records/Java/Question_1287.md): 49.72% |
 | 1288 |  |  |  |  |
