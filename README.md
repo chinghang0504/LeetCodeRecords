@@ -2202,7 +2202,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2156 |  |  |  |  |
 | 2157 |  |  |  |  |
 | 2158 |  |  |  |  |
-| 2159 |  |  |  |  |
+| 2159 | Order Two Columns Independently | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_2159.md): 96.55% |
 | 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy | 2024-07-03 | [Java](./records/Java/Question_2160.md): 100.00% |
 | 2161 | Partition Array According to Given Pivot | Medium | 2024-07-14 | [Java](./records/Java/Question_2161.md): 100.00% |
 | 2162 |  |  |  |  |
