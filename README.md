@@ -3027,7 +3027,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2981 |  |  |  |  |
 | 2982 |  |  |  |  |
 | 2983 |  |  |  |  |
-| 2984 |  |  |  |  |
+| 2984 | Find Peak Calling Hours for Each City | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_2984.md): 98.00% |
 | 2985 | Calculate Compressed Mean | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2985.md): 100.00% |
 | 2986 |  |  |  |  |
 | 2987 | Find Expensive Cities | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2987.md): 100.00% |
