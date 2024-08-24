@@ -1088,7 +1088,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1042 |  |  |  |  |
 | 1043 |  |  |  |  |
 | 1044 |  |  |  |  |
-| 1045 |  |  |  |  |
+| 1045 | Customers Who Bought All Products | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_1045.md): 92.91% |
 | 1046 | Last Stone Weight | Easy | 2024-07-17 | [Java](./records/Java/Question_1046.md): 98.57% |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | 2024-07-10 | [Java](./records/Java/Question_1047.md): 77.53% |
 | 1048 |  |  |  |  |
