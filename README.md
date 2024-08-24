@@ -617,7 +617,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 571 |  |  |  |  |
 | 572 | Subtree of Another Tree | Easy | 2024-08-07 | [Java](./records/Java/Question_572.md): 96.95% |
 | 573 |  |  |  |  |
-| 574 |  |  |  |  |
+| 574 | Winning Candidate | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_574.md): 85.19% |
 | 575 | Distribute Candies | Easy | 2024-04-27 | [Java](./records/Java/Question_575.md): 81.25% |
 | 576 |  |  |  |  |
 | 577 | Employee Bonus | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_577.md): 91.30% |
