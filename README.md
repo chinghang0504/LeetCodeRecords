@@ -1790,7 +1790,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1744 |  |  |  |  |
 | 1745 |  |  |  |  |
 | 1746 |  |  |  |  |
-| 1747 |  |  |  |  |
+| 1747 | Leetflex Banned Accounts | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_1747.md): 6.12% |
 | 1748 | Sum of Unique Elements | Easy | 2024-06-30 | [Java](./records/Java/Question_1748.md): 100.00% |
 | 1749 |  |  |  |  |
 | 1750 |  |  |  |  |
