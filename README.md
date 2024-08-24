@@ -1950,7 +1950,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1904 |  |  |  |  |
 | 1905 |  |  |  |  |
 | 1906 |  |  |  |  |
-| 1907 |  |  |  |  |
+| 1907 | Count Salary Categories | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_1907.md): 73.21% |
 | 1908 |  |  |  |  |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | 2024-08-11 | [Java](./records/Java/Question_1909.md): 100.00% |
 | 1910 |  |  |  |  |
