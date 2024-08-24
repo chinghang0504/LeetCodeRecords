@@ -3183,7 +3183,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3137 |  |  |  |  |
 | 3138 |  |  |  |  |
 | 3139 |  |  |  |  |
-| 3140 |  |  |  |  |
+| 3140 | Consecutive Available Seats II | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_3140.md): 100.00% |
 | 3141 |  |  |  |  |
 | 3142 | Check if Grid Satisfies Conditions | Easy | 2024-07-26 | [Java](./records/Java/Question_3142.md): 92.55% |
 | 3143 |  |  |  |  |
