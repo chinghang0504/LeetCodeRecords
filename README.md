@@ -655,7 +655,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 609 |  |  |  |  |
 | 610 | Triangle Judgement | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_610.md): 78.55% |
 | 611 |  |  |  |  |
-| 612 |  |  |  |  |
+| 612 | Shortest Distance in a Plane | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_612.md): 5.82% |
 | 613 | Shortest Distance in a Line | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_613.md): 93.88% |
 | 614 |  |  |  |  |
 | 615 |  |  |  |  |
