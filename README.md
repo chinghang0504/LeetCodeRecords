@@ -1977,7 +1977,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1931 |  |  |  |  |
 | 1932 |  |  |  |  |
 | 1933 | Check if String Is Decomposable Into Value-Equal Substrings | Easy | 2024-08-04 | [Java](./records/Java/Question_1933.md): 100.00% |
-| 1934 |  |  |  |  |
+| 1934 | Confirmation Rate | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_1934.md): 97.70% |
 | 1935 | Maximum Number of Words You Can Type | Easy | 2024-07-06 | [Java](./records/Java/Question_1935.md): 39.93% |
 | 1936 |  |  |  |  |
 | 1937 |  |  |  |  |
