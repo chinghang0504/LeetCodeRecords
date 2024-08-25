@@ -3307,5 +3307,6 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3261 |  |  |  |  |
 | 3262 | Find Overlapping Shifts | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_3262.md): 20.00% |
 | 3263 | Convert Doubly Linked List to Array I | Easy | 2024-08-22 | [Java](./records/Java/Question_3263.md): 100.00% |
+| 3264 | Final Array State After K Multiplication Operations I | Easy | 2024-08-25 | [Java](./records/Java/Question_3264.md): 100.00% |
 
 <br>
