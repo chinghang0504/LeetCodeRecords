@@ -3169,7 +3169,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3123 |  |  |  |  |
 | 3124 | Find Longest Calls | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_3124.md): 93.48% |
 | 3125 |  |  |  |  |
-| 3126 |  |  |  |  |
+| 3126 | Server Utilization Time | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3126.md): 68.97% |
 | 3127 | Make a Square with the Same Color | Easy | 2024-07-26 | [Java](./records/Java/Question_3127.md): 100.00% |
 | 3128 |  |  |  |  |
 | 3129 |  |  |  |  |
