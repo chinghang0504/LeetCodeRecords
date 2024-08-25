@@ -1255,7 +1255,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1209 |  |  |  |  |
 | 1210 |  |  |  |  |
 | 1211 | Queries Quality and Percentage | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1211.md): 88.37% |
-| 1212 |  |  |  |  |
+| 1212 | Team Scores in Football Tournament | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_1212.md): 7.69% |
 | 1213 | Intersection of Three Sorted Arrays | Easy | 2024-05-22 | [Java](./records/Java/Question_1213.md): 16.96% |
 | 1214 |  |  |  |  |
 | 1215 |  |  |  |  |
