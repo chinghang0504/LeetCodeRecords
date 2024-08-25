@@ -623,7 +623,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 577 | Employee Bonus | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_577.md): 91.30% |
 | 578 |  |  |  |  |
 | 579 |  |  |  |  |
-| 580 |  |  |  |  |
+| 580 | Count Student Number in Departments | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_580.md): 89.91% |
 | 581 |  |  |  |  |
 | 582 |  |  |  |  |
 | 583 |  |  |  |  |
