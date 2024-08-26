@@ -3225,7 +3225,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3179 |  |  |  |  |
 | 3180 |  |  |  |  |
 | 3181 |  |  |  |  |
-| 3182 |  |  |  |  |
+| 3182 | Find Top Scoring Students | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3182.md): 100.00% |
 | 3183 |  |  |  |  |
 | 3184 | Count Pairs That Form a Complete Day I | Easy | 2024-07-24 | [Java](./records/Java/Question_3184.md): 98.16% |
 | 3185 |  |  |  |  |
