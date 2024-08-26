@@ -2781,7 +2781,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2735 |  |  |  |  |
 | 2736 |  |  |  |  |
 | 2737 |  |  |  |  |
-| 2738 |  |  |  |  |
+| 2738 | Count Occurrences in Text | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_2738.md): 5.04% |
 | 2739 | Total Distance Traveled | Easy | 2024-08-08 | [Java](./records/Java/Question_2739.md): 99.26% |
 | 2740 |  |  |  |  |
 | 2741 |  |  |  |  |
