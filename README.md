@@ -1544,7 +1544,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1498 |  |  |  |  |
 | 1499 |  |  |  |  |
 | 1500 |  |  |  |  |
-| 1501 |  |  |  |  |
+| 1501 | Countries You Can Safely Invest In | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1501.md): 30.51% |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | 2024-05-30 | [Java](./records/Java/Question_1502.md): 97.26% |
 | 1503 |  |  |  |  |
 | 1504 |  |  |  |  |
