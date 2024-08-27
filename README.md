@@ -613,7 +613,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 567 |  |  |  |  |
 | 568 |  |  |  |  |
 | 569 |  |  |  |  |
-| 570 |  |  |  |  |
+| 570 | Managers with at Least 5 Direct Reports | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_570.md): 87.13% |
 | 571 |  |  |  |  |
 | 572 | Subtree of Another Tree | Easy | 2024-08-07 | [Java](./records/Java/Question_572.md): 96.95% |
 | 573 |  |  |  |  |
