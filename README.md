@@ -1598,7 +1598,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1552 |  |  |  |  |
 | 1553 |  |  |  |  |
 | 1554 |  |  |  |  |
-| 1555 |  |  |  |  |
+| 1555 | Bank Account Summary | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1555.md): 100.00% |
 | 1556 | Thousand Separator | Easy | 2024-05-31 | [Java](./records/Java/Question_1556.md): 100.00% |
 | 1557 |  |  |  |  |
 | 1558 |  |  |  |  |
