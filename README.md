@@ -628,7 +628,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 582 |  |  |  |  |
 | 583 |  |  |  |  |
 | 584 | Find Customer Referee | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_584.md): 95.52% |
-| 585 |  |  |  |  |
+| 585 | Investments in 2016 | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_585.md): 75.37% |
 | 586 | Customer Placing the Largest Number of Orders | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_586.md): 93.09% |
 | 587 |  |  |  |  |
 | 588 |  |  |  |  |
