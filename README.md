@@ -2431,7 +2431,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2385 |  |  |  |  |
 | 2386 |  |  |  |  |
 | 2387 |  |  |  |  |
-| 2388 |  |  |  |  |
+| 2388 | Change Null Values in a Table to the Previous Value | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_2388.md): 100.00% |
 | 2389 | Longest Subsequence With Limited Sum | Easy | 2024-07-07 | [Java](./records/Java/Question_2389.md): 59.11% |
 | 2390 |  |  |  |  |
 | 2391 |  |  |  |  |
