@@ -3029,7 +3029,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2983 |  |  |  |  |
 | 2984 | Find Peak Calling Hours for Each City | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_2984.md): 98.00% |
 | 2985 | Calculate Compressed Mean | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2985.md): 100.00% |
-| 2986 |  |  |  |  |
+| 2986 | Find Third Transaction | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_2986.md): 14.81% |
 | 2987 | Find Expensive Cities | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_2987.md): 100.00% |
 | 2988 | Manager of the Largest Department | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_2988.md): 90.00% |
 | 2989 | Class Performance | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2989.md): 100.00% |
