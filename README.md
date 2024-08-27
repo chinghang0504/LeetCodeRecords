@@ -2033,7 +2033,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1987 |  |  |  |  |
 | 1988 | Find Cutoff Score for Each School | Medium | 2024-08-21 | [Pandas](./records/Pandas/Question_1988.md): 93.10% |
 | 1989 |  |  |  |  |
-| 1990 |  |  |  |  |
+| 1990 | Count the Number of Experiments | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_1990.md): 93.55% |
 | 1991 | Find the Middle Index in Array | Easy | 2024-06-14 | [Java](./records/Java/Question_1991.md): 100.00% |
 | 1992 |  |  |  |  |
 | 1993 |  |  |  |  |
