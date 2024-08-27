@@ -1364,7 +1364,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1318 |  |  |  |  |
 | 1319 |  |  |  |  |
 | 1320 |  |  |  |  |
-| 1321 |  |  |  |  |
+| 1321 | Restaurant Growth | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1321.md): 31.17% |
 | 1322 | Ads Performance | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1322.md): 91.39% |
 | 1323 | Maximum 69 Number | Easy | 2024-05-26 | [Java](./records/Java/Question_1323.md): 100.00% |
 | 1324 |  |  |  |  |
