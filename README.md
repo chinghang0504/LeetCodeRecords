@@ -2271,7 +2271,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2225 |  |  |  |  |
 | 2226 |  |  |  |  |
 | 2227 |  |  |  |  |
-| 2228 |  |  |  |  |
+| 2228 | Users With Two Purchases Within Seven Days | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_2228.md): 65.38% |
 | 2229 | Check if an Array Is Consecutive | Easy | 2024-07-19 | [Java](./records/Java/Question_2229.md): 96.05% |
 | 2230 |  |  |  |  |
 | 2231 | Largest Number After Digit Swaps by Parity | Easy | 2024-07-19 | [Java](./records/Java/Question_2231.md): 100.00% |
