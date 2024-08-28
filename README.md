@@ -2185,7 +2185,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2139 |  |  |  |  |
 | 2140 |  |  |  |  |
 | 2141 |  |  |  |  |
-| 2142 |  |  |  |  |
+| 2142 | The Number of Passengers in Each Bus I | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_2142.md): 87.88% |
 | 2143 |  |  |  |  |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | 2024-07-19 | [Java](./records/Java/Question_2144.md): 96.91% |
 | 2145 |  |  |  |  |
