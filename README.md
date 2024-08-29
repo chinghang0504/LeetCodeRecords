@@ -3273,7 +3273,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3227 |  |  |  |  |
 | 3228 |  |  |  |  |
 | 3229 |  |  |  |  |
-| 3230 |  |  |  |  |
+| 3230 | Customer Purchasing Behavior Analysis | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_3230.md): 75.47% |
 | 3231 |  |  |  |  |
 | 3232 | Find if Digit Game Can Be Won | Easy | 2024-07-27 | [Java](./records/Java/Question_3232.md): 100.00% |
 | 3233 |  |  |  |  |
