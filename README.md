@@ -1248,7 +1248,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1202 |  |  |  |  |
 | 1203 |  |  |  |  |
 | 1204 | Last Person to Fit in the Bus | Medium | 2024-08-19 | [Pandas](./records/Pandas/Question_1204.md): 86.97% |
-| 1205 |  |  |  |  |
+| 1205 | Monthly Transactions II | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_1205.md): 91.30% |
 | 1206 |  |  |  |  |
 | 1207 | Unique Number of Occurrences | Easy | 2024-05-22 | [Java](./records/Java/Question_1207.md): 96.02% |
 | 1208 |  |  |  |  |
