@@ -2437,7 +2437,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2391 |  |  |  |  |
 | 2392 |  |  |  |  |
 | 2393 |  |  |  |  |
-| 2394 |  |  |  |  |
+| 2394 | Employees With Deductions | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2394.md): 94.29% |
 | 2395 | Find Subarrays With Equal Sum | Easy | 2024-07-17 | [Java](./records/Java/Question_2395.md): 99.21% |
 | 2396 |  |  |  |  |
 | 2397 |  |  |  |  |
