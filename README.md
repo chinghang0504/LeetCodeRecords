@@ -1150,7 +1150,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1104 |  |  |  |  |
 | 1105 |  |  |  |  |
 | 1106 |  |  |  |  |
-| 1107 |  |  |  |  |
+| 1107 | New Users Daily Count | Medium | 2024-08-28 | [Pandas](./records/Pandas/Question_1107.md): 94.12% |
 | 1108 | Defanging an IP Address | Easy | 2024-06-25 | [Java](./records/Java/Question_1108.md): 100.00% |
 | 1109 |  |  |  |  |
 | 1110 |  |  |  |  |
