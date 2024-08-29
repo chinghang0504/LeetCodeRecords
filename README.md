@@ -2731,7 +2731,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2685 |  |  |  |  |
 | 2686 | Immediate Food Delivery III | Medium | 2024-08-19 | [Pandas](./records/Pandas/Question_2686.md): 93.62% |
 | 2687 | Bikes Last Time Used | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2687.md): 100.00% |
-| 2688 |  |  |  |  |
+| 2688 | Find Active Users | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2688.md): 41.38% |
 | 2689 | Extract Kth Character From The Rope Tree | Easy | 2024-07-30 | [Java](./records/Java/Question_2689.md): 73.61% |
 | 2690 | Infinite Method Object | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2690.md): 87.81% |
 | 2691 |  |  |  |  |
