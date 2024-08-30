@@ -1174,7 +1174,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1129 |  |  |  |  |
 | 1130 |  |  |  |  |
 | 1131 |  |  |  |  |
-| 1132 |  |  |  |  |
+| 1132 | Reported Posts II | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_1132.md): 89.13% |
 | 1133 | Largest Unique Number | Easy | 2024-07-11 | [Java](./records/Java/Question_1133.md): 88.62% |
 | 1134 | Armstrong Number | Easy | 2024-07-02 | [Java](./records/Java/Question_1134.md): 100.00% |
 | 1135 |  |  |  |  |
