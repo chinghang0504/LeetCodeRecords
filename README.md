@@ -1384,7 +1384,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1338 |  |  |  |  |
 | 1339 |  |  |  |  |
 | 1340 |  |  |  |  |
-| 1341 |  |  |  |  |
+| 1341 | Movie Rating | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_1341.md): 88.15% |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | 2024-05-27 | [Java](./records/Java/Question_1342.md): 100.00% |
 | 1343 |  |  |  |  |
 | 1344 |  |  |  |  |
