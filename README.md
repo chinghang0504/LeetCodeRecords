@@ -621,7 +621,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 575 | Distribute Candies | Easy | 2024-04-27 | [Java](./records/Java/Question_575.md): 81.25% |
 | 576 |  |  |  |  |
 | 577 | Employee Bonus | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_577.md): 91.30% |
-| 578 |  |  |  |  |
+| 578 | Get Highest Answer Rate Question | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_578.md): 96.46% |
 | 579 |  |  |  |  |
 | 580 | Count Student Number in Departments | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_580.md): 89.91% |
 | 581 |  |  |  |  |
