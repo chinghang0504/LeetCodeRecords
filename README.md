@@ -26,7 +26,6 @@ For each problem, I document the following:
 - Problem 195: Tenth Line
 
 #### Pandas Problems
-- Problem 2205: The Number of Users That Are Eligible for Discount (Technical Bug: Reported)
 - Problem 2230:  The Users That Are Eligible for Discount (Technical Bug: Reported)
 
 ### Medium Problems
@@ -2248,7 +2247,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2202 |  |  |  |  |
 | 2203 |  |  |  |  |
 | 2204 |  |  |  |  |
-| 2205 |  |  |  |  |
+| 2205 | The Number of Users That Are Eligible for Discount | Easy | 2024-08-30 | [Pandas](./records/Pandas/Question_2205.md): 100.00% |
 | 2206 | Divide Array Into Equal Pairs | Easy | 2024-07-01 | [Java](./records/Java/Question_2206.md): 100.00% |
 | 2207 |  |  |  |  |
 | 2208 |  |  |  |  |
