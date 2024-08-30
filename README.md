@@ -592,7 +592,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 547 |  |  |  |  |
 | 548 |  |  |  |  |
 | 549 |  |  |  |  |
-| 550 |  |  |  |  |
+| 550 | Game Play Analysis IV | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_550.md): 95.72% |
 | 551 | Student Attendance Record I | Easy | 2024-04-25 | [Java](./records/Java/Question_551.md): 100.00% |
 | 552 |  |  |  |  |
 | 553 |  |  |  |  |
