@@ -2825,7 +2825,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2780 |  |  |  |  |
 | 2781 |  |  |  |  |
 | 2782 |  |  |  |  |
-| 2783 |  |  |  |  |
+| 2783 | Flight Occupancy and Waitlist Analysis | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2783.md): 100.00% |
 | 2784 | Check if Array is Good | Easy | 2024-07-31 | [Java](./records/Java/Question_2784.md): 100.00% |
 | 2785 |  |  |  |  |
 | 2786 |  |  |  |  |
