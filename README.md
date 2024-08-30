@@ -1993,7 +1993,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1948 |  |  |  |  |
 | 1949 |  |  |  |  |
 | 1950 |  |  |  |  |
-| 1951 |  |  |  |  |
+| 1951 | All the Pairs With the Maximum Number of Common Followers | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_1951.md): 91.30% |
 | 1952 | Three Divisors | Easy | 2024-07-19 | [Java](./records/Java/Question_1952.md): 64.49% |
 | 1953 |  |  |  |  |
 | 1954 |  |  |  |  |
