@@ -2388,7 +2388,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2343 |  |  |  |  |
 | 2344 |  |  |  |  |
 | 2345 |  |  |  |  |
-| 2346 |  |  |  |  |
+| 2346 | Compute the Rank as a Percentage | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2346.md): 25.00% |
 | 2347 | Best Poker Hand | Easy | 2024-07-20 | [Java](./records/Java/Question_2347.md): 100.00% |
 | 2348 |  |  |  |  |
 | 2349 |  |  |  |  |
