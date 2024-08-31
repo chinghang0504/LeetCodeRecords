@@ -1853,7 +1853,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1808 |  |  |  |  |
 | 1809 | Ad-Free Sessions | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1809.md): 96.43% |
 | 1810 |  |  |  |  |
-| 1811 |  |  |  |  |
+| 1811 | Find Interview Candidates | Medium | 2024-08-31 | [Pandas](./records/Pandas/Question_1811.md): 5.88% |
 | 1812 | Determine Color of a Chessboard Square | Easy | 2024-06-26 | [Java](./records/Java/Question_1812.md): 100.00% |
 | 1813 |  |  |  |  |
 | 1814 |  |  |  |  |
