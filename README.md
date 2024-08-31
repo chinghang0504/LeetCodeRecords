@@ -1991,7 +1991,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1946 |  |  |  |  |
 | 1947 |  |  |  |  |
 | 1948 |  |  |  |  |
-| 1949 |  |  |  |  |
+| 1949 | Strong Friendship | Medium | 2024-08-31 | [Pandas](./records/Pandas/Question_1949.md): 100.00% |
 | 1950 |  |  |  |  |
 | 1951 | All the Pairs With the Maximum Number of Common Followers | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_1951.md): 91.30% |
 | 1952 | Three Divisors | Easy | 2024-07-19 | [Java](./records/Java/Question_1952.md): 64.49% |
