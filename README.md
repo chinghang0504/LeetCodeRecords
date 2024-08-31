@@ -1647,7 +1647,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1602 |  |  |  |  |
 | 1603 | Design Parking System | Easy | 2024-06-02 | [Java](./records/Java/Question_1603.md): 100.00% |
 | 1604 |  |  |  |  |
-| 1605 |  |  |  |  |
+| 1605 | Find Valid Matrix Given Row and Column Sums | Medium | 2024-08-30 | [Java](./records/Java/Question_1605.md): 51.46% |
 | 1606 |  |  |  |  |
 | 1607 | Sellers With No Sales | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1607.md): 98.21% |
 | 1608 | Special Array With X Elements Greater Than or Equal X | Easy | 2024-07-17 | [Java](./records/Java/Question_1608.md): 57.90% |
