@@ -1880,7 +1880,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1838 |  |  |  |  |
 | 1839 |  |  |  |  |
 | 1840 |  |  |  |  |
-| 1841 |  |  |  |  |
+| 1841 | League Statistics | Medium | 2024-09-01 | [Pandas](./records/Pandas/Question_1841.md): 6.25% |
 | 1842 |  |  |  |  |
 | 1843 | Suspicious Bank Accounts | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_1843.md): 5.17% |
 | 1844 | Replace All Digits with Characters | Easy | 2024-06-30 | [Java](./records/Java/Question_1844.md): 100.00% |
