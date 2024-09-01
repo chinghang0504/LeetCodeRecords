@@ -25,9 +25,6 @@ For each problem, I document the following:
 - Problem 193: Valid Phone Numbers
 - Problem 195: Tenth Line
 
-#### Pandas Problems
-- Problem 2230:  The Users That Are Eligible for Discount (Technical Bug: Reported)
-
 ### Medium Problems
 Focus: Currently concentrating on solving Medium-level problems daily
 
@@ -2272,7 +2269,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2227 |  |  |  |  |
 | 2228 | Users With Two Purchases Within Seven Days | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_2228.md): 65.38% |
 | 2229 | Check if an Array Is Consecutive | Easy | 2024-07-19 | [Java](./records/Java/Question_2229.md): 96.05% |
-| 2230 |  |  |  |  |
+| 2230 | The Users That Are Eligible for Discount | Easy | 2024-08-31 | [Pandas](./records/Pandas/Question_2230.md): 100.00% |
 | 2231 | Largest Number After Digit Swaps by Parity | Easy | 2024-07-19 | [Java](./records/Java/Question_2231.md): 100.00% |
 | 2232 |  |  |  |  |
 | 2233 |  |  |  |  |
