@@ -3313,5 +3313,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3268 |  |  |  |  |
 | 3269 |  |  |  |  |
 | 3270 | Find the Key of the Numbers | Easy | 2024-08-31 | [Java](./records/Java/Question_3270.md): 100.00% |
+| 3271 |  |  |  |  |
+| 3272 |  |  |  |  |
+| 3278 |  |  |  |  |
+| 3274 | Check if Two Chessboard Squares Have the Same Color | Easy | 2024-08-31 | [Java](./records/Java/Question_3274.md): 100.00% |
 
 <br>
