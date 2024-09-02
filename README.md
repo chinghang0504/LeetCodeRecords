@@ -1518,7 +1518,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1476 | Subrectangle Queries | Medium | 2024-07-13 | [Java](./records/Java/Question_1476.md): 100.00% |
 | 1477 |  |  |  |  |
 | 1478 |  |  |  |  |
-| 1479 |  |  |  |  |
+| 1479 | Sales by Day of the Week | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_1479.md): 90.00% |
 | 1480 | Running Sum of 1d Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1480.md): 100.00% |
 | 1481 |  |  |  |  |
 | 1482 |  |  |  |  |
