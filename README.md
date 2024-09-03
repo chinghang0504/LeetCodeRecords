@@ -1806,7 +1806,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1764 |  |  |  |  |
 | 1765 |  |  |  |  |
 | 1766 |  |  |  |  |
-| 1767 |  |  |  |  |
+| 1767 | Find the Subtasks That Did Not Execute | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_1767.md): 73.81% |
 | 1768 | Merge Strings Alternately | Easy | 2024-07-24 | [Java](./records/Java/Question_1768.md): 100.00% |
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | 2024-07-14 | [Java](./records/Java/Question_1769.md): 66.64% |
 | 1770 |  |  |  |  |
