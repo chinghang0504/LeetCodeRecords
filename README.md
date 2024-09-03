@@ -3096,7 +3096,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3054 | Binary Tree Nodes | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_3054.md): 73.33% |
 | 3055 | Top Percentile Fraud | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3055.md): 87.88% |
 | 3056 | Snaps Analysis | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3056.md): 90.70% |
-| 3057 |  |  |  |  |
+| 3057 | Employees Project Allocation | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_3057.md): 94.12% |
 | 3058 | Friends With No Mutual Friends | Medium | 2024-09-01 | [Pandas](./records/Pandas/Question_3058.md): 95.65% |
 | 3059 | Find All Unique Email Domains | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3059.md): 100.00% |
 | 3060 |  |  |  |  |
