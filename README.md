@@ -2401,7 +2401,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2359 |  |  |  |  |
 | 2360 |  |  |  |  |
 | 2361 |  |  |  |  |
-| 2362 |  |  |  |  |
+| 2362 | Generate the Invoice | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_2362.md): 100.00% |
 | 2363 | Merge Similar Items | Easy | 2024-07-04 | [Java](./records/Java/Question_2363.md): 94.18% |
 | 2364 |  |  |  |  |
 | 2365 |  |  |  |  |
