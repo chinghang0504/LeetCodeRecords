@@ -1408,7 +1408,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1366 |  |  |  |  |
 | 1367 |  |  |  |  |
 | 1368 |  |  |  |  |
-| 1369 |  |  |  |  |
+| 1369 | Get the Second Most Recent Activity | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_1369.md): 94.12% |
 | 1370 | Increasing Decreasing String | Easy | 2024-07-04 | [Java](./records/Java/Question_1370.md): 99.85% |
 | 1371 |  |  |  |  |
 | 1372 |  |  |  |  |
