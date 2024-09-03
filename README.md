@@ -2832,7 +2832,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2790 |  |  |  |  |
 | 2791 |  |  |  |  |
 | 2792 |  |  |  |  |
-| 2793 |  |  |  |  |
+| 2793 | Status of Flight Tickets | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_2793.md): 79.17% |
 | 2794 | Create Object from Two Arrays | Easy | 2024-07-30 | [JavaScript](./records/JavaScript/Question_2794.md): 98.55% |
 | 2795 |  |  |  |  |
 | 2796 | Repeat String | Easy | 2024-06-22 | [JavaScript](./records/JavaScript/Question_2796.md): 96.43% |
