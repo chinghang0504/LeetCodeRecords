@@ -608,7 +608,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 566 | Reshape the Matrix | Easy | 2024-04-26 | [Java](./records/Java/Question_566.md): 100.00% |
 | 567 |  |  |  |  |
 | 568 |  |  |  |  |
-| 569 |  |  |  |  |
+| 569 | Median Employee Salary | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_569.md): 98.92% |
 | 570 | Managers with at Least 5 Direct Reports | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_570.md): 87.13% |
 | 571 |  |  |  |  |
 | 572 | Subtree of Another Tree | Easy | 2024-08-07 | [Java](./records/Java/Question_572.md): 96.95% |
