@@ -3142,7 +3142,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3100 |  |  |  |  |
 | 3101 |  |  |  |  |
 | 3102 |  |  |  |  |
-| 3103 |  |  |  |  |
+| 3103 | Find Trending Hashtags II | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_3103.md): 64.29% |
 | 3104 |  |  |  |  |
 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | 2024-07-21 | [Java](./records/Java/Question_3105.md): 89.21% |
 | 3106 |  |  |  |  |
