@@ -2049,7 +2049,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2007 |  |  |  |  |
 | 2008 |  |  |  |  |
 | 2009 |  |  |  |  |
-| 2010 |  |  |  |  |
+| 2010 | The Number of Seniors and Juniors to Join the Company II | Hard | 2024-09-04 | [Pandas](./records/Pandas/Question_2010.md): 100.00% |
 | 2011 | Final Value of Variable After Performing Operations | Easy | 2024-06-14 | [Java](./records/Java/Question_2011.md): 100.00% |
 | 2012 |  |  |  |  |
 | 2013 |  |  |  |  |
