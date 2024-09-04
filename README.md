@@ -1423,7 +1423,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1381 |  |  |  |  |
 | 1382 |  |  |  |  |
 | 1383 |  |  |  |  |
-| 1384 |  |  |  |  |
+| 1384 | Total Sales Amount by Year | Hard | 2024-09-04 | [Pandas](./records/Pandas/Question_1384.md): 100.00% |
 | 1385 | Find the Distance Value Between Two Arrays | Easy | 2024-07-11 | [Java](./records/Java/Question_1385.md): 51.06% |
 | 1386 |  |  |  |  |
 | 1387 |  |  |  |  |
