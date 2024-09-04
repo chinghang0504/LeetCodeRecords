@@ -657,7 +657,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 615 |  |  |  |  |
 | 616 |  |  |  |  |
 | 617 | Merge Two Binary Trees | Easy | 2024-04-29 | [Java](./records/Java/Question_617.md): 100.00% |
-| 618 |  |  |  |  |
+| 618 | Students Report By Geography | Hard | 2024-09-04 | [Pandas](./records/Pandas/Question_618.md): 77.03% |
 | 619 | Biggest Single Number | Easy | 2024-04-29 | [Pandas](./records/Pandas/Question_619.md): 98.54% |
 | 620 | Not Boring Movies | Easy | 2024-04-29 | [Pandas](./records/Pandas/Question_620.md): 90.37% |
 | 621 |  |  |  |  |
