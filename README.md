@@ -2291,7 +2291,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2249 |  |  |  |  |
 | 2250 |  |  |  |  |
 | 2251 |  |  |  |  |
-| 2252 |  |  |  |  |
+| 2252 | Dynamic Pivoting of a Table | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_2252.md): 94.12% |
 | 2253 | Dynamic Unpivoting of a Table | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_2253.md): 90.91% |
 | 2254 |  |  |  |  |
 | 2255 | Count Prefixes of a Given String | Easy | 2024-07-06 | [Java](./records/Java/Question_2255.md): 100.00% |
