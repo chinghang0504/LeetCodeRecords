@@ -1198,7 +1198,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1156 |  |  |  |  |
 | 1157 |  |  |  |  |
 | 1158 | Market Analysis I | Medium | 2024-05-28 | [Pandas](./records/Pandas/Question_1158.md): 97.34% |
-| 1159 |  |  |  |  |
+| 1159 | Market Analysis II | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_1159.md): 87.50% |
 | 1160 | Find Words That Can Be Formed by Characters | Easy | 2024-07-09 | [Java](./records/Java/Question_1160.md): 90.29% |
 | 1161 |  |  |  |  |
 | 1162 |  |  |  |  |
