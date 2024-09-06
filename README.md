@@ -2157,7 +2157,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2115 |  |  |  |  |
 | 2116 |  |  |  |  |
 | 2117 |  |  |  |  |
-| 2118 |  |  |  |  |
+| 2118 | Build the Equation | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_2118.md): 90.00% |
 | 2119 | A Number After a Double Reversal | Easy | 2024-06-14 | [Java](./records/Java/Question_2119.md): 100.00% |
 | 2120 |  |  |  |  |
 | 2121 |  |  |  |  |
