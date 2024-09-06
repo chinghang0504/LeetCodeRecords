@@ -1690,7 +1690,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1648 |  |  |  |  |
 | 1649 |  |  |  |  |
 | 1650 |  |  |  |  |
-| 1651 |  |  |  |  |
+| 1651 | Hopper Company Queries III | Hard | 2024-09-05 | [Pandas](./records/Pandas/Question_1651.md): 95.00% |
 | 1652 | Defuse the Bomb | Easy | 2024-07-17 | [Java](./records/Java/Question_1652.md): 100.00% |
 | 1653 |  |  |  |  |
 | 1654 |  |  |  |  |
