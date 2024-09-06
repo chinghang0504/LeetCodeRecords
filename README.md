@@ -2212,7 +2212,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2170 |  |  |  |  |
 | 2171 |  |  |  |  |
 | 2172 |  |  |  |  |
-| 2173 |  |  |  |  |
+| 2173 | Longest Winning Streak | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_2173.md): 100.00% |
 | 2174 |  |  |  |  |
 | 2175 | The Change in Global Rankings | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_2175.md): 100.00% |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | 2024-07-02 | [Java](./records/Java/Question_2176.md): 98.42% |
