@@ -654,7 +654,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 612 | Shortest Distance in a Plane | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_612.md): 5.82% |
 | 613 | Shortest Distance in a Line | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_613.md): 93.88% |
 | 614 | Second Degree Follower | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_614.md): 92.05% |
-| 615 |  |  |  |  |
+| 615 | Average Salary: Departments VS Company | Hard | 2024-09-05 | [Pandas](./records/Pandas/Question_615.md): 89.61% |
 | 616 |  |  |  |  |
 | 617 | Merge Two Binary Trees | Easy | 2024-04-29 | [Java](./records/Java/Question_617.md): 100.00% |
 | 618 | Students Report By Geography | Hard | 2024-09-04 | [Pandas](./records/Pandas/Question_618.md): 77.03% |
