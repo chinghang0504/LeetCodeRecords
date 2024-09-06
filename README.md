@@ -3312,7 +3312,11 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3270 | Find the Key of the Numbers | Easy | 2024-08-31 | [Java](./records/Java/Question_3270.md): 100.00% |
 | 3271 |  |  |  |  |
 | 3272 |  |  |  |  |
-| 3278 |  |  |  |  |
+| 3273 |  |  |  |  |
 | 3274 | Check if Two Chessboard Squares Have the Same Color | Easy | 2024-08-31 | [Java](./records/Java/Question_3274.md): 100.00% |
+| 3275 |  |  |  |  |
+| 3276 |  |  |  |  |
+| 3277 |  |  |  |  |
+| 3278 | Find Candidates for Data Scientist Position II | Medium | 2024-09-05 | [Pandas](./records/Pandas/Question_3278.md): 92.19% |
 
 <br>
