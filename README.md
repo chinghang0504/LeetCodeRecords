@@ -3253,7 +3253,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3211 | Generate Binary Strings Without Adjacent Zeros | Medium | 2024-08-14 | [Java](./records/Java/Question_3211.md): 41.58% |
 | 3212 |  |  |  |  |
 | 3213 |  |  |  |  |
-| 3214 |  |  |  |  |
+| 3214 | Year on Year Growth Rate | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_3214.md): 97.78% |
 | 3215 |  |  |  |  |
 | 3216 | Lexicographically Smallest String After a Swap | Easy | 2024-07-26 | [Java](./records/Java/Question_3216.md): 100.00% |
 | 3217 |  |  |  |  |
