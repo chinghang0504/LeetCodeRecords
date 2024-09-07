@@ -2759,7 +2759,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2717 | Semi-Ordered Permutation | Easy | 2024-08-10 | [Java](./records/Java/Question_2717.md): 100.00% |
 | 2718 |  |  |  |  |
 | 2719 |  |  |  |  |
-| 2720 |  |  |  |  |
+| 2720 | Popularity Percentage | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_2720.md): 84.21% |
 | 2721 |  |  |  |  |
 | 2722 |  |  |  |  |
 | 2723 | Add Two Promises | Easy | 2024-06-13 | [JavaScript](./records/JavaScript/Question_2723.md): 97.46% |
