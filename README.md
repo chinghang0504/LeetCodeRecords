@@ -1136,7 +1136,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1094 |  |  |  |  |
 | 1095 |  |  |  |  |
 | 1096 |  |  |  |  |
-| 1097 |  |  |  |  |
+| 1097 | Game Play Analysis V | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_1097.md): 81.08% |
 | 1098 | Unpopular Books | Medium | 2024-05-19 | [Pandas](./records/Pandas/Question_1098.md): 92.86% |
 | 1099 | Two Sum Less Than K | Easy | 2024-05-16 | [Java](./records/Java/Question_1099.md): 37.62% |
 | 1100 |  |  |  |  |
