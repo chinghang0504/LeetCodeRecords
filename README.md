@@ -1233,7 +1233,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1191 |  |  |  |  |
 | 1192 |  |  |  |  |
 | 1193 | Monthly Transactions I | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_1193.md): 77.01% |
-| 1194 |  |  |  |  |
+| 1194 | Tournament Winners | Hard | 2024-09-07 | [Pandas](./records/Pandas/Question_1194.md): 82.14% |
 | 1195 |  |  |  |  |
 | 1196 | How Many Apples Can You Put into the Basket | Easy | 2024-07-16 | [Java](./records/Java/Question_1196.md): 97.07% |
 | 1197 |  |  |  |  |
