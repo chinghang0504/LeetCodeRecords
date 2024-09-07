@@ -640,7 +640,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 598 | Range Addition II | Easy | 2024-04-27 | [Java](./records/Java/Question_598.md): 100.00% |
 | 599 | Minimum Index Sum of Two Lists | Easy | 2024-04-27 | [Java](./records/Java/Question_599.md): 87.30% |
 | 600 |  |  |  |  |
-| 601 |  |  |  |  |
+| 601 | Human Traffic of Stadium | Hard | 2024-09-07 | [Pandas](./records/Pandas/Question_601.md): 68.15% |
 | 602 | Friend Requests II: Who Has the Most Friends | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_602.md): 84.47% |
 | 603 | Consecutive Available Seats | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_603.md): 78.64% |
 | 604 | Design Compressed String Iterator | Easy | 2024-08-08 | [Java](./records/Java/Question_604.md): 62.42% |
