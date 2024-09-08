@@ -618,7 +618,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 576 |  |  |  |  |
 | 577 | Employee Bonus | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_577.md): 91.30% |
 | 578 | Get Highest Answer Rate Question | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_578.md): 96.46% |
-| 579 |  |  |  |  |
+| 579 | Find Cumulative Salary of an Employee | Hard | 2024-09-07 | [Pandas](./records/Pandas/Question_579.md): 76.71% |
 | 580 | Count Student Number in Departments | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_580.md): 89.91% |
 | 581 |  |  |  |  |
 | 582 |  |  |  |  |
