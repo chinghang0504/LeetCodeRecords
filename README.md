@@ -1674,7 +1674,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1632 |  |  |  |  |
 | 1633 | Percentage of Users Attended a Contest | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1633.md): 100.00% |
 | 1634 |  |  |  |  |
-| 1635 |  |  |  |  |
+| 1635 | Hopper Company Queries I | Hard | 2024-09-07 | [Pandas](./records/Pandas/Question_1635.md): 96.67% |
 | 1636 | Sort Array by Increasing Frequency | Easy | 2024-07-24 | [Java](./records/Java/Question_1636.md): 51.78% |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | Easy | 2024-06-26 | [Java](./records/Java/Question_1637.md): 96.35% |
 | 1638 |  |  |  |  |
