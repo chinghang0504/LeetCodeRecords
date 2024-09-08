@@ -3318,5 +3318,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3276 |  |  |  |  |
 | 3277 |  |  |  |  |
 | 3278 | Find Candidates for Data Scientist Position II | Medium | 2024-09-05 | [Pandas](./records/Pandas/Question_3278.md): 92.19% |
+| 3279 |  |  |  |  |
+| 3280 | Convert Date to Binary | Easy | 2024-09-08 | [Java](./records/Java/Question_3280.md): 100.00% |
 
 <br>
