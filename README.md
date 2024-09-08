@@ -2513,7 +2513,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2471 |  |  |  |  |
 | 2472 |  |  |  |  |
 | 2473 |  |  |  |  |
-| 2474 |  |  |  |  |
+| 2474 | Customers With Strictly Increasing Purchases | Hard | 2024-09-08 | [Pandas](./records/Pandas/Question_2474.md): 77.27% |
 | 2475 | Number of Unequal Triplets in Array | Easy | 2024-07-08 | [Java](./records/Java/Question_2475.md): 89.01% |
 | 2476 |  |  |  |  |
 | 2477 |  |  |  |  |
