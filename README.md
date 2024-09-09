@@ -2043,7 +2043,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2001 |  |  |  |  |
 | 2002 |  |  |  |  |
 | 2003 |  |  |  |  |
-| 2004 |  |  |  |  |
+| 2004 | The Number of Seniors and Juniors to Join the Company | Hard | 2024-09-09 | [Pandas](./records/Pandas/Question_2004.md): 100.00% |
 | 2005 |  |  |  |  |
 | 2006 | Count Number of Pairs With Absolute Difference K | Easy | 2024-06-14 | [Java](./records/Java/Question_2006.md): 73.41% |
 | 2007 |  |  |  |  |
