@@ -3034,7 +3034,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2992 |  |  |  |  |
 | 2993 | Friday Purchases I | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_2993.md): 94.74% |
 | 2994 | Friday Purchases II | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_2994.md): 87.50% |
-| 2995 |  |  |  |  |
+| 2995 | Viewers Turned Streamers | Hard | 2024-09-09 | [Pandas](./records/Pandas/Question_2995.md): 88.89% |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | 2024-08-09 | [Java](./records/Java/Question_2996.md): 91.29% |
 | 2997 | Minimum Number of Operations to Make Array XOR Equal to K | Medium | 2024-08-13 | [Java](./records/Java/Question_2997.md): 100.00% |
 | 2998 |  |  |  |  |
