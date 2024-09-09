@@ -1931,7 +1931,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1889 |  |  |  |  |
 | 1890 | The Latest Login in 2020 | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1890.md): 100.00% |
 | 1891 |  |  |  |  |
-| 1892 |  |  |  |  |
+| 1892 | Page Recommendations II | Hard | 2024-09-09 | [Pandas](./records/Pandas/Question_1892.md): 100.00% |
 | 1893 | Check if All the Integers in a Range Are Covered | Easy | 2024-08-10 | [Java](./records/Java/Question_1893.md): 100.00% |
 | 1894 |  |  |  |  |
 | 1895 |  |  |  |  |
