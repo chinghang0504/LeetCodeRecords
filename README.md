@@ -1958,7 +1958,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1916 |  |  |  |  |
 | 1917 |  |  |  |  |
 | 1918 |  |  |  |  |
-| 1919 |  |  |  |  |
+| 1919 | Leetcodify Similar Friends | Hard | 2024-09-10 | [Pandas](./records/Pandas/Question_1919.md): 56.00% |
 | 1920 | Build Array from Permutation | Easy | 2024-06-22 | [Java](./records/Java/Question_1920.md): 98.71% |
 | 1921 |  |  |  |  |
 | 1922 |  |  |  |  |
