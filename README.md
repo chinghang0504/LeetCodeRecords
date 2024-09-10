@@ -2192,7 +2192,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2150 |  |  |  |  |
 | 2151 |  |  |  |  |
 | 2152 |  |  |  |  |
-| 2153 |  |  |  |  |
+| 2153 | The Number of Passengers in Each Bus II | Hard | 2024-09-10 | [Pandas](./records/Pandas/Question_2153.md): 81.82% |
 | 2154 | Keep Multiplying Found Values by Two | Easy | 2024-06-14 | [Java](./records/Java/Question_2154.md): 67.17% |
 | 2155 |  |  |  |  |
 | 2156 |  |  |  |  |
