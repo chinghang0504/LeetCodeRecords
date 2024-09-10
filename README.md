@@ -610,7 +610,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 568 |  |  |  |  |
 | 569 | Median Employee Salary | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_569.md): 98.92% |
 | 570 | Managers with at Least 5 Direct Reports | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_570.md): 87.13% |
-| 571 |  |  |  |  |
+| 571 | Find Median Given Frequency of Numbers | Hard | 2024-09-09 | [Pandas](./records/Pandas/Question_571.md): 73.21% |
 | 572 | Subtree of Another Tree | Easy | 2024-08-07 | [Java](./records/Java/Question_572.md): 96.95% |
 | 573 |  |  |  |  |
 | 574 | Winning Candidate | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_574.md): 85.19% |
