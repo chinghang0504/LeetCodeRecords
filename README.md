@@ -3099,7 +3099,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3057 | Employees Project Allocation | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_3057.md): 94.12% |
 | 3058 | Friends With No Mutual Friends | Medium | 2024-09-01 | [Pandas](./records/Pandas/Question_3058.md): 95.65% |
 | 3059 | Find All Unique Email Domains | Easy | 2024-06-09 | [Pandas](./records/Pandas/Question_3059.md): 100.00% |
-| 3060 |  |  |  |  |
+| 3060 | User Activities within Time Bounds | Hard | 2024-09-11 | [Pandas](./records/Pandas/Question_3060.md): 66.67% |
 | 3061 |  |  |  |  |
 | 3062 | Winner of the Linked List Game | Easy | 2024-06-30 | [Java](./records/Java/Question_3062.md): 100.00% |
 | 3063 | Linked List Frequency | Easy | 2024-06-26 | [Java](./records/Java/Question_3063.md): 76.42% |
