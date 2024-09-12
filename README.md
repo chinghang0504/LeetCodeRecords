@@ -1684,7 +1684,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1642 |  |  |  |  |
 | 1643 |  |  |  |  |
 | 1644 |  |  |  |  |
-| 1645 |  |  |  |  |
+| 1645 | Hopper Company Queries II | Hard | 2024-09-12 | [Pandas](./records/Pandas/Question_1645.md): 95.00% |
 | 1646 | Get Maximum in Generated Array | Easy | 2024-08-04 | [Java](./records/Java/Question_1646.md): 100.00% |
 | 1647 |  |  |  |  |
 | 1648 |  |  |  |  |
