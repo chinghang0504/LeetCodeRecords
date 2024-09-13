@@ -1264,7 +1264,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1222 |  |  |  |  |
 | 1223 |  |  |  |  |
 | 1224 |  |  |  |  |
-| 1225 |  |  |  |  |
+| 1225 | Report Contiguous Dates | Hard | 2024-09-13 | [Pandas](./records/Pandas/Question_1225.md): 5.88% |
 | 1226 |  |  |  |  |
 | 1227 |  |  |  |  |
 | 1228 | Missing Number In Arithmetic Progression | Easy | 2024-05-23 | [Java](./records/Java/Question_1228.md): 100.00% |
