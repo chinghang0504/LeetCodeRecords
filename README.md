@@ -3307,7 +3307,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3265 |  |  |  |  |
 | 3266 |  |  |  |  |
 | 3267 |  |  |  |  |
-| 3268 |  |  |  |  |
+| 3268 | Find Overlapping Shifts II | Hard | 2024-09-12 | [Pandas](./records/Pandas/Question_3268.md): 39.35% |
 | 3269 |  |  |  |  |
 | 3270 | Find the Key of the Numbers | Easy | 2024-08-31 | [Java](./records/Java/Question_3270.md): 100.00% |
 | 3271 |  |  |  |  |
