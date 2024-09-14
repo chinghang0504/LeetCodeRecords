@@ -301,7 +301,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 259 |  |  |  |  |
 | 260 | Single Number III | Medium | 2024-04-15 | [Java](./records/Java/Question_260.md): 19.39% |
 | 261 |  |  |  |  |
-| 262 |  |  |  |  |
+| 262 | Trips and Users | Hard | 2024-09-13 | [Pandas](./records/Pandas/Question_262.md): 68.00% |
 | 263 | Ugly Number | Easy | 2024-04-05 | [Java](./records/Java/Question_263.md): 100.00% |
 | 264 |  |  |  |  |
 | 265 |  |  |  |  |
