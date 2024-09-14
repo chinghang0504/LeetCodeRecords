@@ -3275,7 +3275,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3233 |  |  |  |  |
 | 3234 |  |  |  |  |
 | 3235 |  |  |  |  |
-| 3236 |  |  |  |  |
+| 3236 | CEO Subordinate Hierarchy | Hard | 2024-09-13 | [Pandas](./records/Pandas/Question_3236.md): 100.00% |
 | 3237 |  |  |  |  |
 | 3238 | Find the Number of Winning Players | Easy | 2024-08-03 | [Java](./records/Java/Question_3238.md): 100.00% |
 | 3239 |  |  |  |  |
