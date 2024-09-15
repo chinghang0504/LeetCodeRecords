@@ -1801,7 +1801,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1759 |  |  |  |  |
 | 1760 |  |  |  |  |
 | 1761 |  |  |  |  |
-| 1762 |  |  |  |  |
+| 1762 | Buildings With an Ocean View | Medium | 2024-09-15 | [Java](./records/Java/Question_1762.md): 100.00% |
 | 1763 | Longest Nice Substring | Easy | 2024-07-30 | [Java](./records/Java/Question_1763.md): 40.90% |
 | 1764 |  |  |  |  |
 | 1765 |  |  |  |  |
