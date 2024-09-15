@@ -1495,7 +1495,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1453 |  |  |  |  |
 | 1454 | Active Users | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_1454.md): 74.60% |
 | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy | 2024-05-29 | [Java](./records/Java/Question_1455.md): 100.00% |
-| 1456 |  |  |  |  |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | 2024-09-15 | [Java](./records/Java/Question_1456.md): 92.87% |
 | 1457 |  |  |  |  |
 | 1458 |  |  |  |  |
 | 1459 | Rectangles Area | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_1459.md): 92.31% |
