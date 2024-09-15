@@ -2118,7 +2118,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2076 |  |  |  |  |
 | 2077 |  |  |  |  |
 | 2078 | Two Furthest Houses With Different Colors | Easy | 2024-08-03 | [Java](./records/Java/Question_2078.md): 100.00% |
-| 2079 |  |  |  |  |
+| 2079 | Watering Plants | Medium | 2024-09-15 | [Java](./records/Java/Question_2079.md): 100.00% |
 | 2080 |  |  |  |  |
 | 2081 |  |  |  |  |
 | 2082 | The Number of Rich Customers | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2082.md): 100.00% |
