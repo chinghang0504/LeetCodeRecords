@@ -1005,7 +1005,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 963 |  |  |  |  |
 | 964 |  |  |  |  |
 | 965 | Univalued Binary Tree | Easy | 2024-07-08 | [Java](./records/Java/Question_965.md): 100.00% |
-| 966 |  |  |  |  |
+| 966 | Vowel Spellchecker | Medium | 2024-09-15 | [Java](./records/Java/Question_966.md): 78.72% |
 | 967 |  |  |  |  |
 | 968 |  |  |  |  |
 | 969 |  |  |  |  |
