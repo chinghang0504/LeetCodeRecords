@@ -3325,5 +3325,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3283 |  |  |  |  |
 | 3284 |  |  |  |  |
 | 3285 | Find Indices of Stable Mountains | Easy | 2024-09-14 | [Java](./records/Java/Question_3285.md): 100.00% |
+| 3286 |  |  |  |  |
+| 3287 |  |  |  |  |
+| 3288 |  |  |  |  |
+| 3289 | The Two Sneaky Numbers of Digitville | Easy | 2024-09-14 | [Java](./records/Java/Question_3289.md): 100.00% |
 
 <br>
