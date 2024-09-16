@@ -1349,7 +1349,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1307 |  |  |  |  |
 | 1308 | Running Total for Different Genders | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1308.md): 92.11% |
 | 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | 2024-05-25 | [Java](./records/Java/Question_1309.md): 100.00% |
-| 1310 |  |  |  |  |
+| 1310 | XOR Queries of a Subarray | Medium | 2024-09-16 | [Java](./records/Java/Question_1310.md): 99.95% |
 | 1311 |  |  |  |  |
 | 1312 |  |  |  |  |
 | 1313 | Decompress Run-Length Encoded List | Easy | 2024-05-25 | [Java](./records/Java/Question_1313.md): 75.45% |
