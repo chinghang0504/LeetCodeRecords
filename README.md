@@ -1480,7 +1480,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1438 |  |  |  |  |
 | 1439 |  |  |  |  |
 | 1440 | Evaluate Boolean Expression | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1440.md): 84.00% |
-| 1441 |  |  |  |  |
+| 1441 | Build an Array With Stack Operations | Medium | 2024-09-15 | [Java](./records/Java/Question_1441.md): 100.00% |
 | 1442 | Count Triplets That Can Form Two Arrays of Equal XOR | Medium | 2024-08-13 | [Java](./records/Java/Question_1442.md): 5.08% |
 | 1443 |  |  |  |  |
 | 1444 |  |  |  |  |
