@@ -3276,7 +3276,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3234 |  |  |  |  |
 | 3235 |  |  |  |  |
 | 3236 | CEO Subordinate Hierarchy | Hard | 2024-09-13 | [Pandas](./records/Pandas/Question_3236.md): 100.00% |
-| 3237 |  |  |  |  |
+| 3237 | Alt and Tab Simulation | Medium | 2024-09-15 | [Java](./records/Java/Question_3237.md): 5.26% |
 | 3238 | Find the Number of Winning Players | Easy | 2024-08-03 | [Java](./records/Java/Question_3238.md): 100.00% |
 | 3239 |  |  |  |  |
 | 3240 | Design Neighbor Sum Service | Easy | 2024-08-04 | [Java](./records/Java/Question_3240.md): 100.00% |
