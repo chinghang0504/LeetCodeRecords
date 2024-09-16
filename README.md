@@ -2260,7 +2260,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2218 |  |  |  |  |
 | 2219 |  |  |  |  |
 | 2220 | Minimum Bit Flips to Convert Number | Easy | 2024-06-20 | [Java](./records/Java/Question_2220.md): 100.00% |
-| 2221 |  |  |  |  |
+| 2221 | Find Triangular Sum of an Array | Medium | 2024-09-16 | [Java](./records/Java/Question_2221.md): 45.66% |
 | 2222 |  |  |  |  |
 | 2223 |  |  |  |  |
 | 2224 | Minimum Number of Operations to Convert Time | Easy | 2024-07-17 | [Java](./records/Java/Question_2224.md): 100.00% |
