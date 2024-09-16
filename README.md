@@ -2481,7 +2481,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2439 |  |  |  |  |
 | 2440 |  |  |  |  |
 | 2441 | Largest Positive Integer That Exists With Its Negative | Easy | 2024-06-13 | [Java](./records/Java/Question_2441.md): 17.71% |
-| 2442 |  |  |  |  |
+| 2442 | Count Number of Distinct Integers After Reverse Operations | Medium | 2024-09-15 | [Java](./records/Java/Question_2442.md): 76.45% |
 | 2443 |  |  |  |  |
 | 2444 |  |  |  |  |
 | 2445 |  |  |  |  |
