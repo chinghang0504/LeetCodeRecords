@@ -2356,7 +2356,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2314 | The First Day of the Maximum Recorded Degree in Each City | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_2314.md): 100.00% |
 | 2315 | Count Asterisks | Easy | 2024-07-03 | [Java](./records/Java/Question_2315.md): 100.00% |
 | 2316 |  |  |  |  |
-| 2317 |  |  |  |  |
+| 2317 | Maximum XOR After Operations | Medium | 2024-09-16 | [Java](./records/Java/Question_2317.md): 100.00% |
 | 2318 |  |  |  |  |
 | 2319 | Check if Matrix Is X-Matrix | Easy | 2024-07-17 | [Java](./records/Java/Question_2319.md): 92.62% |
 | 2320 |  |  |  |  |
