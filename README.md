@@ -1689,7 +1689,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1647 |  |  |  |  |
 | 1648 |  |  |  |  |
 | 1649 |  |  |  |  |
-| 1650 |  |  |  |  |
+| 1650 | Lowest Common Ancestor of a Binary Tree III | Medium | 2024-09-15 | [Java](./records/Java/Question_1650.md): 99.67% |
 | 1651 | Hopper Company Queries III | Hard | 2024-09-05 | [Pandas](./records/Pandas/Question_1651.md): 95.00% |
 | 1652 | Defuse the Bomb | Easy | 2024-07-17 | [Java](./records/Java/Question_1652.md): 100.00% |
 | 1653 |  |  |  |  |
