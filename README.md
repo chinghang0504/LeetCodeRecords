@@ -1511,7 +1511,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1469 | Find All The Lonely Nodes | Easy | 2024-05-29 | [Java](./records/Java/Question_1469.md): 100.00% |
 | 1470 | Shuffle the Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1470.md): 100.00% |
 | 1471 |  |  |  |  |
-| 1472 |  |  |  |  |
+| 1472 | Design Browser History | Medium | 2024-09-17 | [Java](./records/Java/Question_1472.md): 65.80% |
 | 1473 |  |  |  |  |
 | 1474 | Delete N Nodes After M Nodes of a Linked List | Easy | 2024-07-29 | [Java](./records/Java/Question_1474.md): 94.38% |
 | 1475 | Final Prices With a Special Discount in a Shop | Easy | 2024-05-29 | [Java](./records/Java/Question_1475.md): 98.67% |
