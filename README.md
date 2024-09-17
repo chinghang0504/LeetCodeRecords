@@ -1949,7 +1949,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1907 | Count Salary Categories | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_1907.md): 73.21% |
 | 1908 |  |  |  |  |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | 2024-08-11 | [Java](./records/Java/Question_1909.md): 100.00% |
-| 1910 |  |  |  |  |
+| 1910 | Remove All Occurrences of a Substring | Medium | 2024-09-17 | [Java](./records/Java/Question_1910.md): 18.10% |
 | 1911 |  |  |  |  |
 | 1912 |  |  |  |  |
 | 1913 | Maximum Product Difference Between Two Pairs | Easy | 2024-06-30 | [Java](./records/Java/Question_1913.md): 59.21% |
