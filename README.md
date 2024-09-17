@@ -1300,7 +1300,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1258 |  |  |  |  |
 | 1259 |  |  |  |  |
 | 1260 | Shift 2D Grid | Easy | 2024-07-28 | [Java](./records/Java/Question_1260.md): 84.16% |
-| 1261 |  |  |  |  |
+| 1261 | Find Elements in a Contaminated Binary Tree | Medium | 2024-09-17 | [Java](./records/Java/Question_1261.md): 98.58% |
 | 1262 |  |  |  |  |
 | 1263 |  |  |  |  |
 | 1264 | Page Recommendations | Medium | 2024-08-22 | [Pandas](./records/Pandas/Question_1264.md): 100.00% |
