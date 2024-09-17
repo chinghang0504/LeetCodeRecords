@@ -1065,7 +1065,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1023 |  |  |  |  |
 | 1024 |  |  |  |  |
 | 1025 | Divisor Game | Easy | 2024-07-27 | [Java](./records/Java/Question_1025.md): 100.00% |
-| 1026 |  |  |  |  |
+| 1026 | Maximum Difference Between Node and Ancestor | Medium | 2024-09-17 | [Java](./records/Java/Question_1026.md): 100.00% |
 | 1027 |  |  |  |  |
 | 1028 |  |  |  |  |
 | 1029 |  |  |  |  |
