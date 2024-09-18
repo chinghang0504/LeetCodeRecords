@@ -1364,7 +1364,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1322 | Ads Performance | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1322.md): 91.39% |
 | 1323 | Maximum 69 Number | Easy | 2024-05-26 | [Java](./records/Java/Question_1323.md): 100.00% |
 | 1324 |  |  |  |  |
-| 1325 |  |  |  |  |
+| 1325 | Delete Leaves With a Given Value | Medium | 2024-09-18 | [Java](./records/Java/Question_1325.md): 100.00% |
 | 1326 |  |  |  |  |
 | 1327 | List the Products Ordered in a Period | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1327.md): 93.49% |
 | 1328 |  |  |  |  |
