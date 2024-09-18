@@ -1420,7 +1420,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1378 | Replace Employee ID With The Unique Identifier | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1378.md): 96.44% |
 | 1379 | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Easy | 2024-06-27 | [Java](./records/Java/Question_1379.md): 97.29% |
 | 1380 | Lucky Numbers in a Matrix | Easy | 2024-07-08 | [Java](./records/Java/Question_1380.md): 45.52% |
-| 1381 |  |  |  |  |
+| 1381 | Design a Stack With Increment Operation | Medium | 2024-09-18 | [Java](./records/Java/Question_1381.md): 94.05% |
 | 1382 |  |  |  |  |
 | 1383 |  |  |  |  |
 | 1384 | Total Sales Amount by Year | Hard | 2024-09-04 | [Pandas](./records/Pandas/Question_1384.md): 100.00% |
