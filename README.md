@@ -2467,7 +2467,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2425 |  |  |  |  |
 | 2426 |  |  |  |  |
 | 2427 | Number of Common Factors | Easy | 2024-06-18 | [Java](./records/Java/Question_2427.md): 100.00% |
-| 2428 |  |  |  |  |
+| 2428 | Maximum Sum of an Hourglass | Medium | 2024-09-18 | [Java](./records/Java/Question_2428.md): 88.34% |
 | 2429 |  |  |  |  |
 | 2430 |  |  |  |  |
 | 2431 |  |  |  |  |
