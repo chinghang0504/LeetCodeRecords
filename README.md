@@ -2012,7 +2012,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1970 |  |  |  |  |
 | 1971 | Find if Path Exists in Graph | Easy | 2024-08-03 | [Java](./records/Java/Question_1971.md): 17.44% |
 | 1972 | First and Last Call On the Same Day | Hard | 2024-09-07 | [Pandas](./records/Pandas/Question_1972.md): 100.00% |
-| 1973 |  |  |  |  |
+| 1973 | Count Nodes Equal to Sum of Descendants | Medium | 2024-09-18 | [Java](./records/Java/Question_1973.md): 100.00% |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | Easy | 2024-07-04 | [Java](./records/Java/Question_1974.md): 100.00% |
 | 1975 |  |  |  |  |
 | 1976 |  |  |  |  |
