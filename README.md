@@ -1561,7 +1561,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1519 |  |  |  |  |
 | 1520 |  |  |  |  |
 | 1521 |  |  |  |  |
-| 1522 |  |  |  |  |
+| 1522 | Diameter of N-Ary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1522.md): 100.00% |
 | 1523 | Count Odd Numbers in an Interval Range | Easy | 2024-08-03 | [Java](./records/Java/Question_1523.md): 100.00% |
 | 1524 |  |  |  |  |
 | 1525 |  |  |  |  |
