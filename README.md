@@ -1795,7 +1795,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1753 |  |  |  |  |
 | 1754 |  |  |  |  |
 | 1755 |  |  |  |  |
-| 1756 |  |  |  |  |
+| 1756 | Design Most Recently Used Queue | Medium | 2024-09-19 | [Java](./records/Java/Question_1756.md): 40.38% |
 | 1757 | Recyclable and Low Fat Products | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1757.md): 99.83% |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | 2024-07-18 | [Java](./records/Java/Question_1758.md): 90.34% |
 | 1759 |  |  |  |  |
