@@ -1316,7 +1316,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1274 |  |  |  |  |
 | 1275 | Find Winner on a Tic Tac Toe Game | Easy | 2024-08-04 | [Java](./records/Java/Question_1275.md): 100.00% |
 | 1276 |  |  |  |  |
-| 1277 |  |  |  |  |
+| 1277 | Count Square Submatrices with All Ones | Medium | 2024-09-19 | [Java](./records/Java/Question_1277.md): 45.63% |
 | 1278 |  |  |  |  |
 | 1279 | Traffic Light Controlled Intersection | Easy | 2024-07-29 | [Java](./records/Java/Question_1279.md): 97.70% |
 | 1280 | Students and Examinations | Easy | 2024-06-03 | [Pandas](./records/Pandas/Question_1280.md): 96.32% |
