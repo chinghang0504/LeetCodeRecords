@@ -583,7 +583,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 541 | Reverse String II | Easy | 2024-08-04 | [Java](./records/Java/Question_541.md): 83.24% |
 | 542 |  |  |  |  |
 | 543 | Diameter of Binary Tree | Easy | 2024-04-25 | [Java](./records/Java/Question_543.md): 100.00% |
-| 544 |  |  |  |  |
+| 544 | Output Contest Matches | Medium | 2024-09-18 | [Java](./records/Java/Question_544.md): 15.91% |
 | 545 |  |  |  |  |
 | 546 |  |  |  |  |
 | 547 |  |  |  |  |
