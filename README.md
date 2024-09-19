@@ -2369,7 +2369,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2327 |  |  |  |  |
 | 2328 |  |  |  |  |
 | 2329 | Product Sales Analysis V | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2329.md): 100.00% |
-| 2330 |  |  |  |  |
+| 2330 | Valid Palindrome IV | Medium | 2024-09-19 | [Java](./records/Java/Question_2330.md): 95.85% |
 | 2331 | Evaluate Boolean Binary Tree | Easy | 2024-06-30 | [Java](./records/Java/Question_2331.md): 100.00% |
 | 2332 |  |  |  |  |
 | 2333 |  |  |  |  |
