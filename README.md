@@ -929,7 +929,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 887 |  |  |  |  |
 | 888 | Fair Candy Swap | Easy | 2024-08-07 | [Java](./records/Java/Question_888.md): 22.85% |
 | 889 |  |  |  |  |
-| 890 |  |  |  |  |
+| 890 | Find and Replace Pattern | Medium | 2024-09-18 | [Java](./records/Java/Question_890.md): 77.12% |
 | 891 |  |  |  |  |
 | 892 | Surface Area of 3D Shapes | Easy | 2024-07-16 | [Java](./records/Java/Question_892.md): 20.19% |
 | 893 |  |  |  |  |
