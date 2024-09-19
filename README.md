@@ -2122,7 +2122,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2080 |  |  |  |  |
 | 2081 |  |  |  |  |
 | 2082 | The Number of Rich Customers | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2082.md): 100.00% |
-| 2083 |  |  |  |  |
+| 2083 | Substrings That Begin and End With the Same Letter | Medium | 2024-09-19 | [Java](./records/Java/Question_2083.md): 100.00% |
 | 2084 | Drop Type 1 Orders for Customers With Type 0 Orders | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2084.md): 96.00% |
 | 2085 | Count Common Words With One Occurrence | Easy | 2024-06-17 | [Java](./records/Java/Question_2085.md): 86.85% |
 | 2086 |  |  |  |  |
