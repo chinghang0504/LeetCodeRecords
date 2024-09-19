@@ -2526,7 +2526,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2484 |  |  |  |  |
 | 2485 | Find the Pivot Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2485.md): 100.00% |
 | 2486 |  |  |  |  |
-| 2487 |  |  |  |  |
+| 2487 | Remove Nodes From Linked List | Medium | 2024-09-19 | [Java](./records/Java/Question_2487.md): 94.61% |
 | 2488 |  |  |  |  |
 | 2489 |  |  |  |  |
 | 2490 | Circular Sentence | Easy | 2024-06-19 | [Java](./records/Java/Question_2490.md): 99.10% |
