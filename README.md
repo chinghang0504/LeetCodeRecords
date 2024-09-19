@@ -1353,7 +1353,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1311 |  |  |  |  |
 | 1312 |  |  |  |  |
 | 1313 | Decompress Run-Length Encoded List | Easy | 2024-05-25 | [Java](./records/Java/Question_1313.md): 75.45% |
-| 1314 |  |  |  |  |
+| 1314 | Matrix Block Sum | Medium | 2024-09-19 | [Java](./records/Java/Question_1314.md): 26.88% |
 | 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | 2024-07-14 | [Java](./records/Java/Question_1315.md): 100.00% |
 | 1316 |  |  |  |  |
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | 2024-07-31 | [Java](./records/Java/Question_1317.md): 100.00% |
