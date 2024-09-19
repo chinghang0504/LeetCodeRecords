@@ -1641,7 +1641,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1599 |  |  |  |  |
 | 1600 |  |  |  |  |
 | 1601 |  |  |  |  |
-| 1602 |  |  |  |  |
+| 1602 | Find Nearest Right Node in Binary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1602.md): 48.48% |
 | 1603 | Design Parking System | Easy | 2024-06-02 | [Java](./records/Java/Question_1603.md): 100.00% |
 | 1604 |  |  |  |  |
 | 1605 | Find Valid Matrix Given Row and Column Sums | Medium | 2024-08-30 | [Java](./records/Java/Question_1605.md): 51.46% |
