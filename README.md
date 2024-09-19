@@ -3234,7 +3234,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3192 |  |  |  |  |
 | 3193 |  |  |  |  |
 | 3194 | Minimum Average of Smallest and Largest Elements | Easy | 2024-06-28 | [Java](./records/Java/Question_3194.md): 98.83% |
-| 3195 |  |  |  |  |
+| 3195 | Find the Minimum Area to Cover All Ones I | Medium | 2024-09-19 | [Java](./records/Java/Question_3195.md): 100.00% |
 | 3196 |  |  |  |  |
 | 3197 |  |  |  |  |
 | 3198 | Find Cities in Each State | Easy | 2024-06-25 | [Pandas](./records/Pandas/Question_3198.md): 100.00% |
