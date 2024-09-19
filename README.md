@@ -1237,7 +1237,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1195 |  |  |  |  |
 | 1196 | How Many Apples Can You Put into the Basket | Easy | 2024-07-16 | [Java](./records/Java/Question_1196.md): 97.07% |
 | 1197 |  |  |  |  |
-| 1198 |  |  |  |  |
+| 1198 | Find Smallest Common Element in All Rows | Medium | 2024-09-18 | [Java](./records/Java/Question_1198.md): 100.00% |
 | 1199 |  |  |  |  |
 | 1200 | Minimum Absolute Difference | Easy | 2024-05-22 | [Java](./records/Java/Question_1200.md): 68.41% |
 | 1201 |  |  |  |  |
