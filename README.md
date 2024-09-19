@@ -2019,7 +2019,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1977 |  |  |  |  |
 | 1978 | Employees Whose Manager Left the Company | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1978.md): 98.11% |
 | 1979 | Find Greatest Common Divisor of Array | Easy | 2024-07-01 | [Java](./records/Java/Question_1979.md): 100.00% |
-| 1980 |  |  |  |  |
+| 1980 | Find Unique Binary String | Medium | 2024-09-19 | [Java](./records/Java/Question_1980.md): 23.96% |
 | 1981 |  |  |  |  |
 | 1982 |  |  |  |  |
 | 1983 |  |  |  |  |
