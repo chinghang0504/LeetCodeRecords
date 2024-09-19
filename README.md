@@ -2841,7 +2841,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2799 |  |  |  |  |
 | 2800 |  |  |  |  |
 | 2801 |  |  |  |  |
-| 2802 |  |  |  |  |
+| 2802 | Find The K-th Lucky Number | Medium | 2024-09-18 | [Java](./records/Java/Question_2802.md): 64.29% |
 | 2803 | Factorial Generator | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2803.md): 92.68% |
 | 2804 | Array Prototype ForEach | Easy | 2024-08-12 | [JavaScript](./records/JavaScript/Question_2804.md): 85.19% |
 | 2805 |  |  |  |  |
