@@ -1872,7 +1872,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1830 |  |  |  |  |
 | 1831 | Maximum Transaction Each Day | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_1831.md): 97.37% |
 | 1832 | Check if the Sentence Is Pangram | Easy | 2024-06-29 | [Java](./records/Java/Question_1832.md): 88.04% |
-| 1833 |  |  |  |  |
+| 1833 | Maximum Ice Cream Bars | Medium | 2024-09-19 | [Java](./records/Java/Question_1833.md): 83.69% |
 | 1834 |  |  |  |  |
 | 1835 |  |  |  |  |
 | 1836 |  |  |  |  |
