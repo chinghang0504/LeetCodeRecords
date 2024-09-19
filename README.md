@@ -1699,7 +1699,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1657 |  |  |  |  |
 | 1658 |  |  |  |  |
 | 1659 |  |  |  |  |
-| 1660 |  |  |  |  |
+| 1660 | Correct a Binary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1660.md): 55.21% |
 | 1661 | Average Time of Process per Machine | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_1661.md): 98.81% |
 | 1662 | Check If Two String Arrays are Equivalent | Easy | 2024-06-06 | [Java](./records/Java/Question_1662.md): 100.00% |
 | 1663 |  |  |  |  |
