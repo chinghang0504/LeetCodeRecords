@@ -3206,7 +3206,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3164 |  |  |  |  |
 | 3165 |  |  |  |  |
 | 3166 | Calculate Parking Fees and Duration | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3166.md): 93.48% |
-| 3167 |  |  |  |  |
+| 3167 | Better Compression of String | Medium | 2024-09-19 | [Java](./records/Java/Question_3167.md): 87.42% |
 | 3168 | Minimum Number of Chairs in a Waiting Room | Easy | 2024-06-15 | [Java](./records/Java/Question_3168.md): 100.00% |
 | 3169 |  |  |  |  |
 | 3170 |  |  |  |  |
