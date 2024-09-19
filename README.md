@@ -960,7 +960,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 918 |  |  |  |  |
 | 919 |  |  |  |  |
 | 920 |  |  |  |  |
-| 921 |  |  |  |  |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | 2024-09-19 | [Java](./records/Java/Question_921.md): 62.59% |
 | 922 | Sort Array By Parity II | Easy | 2024-07-08 | [Java](./records/Java/Question_922.md): 99.47% |
 | 923 |  |  |  |  |
 | 924 |  |  |  |  |
