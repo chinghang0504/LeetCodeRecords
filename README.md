@@ -2062,7 +2062,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2020 | Number of Accounts That Did Not Stream | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_2020.md): 100.00% |
 | 2021 |  |  |  |  |
 | 2022 | Convert 1D Array Into 2D Array | Easy | 2024-06-14 | [Java](./records/Java/Question_2022.md): 62.32% |
-| 2023 |  |  |  |  |
+| 2023 | Number of Pairs of Strings With Concatenation Equal to Target | Medium | 2024-09-19 | [Java](./records/Java/Question_2023.md): 60.91% |
 | 2024 |  |  |  |  |
 | 2025 |  |  |  |  |
 | 2026 | Low-Quality Problems | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2026.md): 100.00% |
