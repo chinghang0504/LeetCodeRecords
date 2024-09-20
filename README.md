@@ -2379,7 +2379,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2337 |  |  |  |  |
 | 2338 |  |  |  |  |
 | 2339 | All the Matches of the League | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2339.md): 96.15% |
-| 2340 |  |  |  |  |
+| 2340 | Minimum Adjacent Swaps to Make a Valid Array | Medium | 2024-09-20 | [Java](./records/Java/Question_2340.md): 100.00% |
 | 2341 | Maximum Number of Pairs in Array | Easy | 2024-07-04 | [Java](./records/Java/Question_2341.md): 100.00% |
 | 2342 |  |  |  |  |
 | 2343 |  |  |  |  |
