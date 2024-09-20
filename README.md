@@ -1926,7 +1926,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1884 |  |  |  |  |
 | 1885 |  |  |  |  |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | 2024-07-21 | [Java](./records/Java/Question_1886.md): 100.00% |
-| 1887 |  |  |  |  |
+| 1887 | Reduction Operations to Make the Array Elements Equal | Medium | 2024-09-20 | [Java](./records/Java/Question_1887.md): 63.03% |
 | 1888 |  |  |  |  |
 | 1889 |  |  |  |  |
 | 1890 | The Latest Login in 2020 | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1890.md): 100.00% |
