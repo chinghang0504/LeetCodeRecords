@@ -3103,7 +3103,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3061 | Calculate Trapping Rain Water | Hard | 2024-09-13 | [Pandas](./records/Pandas/Question_3061.md): 100.00% |
 | 3062 | Winner of the Linked List Game | Easy | 2024-06-30 | [Java](./records/Java/Question_3062.md): 100.00% |
 | 3063 | Linked List Frequency | Easy | 2024-06-26 | [Java](./records/Java/Question_3063.md): 76.42% |
-| 3064 |  |  |  |  |
+| 3064 | Guess the Number Using Bitwise Questions I | Medium | 2024-09-20 | [Java](./records/Java/Question_3064.md): 100.00% |
 | 3065 | Minimum Operations to Exceed Threshold Value I | Easy | 2024-06-29 | [Java](./records/Java/Question_3065.md): 100.00% |
 | 3066 |  |  |  |  |
 | 3067 |  |  |  |  |
