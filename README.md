@@ -1229,7 +1229,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1187 |  |  |  |  |
 | 1188 |  |  |  |  |
 | 1189 | Maximum Number of Balloons | Easy | 2024-07-20 | [Java](./records/Java/Question_1189.md): 100.00% |
-| 1190 |  |  |  |  |
+| 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | 2024-09-20 | [Java](./records/Java/Question_1190.md): 19.48% |
 | 1191 |  |  |  |  |
 | 1192 |  |  |  |  |
 | 1193 | Monthly Transactions I | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_1193.md): 77.01% |
