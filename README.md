@@ -2264,7 +2264,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2222 |  |  |  |  |
 | 2223 |  |  |  |  |
 | 2224 | Minimum Number of Operations to Convert Time | Easy | 2024-07-17 | [Java](./records/Java/Question_2224.md): 100.00% |
-| 2225 |  |  |  |  |
+| 2225 | Find Players With Zero or One Losses | Medium | 2024-09-19 | [Java](./records/Java/Question_2225.md): 82.94% |
 | 2226 |  |  |  |  |
 | 2227 |  |  |  |  |
 | 2228 | Users With Two Purchases Within Seven Days | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_2228.md): 65.38% |
