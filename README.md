@@ -3329,5 +3329,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3287 |  |  |  |  |
 | 3288 |  |  |  |  |
 | 3289 | The Two Sneaky Numbers of Digitville | Easy | 2024-09-14 | [Java](./records/Java/Question_3289.md): 100.00% |
+| 3290 |  |  |  |  |
+| 3291 |  |  |  |  |
+| 3292 |  |  |  |  |
+| 3293 | Calculate Product Final Price | Medium | 2024-09-20 | [Pandas](./records/Pandas/Question_3293.md): 86.21% |
 
 <br>
