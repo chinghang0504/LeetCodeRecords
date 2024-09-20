@@ -1596,7 +1596,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1554 |  |  |  |  |
 | 1555 | Bank Account Summary | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1555.md): 100.00% |
 | 1556 | Thousand Separator | Easy | 2024-05-31 | [Java](./records/Java/Question_1556.md): 100.00% |
-| 1557 |  |  |  |  |
+| 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | 2024-09-20 | [Java](./records/Java/Question_1557.md): 97.90% |
 | 1558 |  |  |  |  |
 | 1559 |  |  |  |  |
 | 1560 | Most Visited Sector in a Circular Track | Easy | 2024-07-21 | [Java](./records/Java/Question_1560.md): 41.30% |
