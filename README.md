@@ -734,7 +734,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 692 |  |  |  |  |
 | 693 | Binary Number with Alternating Bits | Easy | 2024-05-12 | [Java](./records/Java/Question_693.md): 100.00% |
 | 694 |  |  |  |  |
-| 695 |  |  |  |  |
+| 695 | Max Area of Island | Medium | 2024-09-20 | [Java](./records/Java/Question_695.md): 30.51% |
 | 696 | Count Binary Substrings | Easy | 2024-08-10 | [Java](./records/Java/Question_696.md): 90.90% |
 | 697 | Degree of an Array | Easy | 2024-07-30 | [Java](./records/Java/Question_697.md): 24.95% |
 | 698 |  |  |  |  |
