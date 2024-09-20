@@ -2225,7 +2225,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2183 |  |  |  |  |
 | 2184 |  |  |  |  |
 | 2185 | Counting Words With a Given Prefix | Easy | 2024-07-02 | [Java](./records/Java/Question_2185.md): 100.00% |
-| 2186 |  |  |  |  |
+| 2186 | Minimum Number of Steps to Make Two Strings Anagram II | Medium | 2024-09-19 | [Java](./records/Java/Question_2186.md): 96.07% |
 | 2187 |  |  |  |  |
 | 2188 |  |  |  |  |
 | 2189 |  |  |  |  |
