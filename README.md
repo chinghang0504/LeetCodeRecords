@@ -932,7 +932,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 890 | Find and Replace Pattern | Medium | 2024-09-18 | [Java](./records/Java/Question_890.md): 77.12% |
 | 891 |  |  |  |  |
 | 892 | Surface Area of 3D Shapes | Easy | 2024-07-16 | [Java](./records/Java/Question_892.md): 20.19% |
-| 893 |  |  |  |  |
+| 893 | Groups of Special-Equivalent Strings | Medium | 2024-09-20 | [Java](./records/Java/Question_893.md): 14.34% |
 | 894 |  |  |  |  |
 | 895 |  |  |  |  |
 | 896 | Monotonic Array | Easy | 2024-05-06 | [Java](./records/Java/Question_896.md): 99.71% |
