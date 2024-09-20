@@ -3055,7 +3055,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3013 |  |  |  |  |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | 2024-07-18 | [Java](./records/Java/Question_3014.md): 100.00% |
 | 3015 |  |  |  |  |
-| 3016 |  |  |  |  |
+| 3016 | Minimum Number of Pushes to Type Word II | Medium | 2024-09-20 | [Java](./records/Java/Question_3016.md): 26.73% |
 | 3017 |  |  |  |  |
 | 3018 |  |  |  |  |
 | 3019 | Number of Changing Keys | Easy | 2024-06-30 | [Java](./records/Java/Question_3019.md): 99.93% |
