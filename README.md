@@ -574,7 +574,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 532 |  |  |  |  |
 | 533 |  |  |  |  |
 | 534 | Game Play Analysis III | Medium | 2024-05-18 | [Pandas](./records/Pandas/Question_534.md): 99.12% |
-| 535 |  |  |  |  |
+| 535 | Encode and Decode TinyURL | Medium | 2024-09-20 | [Java](./records/Java/Question_535.md): 100.00% |
 | 536 |  |  |  |  |
 | 537 |  |  |  |  |
 | 538 |  |  |  |  |
