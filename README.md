@@ -1651,7 +1651,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1609 |  |  |  |  |
 | 1610 |  |  |  |  |
 | 1611 |  |  |  |  |
-| 1612 |  |  |  |  |
+| 1612 | Check If Two Expression Trees are Equivalent | Medium | 2024-09-20 | [Java](./records/Java/Question_1612.md): 100.00% |
 | 1613 | Find the Missing IDs | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1613.md): 100.00% |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | 2024-06-05 | [Java](./records/Java/Question_1614.md): 100.00% |
 | 1615 |  |  |  |  |
