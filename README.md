@@ -1357,7 +1357,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1315 | Sum of Nodes with Even-Valued Grandparent | Medium | 2024-07-14 | [Java](./records/Java/Question_1315.md): 100.00% |
 | 1316 |  |  |  |  |
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | 2024-07-31 | [Java](./records/Java/Question_1317.md): 100.00% |
-| 1318 |  |  |  |  |
+| 1318 | Minimum Flips to Make a OR b Equal to c | Medium | 2024-09-21 | [Java](./records/Java/Question_1318.md): 100.00% |
 | 1319 |  |  |  |  |
 | 1320 |  |  |  |  |
 | 1321 | Restaurant Growth | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1321.md): 31.17% |
