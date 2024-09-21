@@ -2375,7 +2375,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2333 |  |  |  |  |
 | 2334 |  |  |  |  |
 | 2335 | Minimum Amount of Time to Fill Cups | Easy | 2024-08-04 | [Java](./records/Java/Question_2335.md): 66.83% |
-| 2336 |  |  |  |  |
+| 2336 | Smallest Number in Infinite Set | Medium | 2024-09-21 | [Java](./records/Java/Question_2336.md): 95.38% |
 | 2337 |  |  |  |  |
 | 2338 |  |  |  |  |
 | 2339 | All the Matches of the League | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2339.md): 96.15% |
