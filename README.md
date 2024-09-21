@@ -3198,7 +3198,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3156 |  |  |  |  |
 | 3157 |  |  |  |  |
 | 3158 | Find the XOR of Numbers Which Appear Twice | Easy | 2024-06-15 | [Java](./records/Java/Question_3158.md): 99.47% |
-| 3159 |  |  |  |  |
+| 3159 | Find Occurrences of an Element in an Array | Medium | 2024-09-21 | [Java](./records/Java/Question_3159.md): 83.89% |
 | 3160 |  |  |  |  |
 | 3161 |  |  |  |  |
 | 3162 | Find the Number of Good Pairs I | Easy | 2024-06-15 | [Java](./records/Java/Question_3162.md): 99.94% |
