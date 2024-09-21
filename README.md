@@ -2134,7 +2134,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2092 |  |  |  |  |
 | 2093 |  |  |  |  |
 | 2094 | Finding 3-Digit Even Numbers | Easy | 2024-07-20 | [Java](./records/Java/Question_2094.md): 27.18% |
-| 2095 |  |  |  |  |
+| 2095 | Delete the Middle Node of a Linked List | Medium | 2024-09-21 | [Java](./records/Java/Question_2095.md): 99.78% |
 | 2096 |  |  |  |  |
 | 2097 |  |  |  |  |
 | 2098 |  |  |  |  |
