@@ -2713,7 +2713,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2671 |  |  |  |  |
 | 2672 |  |  |  |  |
 | 2673 |  |  |  |  |
-| 2674 |  |  |  |  |
+| 2674 | Split a Circular Linked List | Medium | 2024-09-21 | [Java](./records/Java/Question_2674.md): 7.41% |
 | 2675 |  |  |  |  |
 | 2676 |  |  |  |  |
 | 2677 | Chunk Array | Easy | 2024-06-29 | [JavaScript](./records/JavaScript/Question_2677.md): 86.88% |
