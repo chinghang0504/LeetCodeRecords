@@ -1916,7 +1916,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1874 | Minimize Product Sum of Two Arrays | Medium | 2024-06-25 | [Java](./records/Java/Question_1874.md): 84.40% |
 | 1875 | Group Employees of the Same Salary | Medium | 2024-08-19 | [Pandas](./records/Pandas/Question_1875.md): 81.25% |
 | 1876 | Substrings of Size Three with Distinct Characters | Easy | 2024-07-06 | [Java](./records/Java/Question_1876.md): 100.00% |
-| 1877 |  |  |  |  |
+| 1877 | Minimize Maximum Pair Sum in Array | Medium | 2024-09-21 | [Java](./records/Java/Question_1877.md): 43.60% |
 | 1878 |  |  |  |  |
 | 1879 |  |  |  |  |
 | 1880 | Check if Word Equals Summation of Two Words | Easy | 2024-07-05 | [Java](./records/Java/Question_1880.md): 100.00% |
