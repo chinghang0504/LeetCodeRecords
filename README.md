@@ -1875,7 +1875,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1833 | Maximum Ice Cream Bars | Medium | 2024-09-19 | [Java](./records/Java/Question_1833.md): 83.69% |
 | 1834 |  |  |  |  |
 | 1835 |  |  |  |  |
-| 1836 |  |  |  |  |
+| 1836 | Remove Duplicates From an Unsorted Linked List | Medium | 2024-09-21 | [Java](./records/Java/Question_1836.md): 85.96% |
 | 1837 | Sum of Digits in Base K | Easy | 2024-07-26 | [Java](./records/Java/Question_1837.md): 100.00% |
 | 1838 |  |  |  |  |
 | 1839 |  |  |  |  |
