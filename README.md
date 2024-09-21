@@ -2085,7 +2085,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2043 |  |  |  |  |
 | 2044 |  |  |  |  |
 | 2045 |  |  |  |  |
-| 2046 |  |  |  |  |
+| 2046 | Sort Linked List Already Sorted Using Absolute Values | Medium | 2024-09-21 | [Java](./records/Java/Question_2046.md): 9.84% |
 | 2047 | Number of Valid Words in a Sentence | Easy | 2024-08-10 | [Java](./records/Java/Question_2047.md): 95.25% |
 | 2048 |  |  |  |  |
 | 2049 |  |  |  |  |
