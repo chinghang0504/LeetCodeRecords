@@ -2855,7 +2855,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2813 |  |  |  |  |
 | 2814 |  |  |  |  |
 | 2815 | Max Pair Sum in an Array | Easy | 2024-07-23 | [Java](./records/Java/Question_2815.md): 65.37% |
-| 2816 |  |  |  |  |
+| 2816 | Double a Number Represented as a Linked List | Medium | 2024-09-21 | [Java](./records/Java/Question_2816.md): 31.79% |
 | 2817 |  |  |  |  |
 | 2818 |  |  |  |  |
 | 2819 |  |  |  |  |
