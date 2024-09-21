@@ -2696,7 +2696,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2654 |  |  |  |  |
 | 2655 |  |  |  |  |
 | 2656 | Maximum Sum With Exactly K Elements | Easy | 2024-06-30 | [Java](./records/Java/Question_2656.md): 100.00% |
-| 2657 |  |  |  |  |
+| 2657 | Find the Prefix Common Array of Two Arrays | Medium | 2024-09-21 | [Java](./records/Java/Question_2657.md): 94.52% |
 | 2658 |  |  |  |  |
 | 2659 |  |  |  |  |
 | 2660 | Determine the Winner of a Bowling Game | Easy | 2024-08-02 | [Java](./records/Java/Question_2660.md): 100.00% |
