@@ -2430,7 +2430,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2388 | Change Null Values in a Table to the Previous Value | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_2388.md): 100.00% |
 | 2389 | Longest Subsequence With Limited Sum | Easy | 2024-07-07 | [Java](./records/Java/Question_2389.md): 59.11% |
 | 2390 | Removing Stars From a String | Medium | 2024-09-19 | [Java](./records/Java/Question_2390.md): 90.94% |
-| 2391 |  |  |  |  |
+| 2391 | Minimum Amount of Time to Collect Garbage | Medium | 2024-09-20 | [Java](./records/Java/Question_2391.md): 56.26% |
 | 2392 |  |  |  |  |
 | 2393 |  |  |  |  |
 | 2394 | Employees With Deductions | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2394.md): 94.29% |
