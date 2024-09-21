@@ -1669,7 +1669,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1627 |  |  |  |  |
 | 1628 |  |  |  |  |
 | 1629 | Slowest Key | Easy | 2024-08-03 | [Java](./records/Java/Question_1629.md): 100.00% |
-| 1630 |  |  |  |  |
+| 1630 | Arithmetic Subarrays | Medium | 2024-09-20 | [Java](./records/Java/Question_1630.md): 81.66% |
 | 1631 |  |  |  |  |
 | 1632 |  |  |  |  |
 | 1633 | Percentage of Users Attended a Contest | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1633.md): 100.00% |
