@@ -1891,7 +1891,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1849 |  |  |  |  |
 | 1850 |  |  |  |  |
 | 1851 |  |  |  |  |
-| 1852 |  |  |  |  |
+| 1852 | Distinct Numbers in Each Subarray | Medium | 2024-09-21 | [Java](./records/Java/Question_1852.md): 96.49% |
 | 1853 | Convert Date Format | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1853.md): 100.00% |
 | 1854 | Maximum Population Year | Easy | 2024-07-19 | [Java](./records/Java/Question_1854.md): 100.00% |
 | 1855 |  |  |  |  |
