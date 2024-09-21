@@ -2307,7 +2307,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | 2024-07-22 | [Java](./records/Java/Question_2265.md): 100.00% |
 | 2266 |  |  |  |  |
 | 2267 |  |  |  |  |
-| 2268 |  |  |  |  |
+| 2268 | Minimum Number of Keypresses | Medium | 2024-09-21 | [Java](./records/Java/Question_2268.md): 28.81% |
 | 2269 | Find the K-Beauty of a Number | Easy | 2024-07-20 | [Java](./records/Java/Question_2269.md): 100.00% |
 | 2270 |  |  |  |  |
 | 2271 |  |  |  |  |
