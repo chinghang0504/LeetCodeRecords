@@ -93,7 +93,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 51 |  |  |  |  |
 | 52 |  |  |  |  |
 | 53 |  |  |  |  |
-| 54 |  |  |  |  |
+| 54 | Spiral Matrix | Medium | 2024-09-20 | [Java](./records/Java/Question_54.md): 100.00% |
 | 55 | Jump Game | Medium | 2024-04-14 | [Java](./records/Java/Question_55.md): 5.01% |
 | 56 |  |  |  |  |
 | 57 |  |  |  |  |
