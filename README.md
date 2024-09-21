@@ -3333,5 +3333,6 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3291 |  |  |  |  |
 | 3292 |  |  |  |  |
 | 3293 | Calculate Product Final Price | Medium | 2024-09-20 | [Pandas](./records/Pandas/Question_3293.md): 86.21% |
+| 3294 | Convert Doubly Linked List to Array II | Medium | 2024-09-20 | [Java](./records/Java/Question_3294.md): 47.06% |
 
 <br>
