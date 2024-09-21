@@ -2235,7 +2235,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2193 |  |  |  |  |
 | 2194 | Cells in a Range on an Excel Sheet | Easy | 2024-06-17 | [Java](./records/Java/Question_2194.md): 68.69% |
 | 2195 |  |  |  |  |
-| 2196 |  |  |  |  |
+| 2196 | Create Binary Tree From Descriptions | Medium | 2024-09-21 | [Java](./records/Java/Question_2196.md): 39.17% |
 | 2197 |  |  |  |  |
 | 2198 |  |  |  |  |
 | 2199 | Finding the Topic of Each Post | Hard | 2024-09-13 | [Pandas](./records/Pandas/Question_2199.md): 14.29% |
