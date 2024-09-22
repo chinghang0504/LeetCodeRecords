@@ -2391,7 +2391,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2349 |  |  |  |  |
 | 2350 |  |  |  |  |
 | 2351 | First Letter to Appear Twice | Easy | 2024-07-01 | [Java](./records/Java/Question_2351.md): 100.00% |
-| 2352 |  |  |  |  |
+| 2352 | Equal Row and Column Pairs | Medium | 2024-09-21 | [Java](./records/Java/Question_2352.md): 63.44% |
 | 2353 |  |  |  |  |
 | 2354 |  |  |  |  |
 | 2355 |  |  |  |  |
