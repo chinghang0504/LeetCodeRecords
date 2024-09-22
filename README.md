@@ -1295,7 +1295,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1253 |  |  |  |  |
 | 1254 |  |  |  |  |
 | 1255 |  |  |  |  |
-| 1256 |  |  |  |  |
+| 1256 | Encode Number | Medium | 2024-09-22 | [Java](./records/Java/Question_1256.md): 100.00% |
 | 1257 |  |  |  |  |
 | 1258 |  |  |  |  |
 | 1259 |  |  |  |  |
