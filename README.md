@@ -985,7 +985,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 943 |  |  |  |  |
 | 944 | Delete Columns to Make Sorted | Easy | 2024-05-07 | [Java](./records/Java/Question_944.md): 97.60% |
 | 945 |  |  |  |  |
-| 946 |  |  |  |  |
+| 946 | Validate Stack Sequences | Medium | 2024-09-22 | [Java](./records/Java/Question_946.md): 95.40% |
 | 947 |  |  |  |  |
 | 948 |  |  |  |  |
 | 949 |  |  |  |  |
