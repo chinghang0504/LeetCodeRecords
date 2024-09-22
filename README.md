@@ -3230,7 +3230,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3188 |  |  |  |  |
 | 3189 |  |  |  |  |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | 2024-06-25 | [Java](./records/Java/Question_3190.md): 100.00% |
-| 3191 |  |  |  |  |
+| 3191 | Minimum Operations to Make Binary Array Elements Equal to One I | Medium | 2024-09-21 | [Java](./records/Java/Question_3191.md): 38.80% |
 | 3192 |  |  |  |  |
 | 3193 |  |  |  |  |
 | 3194 | Minimum Average of Smallest and Largest Elements | Easy | 2024-06-28 | [Java](./records/Java/Question_3194.md): 98.83% |
