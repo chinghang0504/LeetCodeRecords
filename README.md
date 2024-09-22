@@ -645,7 +645,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 603 | Consecutive Available Seats | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_603.md): 78.64% |
 | 604 | Design Compressed String Iterator | Easy | 2024-08-08 | [Java](./records/Java/Question_604.md): 62.42% |
 | 605 | Can Place Flowers | Easy | 2024-08-09 | [Java](./records/Java/Question_605.md): 97.57% |
-| 606 |  |  |  |  |
+| 606 | Construct String from Binary Tree | Medium | 2024-09-22 | [Java](./records/Java/Question_606.md): 100.00% |
 | 607 | Sales Person | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_607.md): 68.96% |
 | 608 | Tree Node | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_608.md): 84.09% |
 | 609 |  |  |  |  |
