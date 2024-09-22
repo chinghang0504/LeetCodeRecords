@@ -1149,7 +1149,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1107 | New Users Daily Count | Medium | 2024-08-28 | [Pandas](./records/Pandas/Question_1107.md): 94.12% |
 | 1108 | Defanging an IP Address | Easy | 2024-06-25 | [Java](./records/Java/Question_1108.md): 100.00% |
 | 1109 |  |  |  |  |
-| 1110 |  |  |  |  |
+| 1110 | Delete Nodes And Return Forest | Medium | 2024-09-21 | [Java](./records/Java/Question_1110.md): 93.14% |
 | 1111 |  |  |  |  |
 | 1112 | Highest Grade For Each Student | Medium | 2024-05-30 | [Pandas](./records/Pandas/Question_1112.md): 92.19% |
 | 1113 | Reported Posts | Easy | 2024-05-30 | [Pandas](./records/Pandas/Question_1113.md): 98.08% |
