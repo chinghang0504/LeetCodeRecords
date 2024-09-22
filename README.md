@@ -2097,7 +2097,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2055 |  |  |  |  |
 | 2056 |  |  |  |  |
 | 2057 | Smallest Index With Equal Value | Easy | 2024-06-13 | [Java](./records/Java/Question_2057.md): 100.00% |
-| 2058 |  |  |  |  |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | 2024-09-22 | [Java](./records/Java/Question_2058.md): 37.82% |
 | 2059 |  |  |  |  |
 | 2060 |  |  |  |  |
 | 2061 |  |  |  |  |
