@@ -3164,7 +3164,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3122 |  |  |  |  |
 | 3123 |  |  |  |  |
 | 3124 | Find Longest Calls | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_3124.md): 93.48% |
-| 3125 |  |  |  |  |
+| 3125 | Maximum Number That Makes Result of Bitwise AND Zero | Medium | 2024-09-22 | [Java](./records/Java/Question_3125.md): 100.00% |
 | 3126 | Server Utilization Time | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3126.md): 68.97% |
 | 3127 | Make a Square with the Same Color | Easy | 2024-07-26 | [Java](./records/Java/Question_3127.md): 100.00% |
 | 3128 |  |  |  |  |
