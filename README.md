@@ -3196,7 +3196,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3154 |  |  |  |  |
 | 3155 |  |  |  |  |
 | 3156 |  |  |  |  |
-| 3157 |  |  |  |  |
+| 3157 | Find the Level of Tree with Minimum Sum | Medium | 2024-09-22 | [Java](./records/Java/Question_3157.md): 35.20% |
 | 3158 | Find the XOR of Numbers Which Appear Twice | Easy | 2024-06-15 | [Java](./records/Java/Question_3158.md): 99.47% |
 | 3159 | Find Occurrences of an Element in an Array | Medium | 2024-09-21 | [Java](./records/Java/Question_3159.md): 83.89% |
 | 3160 |  |  |  |  |
