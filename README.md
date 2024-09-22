@@ -1426,7 +1426,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1384 | Total Sales Amount by Year | Hard | 2024-09-04 | [Pandas](./records/Pandas/Question_1384.md): 100.00% |
 | 1385 | Find the Distance Value Between Two Arrays | Easy | 2024-07-11 | [Java](./records/Java/Question_1385.md): 51.06% |
 | 1386 |  |  |  |  |
-| 1387 |  |  |  |  |
+| 1387 | Sort Integers by The Power Value | Medium | 2024-09-21 | [Java](./records/Java/Question_1387.md): 39.83% |
 | 1388 |  |  |  |  |
 | 1389 | Create Target Array in the Given Order | Easy | 2024-05-27 | [Java](./records/Java/Question_1389.md): 100.00% |
 | 1390 |  |  |  |  |
