@@ -547,7 +547,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 505 |  |  |  |  |
 | 506 | Relative Ranks | Easy | 2024-05-14 | [Java](./records/Java/Question_506.md): 73.67% |
 | 507 | Perfect Number | Easy | 2024-04-24 | [Java](./records/Java/Question_507.md): 76.10% |
-| 508 |  |  |  |  |
+| 508 | Most Frequent Subtree Sum | Medium | 2024-09-22 | [Java](./records/Java/Question_508.md): 41.28% |
 | 509 | Fibonacci Number | Easy | 2024-04-24 | [Java](./records/Java/Question_509.md): 100.00% |
 | 510 |  |  |  |  |
 | 511 | Game Play Analysis I | Easy | 2024-04-25 | [Pandas](./records/Pandas/Question_511.md): 98.17% |
