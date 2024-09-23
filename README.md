@@ -1200,7 +1200,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1158 | Market Analysis I | Medium | 2024-05-28 | [Pandas](./records/Pandas/Question_1158.md): 97.34% |
 | 1159 | Market Analysis II | Hard | 2024-09-06 | [Pandas](./records/Pandas/Question_1159.md): 87.50% |
 | 1160 | Find Words That Can Be Formed by Characters | Easy | 2024-07-09 | [Java](./records/Java/Question_1160.md): 90.29% |
-| 1161 |  |  |  |  |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | 2024-09-22 | [Java](./records/Java/Question_1161.md): 41.53% |
 | 1162 |  |  |  |  |
 | 1163 |  |  |  |  |
 | 1164 | Product Price at a Given Date | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1164.md): 92.78% |
