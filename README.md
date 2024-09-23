@@ -990,7 +990,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 948 |  |  |  |  |
 | 949 |  |  |  |  |
 | 950 |  |  |  |  |
-| 951 |  |  |  |  |
+| 951 | Flip Equivalent Binary Trees | Medium | 2024-09-22 | [Java](./records/Java/Question_951.md): 100.00% |
 | 952 |  |  |  |  |
 | 953 | Verifying an Alien Dictionary | Easy | 2024-07-30 | [Java](./records/Java/Question_953.md): 56.85% |
 | 954 |  |  |  |  |
