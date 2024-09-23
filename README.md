@@ -2426,7 +2426,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2384 |  |  |  |  |
 | 2385 |  |  |  |  |
 | 2386 |  |  |  |  |
-| 2387 |  |  |  |  |
+| 2387 | Median of a Row Wise Sorted Matrix | Medium | 2024-09-22 | [Java](./records/Java/Question_2387.md): 5.66% |
 | 2388 | Change Null Values in a Table to the Previous Value | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_2388.md): 100.00% |
 | 2389 | Longest Subsequence With Limited Sum | Easy | 2024-07-07 | [Java](./records/Java/Question_2389.md): 59.11% |
 | 2390 | Removing Stars From a String | Medium | 2024-09-19 | [Java](./records/Java/Question_2390.md): 90.94% |
