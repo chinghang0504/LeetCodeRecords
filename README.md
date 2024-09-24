@@ -1524,7 +1524,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1482 |  |  |  |  |
 | 1483 |  |  |  |  |
 | 1484 | Group Sold Products By The Date | Easy | 2024-07-04 | [Pandas](./records/Pandas/Question_1484.md): 95.05% |
-| 1485 |  |  |  |  |
+| 1485 | Clone Binary Tree With Random Pointer | Medium | 2024-09-23 | [Java](./records/Java/Question_1485.md): 100.00% |
 | 1486 | XOR Operation in an Array | Easy | 2024-06-05 | [Java](./records/Java/Question_1486.md): 100.00% |
 | 1487 |  |  |  |  |
 | 1488 |  |  |  |  |
