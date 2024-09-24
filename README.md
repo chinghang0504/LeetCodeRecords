@@ -1979,7 +1979,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1937 |  |  |  |  |
 | 1938 |  |  |  |  |
 | 1939 | Users That Actively Request Confirmation Messages | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1939.md): 100.00% |
-| 1940 |  |  |  |  |
+| 1940 | Longest Common Subsequence Between Sorted Arrays | Medium | 2024-09-24 | [Java](./records/Java/Question_1940.md): 94.00% |
 | 1941 | Check if All Characters Have Equal Number of Occurrences | Easy | 2024-06-30 | [Java](./records/Java/Question_1941.md): 100.00% |
 | 1942 |  |  |  |  |
 | 1943 |  |  |  |  |
