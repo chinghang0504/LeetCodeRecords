@@ -802,7 +802,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 760 | Find Anagram Mappings | Easy | 2024-05-02 | [Java](./records/Java/Question_760.md): 98.80% |
 | 761 |  |  |  |  |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | 2024-07-10 | [Java](./records/Java/Question_762.md): 58.34% |
-| 763 |  |  |  |  |
+| 763 | Partition Labels | Medium | 2024-09-24 | [Java](./records/Java/Question_763.md): 99.86% |
 | 764 |  |  |  |  |
 | 765 |  |  |  |  |
 | 766 | Toeplitz Matrix | Easy | 2024-07-29 | [Java](./records/Java/Question_766.md): 100.00% |
