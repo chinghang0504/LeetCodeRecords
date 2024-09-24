@@ -1856,7 +1856,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1814 |  |  |  |  |
 | 1815 |  |  |  |  |
 | 1816 | Truncate Sentence | Easy | 2024-07-02 | [Java](./records/Java/Question_1816.md): 74.72% |
-| 1817 |  |  |  |  |
+| 1817 | Finding the Users Active Minutes | Medium | 2024-09-24 | [Java](./records/Java/Question_1817.md): 95.04% |
 | 1818 |  |  |  |  |
 | 1819 |  |  |  |  |
 | 1820 |  |  |  |  |
