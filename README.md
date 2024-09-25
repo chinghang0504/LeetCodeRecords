@@ -2750,7 +2750,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2708 |  |  |  |  |
 | 2709 |  |  |  |  |
 | 2710 | Remove Trailing Zeros From a String | Easy | 2024-06-26 | [Java](./records/Java/Question_2710.md): 40.82% |
-| 2711 |  |  |  |  |
+| 2711 | Difference of Number of Distinct Values on Diagonals | Medium | 2024-09-25 | [Java](./records/Java/Question_2711.md): 75.31% |
 | 2712 |  |  |  |  |
 | 2713 |  |  |  |  |
 | 2714 |  |  |  |  |
