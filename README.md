@@ -1448,7 +1448,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1406 |  |  |  |  |
 | 1407 | Top Travellers | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1407.md): 91.37% |
 | 1408 | String Matching in an Array | Easy | 2024-07-17 | [Java](./records/Java/Question_1408.md): 83.75% |
-| 1409 |  |  |  |  |
+| 1409 | Queries on a Permutation With Key | Medium | 2024-09-25 | [Java](./records/Java/Question_1409.md): 56.54% |
 | 1410 |  |  |  |  |
 | 1411 |  |  |  |  |
 | 1412 | Find the Quiet Students in All Exams | Hard | 2024-06-01 | [Pandas](./records/Pandas/Question_1412.md): 90.48% |
