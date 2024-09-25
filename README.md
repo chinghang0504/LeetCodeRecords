@@ -2821,7 +2821,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2779 |  |  |  |  |
 | 2780 |  |  |  |  |
 | 2781 |  |  |  |  |
-| 2782 |  |  |  |  |
+| 2782 | Number of Unique Categories | Medium | 2024-09-24 | [Java](./records/Java/Question_2782.md): 18.60% |
 | 2783 | Flight Occupancy and Waitlist Analysis | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2783.md): 100.00% |
 | 2784 | Check if Array is Good | Easy | 2024-07-31 | [Java](./records/Java/Question_2784.md): 100.00% |
 | 2785 | Sort Vowels in a String | Medium | 2024-09-14 | [Java](./records/Java/Question_2785.md): 94.91% |
