@@ -1368,7 +1368,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1326 |  |  |  |  |
 | 1327 | List the Products Ordered in a Period | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1327.md): 93.49% |
 | 1328 |  |  |  |  |
-| 1329 |  |  |  |  |
+| 1329 | Sort the Matrix Diagonally | Medium | 2024-09-25 | [Java](./records/Java/Question_1329.md): 87.31% |
 | 1330 |  |  |  |  |
 | 1331 | Rank Transform of an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1331.md): 94.01% |
 | 1332 | Remove Palindromic Subsequences | Easy | 2024-08-11 | [Java](./records/Java/Question_1332.md): 100.00% |
