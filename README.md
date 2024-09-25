@@ -1396,7 +1396,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1354 |  |  |  |  |
 | 1355 | Activity Participants | Medium | 2024-05-31 | [Pandas](./records/Pandas/Question_1355.md): 97.44% |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | 2024-07-25 | [Java](./records/Java/Question_1356.md): 22.27% |
-| 1357 |  |  |  |  |
+| 1357 | Apply Discount Every n Orders | Medium | 2024-09-25 | [Java](./records/Java/Question_1357.md): 40.44% |
 | 1358 |  |  |  |  |
 | 1359 |  |  |  |  |
 | 1360 | Number of Days Between Two Dates | Easy | 2024-08-08 | [Java](./records/Java/Question_1360.md): 94.93% |
