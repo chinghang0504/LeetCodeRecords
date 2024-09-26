@@ -1386,7 +1386,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1344 |  |  |  |  |
 | 1345 |  |  |  |  |
 | 1346 | Check If N and Its Double Exist | Easy | 2024-05-27 | [Java](./records/Java/Question_1346.md): 16.49% |
-| 1347 |  |  |  |  |
+| 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | 2024-09-25 | [Java](./records/Java/Question_1347.md): 99.18% |
 | 1348 |  |  |  |  |
 | 1349 |  |  |  |  |
 | 1350 | Students With Invalid Departments | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1350.md): 99.22% |
