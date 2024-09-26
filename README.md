@@ -2083,7 +2083,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2041 | Accepted Candidates From the Interviews | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_2041.md): 95.06% |
 | 2042 | Check if Numbers Are Ascending in a Sentence | Easy | 2024-07-10 | [Java](./records/Java/Question_2042.md): 100.00% |
 | 2043 |  |  |  |  |
-| 2044 |  |  |  |  |
+| 2044 | Count Number of Maximum Bitwise-OR Subsets | Medium | 2024-09-26 | [Java](./records/Java/Question_2044.md): 99.00% |
 | 2045 |  |  |  |  |
 | 2046 | Sort Linked List Already Sorted Using Absolute Values | Medium | 2024-09-21 | [Java](./records/Java/Question_2046.md): 9.84% |
 | 2047 | Number of Valid Words in a Sentence | Easy | 2024-08-10 | [Java](./records/Java/Question_2047.md): 95.25% |
