@@ -117,7 +117,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 75 | Sort Colors | Medium | 2024-04-19 | [Java](./records/Java/Question_75.md): 100.00% |
 | 76 |  |  |  |  |
 | 77 |  |  |  |  |
-| 78 |  |  |  |  |
+| 78 | Subsets | Medium | 2024-09-26 | [Java](./records/Java/Question_78.md): 53.56% |
 | 79 |  |  |  |  |
 | 80 | Remove Duplicates from Sorted List | Easy | 2024-03-24 | [Java](./records/Java/Question_80.md): 100.00% |
 | 81 |  |  |  |  |
