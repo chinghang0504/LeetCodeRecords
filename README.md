@@ -1590,7 +1590,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1548 |  |  |  |  |
 | 1549 | The Most Recent Orders for Each Product | Medium | 2024-08-22 | [Pandas](./records/Pandas/Question_1549.md): 92.65% |
 | 1550 | Three Consecutive Odds | Easy | 2024-05-31 | [Java](./records/Java/Question_1550.md): 100.00% |
-| 1551 |  |  |  |  |
+| 1551 | Minimum Operations to Make Array Equal | Medium | 2024-09-25 | [Java](./records/Java/Question_1551.md): 51.97% |
 | 1552 |  |  |  |  |
 | 1553 |  |  |  |  |
 | 1554 |  |  |  |  |
