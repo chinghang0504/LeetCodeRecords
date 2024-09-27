@@ -2444,7 +2444,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2402 |  |  |  |  |
 | 2403 |  |  |  |  |
 | 2404 | Most Frequent Even Element | Easy | 2024-08-04 | [Java](./records/Java/Question_2404.md): 93.22% |
-| 2405 |  |  |  |  |
+| 2405 | Optimal Partition of String | Medium | 2024-09-27 | [Java](./records/Java/Question_2405.md): 95.59% |
 | 2406 |  |  |  |  |
 | 2407 |  |  |  |  |
 | 2408 |  |  |  |  |
