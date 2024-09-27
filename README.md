@@ -1862,7 +1862,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1820 |  |  |  |  |
 | 1821 | Find Customers With Positive Revenue this Year | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1821.md): 100.00% |
 | 1822 | Sign of the Product of an Array | Easy | 2024-07-17 | [Java](./records/Java/Question_1822.md): 100.00% |
-| 1823 |  |  |  |  |
+| 1823 | Find the Winner of the Circular Game | Medium | 2024-09-26 | [Java](./records/Java/Question_1823.md): 11.38% |
 | 1824 |  |  |  |  |
 | 1825 |  |  |  |  |
 | 1826 | Faulty Sensor | Easy | 2024-08-10 | [Java](./records/Java/Question_1826.md): 100.00% |
