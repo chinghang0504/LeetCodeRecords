@@ -989,7 +989,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 947 |  |  |  |  |
 | 948 |  |  |  |  |
 | 949 |  |  |  |  |
-| 950 |  |  |  |  |
+| 950 | Reveal Cards In Increasing Order | Medium | 2024-09-26 | [Java](./records/Java/Question_950.md): 89.76% |
 | 951 | Flip Equivalent Binary Trees | Medium | 2024-09-22 | [Java](./records/Java/Question_951.md): 100.00% |
 | 952 |  |  |  |  |
 | 953 | Verifying an Alien Dictionary | Easy | 2024-07-30 | [Java](./records/Java/Question_953.md): 56.85% |
