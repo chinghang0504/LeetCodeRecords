@@ -998,7 +998,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 956 |  |  |  |  |
 | 957 |  |  |  |  |
 | 958 |  |  |  |  |
-| 959 |  |  |  |  |
+| 959 | Regions Cut By Slashes | Medium | 2024-09-28 | [Java](./records/Java/Question_959.md): 38.69% |
 | 960 |  |  |  |  |
 | 961 | N-Repeated Element in Size 2N Array | Easy | 2024-05-15 | [Java](./records/Java/Question_961.md): 46.73% |
 | 962 |  |  |  |  |
