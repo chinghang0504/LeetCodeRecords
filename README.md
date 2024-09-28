@@ -1680,7 +1680,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1638 |  |  |  |  |
 | 1639 |  |  |  |  |
 | 1640 | Check Array Formation Through Concatenation | Easy | 2024-08-03 | [Java](./records/Java/Question_1640.md): 79.55% |
-| 1641 |  |  |  |  |
+| 1641 | Count Sorted Vowel Strings | Medium | 2024-09-28 | [Java](./records/Java/Question_1641.md): 100.00% |
 | 1642 |  |  |  |  |
 | 1643 |  |  |  |  |
 | 1644 |  |  |  |  |
