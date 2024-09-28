@@ -1018,7 +1018,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 976 | Largest Perimeter Triangle | Easy | 2024-07-30 | [Java](./records/Java/Question_976.md): 14.40% |
 | 977 | Squares of a Sorted Array | Easy | 2024-05-09 | [Java](./records/Java/Question_977.md): 48.13% |
 | 978 |  |  |  |  |
-| 979 |  |  |  |  |
+| 979 | Distribute Coins in Binary Tree | Medium | 2024-09-28 | [Java](./records/Java/Question_979.md): 100.00% |
 | 980 |  |  |  |  |
 | 981 |  |  |  |  |
 | 982 |  |  |  |  |
