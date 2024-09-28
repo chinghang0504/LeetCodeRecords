@@ -2447,7 +2447,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2405 | Optimal Partition of String | Medium | 2024-09-27 | [Java](./records/Java/Question_2405.md): 95.59% |
 | 2406 |  |  |  |  |
 | 2407 |  |  |  |  |
-| 2408 |  |  |  |  |
+| 2408 | Design SQL | Medium | 2024-09-28 | [Java](./records/Java/Question_2408.md): 81.53% |
 | 2409 | Count Days Spent Together | Easy | 2024-08-08 | [Java](./records/Java/Question_2409.md): 100.00% |
 | 2410 |  |  |  |  |
 | 2411 |  |  |  |  |
