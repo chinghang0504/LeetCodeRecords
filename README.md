@@ -850,7 +850,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 808 |  |  |  |  |
 | 809 |  |  |  |  |
 | 810 |  |  |  |  |
-| 811 |  |  |  |  |
+| 811 | Subdomain Visit Count | Medium | 2024-09-29 | [Java](./records/Java/Question_811.md): 24.54% |
 | 812 | Largest Triangle Area | Easy | 2024-07-20 | [Java](./records/Java/Question_812.md): 87.75% |
 | 813 |  |  |  |  |
 | 814 |  |  |  |  |
