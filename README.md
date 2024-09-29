@@ -3228,7 +3228,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3186 |  |  |  |  |
 | 3187 |  |  |  |  |
 | 3188 |  |  |  |  |
-| 3189 |  |  |  |  |
+| 3189 | Minimum Moves to Get a Peaceful Board | Medium | 2024-09-28 | [Java](./records/Java/Question_3189.md): 74.77% |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | 2024-06-25 | [Java](./records/Java/Question_3190.md): 100.00% |
 | 3191 | Minimum Operations to Make Binary Array Elements Equal to One I | Medium | 2024-09-21 | [Java](./records/Java/Question_3191.md): 38.80% |
 | 3192 |  |  |  |  |
