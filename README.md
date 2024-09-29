@@ -1868,7 +1868,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1826 | Faulty Sensor | Easy | 2024-08-10 | [Java](./records/Java/Question_1826.md): 100.00% |
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | 2024-07-01 | [Java](./records/Java/Question_1827.md): 100.00% |
 | 1828 | Queries on Number of Points Inside a Circle | Medium | 2024-07-13 | [Java](./records/Java/Question_1828.md): 37.97% |
-| 1829 |  |  |  |  |
+| 1829 | Maximum XOR for Each Query | Medium | 2024-09-28 | [Java](./records/Java/Question_1829.md): 52.61% |
 | 1830 |  |  |  |  |
 | 1831 | Maximum Transaction Each Day | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_1831.md): 97.37% |
 | 1832 | Check if the Sentence Is Pangram | Easy | 2024-06-29 | [Java](./records/Java/Question_1832.md): 88.04% |
