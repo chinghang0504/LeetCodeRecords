@@ -1457,7 +1457,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1415 |  |  |  |  |
 | 1416 |  |  |  |  |
 | 1417 | Reformat The String | Easy | 2024-08-10 | [Java](./records/Java/Question_1417.md): 83.33% |
-| 1418 |  |  |  |  |
+| 1418 | Display Table of Food Orders in a Restaurant | Medium | 2024-09-29 | [Java](./records/Java/Question_1418.md): 80.95% |
 | 1419 |  |  |  |  |
 | 1420 |  |  |  |  |
 | 1421 | NPV Queries | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1421.md): 98.36% |
