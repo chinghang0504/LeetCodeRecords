@@ -1454,7 +1454,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1412 | Find the Quiet Students in All Exams | Hard | 2024-06-01 | [Pandas](./records/Pandas/Question_1412.md): 90.48% |
 | 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | 2024-07-17 | [Java](./records/Java/Question_1413.md): 100.00% |
 | 1414 |  |  |  |  |
-| 1415 |  |  |  |  |
+| 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | 2024-09-29 | [Java](./records/Java/Question_1415.md): 34.92% |
 | 1416 |  |  |  |  |
 | 1417 | Reformat The String | Easy | 2024-08-10 | [Java](./records/Java/Question_1417.md): 83.33% |
 | 1418 | Display Table of Food Orders in a Restaurant | Medium | 2024-09-29 | [Java](./records/Java/Question_1418.md): 80.95% |
