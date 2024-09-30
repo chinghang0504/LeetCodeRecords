@@ -2989,7 +2989,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2947 |  |  |  |  |
 | 2948 |  |  |  |  |
 | 2949 |  |  |  |  |
-| 2950 |  |  |  |  |
+| 2950 | Number of Divisible Substrings | Medium | 2024-09-30 | [Java](./records/Java/Question_2950.md): 29.60% |
 | 2951 | Find the Peaks | Easy | 2024-07-04 | [Java](./records/Java/Question_2951.md): 100.00% |
 | 2952 |  |  |  |  |
 | 2953 |  |  |  |  |
