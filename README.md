@@ -1435,7 +1435,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1393 | Capital Gain/Loss | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1393.md): 100.00% |
 | 1394 | Find Lucky Integer in an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1394.md): 100.00% |
 | 1395 | Count Number of Teams | Medium | 2024-09-21 | [Java](./records/Java/Question_1395.md): 7.24% |
-| 1396 |  |  |  |  |
+| 1396 | Design Underground System | Medium | 2024-09-30 | [Java](./records/Java/Question_1396.md): 77.87% |
 | 1397 |  |  |  |  |
 | 1398 | Customers Who Bought Products A and B but Not C | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1398.md): 93.33% |
 | 1399 | Count Largest Group | Easy | 2024-07-16 | [Java](./records/Java/Question_1399.md): 92.92% |
