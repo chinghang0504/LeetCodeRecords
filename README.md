@@ -3340,7 +3340,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3298 |  |  |  |  |
 | 3299 |  |  |  |  |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | 2024-09-28 | [Java](./records/Java/Question_3300.md): 100.00% |
-| 3301 |  |  |  |  |
+| 3301 | Maximize the Total Height of Unique Towers | Medium | 2024-09-30 | [Java](./records/Java/Question_3301.md): 100.00% |
 | 3302 |  |  |  |  |
 | 3303 |  |  |  |  |
 | 3304 | Find the K-th Character in String Game I | Easy | 2024-09-29 | [Java](./records/Java/Question_3304.md): 100.00% |
