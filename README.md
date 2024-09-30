@@ -2333,7 +2333,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2291 |  |  |  |  |
 | 2292 | Products With Three or More Orders in Two Consecutive Years | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2292.md): 100.00% |
 | 2293 | Min Max Game | Easy | 2024-07-14 | [Java](./records/Java/Question_2293.md): 100.00% |
-| 2294 |  |  |  |  |
+| 2294 | Partition Array Such That Maximum Difference Is K | Medium | 2024-09-30 | [Java](./records/Java/Question_2294.md): 98.61% |
 | 2295 |  |  |  |  |
 | 2296 |  |  |  |  |
 | 2297 |  |  |  |  |
