@@ -2432,7 +2432,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2390 | Removing Stars From a String | Medium | 2024-09-19 | [Java](./records/Java/Question_2390.md): 90.94% |
 | 2391 | Minimum Amount of Time to Collect Garbage | Medium | 2024-09-20 | [Java](./records/Java/Question_2391.md): 56.26% |
 | 2392 |  |  |  |  |
-| 2393 |  |  |  |  |
+| 2393 | Count Strictly Increasing Subarrays | Medium | 2024-09-30 | [Java](./records/Java/Question_2393.md): 100.00% |
 | 2394 | Employees With Deductions | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2394.md): 94.29% |
 | 2395 | Find Subarrays With Equal Sum | Easy | 2024-07-17 | [Java](./records/Java/Question_2395.md): 99.21% |
 | 2396 |  |  |  |  |
