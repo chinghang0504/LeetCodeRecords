@@ -823,7 +823,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 781 |  |  |  |  |
 | 782 |  |  |  |  |
 | 783 | Minimum Distance Between BST Nodes | Easy | 2024-05-12 | [Java](./records/Java/Question_783.md): 100.00% |
-| 784 |  |  |  |  |
+| 784 | Letter Case Permutation | Medium | 2024-09-30 | [Java](./records/Java/Question_784.md): 12.68% |
 | 785 |  |  |  |  |
 | 786 |  |  |  |  |
 | 787 |  |  |  |  |
