@@ -3344,5 +3344,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3302 |  |  |  |  |
 | 3303 |  |  |  |  |
 | 3304 | Find the K-th Character in String Game I | Easy | 2024-09-29 | [Java](./records/Java/Question_3304.md): 100.00% |
+| 3305 |  |  |  |  |
+| 3306 |  |  |  |  |
+| 3307 |  |  |  |  |
+| 3308 | Find Top Performing Driver | Medium | 2024-09-30 | [Pandas](./records/Pandas/Question_3308.md): 100.00% |
 
 <br>
