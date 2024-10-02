@@ -1740,7 +1740,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1698 |  |  |  |  |
 | 1699 | Number of Calls Between Two Persons | Medium | 2024-06-12 | [Pandas](./records/Pandas/Question_1699.md): 98.04% |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | 2024-07-30 | [Java](./records/Java/Question_1700.md): 41.96% |
-| 1701 |  |  |  |  |
+| 1701 | Average Waiting Time | Medium | 2024-10-01 | [Java](./records/Java/Question_1701.md): 94.09% |
 | 1702 |  |  |  |  |
 | 1703 |  |  |  |  |
 | 1704 | Determine if String Halves Are Alike | Easy | 2024-06-07 | [Java](./records/Java/Question_1704.md): 99.49% |
