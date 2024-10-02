@@ -741,7 +741,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 699 |  |  |  |  |
 | 700 | Search in a Binary Search Tree | Easy | 2024-04-29 | [Java](./records/Java/Question_700.md): 100.00% |
 | 701 | Insert into a Binary Search Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_701.md): 100.00% |
-| 702 |  |  |  |  |
+| 702 | Search in a Sorted Array of Unknown Size | Medium | 2024-10-02 | [Java](./records/Java/Question_702.md): 100.00% |
 | 703 | Kth Largest Element in a Stream | Easy | 2024-04-30 | [Java](./records/Java/Question_703.md): 6.19% |
 | 704 | Binary Search | Easy | 2024-04-30 | [Java](./records/Java/Question_704.md): 100.00% |
 | 705 | Design HashSet | Easy | 2024-07-17 | [Java](./records/Java/Question_705.md): 17.31% |
