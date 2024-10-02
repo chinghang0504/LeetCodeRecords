@@ -2314,7 +2314,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2272 |  |  |  |  |
 | 2273 | Find Resultant Array After Removing Anagrams | Easy | 2024-07-21 | [Java](./records/Java/Question_2273.md): 93.02% |
 | 2274 |  |  |  |  |
-| 2275 |  |  |  |  |
+| 2275 | Largest Combination With Bitwise AND Greater Than Zero | Medium | 2024-10-02 | [Java](./records/Java/Question_2275.md): 13.99% |
 | 2276 |  |  |  |  |
 | 2277 |  |  |  |  |
 | 2278 | Percentage of Letter in String | Easy | 2024-07-06 | [Java](./records/Java/Question_2278.md): 100.00% |
