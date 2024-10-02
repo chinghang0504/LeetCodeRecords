@@ -425,7 +425,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 383 | Ransom Note | Easy | 2024-04-05 | [Java](./records/Java/Question_383.md): 99.17% |
 | 384 |  |  |  |  |
 | 385 |  |  |  |  |
-| 386 |  |  |  |  |
+| 386 | Lexicographical Numbers | Medium | 2024-10-02 | [Java](./records/Java/Question_386.md): 99.99% |
 | 387 | First Unique Character in a String | Easy | 2024-04-05 | [Java](./records/Java/Question_387.md): 95.41% |
 | 388 |  |  |  |  |
 | 389 | Find the Difference | Easy | 2024-04-05 | [Java](./records/Java/Question_389.md): 68.45% |
