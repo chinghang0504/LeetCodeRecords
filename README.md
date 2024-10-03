@@ -1897,7 +1897,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1855 |  |  |  |  |
 | 1856 |  |  |  |  |
 | 1857 |  |  |  |  |
-| 1858 |  |  |  |  |
+| 1858 | Longest Word With All Prefixes | Medium | 2024-10-02 | [Java](./records/Java/Question_1858.md): 21.34% |
 | 1859 | Sorting the Sentence | Easy | 2024-06-29 | [Java](./records/Java/Question_1859.md): 100.00% |
 | 1860 |  |  |  |  |
 | 1861 |  |  |  |  |
