@@ -1025,7 +1025,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 983 |  |  |  |  |
 | 984 |  |  |  |  |
 | 985 |  |  |  |  |
-| 986 |  |  |  |  |
+| 986 | Interval List Intersections | Easy | 2024-10-02 | [Java](./records/Java/Question_986.md): 60.38% |
 | 987 |  |  |  |  |
 | 988 |  |  |  |  |
 | 989 | Add to Array-Form of Integer | Easy | 2024-08-08 | [Java](./records/Java/Question_989.md): 31.68% |
