@@ -759,7 +759,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 717 | 1-bit and 2-bit Characters | Easy | 2024-04-30 | [Java](./records/Java/Question_717.md): 100.00% |
 | 718 |  |  |  |  |
 | 719 |  |  |  |  |
-| 720 |  |  |  |  |
+| 720 | Longest Word in Dictionary | Medium | 2024-10-02 | [Java](./records/Java/Question_720.md): 61.51% |
 | 721 |  |  |  |  |
 | 722 |  |  |  |  |
 | 723 |  |  |  |  |
