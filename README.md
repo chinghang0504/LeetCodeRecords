@@ -2484,7 +2484,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2442 | Count Number of Distinct Integers After Reverse Operations | Medium | 2024-09-15 | [Java](./records/Java/Question_2442.md): 76.45% |
 | 2443 |  |  |  |  |
 | 2444 |  |  |  |  |
-| 2445 |  |  |  |  |
+| 2445 | Number of Nodes With Value One | Medium | 2024-10-03 | [Java](./records/Java/Question_2445.md): 44.74% |
 | 2446 | Determine if Two Events Have Conflict | Easy | 2024-08-04 | [Java](./records/Java/Question_2446.md): 100.00% |
 | 2447 |  |  |  |  |
 | 2448 |  |  |  |  |
