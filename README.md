@@ -2679,7 +2679,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2637 |  |  |  |  |
 | 2638 |  |  |  |  |
 | 2639 | Find the Width of Columns of a Grid | Easy | 2024-07-15 | [Java](./records/Java/Question_2639.md): 75.09% |
-| 2640 |  |  |  |  |
+| 2640 | Find the Score of All Prefixes of an Array | Medium | 2024-10-03 | [Java](./records/Java/Question_2640.md): 83.75% |
 | 2641 |  |  |  |  |
 | 2642 |  |  |  |  |
 | 2643 | Row With Maximum Ones | Easy | 2024-07-04 | [Java](./records/Java/Question_2643.md): 100.00% |
