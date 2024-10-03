@@ -2902,7 +2902,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2860 |  |  |  |  |
 | 2861 |  |  |  |  |
 | 2862 |  |  |  |  |
-| 2863 |  |  |  |  |
+| 2863 | Maximum Length of Semi-Decreasing Subarrays | Medium | 2024-10-02 | [Java](./records/Java/Question_2863.md): 11.11% |
 | 2864 | Maximum Odd Binary Number | Easy | 2024-06-30 | [Java](./records/Java/Question_2864.md): 100.00% |
 | 2865 |  |  |  |  |
 | 2866 |  |  |  |  |
