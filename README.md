@@ -1377,7 +1377,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1335 |  |  |  |  |
 | 1336 |  |  |  |  |
 | 1337 | The K Weakest Rows in a Matrix | Easy | 2024-07-28 | [Java](./records/Java/Question_1337.md): 80.60% |
-| 1338 |  |  |  |  |
+| 1338 | Reduce Array Size to The Half | Medium | 2024-10-04 | [Java](./records/Java/Question_1338.md): 61.85% |
 | 1339 |  |  |  |  |
 | 1340 |  |  |  |  |
 | 1341 | Movie Rating | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_1341.md): 88.15% |
