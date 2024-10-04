@@ -328,7 +328,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 286 |  |  |  |  |
 | 287 | Find the Duplicate Number | Medium | 2024-04-03 | [Java](./records/Java/Question_287.md): 100.00% |
 | 288 |  |  |  |  |
-| 289 |  |  |  |  |
+| 289 | Game of Life | Medium | 2024-10-03 | [Java](./records/Java/Question_289.md): 100.00% |
 | 290 | Word Pattern | Easy | 2024-04-05 | [Java](./records/Java/Question_290.md): 100.00% |
 | 291 |  |  |  |  |
 | 292 | Nim Game | Easy | 2024-04-05 | [Java](./records/Java/Question_292.md): 100.00% |
