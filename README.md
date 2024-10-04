@@ -1884,7 +1884,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1842 |  |  |  |  |
 | 1843 | Suspicious Bank Accounts | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_1843.md): 5.17% |
 | 1844 | Replace All Digits with Characters | Easy | 2024-06-30 | [Java](./records/Java/Question_1844.md): 100.00% |
-| 1845 |  |  |  |  |
+| 1845 | Seat Reservation Manager | Medium | 2024-10-04 | [Java](./records/Java/Question_1845.md): 68.60% |
 | 1846 |  |  |  |  |
 | 1847 |  |  |  |  |
 | 1848 | Minimum Distance to the Target Element | Easy | 2024-07-30 | [Java](./records/Java/Question_1848.md): 100.00% |
