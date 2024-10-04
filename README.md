@@ -577,7 +577,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 535 | Encode and Decode TinyURL | Medium | 2024-09-20 | [Java](./records/Java/Question_535.md): 100.00% |
 | 536 |  |  |  |  |
 | 537 |  |  |  |  |
-| 538 |  |  |  |  |
+| 538 | Convert BST to Greater Tree | Medium | 2024-10-04 | [Java](./records/Java/Question_538.md): 100.00% |
 | 539 |  |  |  |  |
 | 540 |  |  |  |  |
 | 541 | Reverse String II | Easy | 2024-08-04 | [Java](./records/Java/Question_541.md): 83.24% |
