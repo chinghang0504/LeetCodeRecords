@@ -764,7 +764,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 722 |  |  |  |  |
 | 723 |  |  |  |  |
 | 724 | Find Pivot Index | Easy | 2024-05-01 | [Java](./records/Java/Question_724.md): 96.28% |
-| 725 |  |  |  |  |
+| 725 | Split Linked List in Parts | Medium | 2024-10-04 | [Java](./records/Java/Question_725.md): 100.00% |
 | 726 |  |  |  |  |
 | 727 |  |  |  |  |
 | 728 | Self Dividing Numbers | Easy | 2024-05-01 | [Java](./records/Java/Question_728.md): 69.86% |
