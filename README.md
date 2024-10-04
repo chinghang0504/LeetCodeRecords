@@ -2324,7 +2324,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2282 |  |  |  |  |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value | Easy | 2024-07-08 | [Java](./records/Java/Question_2283.md): 100.00% |
 | 2284 |  |  |  |  |
-| 2285 |  |  |  |  |
+| 2285 | Maximum Total Importance of Roads | Medium | 2024-10-04 | [Java](./records/Java/Question_2285.md): 91.13% |
 | 2286 |  |  |  |  |
 | 2287 | Rearrange Characters to Make Target String | Easy | 2024-07-20 | [Java](./records/Java/Question_2287.md): 100.00% |
 | 2288 |  |  |  |  |
