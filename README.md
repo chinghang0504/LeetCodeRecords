@@ -1050,7 +1050,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1008 |  |  |  |  |
 | 1009 | Complement of Base 10 Integer | Easy | 2024-05-11 | [Java](./records/Java/Question_1009.md): 100.00% |
 | 1010 |  |  |  |  |
-| 1011 |  |  |  |  |
+| 1011 | Capacity To Ship Packages Within D Days | Medium | 2024-10-03 | [Java](./records/Java/Question_1011.md): 76.05% |
 | 1012 |  |  |  |  |
 | 1013 | Partition Array Into Three Parts With Equal Sum | Easy | 2024-08-11 | [Java](./records/Java/Question_1013.md): 51.95% |
 | 1014 |  |  |  |  |
