@@ -2530,7 +2530,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2488 |  |  |  |  |
 | 2489 |  |  |  |  |
 | 2490 | Circular Sentence | Easy | 2024-06-19 | [Java](./records/Java/Question_2490.md): 99.10% |
-| 2491 |  |  |  |  |
+| 2491 | Divide Players Into Teams of Equal Skill | Medium | 2024-10-04 | [Java](./records/Java/Question_2491.md): 61.21% |
 | 2492 |  |  |  |  |
 | 2493 |  |  |  |  |
 | 2494 |  |  |  |  |
