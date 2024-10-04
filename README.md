@@ -2934,7 +2934,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2892 |  |  |  |  |
 | 2893 |  |  |  |  |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | 2024-06-13 | [Java](./records/Java/Question_2894.md): 100.00% |
-| 2895 |  |  |  |  |
+| 2895 | Minimum Processing Time | Medium | 2024-10-04 | [Java](./records/Java/Question_2895.md): 45.73% |
 | 2896 |  |  |  |  |
 | 2897 |  |  |  |  |
 | 2898 |  |  |  |  |
