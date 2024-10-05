@@ -1024,7 +1024,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 982 |  |  |  |  |
 | 983 |  |  |  |  |
 | 984 |  |  |  |  |
-| 985 |  |  |  |  |
+| 985 | Sum of Even Numbers After Queries | Medium | 2024-10-04 | [Java](./records/Java/Question_985.md): 99.16% |
 | 986 | Interval List Intersections | Easy | 2024-10-02 | [Java](./records/Java/Question_986.md): 60.38% |
 | 987 |  |  |  |  |
 | 988 |  |  |  |  |
