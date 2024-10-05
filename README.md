@@ -1564,7 +1564,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1522 | Diameter of N-Ary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1522.md): 100.00% |
 | 1523 | Count Odd Numbers in an Interval Range | Easy | 2024-08-03 | [Java](./records/Java/Question_1523.md): 100.00% |
 | 1524 |  |  |  |  |
-| 1525 |  |  |  |  |
+| 1525 | Number of Good Ways to Split a String | Medium | 2024-10-05 | [Java](./records/Java/Question_1525.md): 99.81% |
 | 1526 |  |  |  |  |
 | 1527 | Patients With a Condition | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1527.md): 80.43% |
 | 1528 | Shuffle String | Easy | 2024-05-31 | [Java](./records/Java/Question_1528.md): 73.16% |
