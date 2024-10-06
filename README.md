@@ -2318,7 +2318,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2276 |  |  |  |  |
 | 2277 |  |  |  |  |
 | 2278 | Percentage of Letter in String | Easy | 2024-07-06 | [Java](./records/Java/Question_2278.md): 100.00% |
-| 2279 |  |  |  |  |
+| 2279 | Maximum Bags With Full Capacity of Rocks | Medium | 2024-10-06 | [Java](./records/Java/Question_2279.md): 98.24% |
 | 2280 |  |  |  |  |
 | 2281 |  |  |  |  |
 | 2282 |  |  |  |  |
