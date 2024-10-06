@@ -1258,7 +1258,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1216 |  |  |  |  |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | 2024-07-29 | [Java](./records/Java/Question_1217.md): 100.00% |
 | 1218 |  |  |  |  |
-| 1219 |  |  |  |  |
+| 1219 | Path with Maximum Gold | Medium | 2024-10-06 | [Java](./records/Java/Question_1219.md): 92.63% |
 | 1220 |  |  |  |  |
 | 1221 | Split a String in Balanced Strings | Easy | 2024-07-23 | [Java](./records/Java/Question_1221.md): 100.00% |
 | 1222 |  |  |  |  |
