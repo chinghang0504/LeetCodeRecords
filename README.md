@@ -1603,7 +1603,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1561 | Maximum Number of Coins You Can Get | Medium | 2024-07-14 | [Java](./records/Java/Question_1561.md): 64.02% |
 | 1562 |  |  |  |  |
 | 1563 |  |  |  |  |
-| 1564 |  |  |  |  |
+| 1564 | Put Boxes Into the Warehouse I | Medium | 2024-10-06 | [Java](./records/Java/Question_1564.md): 90.00% |
 | 1565 | Unique Orders and Customers Per Month | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1565.md): 100.00% |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | 2024-08-10 | [Java](./records/Java/Question_1566.md): 30.00% |
 | 1567 |  |  |  |  |
