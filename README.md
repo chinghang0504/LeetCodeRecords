@@ -729,7 +729,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 687 |  |  |  |  |
 | 688 |  |  |  |  |
 | 689 |  |  |  |  |
-| 690 |  |  |  |  |
+| 690 | Employee Importance | Medium | 2024-10-06 | [Java](./records/Java/Question_690.md): 99.37% |
 | 691 |  |  |  |  |
 | 692 |  |  |  |  |
 | 693 | Binary Number with Alternating Bits | Easy | 2024-05-12 | [Java](./records/Java/Question_693.md): 100.00% |
