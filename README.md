@@ -1283,7 +1283,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1241 | Number of Comments per Post | Easy | 2024-05-23 | [Pandas](./records/Pandas/Question_1241.md): 99.47% |
 | 1242 |  |  |  |  |
 | 1243 | Array Transformation | Easy | 2024-08-04 | [Java](./records/Java/Question_1243.md): 98.00% |
-| 1244 |  |  |  |  |
+| 1244 | Design A Leaderboard | Medium | 2024-10-06 | [Java](./records/Java/Question_1244.md): 46.43% |
 | 1245 |  |  |  |  |
 | 1246 |  |  |  |  |
 | 1247 |  |  |  |  |
