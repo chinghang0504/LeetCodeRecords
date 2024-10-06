@@ -1792,7 +1792,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1750 |  |  |  |  |
 | 1751 |  |  |  |  |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | 2024-08-04 | [Java](./records/Java/Question_1752.md): 100.00% |
-| 1753 |  |  |  |  |
+| 1753 | Maximum Score From Removing Stones | Medium | 2024-10-06 | [Java](./records/Java/Question_1753.md): 53.46% |
 | 1754 |  |  |  |  |
 | 1755 |  |  |  |  |
 | 1756 | Design Most Recently Used Queue | Medium | 2024-09-19 | [Java](./records/Java/Question_1756.md): 40.38% |
