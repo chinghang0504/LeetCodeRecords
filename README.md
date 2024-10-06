@@ -687,7 +687,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 645 | Set Mismatch | Easy | 2024-04-29 | [Java](./records/Java/Question_645.md): 100.00% |
 | 646 |  |  |  |  |
 | 647 |  |  |  |  |
-| 648 |  |  |  |  |
+| 648 | Replace Words | Medium | 2024-10-06 | [Java](./records/Java/Question_648.md): 51.05% |
 | 649 |  |  |  |  |
 | 650 |  |  |  |  |
 | 651 |  |  |  |  |
