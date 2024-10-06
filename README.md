@@ -1900,7 +1900,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1858 | Longest Word With All Prefixes | Medium | 2024-10-02 | [Java](./records/Java/Question_1858.md): 21.34% |
 | 1859 | Sorting the Sentence | Easy | 2024-06-29 | [Java](./records/Java/Question_1859.md): 100.00% |
 | 1860 |  |  |  |  |
-| 1861 |  |  |  |  |
+| 1861 | Rotating the Box | Medium | 2024-10-06 | [Java](./records/Java/Question_1861.md): 28.17% |
 | 1862 |  |  |  |  |
 | 1863 | Sum of All Subset XOR Totals | Easy | 2024-08-11 | [Java](./records/Java/Question_1863.md): 100.00% |
 | 1864 |  |  |  |  |
