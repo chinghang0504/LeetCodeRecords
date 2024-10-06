@@ -1760,7 +1760,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1718 |  |  |  |  |
 | 1719 |  |  |  |  |
 | 1720 | Decode XORed Array | Easy | 2024-07-03 | [Java](./records/Java/Question_1720.md): 86.57% |
-| 1721 |  |  |  |  |
+| 1721 | Swapping Nodes in a Linked List | Medium | 2024-10-06 | [Java](./records/Java/Question_1721.md): 14.21% |
 | 1722 |  |  |  |  |
 | 1723 |  |  |  |  |
 | 1724 |  |  |  |  |
