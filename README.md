@@ -1702,7 +1702,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1660 | Correct a Binary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1660.md): 55.21% |
 | 1661 | Average Time of Process per Machine | Easy | 2024-08-05 | [Pandas](./records/Pandas/Question_1661.md): 98.81% |
 | 1662 | Check If Two String Arrays are Equivalent | Easy | 2024-06-06 | [Java](./records/Java/Question_1662.md): 100.00% |
-| 1663 |  |  |  |  |
+| 1663 | Smallest String With A Given Numeric Value | Medium | 2024-10-07 | [Java](./records/Java/Question_1663.md): 20.22% |
 | 1664 |  |  |  |  |
 | 1665 |  |  |  |  |
 | 1666 |  |  |  |  |
