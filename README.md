@@ -1068,7 +1068,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1026 | Maximum Difference Between Node and Ancestor | Medium | 2024-09-17 | [Java](./records/Java/Question_1026.md): 100.00% |
 | 1027 |  |  |  |  |
 | 1028 |  |  |  |  |
-| 1029 |  |  |  |  |
+| 1029 | Two City Scheduling | Medium | 2024-10-07 | [Java](./records/Java/Question_1029.md): 98.29% |
 | 1030 | Matrix Cells in Distance Order | Easy | 2024-07-29 | [Java](./records/Java/Question_1030.md): 80.11% |
 | 1031 |  |  |  |  |
 | 1032 |  |  |  |  |
