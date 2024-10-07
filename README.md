@@ -1253,7 +1253,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1211 | Queries Quality and Percentage | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1211.md): 88.37% |
 | 1212 | Team Scores in Football Tournament | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_1212.md): 7.69% |
 | 1213 | Intersection of Three Sorted Arrays | Easy | 2024-05-22 | [Java](./records/Java/Question_1213.md): 16.96% |
-| 1214 |  |  |  |  |
+| 1214 | Two Sum BSTs | Medium | 2024-10-07 | [Java](./records/Java/Question_1214.md): 34.32% |
 | 1215 |  |  |  |  |
 | 1216 |  |  |  |  |
 | 1217 | Minimum Cost to Move Chips to The Same Position | Easy | 2024-07-29 | [Java](./records/Java/Question_1217.md): 100.00% |
