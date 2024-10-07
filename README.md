@@ -940,7 +940,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 898 |  |  |  |  |
 | 899 |  |  |  |  |
 | 900 |  |  |  |  |
-| 901 |  |  |  |  |
+| 901 | Online Stock Span | Medium | 2024-10-07 | [Java](./records/Java/Question_901.md): 5.07% |
 | 902 |  |  |  |  |
 | 903 |  |  |  |  |
 | 904 |  |  |  |  |
