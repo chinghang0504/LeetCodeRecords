@@ -2522,7 +2522,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2480 | Form a Chemical Bond | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2480.md): 100.00% |
 | 2481 | Minimum Cuts to Divide a Circle | Easy | 2024-06-24 | [Java](./records/Java/Question_2481.md): 100.00% |
 | 2482 | Difference Between Ones and Zeros in Row and Column | Medium | 2024-07-14 | [Java](./records/Java/Question_2482.md): 65.63% |
-| 2483 |  |  |  |  |
+| 2483 | Minimum Penalty for a Shop | Medium | 2024-10-07 | [Java](./records/Java/Question_2483.md): 76.08% |
 | 2484 |  |  |  |  |
 | 2485 | Find the Pivot Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2485.md): 100.00% |
 | 2486 | Append Characters to String to Make Subsequence | Medium | 2024-09-19 | [Java](./records/Java/Question_2486.md): 97.68% |
