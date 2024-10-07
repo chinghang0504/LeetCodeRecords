@@ -1846,7 +1846,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1804 |  |  |  |  |
 | 1805 | Number of Different Integers in a String | Easy | 2024-08-11 | [Java](./records/Java/Question_1805.md): 98.52% |
 | 1806 | Minimum Number of Operations to Reinitialize a Permutation | Medium | 2024-10-01 | [Java](./records/Java/Question_1806.md): 59.52% |
-| 1807 |  |  |  |  |
+| 1807 | Evaluate the Bracket Pairs of a String | Medium | 2024-10-07 | [Java](./records/Java/Question_1807.md): 91.04% |
 | 1808 |  |  |  |  |
 | 1809 | Ad-Free Sessions | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1809.md): 96.43% |
 | 1810 |  |  |  |  |
