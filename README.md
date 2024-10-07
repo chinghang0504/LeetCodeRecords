@@ -1012,7 +1012,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 970 |  |  |  |  |
 | 971 |  |  |  |  |
 | 972 |  |  |  |  |
-| 973 |  |  |  |  |
+| 973 | K Closest Points to Origin | Medium | 2024-10-07 | [Java](./records/Java/Question_973.md): 64.15% |
 | 974 |  |  |  |  |
 | 975 |  |  |  |  |
 | 976 | Largest Perimeter Triangle | Easy | 2024-07-30 | [Java](./records/Java/Question_976.md): 14.40% |
