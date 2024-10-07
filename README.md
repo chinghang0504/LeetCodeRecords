@@ -1486,7 +1486,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1444 |  |  |  |  |
 | 1445 | Apples & Oranges | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1445.md): 94.87% |
 | 1446 | Consecutive Characters | Easy | 2024-05-29 | [Java](./records/Java/Question_1446.md): 100.00% |
-| 1447 |  |  |  |  |
+| 1447 | Simplified Fractions | Medium | 2024-10-06 | [Java](./records/Java/Question_1447.md): 41.49% |
 | 1448 | Count Good Nodes in Binary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1448.md): 83.98% |
 | 1449 |  |  |  |  |
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | 2024-05-29 | [Java](./records/Java/Question_1450.md): 100.00% |
