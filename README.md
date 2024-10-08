@@ -1648,7 +1648,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1606 |  |  |  |  |
 | 1607 | Sellers With No Sales | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1607.md): 98.21% |
 | 1608 | Special Array With X Elements Greater Than or Equal X | Easy | 2024-07-17 | [Java](./records/Java/Question_1608.md): 57.90% |
-| 1609 |  |  |  |  |
+| 1609 | Even Odd Tree | Medium | 2024-10-07 | [Java](./records/Java/Question_1609.md): 37.65% |
 | 1610 |  |  |  |  |
 | 1611 |  |  |  |  |
 | 1612 | Check If Two Expression Trees are Equivalent | Medium | 2024-09-20 | [Java](./records/Java/Question_1612.md): 100.00% |
