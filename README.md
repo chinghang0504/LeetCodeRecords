@@ -2216,7 +2216,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2174 |  |  |  |  |
 | 2175 | The Change in Global Rankings | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_2175.md): 100.00% |
 | 2176 | Count Equal and Divisible Pairs in an Array | Easy | 2024-07-02 | [Java](./records/Java/Question_2176.md): 98.42% |
-| 2177 |  |  |  |  |
+| 2177 | Find Three Consecutive Integers That Sum to a Given Number | Medium | 2024-10-08 | [Java](./records/Java/Question_2177.md): 100.00% |
 | 2178 |  |  |  |  |
 | 2179 |  |  |  |  |
 | 2180 | Count Integers With Even Digit Sum | Easy | 2024-07-16 | [Java](./records/Java/Question_2180.md): 92.03% |
