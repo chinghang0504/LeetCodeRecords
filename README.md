@@ -1311,7 +1311,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1269 |  |  |  |  |
 | 1270 | All People Report to the Given Manager | Medium | 2024-05-29 | [Pandas](./records/Pandas/Question_1270.md): 90.32% |
 | 1271 | Hexspeak | Easy | 2024-08-07 | [Java](./records/Java/Question_1271.md): 80.56% |
-| 1272 |  |  |  |  |
+| 1272 | Remove Interval | Medium | 2024-10-07 | [Java](./records/Java/Question_1272.md): 70.34% |
 | 1273 |  |  |  |  |
 | 1274 |  |  |  |  |
 | 1275 | Find Winner on a Tic Tac Toe Game | Easy | 2024-08-04 | [Java](./records/Java/Question_1275.md): 100.00% |
