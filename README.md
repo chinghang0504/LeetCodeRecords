@@ -3010,7 +3010,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2968 |  |  |  |  |
 | 2969 |  |  |  |  |
 | 2970 | Count the Number of Incremovable Subarrays I | Easy | 2024-08-04 | [Java](./records/Java/Question_2970.md): 56.08% |
-| 2971 |  |  |  |  |
+| 2971 | Find Polygon With the Largest Perimeter | Medium | 2024-10-07 | [Java](./records/Java/Question_2971.md): 61.19% |
 | 2972 |  |  |  |  |
 | 2973 |  |  |  |  |
 | 2974 | Minimum Number Game | Easy | 2024-06-29 | [Java](./records/Java/Question_2974.md): 97.38% |
