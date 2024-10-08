@@ -1737,7 +1737,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1695 |  |  |  |  |
 | 1696 |  |  |  |  |
 | 1697 |  |  |  |  |
-| 1698 |  |  |  |  |
+| 1698 | Number of Distinct Substrings in a String | Medium | 2024-10-08 | [Java](./records/Java/Question_1698.md): 33.62% |
 | 1699 | Number of Calls Between Two Persons | Medium | 2024-06-12 | [Pandas](./records/Pandas/Question_1699.md): 98.04% |
 | 1700 | Number of Students Unable to Eat Lunch | Easy | 2024-07-30 | [Java](./records/Java/Question_1700.md): 41.96% |
 | 1701 | Average Waiting Time | Medium | 2024-10-01 | [Java](./records/Java/Question_1701.md): 94.09% |
