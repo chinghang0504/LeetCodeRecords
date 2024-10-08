@@ -288,7 +288,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 246 | Strobogrammatic Number | Easy | 2024-04-22 | [Java](./records/Java/Question_246.md): 100.00% |
 | 247 |  |  |  |  |
 | 248 |  |  |  |  |
-| 249 |  |  |  |  |
+| 249 | Group Shifted Strings | Medium | 2024-10-08 | [Java](./records/Java/Question_249.md): 82.34% |
 | 250 |  |  |  |  |
 | 251 | Flatten 2D Vector | Medium | 2024-05-10 | [Java](./records/Java/Question_251.md): 54.52% |
 | 252 | Meeting Rooms | Easy | 2024-04-23 | [Java](./records/Java/Question_252.md): 81.16% |
