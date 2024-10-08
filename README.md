@@ -680,7 +680,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 638 |  |  |  |  |
 | 639 |  |  |  |  |
 | 640 |  |  |  |  |
-| 641 |  |  |  |  |
+| 641 | Design Circular Deque | Medium | 2024-10-08 | [Java](./records/Java/Question_641.md): 40.06% |
 | 642 |  |  |  |  |
 | 643 | Maximum Average Subarray I | Easy | 2024-04-29 | [Java](./records/Java/Question_643.md): 100.00% |
 | 644 |  |  |  |  |
