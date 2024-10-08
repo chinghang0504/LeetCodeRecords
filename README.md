@@ -542,7 +542,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 500 | Keyboard Row | Easy | 2024-04-10 | [Java](./records/Java/Question_500.md): 100.00% |
 | 501 | Find Mode in Binary Search Tree | Easy | 2024-04-22 | [Java](./records/Java/Question_501.md): 15.95% |
 | 502 |  |  |  |  |
-| 503 |  |  |  |  |
+| 503 | Next Greater Element II | Medium | 2024-10-08 | [Java](./records/Java/Question_503.md): 16.50% |
 | 504 | Base 7 | Easy | 2024-04-24 | [Java](./records/Java/Question_504.md): 100.00% |
 | 505 |  |  |  |  |
 | 506 | Relative Ranks | Easy | 2024-05-14 | [Java](./records/Java/Question_506.md): 73.67% |
