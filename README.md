@@ -662,7 +662,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 620 | Not Boring Movies | Easy | 2024-04-29 | [Pandas](./records/Pandas/Question_620.md): 90.37% |
 | 621 |  |  |  |  |
 | 622 |  |  |  |  |
-| 623 |  |  |  |  |
+| 623 | Add One Row to Tree | Medium | 2024-10-09 | [Java](./records/Java/Question_623.md): 100.00% |
 | 624 |  |  |  |  |
 | 625 |  |  |  |  |
 | 626 | Exchange Seats | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_626.md): 55.31% |
