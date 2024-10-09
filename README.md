@@ -3139,7 +3139,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3097 |  |  |  |  |
 | 3098 |  |  |  |  |
 | 3099 | Harshad Number | Easy | 2024-06-30 | [Java](./records/Java/Question_3099.md): 100.00% |
-| 3100 |  |  |  |  |
+| 3100 | Water Bottles II | Medium | 2024-10-09 | [Java](./records/Java/Question_3100.md): 100.00% |
 | 3101 |  |  |  |  |
 | 3102 |  |  |  |  |
 | 3103 | Find Trending Hashtags II | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_3103.md): 64.29% |
