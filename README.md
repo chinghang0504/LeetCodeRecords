@@ -1205,7 +1205,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1163 |  |  |  |  |
 | 1164 | Product Price at a Given Date | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1164.md): 92.78% |
 | 1165 | Single-Row Keyboard | Easy | 2024-05-21 | [Java](./records/Java/Question_1165.md): 56.02% |
-| 1166 |  |  |  |  |
+| 1166 | Design File System | Medium | 2024-10-10 | [Java](./records/Java/Question_1166.md): 93.21% |
 | 1167 | Minimum Cost to Connect Sticks | Medium | 2024-09-21 | [Java](./records/Java/Question_1167.md): 45.02% |
 | 1168 |  |  |  |  |
 | 1169 |  |  |  |  |
