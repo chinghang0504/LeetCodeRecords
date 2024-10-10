@@ -1520,7 +1520,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1478 |  |  |  |  |
 | 1479 | Sales by Day of the Week | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_1479.md): 90.00% |
 | 1480 | Running Sum of 1d Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1480.md): 100.00% |
-| 1481 |  |  |  |  |
+| 1481 | Least Number of Unique Integers after K Removals | Medium | 2024-10-10 | [Java](./records/Java/Question_1481.md): 94.54% |
 | 1482 |  |  |  |  |
 | 1483 |  |  |  |  |
 | 1484 | Group Sold Products By The Date | Easy | 2024-07-04 | [Pandas](./records/Pandas/Question_1484.md): 95.05% |
