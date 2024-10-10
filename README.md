@@ -874,7 +874,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 832 | Flipping an Image | Easy | 2024-05-04 | [Java](./records/Java/Question_832.md): 100.00% |
 | 833 |  |  |  |  |
 | 834 |  |  |  |  |
-| 835 |  |  |  |  |
+| 835 | Image Overlap | Medium | 2024-10-10 | [Java](./records/Java/Question_835.md): 27.70% |
 | 836 | Rectangle Overlap | Easy | 2024-08-08 | [Java](./records/Java/Question_836.md): 100.00% |
 | 837 |  |  |  |  |
 | 838 |  |  |  |  |
