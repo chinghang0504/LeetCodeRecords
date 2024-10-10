@@ -1617,7 +1617,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1575 |  |  |  |  |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | Easy | 2024-08-01 | [Java](./records/Java/Question_1576.md): 100.00% |
 | 1577 |  |  |  |  |
-| 1578 |  |  |  |  |
+| 1578 | Minimum Time to Make Rope Colorful | Medium | 2024-10-10 | [Java](./records/Java/Question_1578.md): 99.73% |
 | 1579 |  |  |  |  |
 | 1580 | Put Boxes Into the Warehouse II | Medium | 2024-10-08 | [Java](./records/Java/Question_1580.md): 50.00% |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | 2024-06-01 | [Pandas](./records/Pandas/Question_1581.md): 96.36% |
