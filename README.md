@@ -3145,7 +3145,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3103 | Find Trending Hashtags II | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_3103.md): 64.29% |
 | 3104 |  |  |  |  |
 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | 2024-07-21 | [Java](./records/Java/Question_3105.md): 89.21% |
-| 3106 |  |  |  |  |
+| 3106 | Lexicographically Smallest String After Operations With Constraint | Medium | 2024-10-10 | [Java](./records/Java/Question_3106.md): 100.00% |
 | 3107 |  |  |  |  |
 | 3108 |  |  |  |  |
 | 3109 |  |  |  |  |
