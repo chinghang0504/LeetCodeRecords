@@ -570,7 +570,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 528 |  |  |  |  |
 | 529 | Minesweeper | Medium | 2024-10-07 | [Java](./records/Java/Question_529.md): 100.00% |
 | 530 | Minimum Absolute Difference in BST | Easy | 2024-05-12 | [Java](./records/Java/Question_530.md): 100.00% |
-| 531 |  |  |  |  |
+| 531 | Lonely Pixel I | Medium | 2024-10-11 | [Java](./records/Java/Question_531.md): 98.20% |
 | 532 |  |  |  |  |
 | 533 |  |  |  |  |
 | 534 | Game Play Analysis III | Medium | 2024-05-18 | [Pandas](./records/Pandas/Question_534.md): 99.12% |
