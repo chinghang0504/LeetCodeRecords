@@ -1001,7 +1001,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 959 | Regions Cut By Slashes | Medium | 2024-09-28 | [Java](./records/Java/Question_959.md): 38.69% |
 | 960 |  |  |  |  |
 | 961 | N-Repeated Element in Size 2N Array | Easy | 2024-05-15 | [Java](./records/Java/Question_961.md): 46.73% |
-| 962 |  |  |  |  |
+| 962 | Maximum Width Ramp | Medium | 2024-10-11 | [Java](./records/Java/Question_962.md): 12.57% |
 | 963 |  |  |  |  |
 | 964 |  |  |  |  |
 | 965 | Univalued Binary Tree | Easy | 2024-07-08 | [Java](./records/Java/Question_965.md): 100.00% |
