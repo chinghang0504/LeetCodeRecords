@@ -1209,7 +1209,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1167 | Minimum Cost to Connect Sticks | Medium | 2024-09-21 | [Java](./records/Java/Question_1167.md): 45.02% |
 | 1168 |  |  |  |  |
 | 1169 |  |  |  |  |
-| 1170 |  |  |  |  |
+| 1170 | Compare Strings by Frequency of the Smallest Character | Medium | 2024-10-11 | [Java](./records/Java/Question_1170.md): 32.67% |
 | 1171 |  |  |  |  |
 | 1172 |  |  |  |  |
 | 1173 | Immediate Food Delivery I | Easy | 2024-05-21 | [Pandas](./records/Pandas/Question_1173.md): 97.46% |
