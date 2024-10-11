@@ -970,7 +970,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 928 |  |  |  |  |
 | 929 | Unique Email Addresses | Easy | 2024-07-30 | [Java](./records/Java/Question_929.md): 99.73% |
 | 930 |  |  |  |  |
-| 931 |  |  |  |  |
+| 931 | Minimum Falling Path Sum | Medium | 2024-10-11 | [Java](./records/Java/Question_931.md): 68.49% |
 | 932 |  |  |  |  |
 | 933 | Number of Recent Calls | Easy | 2024-05-14 | [Java](./records/Java/Question_933.md): 42.86% |
 | 934 |  |  |  |  |
