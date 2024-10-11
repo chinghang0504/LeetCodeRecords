@@ -3266,7 +3266,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3224 |  |  |  |  |
 | 3225 |  |  |  |  |
 | 3226 | Number of Bit Changes to Make Two Integers Equal | Easy | 2024-07-20 | [Java](./records/Java/Question_3226.md): 100.00% |
-| 3227 |  |  |  |  |
+| 3227 | Vowels Game in a String | Medium | 2024-10-10 | [Java](./records/Java/Question_3227.md): 66.85% |
 | 3228 |  |  |  |  |
 | 3229 |  |  |  |  |
 | 3230 | Customer Purchasing Behavior Analysis | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_3230.md): 75.47% |
