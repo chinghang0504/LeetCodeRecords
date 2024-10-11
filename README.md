@@ -206,7 +206,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 164 | Maximum Gap | Medium | 2024-04-14 | [Java](./records/Java/Question_164.md): 42.51% |
 | 165 |  |  |  |  |
 | 166 |  |  |  |  |
-| 167 |  |  |  |  |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | 2024-10-11 | [Java](./records/Java/Question_167.md): 20.73% |
 | 168 | Excel Sheet Column Title | Easy | 2024-04-18 | [Java](./records/Java/Question_168.md): 100.00% |
 | 169 | Majority Element | Easy | 2024-03-29 | [Java](./records/Java/Question_169.md): 100.00% |
 | 170 | Two Sum III - Data structure design | Easy | 2024-04-22 | [Java](./records/Java/Question_170.md): 74.87% |
