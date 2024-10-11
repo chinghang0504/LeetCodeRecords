@@ -2001,7 +2001,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1959 |  |  |  |  |
 | 1960 |  |  |  |  |
 | 1961 | Check If String Is a Prefix of Array | Easy | 2024-08-08 | [Java](./records/Java/Question_1961.md): 78.42% |
-| 1962 |  |  |  |  |
+| 1962 | Remove Stones to Minimize the Total | Medium | 2024-10-10 | [Java](./records/Java/Question_1962.md): 80.24% |
 | 1963 |  |  |  |  |
 | 1964 |  |  |  |  |
 | 1965 | Employees With Missing Information | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_1965.md): 96.15% |
