@@ -295,7 +295,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 253 |  |  |  |  |
 | 254 |  |  |  |  |
 | 255 |  |  |  |  |
-| 256 |  |  |  |  |
+| 256 | Paint House | Medium | 2024-10-11 | [Java](./records/Java/Question_256.md): 23.13% |
 | 257 | Binary Tree Paths | Easy | 2024-04-04 | [Java](./records/Java/Question_257.md): 99.18% |
 | 258 | Add Digits | Easy | 2024-04-04 | [Java](./records/Java/Question_258.md): 100.00% |
 | 259 |  |  |  |  |
