@@ -1129,7 +1129,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1087 |  |  |  |  |
 | 1088 |  |  |  |  |
 | 1089 | Duplicate Zeros | Easy | 2024-05-16 | [Java](./records/Java/Question_1089.md): 97.21% |
-| 1090 |  |  |  |  |
+| 1090 | Largest Values From Labels | Medium | 2024-10-11 | [Java](./records/Java/Question_1090.md): 92.17% |
 | 1091 |  |  |  |  |
 | 1092 |  |  |  |  |
 | 1093 |  |  |  |  |
