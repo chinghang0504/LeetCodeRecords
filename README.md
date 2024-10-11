@@ -2283,7 +2283,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2241 |  |  |  |  |
 | 2242 |  |  |  |  |
 | 2243 | Calculate Digit Sum of a String | Easy | 2024-08-03 | [Java](./records/Java/Question_2243.md): 91.75% |
-| 2244 |  |  |  |  |
+| 2244 | Minimum Rounds to Complete All Tasks | Medium | 2024-10-10 | [Java](./records/Java/Question_2244.md): 92.98% |
 | 2245 |  |  |  |  |
 | 2246 |  |  |  |  |
 | 2247 |  |  |  |  |
