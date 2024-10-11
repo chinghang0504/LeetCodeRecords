@@ -1625,7 +1625,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1583 |  |  |  |  |
 | 1584 |  |  |  |  |
 | 1585 |  |  |  |  |
-| 1586 |  |  |  |  |
+| 1586 | Binary Search Tree Iterator II | Medium | 2024-10-11 | [Java](./records/Java/Question_1586.md): 100.00% |
 | 1587 | Bank Account Summary II | Easy | 2024-06-04 | [Pandas](./records/Pandas/Question_1587.md): 100.00% |
 | 1588 | Sum of All Odd Length Subarrays | Easy | 2024-06-04 | [Java](./records/Java/Question_1588.md): 60.85% |
 | 1589 |  |  |  |  |
