@@ -1686,7 +1686,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1644 |  |  |  |  |
 | 1645 | Hopper Company Queries II | Hard | 2024-09-12 | [Pandas](./records/Pandas/Question_1645.md): 95.00% |
 | 1646 | Get Maximum in Generated Array | Easy | 2024-08-04 | [Java](./records/Java/Question_1646.md): 100.00% |
-| 1647 |  |  |  |  |
+| 1647 | Minimum Deletions to Make Character Frequencies Unique | Medium | 2024-10-12 | [Java](./records/Java/Question_1647.md): 98.70% |
 | 1648 |  |  |  |  |
 | 1649 |  |  |  |  |
 | 1650 | Lowest Common Ancestor of a Binary Tree III | Medium | 2024-09-15 | [Java](./records/Java/Question_1650.md): 99.67% |
