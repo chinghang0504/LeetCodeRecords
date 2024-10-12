@@ -578,7 +578,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 536 |  |  |  |  |
 | 537 |  |  |  |  |
 | 538 | Convert BST to Greater Tree | Medium | 2024-10-04 | [Java](./records/Java/Question_538.md): 100.00% |
-| 539 |  |  |  |  |
+| 539 | Minimum Time Difference | Medium | 2024-10-12 | [Java](./records/Java/Question_539.md): 44.52% |
 | 540 |  |  |  |  |
 | 541 | Reverse String II | Easy | 2024-08-04 | [Java](./records/Java/Question_541.md): 83.24% |
 | 542 |  |  |  |  |
