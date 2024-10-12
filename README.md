@@ -283,7 +283,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 241 |  |  |  |  |
 | 242 | Valid Anagram | Easy | 2024-04-04 | [Java](./records/Java/Question_242.md): 99.80% |
 | 243 | Shortest Word Distance | Easy | 2024-04-22 | [Java](./records/Java/Question_243.md): 92.92% |
-| 244 |  |  |  |  |
+| 244 | Shortest Word Distance II | Medium | 2024-10-12 | [Java](./records/Java/Question_244.md): 66.48% |
 | 245 |  |  |  |  |
 | 246 | Strobogrammatic Number | Easy | 2024-04-22 | [Java](./records/Java/Question_246.md): 100.00% |
 | 247 |  |  |  |  |
