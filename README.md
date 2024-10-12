@@ -1372,7 +1372,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1330 |  |  |  |  |
 | 1331 | Rank Transform of an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1331.md): 94.01% |
 | 1332 | Remove Palindromic Subsequences | Easy | 2024-08-11 | [Java](./records/Java/Question_1332.md): 100.00% |
-| 1333 |  |  |  |  |
+| 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | Medium | 2024-10-12 | [Java](./records/Java/Question_1333.md): 53.44% |
 | 1334 |  |  |  |  |
 | 1335 |  |  |  |  |
 | 1336 |  |  |  |  |
