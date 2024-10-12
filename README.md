@@ -2909,7 +2909,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2867 |  |  |  |  |
 | 2868 |  |  |  |  |
 | 2869 | Minimum Operations to Collect Elements | Easy | 2024-08-03 | [Java](./records/Java/Question_2869.md): 99.37% |
-| 2870 |  |  |  |  |
+| 2870 | Minimum Number of Operations to Make Array Empty | Medium | 2024-10-11 | [Java](./records/Java/Question_2870.md): 90.57% |
 | 2871 |  |  |  |  |
 | 2872 |  |  |  |  |
 | 2873 | Maximum Value of an Ordered Triplet I | Easy | 2024-07-27 | [Java](./records/Java/Question_2873.md): 52.42% |
