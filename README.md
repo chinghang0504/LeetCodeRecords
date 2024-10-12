@@ -2189,7 +2189,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2147 |  |  |  |  |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements | Easy | 2024-07-20 | [Java](./records/Java/Question_2148.md): 100.00% |
 | 2149 | Rearrange Array Elements by Sign | Medium | 2024-07-22 | [Java](./records/Java/Question_2149.md): 53.09% |
-| 2150 |  |  |  |  |
+| 2150 | Find All Lonely Numbers in the Array | Medium | 2024-10-12 | [Java](./records/Java/Question_2150.md): 44.86% |
 | 2151 |  |  |  |  |
 | 2152 |  |  |  |  |
 | 2153 | The Number of Passengers in Each Bus II | Hard | 2024-09-10 | [Pandas](./records/Pandas/Question_2153.md): 81.82% |
