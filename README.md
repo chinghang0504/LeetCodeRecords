@@ -1443,7 +1443,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1401 |  |  |  |  |
 | 1402 |  |  |  |  |
 | 1403 | Minimum Subsequence in Non-Increasing Order | Easy | 2024-07-29 | [Java](./records/Java/Question_1403.md): 94.96% |
-| 1404 |  |  |  |  |
+| 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | 2024-10-12 | [Java](./records/Java/Question_1404.md): 22.15% |
 | 1405 |  |  |  |  |
 | 1406 |  |  |  |  |
 | 1407 | Top Travellers | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1407.md): 91.37% |
