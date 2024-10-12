@@ -2258,7 +2258,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2216 |  |  |  |  |
 | 2217 |  |  |  |  |
 | 2218 |  |  |  |  |
-| 2219 |  |  |  |  |
+| 2219 | Maximum Sum Score of Array | Medium | 2024-10-12 | [Java](./records/Java/Question_2219.md): 100.00% |
 | 2220 | Minimum Bit Flips to Convert Number | Easy | 2024-06-20 | [Java](./records/Java/Question_2220.md): 100.00% |
 | 2221 | Find Triangular Sum of an Array | Medium | 2024-09-16 | [Java](./records/Java/Question_2221.md): 45.66% |
 | 2222 |  |  |  |  |
