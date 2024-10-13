@@ -3018,7 +3018,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2976 |  |  |  |  |
 | 2977 |  |  |  |  |
 | 2978 | Symmetric Coordinates | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2978.md): 87.50% |
-| 2979 |  |  |  |  |
+| 2979 | Most Expensive Item That Can Not Be Bought | Medium | 2024-10-13 | [Java](./records/Java/Question_2979.md): 100.00% |
 | 2980 | Check if Bitwise OR Has Trailing Zeros | Easy | 2024-07-09 | [Java](./records/Java/Question_2980.md): 63.57% |
 | 2981 |  |  |  |  |
 | 2982 |  |  |  |  |
