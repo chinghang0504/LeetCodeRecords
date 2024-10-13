@@ -2031,7 +2031,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1989 |  |  |  |  |
 | 1990 | Count the Number of Experiments | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_1990.md): 93.55% |
 | 1991 | Find the Middle Index in Array | Easy | 2024-06-14 | [Java](./records/Java/Question_1991.md): 100.00% |
-| 1992 |  |  |  |  |
+| 1992 | Find All Groups of Farmland | Medium | 2024-10-13 | [Java](./records/Java/Question_1992.md): 90.30% |
 | 1993 |  |  |  |  |
 | 1994 |  |  |  |  |
 | 1995 | Count Special Quadruplets | Easy | 2024-07-19 | [Java](./records/Java/Question_1995.md): 86.78% |
