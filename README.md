@@ -3348,5 +3348,11 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3306 |  |  |  |  |
 | 3307 |  |  |  |  |
 | 3308 | Find Top Performing Driver | Medium | 2024-09-30 | [Pandas](./records/Pandas/Question_3308.md): 100.00% |
+| 3309 |  |  |  |  |
+| 3310 |  |  |  |  |
+| 3311 |  |  |  |  |
+| 3312 |  |  |  |  |
+| 3313 |  |  |  |  |
+| 3314 | Construct the Minimum Bitwise Array I | Easy | 2024-10-12 | [Java](./records/Java/Question_3314.md): 100.00% |
 
 <br>
