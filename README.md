@@ -3354,5 +3354,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3312 |  |  |  |  |
 | 3313 |  |  |  |  |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | 2024-10-12 | [Java](./records/Java/Question_3314.md): 100.00% |
+| 3315 |  |  |  |  |
+| 3316 |  |  |  |  |
+| 3317 |  |  |  |  |
+| 3318 | Find X-Sum of All K-Long Subarrays I | Easy | 2024-10-13 | [Java](./records/Java/Question_3318.md): 100.00% |
 
 <br>
