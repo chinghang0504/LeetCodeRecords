@@ -939,7 +939,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 897 | Increasing Order Search Tree | Easy | 2024-05-06 | [Java](./records/Java/Question_897.md): 100.00% |
 | 898 |  |  |  |  |
 | 899 |  |  |  |  |
-| 900 |  |  |  |  |
+| 900 | RLE Iterator | Medium | 2024-10-12 | [Java](./records/Java/Question_900.md): 99.48% |
 | 901 | Online Stock Span | Medium | 2024-10-07 | [Java](./records/Java/Question_901.md): 5.07% |
 | 902 |  |  |  |  |
 | 903 |  |  |  |  |
