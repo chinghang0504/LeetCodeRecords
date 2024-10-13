@@ -2435,7 +2435,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2393 | Count Strictly Increasing Subarrays | Medium | 2024-09-30 | [Java](./records/Java/Question_2393.md): 100.00% |
 | 2394 | Employees With Deductions | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2394.md): 94.29% |
 | 2395 | Find Subarrays With Equal Sum | Easy | 2024-07-17 | [Java](./records/Java/Question_2395.md): 99.21% |
-| 2396 |  |  |  |  |
+| 2396 | Strictly Palindromic Number | Medium | 2024-10-13 | [Java](./records/Java/Question_2396.md): 100.00% |
 | 2397 |  |  |  |  |
 | 2398 |  |  |  |  |
 | 2399 | Check Distances Between Same Letters | Easy | 2024-07-29 | [Java](./records/Java/Question_2399.md): 92.95% |
