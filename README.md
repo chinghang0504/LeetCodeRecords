@@ -958,7 +958,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 916 |  |  |  |  |
 | 917 | Reverse Only Letters | Easy | 2024-05-07 | [Java](./records/Java/Question_917.md): 100.00% |
 | 918 |  |  |  |  |
-| 919 |  |  |  |  |
+| 919 | Complete Binary Tree Inserter | Medium | 2024-10-14 | [Java](./records/Java/Question_919.md): 22.04% |
 | 920 |  |  |  |  |
 | 921 | Minimum Add to Make Parentheses Valid | Medium | 2024-09-19 | [Java](./records/Java/Question_921.md): 62.59% |
 | 922 | Sort Array By Parity II | Easy | 2024-07-08 | [Java](./records/Java/Question_922.md): 99.47% |
