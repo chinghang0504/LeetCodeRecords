@@ -554,7 +554,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 512 | Game Play Analysis II | Easy | 2024-04-25 | [Pandas](./records/Pandas/Question_512.md): 91.57% |
 | 513 | Find Bottom Left Tree Value | Medium | 2024-09-21 | [Java](./records/Java/Question_513.md): 100.00% |
 | 514 |  |  |  |  |
-| 515 |  |  |  |  |
+| 515 | Find Largest Value in Each Tree Row | Medium | 2024-10-13 | [Java](./records/Java/Question_515.md): 100.00% |
 | 516 |  |  |  |  |
 | 517 |  |  |  |  |
 | 518 |  |  |  |  |
