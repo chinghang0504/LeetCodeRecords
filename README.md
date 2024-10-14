@@ -778,7 +778,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 736 |  |  |  |  |
 | 737 |  |  |  |  |
 | 738 |  |  |  |  |
-| 739 |  |  |  |  |
+| 739 | Daily Temperatures | Medium | 2024-10-14 | [Java](./records/Java/Question_739.md): 33.61% |
 | 740 |  |  |  |  |
 | 741 |  |  |  |  |
 | 742 |  |  |  |  |
