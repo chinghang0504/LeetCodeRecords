@@ -631,7 +631,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 589 | N-ary Tree Preorder Traversal | Easy | 2024-04-27 | [Java](./records/Java/Question_589.md): 100.00% |
 | 590 | N-ary Tree Postorder Traversal | Easy | 2024-04-27 | [Java](./records/Java/Question_590.md): 100.00% |
 | 591 |  |  |  |  |
-| 592 |  |  |  |  |
+| 592 | Fraction Addition and Subtraction | Medium | 2024-10-14 | [Java](./records/Java/Question_592.md): 99.76% |
 | 593 |  |  |  |  |
 | 594 | Longest Harmonious Subsequence | Easy | 2024-08-10 | [Java](./records/Java/Question_594.md): 99.76% |
 | 595 | Big Countries | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_595.md): 94.66% |
