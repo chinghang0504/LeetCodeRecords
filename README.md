@@ -1639,7 +1639,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1597 |  |  |  |  |
 | 1598 | Crawler Log Folder | Easy | 2024-07-10 | [Java](./records/Java/Question_1598.md): 99.42% |
 | 1599 |  |  |  |  |
-| 1600 |  |  |  |  |
+| 1600 | Throne Inheritance | Medium | 2024-10-13 | [Java](./records/Java/Question_1600.md): 68.00% |
 | 1601 |  |  |  |  |
 | 1602 | Find Nearest Right Node in Binary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1602.md): 48.48% |
 | 1603 | Design Parking System | Easy | 2024-06-02 | [Java](./records/Java/Question_1603.md): 100.00% |
