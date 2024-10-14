@@ -2569,7 +2569,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2527 |  |  |  |  |
 | 2528 |  |  |  |  |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2529.md): 100.00% |
-| 2530 |  |  |  |  |
+| 2530 | Maximal Score After Applying K Operations | Medium | 2024-10-14 | [Java](./records/Java/Question_2530.md): 100.00% |
 | 2531 |  |  |  |  |
 | 2532 |  |  |  |  |
 | 2533 |  |  |  |  |
