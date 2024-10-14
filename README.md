@@ -1293,7 +1293,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1251 | Average Selling Price | Easy | 2024-08-07 | [Pandas](./records/Pandas/Question_1251.md): 92.07% |
 | 1252 | Cells with Odd Values in a Matrix | Easy | 2024-05-23 | [Java](./records/Java/Question_1252.md): 91.10% |
 | 1253 |  |  |  |  |
-| 1254 |  |  |  |  |
+| 1254 | Number of Closed Islands | Medium | 2024-10-14 | [Java](./records/Java/Question_1254.md): 100.00% |
 | 1255 |  |  |  |  |
 | 1256 | Encode Number | Medium | 2024-09-22 | [Java](./records/Java/Question_1256.md): 100.00% |
 | 1257 |  |  |  |  |
