@@ -1272,7 +1272,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1230 |  |  |  |  |
 | 1231 |  |  |  |  |
 | 1232 | Check If It Is a Straight Line | Easy | 2024-08-08 | [Java](./records/Java/Question_1232.md): 100.00% |
-| 1233 |  |  |  |  |
+| 1233 | Remove Sub-Folders from the Filesystem | Medium | 2024-10-13 | [Java](./records/Java/Question_1233.md): 97.83% |
 | 1234 |  |  |  |  |
 | 1235 |  |  |  |  |
 | 1236 |  |  |  |  |
