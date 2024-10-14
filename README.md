@@ -1811,7 +1811,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1769 | Minimum Number of Operations to Move All Balls to Each Box | Medium | 2024-07-14 | [Java](./records/Java/Question_1769.md): 66.64% |
 | 1770 |  |  |  |  |
 | 1771 |  |  |  |  |
-| 1772 |  |  |  |  |
+| 1772 | Sort Features by Popularity | Medium | 2024-10-13 | [Java](./records/Java/Question_1772.md): 50.00% |
 | 1773 | Count Items Matching a Rule | Easy | 2024-06-29 | [Java](./records/Java/Question_1773.md): 98.86% |
 | 1774 |  |  |  |  |
 | 1775 |  |  |  |  |
