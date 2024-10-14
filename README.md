@@ -1411,7 +1411,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1369 | Get the Second Most Recent Activity | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_1369.md): 94.12% |
 | 1370 | Increasing Decreasing String | Easy | 2024-07-04 | [Java](./records/Java/Question_1370.md): 99.85% |
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | Medium | 2024-09-19 | [Java](./records/Java/Question_1371.md): 5.00% |
-| 1372 |  |  |  |  |
+| 1372 | Longest ZigZag Path in a Binary Tree | Medium | 2024-10-14 | [Java](./records/Java/Question_1372.md): 96.07% |
 | 1373 |  |  |  |  |
 | 1374 | Generate a String With Characters That Have Odd Counts | Easy | 2024-06-30 | [Java](./records/Java/Question_1374.md): 85.83% |
 | 1375 |  |  |  |  |
