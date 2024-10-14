@@ -1938,7 +1938,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1896 |  |  |  |  |
 | 1897 | Redistribute Characters to Make All Strings Equal | Easy | 2024-07-16 | [Java](./records/Java/Question_1897.md): 95.21% |
 | 1898 |  |  |  |  |
-| 1899 |  |  |  |  |
+| 1899 | Merge Triplets to Form Target Triplet | Medium | 2024-10-14 | [Java](./records/Java/Question_1899.md): 67.81% |
 | 1900 |  |  |  |  |
 | 1901 |  |  |  |  |
 | 1902 |  |  |  |  |
