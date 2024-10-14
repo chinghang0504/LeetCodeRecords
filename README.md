@@ -1143,7 +1143,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1101 |  |  |  |  |
 | 1102 |  |  |  |  |
 | 1103 | Distribute Candies to People | Easy | 2024-05-16 | [Java](./records/Java/Question_1103.md): 93.35% |
-| 1104 |  |  |  |  |
+| 1104 | Path In Zigzag Labelled Binary Tree | Medium | 2024-10-13 | [Java](./records/Java/Question_1104.md): 100.00% |
 | 1105 |  |  |  |  |
 | 1106 |  |  |  |  |
 | 1107 | New Users Daily Count | Medium | 2024-08-28 | [Pandas](./records/Pandas/Question_1107.md): 94.12% |
