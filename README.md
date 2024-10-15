@@ -1126,7 +1126,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1084 | Sales Analysis III | Easy | 2024-05-19 | [Pandas](./records/Pandas/Question_1084.md): 93.44% |
 | 1085 | Sum of Digits in the Minimum Number | Easy | 2024-05-16 | [Java](./records/Java/Question_1085.md): 100.00% |
 | 1086 | High Five | Easy | 2024-07-30 | [Java](./records/Java/Question_1086.md): 99.18% |
-| 1087 |  |  |  |  |
+| 1087 | Brace Expansion | Medium | 2024-10-15 | [Java](./records/Java/Question_1087.md): 28.96% |
 | 1088 |  |  |  |  |
 | 1089 | Duplicate Zeros | Easy | 2024-05-16 | [Java](./records/Java/Question_1089.md): 97.21% |
 | 1090 | Largest Values From Labels | Medium | 2024-10-11 | [Java](./records/Java/Question_1090.md): 92.17% |
