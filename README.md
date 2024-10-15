@@ -1140,7 +1140,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1098 | Unpopular Books | Medium | 2024-05-19 | [Pandas](./records/Pandas/Question_1098.md): 92.86% |
 | 1099 | Two Sum Less Than K | Easy | 2024-05-16 | [Java](./records/Java/Question_1099.md): 37.62% |
 | 1100 | Find K-Length Substrings With No Repeated Characters | Medium | 2024-09-19 | [Java](./records/Java/Question_1100.md): 98.02% |
-| 1101 |  |  |  |  |
+| 1101 | The Earliest Moment When Everyone Become Friends | Medium | 2024-10-15 | [Java](./records/Java/Question_1101.md): 18.20% |
 | 1102 |  |  |  |  |
 | 1103 | Distribute Candies to People | Easy | 2024-05-16 | [Java](./records/Java/Question_1103.md): 93.35% |
 | 1104 | Path In Zigzag Labelled Binary Tree | Medium | 2024-10-13 | [Java](./records/Java/Question_1104.md): 100.00% |
