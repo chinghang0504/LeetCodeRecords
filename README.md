@@ -841,7 +841,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 799 |  |  |  |  |
 | 800 | Similar RGB Color | Easy | 2024-07-16 | [Java](./records/Java/Question_800.md): 100.00% |
 | 801 |  |  |  |  |
-| 802 |  |  |  |  |
+| 802 | Find Eventual Safe States | Medium | 2024-10-15 | [Java](./records/Java/Question_802.md): 98.83% |
 | 803 |  |  |  |  |
 | 804 | Unique Morse Code Words | Easy | 2024-05-03 | [Java](./records/Java/Question_804.md): 94.93% |
 | 805 |  |  |  |  |
