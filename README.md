@@ -1345,7 +1345,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1303 | Find the Team Size | Easy | 2024-05-25 | [Pandas](./records/Pandas/Question_1303.md): 96.43% |
 | 1304 | Find N Unique Integers Sum up to Zero | Easy | 2024-05-25 | [Java](./records/Java/Question_1304.md): 100.00% |
 | 1305 | All Elements in Two Binary Search Trees | Medium | 2024-09-15 | [Java](./records/Java/Question_1305.md): 76.34% |
-| 1306 |  |  |  |  |
+| 1306 | Jump Game III | Medium | 2024-10-15 | [Java](./records/Java/Question_1306.md): 84.22% |
 | 1307 |  |  |  |  |
 | 1308 | Running Total for Different Genders | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1308.md): 92.11% |
 | 1309 | Decrypt String from Alphabet to Integer Mapping | Easy | 2024-05-25 | [Java](./records/Java/Question_1309.md): 100.00% |
