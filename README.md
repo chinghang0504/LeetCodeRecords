@@ -2977,7 +2977,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2935 |  |  |  |  |
 | 2936 |  |  |  |  |
 | 2937 | Make Three Strings Equal | Easy | 2024-07-27 | [Java](./records/Java/Question_2937.md): 100.00% |
-| 2938 |  |  |  |  |
+| 2938 | Separate Black and White Balls | Medium | 2024-10-15 | [Java](./records/Java/Question_2938.md): 100.00% |
 | 2939 |  |  |  |  |
 | 2940 |  |  |  |  |
 | 2941 |  |  |  |  |
