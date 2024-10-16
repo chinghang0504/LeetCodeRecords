@@ -1132,7 +1132,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1090 | Largest Values From Labels | Medium | 2024-10-11 | [Java](./records/Java/Question_1090.md): 92.17% |
 | 1091 |  |  |  |  |
 | 1092 |  |  |  |  |
-| 1093 |  |  |  |  |
+| 1093 | Statistics from a Large Sample | Medium | 2024-10-16 | [Java](./records/Java/Question_1093.md): 100.00% |
 | 1094 |  |  |  |  |
 | 1095 |  |  |  |  |
 | 1096 |  |  |  |  |
