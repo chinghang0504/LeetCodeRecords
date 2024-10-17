@@ -1162,7 +1162,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1120 | Maximum Average Subtree | Medium | 2024-10-07 | [Java](./records/Java/Question_1120.md): 100.00% |
 | 1121 |  |  |  |  |
 | 1122 | Relative Sort Array | Easy | 2024-07-26 | [Java](./records/Java/Question_1122.md): 12.33% |
-| 1123 |  |  |  |  |
+| 1123 | Lowest Common Ancestor of Deepest Leaves | Medium | 2024-10-17 | [Java](./records/Java/Question_1123.md): 100.00% |
 | 1124 |  |  |  |  |
 | 1125 |  |  |  |  |
 | 1126 | Active Businesses | Medium | 2024-08-21 | [Pandas](./records/Pandas/Question_1126.md): 88.51% |
