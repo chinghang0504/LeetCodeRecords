@@ -1715,7 +1715,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1673 |  |  |  |  |
 | 1674 |  |  |  |  |
 | 1675 |  |  |  |  |
-| 1676 |  |  |  |  |
+| 1676 | Lowest Common Ancestor of a Binary Tree IV | Medium | 2024-10-17 | [Java](./records/Java/Question_1676.md): 100.00% |
 | 1677 | Product's Worth Over Invoices | Easy | 2024-08-07 | [Pandas](./records/Pandas/Question_1677.md): 97.73% |
 | 1678 | Goal Parser Interpretation | Easy | 2024-06-05 | [Java](./records/Java/Question_1678.md): 100.00% |
 | 1679 |  |  |  |  |
