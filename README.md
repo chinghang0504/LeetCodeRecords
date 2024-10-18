@@ -469,7 +469,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 427 |  |  |  |  |
 | 428 |  |  |  |  |
 | 429 | N-ary Tree Level Order Traversal | Medium | 2024-05-15 | [Java](./records/Java/Question_429.md): 77.28% |
-| 430 |  |  |  |  |
+| 430 | Flatten a Multilevel Doubly Linked List | Medium | 2024-10-18 | [Java](./records/Java/Question_430.md): 100.00% |
 | 431 |  |  |  |  |
 | 432 |  |  |  |  |
 | 433 |  |  |  |  |
