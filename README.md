@@ -2148,7 +2148,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2106 |  |  |  |  |
 | 2107 |  |  |  |  |
 | 2108 | Find First Palindromic String in the Array | Easy | 2024-06-29 | [Java](./records/Java/Question_2108.md): 100.00% |
-| 2109 |  |  |  |  |
+| 2109 | Adding Spaces to a String | Medium | 2024-10-18 | [Java](./records/Java/Question_2109.md): 81.41% |
 | 2110 |  |  |  |  |
 | 2111 |  |  |  |  |
 | 2112 | The Airport With the Most Traffic | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_2112.md): 86.05% |
