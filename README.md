@@ -567,7 +567,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 525 |  |  |  |  |
 | 526 |  |  |  |  |
 | 527 |  |  |  |  |
-| 528 |  |  |  |  |
+| 528 | Random Pick with Weight | Medium | 2024-10-18 | [Java](./records/Java/Question_528.md): 98.38% |
 | 529 | Minesweeper | Medium | 2024-10-07 | [Java](./records/Java/Question_529.md): 100.00% |
 | 530 | Minimum Absolute Difference in BST | Easy | 2024-05-12 | [Java](./records/Java/Question_530.md): 100.00% |
 | 531 | Lonely Pixel I | Medium | 2024-10-11 | [Java](./records/Java/Question_531.md): 98.20% |
