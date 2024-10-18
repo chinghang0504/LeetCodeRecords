@@ -2407,7 +2407,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2365 |  |  |  |  |
 | 2366 |  |  |  |  |
 | 2367 | Number of Arithmetic Triplets | Easy | 2024-07-24 | [Java](./records/Java/Question_2367.md): 82.44% |
-| 2368 |  |  |  |  |
+| 2368 | Reachable Nodes With Restrictions | Medium | 2024-10-18 | [Java](./records/Java/Question_2368.md): 82.71% |
 | 2369 |  |  |  |  |
 | 2370 |  |  |  |  |
 | 2371 |  |  |  |  |
