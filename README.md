@@ -689,7 +689,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 647 |  |  |  |  |
 | 648 | Replace Words | Medium | 2024-10-06 | [Java](./records/Java/Question_648.md): 51.05% |
 | 649 |  |  |  |  |
-| 650 |  |  |  |  |
+| 650 | 2 Keys Keyboard | Medium | 2024-10-18 | [Java](./records/Java/Question_650.md): 100.00% |
 | 651 |  |  |  |  |
 | 652 |  |  |  |  |
 | 653 | Two Sum IV - Input is a BST | Easy | 2024-04-29 | [Java](./records/Java/Question_653.md): 15.03% |
