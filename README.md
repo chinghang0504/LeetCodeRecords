@@ -1836,7 +1836,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1794 |  |  |  |  |
 | 1795 | Rearrange Products Table | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1795.md): 94.93% |
 | 1796 | Second Largest Digit in a String | Easy | 2024-06-10 | [Java](./records/Java/Question_1796.md): 97.79% |
-| 1797 |  |  |  |  |
+| 1797 | Design Authentication Manager | Medium | 2024-10-18 | [Java](./records/Java/Question_1797.md): 51.23% |
 | 1798 |  |  |  |  |
 | 1799 |  |  |  |  |
 | 1800 | Maximum Ascending Subarray Sum | Easy | 2024-06-11 | [Java](./records/Java/Question_1800.md): 100.00% |
