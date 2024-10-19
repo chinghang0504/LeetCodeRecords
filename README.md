@@ -3358,5 +3358,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3316 |  |  |  |  |
 | 3317 |  |  |  |  |
 | 3318 | Find X-Sum of All K-Long Subarrays I | Easy | 2024-10-13 | [Java](./records/Java/Question_3318.md): 100.00% |
+| 3319 |  |  |  |  |
+| 3320 |  |  |  |  |
+| 3321 |  |  |  |  |
+| 3322 | Premier League Table Ranking III | Medium | 2024-10-19 | [Pandas](./records/Pandas/Question_3322.md): 68.42% |
 
 <br>
