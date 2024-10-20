@@ -3362,5 +3362,6 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3320 |  |  |  |  |
 | 3321 |  |  |  |  |
 | 3322 | Premier League Table Ranking III | Medium | 2024-10-19 | [Pandas](./records/Pandas/Question_3322.md): 68.42% |
+| 3323 | Minimize Connected Groups by Inserting Interval | Medium | 2024-10-20 | [Java](./records/Java/Question_3323.md): 100.00% |
 
 <br>
