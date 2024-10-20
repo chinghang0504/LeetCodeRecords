@@ -118,7 +118,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 76 |  |  |  |  |
 | 77 |  |  |  |  |
 | 78 | Subsets | Medium | 2024-09-26 | [Java](./records/Java/Question_78.md): 53.56% |
-| 79 |  |  |  |  |
+| 79 | Word Search | Medium | 2024-10-20 | [Java](./records/Java/Question_79.md): 92.39% |
 | 80 | Remove Duplicates from Sorted List | Easy | 2024-03-24 | [Java](./records/Java/Question_80.md): 100.00% |
 | 81 |  |  |  |  |
 | 82 | Remove Duplicates from Sorted List II | Medium | 2024-04-15 | [Java](./records/Java/Question_82.md): 100.00% |
