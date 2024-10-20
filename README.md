@@ -82,7 +82,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 40 |  |  |  |  |
 | 41 | First Missing Positive | Hard | 2024-03-30 | [Java](./records/Java/Question_41.md): 100.00% |
 | 42 |  |  |  |  |
-| 43 |  |  |  |  |
+| 43 | Multiply Strings | Medium | 2024-10-20 | [Java](./records/Java/Question_43.md): 7.05% |
 | 44 |  |  |  |  |
 | 45 | Jump Game II | Medium | 2024-04-02 | [Java](./records/Java/Question_45.md): 5.09% |
 | 46 | Permutations | Medium | 2024-04-16 | [Java](./records/Java/Question_46.md): 49.67% |
