@@ -92,7 +92,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 50 | Pow(x, n) | Medium | 2024-04-13 | [Java](./records/Java/Question_50.md): 100.00% |
 | 51 |  |  |  |  |
 | 52 |  |  |  |  |
-| 53 |  |  |  |  |
+| 53 | Maximum Subarray | Medium | 2024-10-20 | [Java](./records/Java/Question_53.md): 99.45% |
 | 54 | Spiral Matrix | Medium | 2024-09-20 | [Java](./records/Java/Question_54.md): 100.00% |
 | 55 | Jump Game | Medium | 2024-04-14 | [Java](./records/Java/Question_55.md): 5.01% |
 | 56 | Merge Intervals | Medium | 2024-10-17 | [Java](./records/Java/Question_56.md): 87.69% |
