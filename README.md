@@ -96,7 +96,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 54 | Spiral Matrix | Medium | 2024-09-20 | [Java](./records/Java/Question_54.md): 100.00% |
 | 55 | Jump Game | Medium | 2024-04-14 | [Java](./records/Java/Question_55.md): 5.01% |
 | 56 | Merge Intervals | Medium | 2024-10-17 | [Java](./records/Java/Question_56.md): 87.69% |
-| 57 |  |  |  |  |
+| 57 | Insert Interval | Medium | 2024-10-20 | [Java](./records/Java/Question_57.md): 98.79% |
 | 58 | Length of Last Word | Easy | 2024-03-24 | [Java](./records/Java/Question_58.md): 100.00% |
 | 59 | Spiral Matrix II | Medium | 2024-04-21 | [Java](./records/Java/Question_59.md): 100.00% |
 | 60 |  |  |  |  |
