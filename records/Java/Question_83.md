@@ -1,4 +1,4 @@
-# [LeetCode Records](../../README.md) - Question 80 Remove Duplicates from Sorted List
+# [LeetCode Records](../../README.md) - Question 83 Remove Duplicates from Sorted List
 
 ### Attempt 1: Stay on the current node and check the next node
 ```java
