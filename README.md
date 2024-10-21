@@ -3363,5 +3363,10 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3321 |  |  |  |  |
 | 3322 | Premier League Table Ranking III | Medium | 2024-10-19 | [Pandas](./records/Pandas/Question_3322.md): 68.42% |
 | 3323 | Minimize Connected Groups by Inserting Interval | Medium | 2024-10-20 | [Java](./records/Java/Question_3323.md): 100.00% |
+| 3324 |  |  |  |  |
+| 3325 |  |  |  |  |
+| 3326 |  |  |  |  |
+| 3327 |  |  |  |  |
+| 3328 | Find Cities in Each State II | Medium | 2024-10-21 | [Pandas](./records/Pandas/Question_3328.md): 100.00% |
 
 <br>
