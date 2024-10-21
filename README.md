@@ -169,7 +169,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 127 |  |  |  |  |
 | 128 | Longest Consecutive Sequence | Medium | 2024-04-19 | [Java](./records/Java/Question_128.md): 50.16% |
 | 129 | Sum Root to Leaf Numbers | Medium | 2024-04-11 | [Java](./records/Java/Question_129.md): 100.00% |
-| 130 |  |  |  |  |
+| 130 | Surrounded Regions | Medium | 2024-10-21 | [Java](./records/Java/Question_130.md): 99.67% |
 | 131 |  |  |  |  |
 | 132 |  |  |  |  |
 | 133 |  |  |  |  |
