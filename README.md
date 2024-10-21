@@ -200,7 +200,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 158 |  |  |  |  |
 | 159 |  |  |  |  |
 | 160 | Intersection of Two Linked Lists | Easy | 2024-03-28 | [Java](./records/Java/Question_160.md): 99.96% |
-| 161 |  |  |  |  |
+| 161 | One Edit Distance | Medium | 2024-10-21 | [Java](./records/Java/Question_161.md): 100.00% |
 | 162 |  |  |  |  |
 | 163 | Missing Ranges | Easy | 2024-04-22 | [Java](./records/Java/Question_163.md): 100.00% |
 | 164 | Maximum Gap | Medium | 2024-04-14 | [Java](./records/Java/Question_164.md): 42.51% |
