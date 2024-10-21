@@ -72,7 +72,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 30 |  |  |  |  |
 | 31 |  |  |  |  |
 | 32 |  |  |  |  |
-| 33 |  |  |  |  |
+| 33 | Search in Rotated Sorted Array | Medium | 2024-10-21 | [Java](./records/Java/Question_33.md): 100.00% |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | 2024-03-30 | [Java](./records/Java/Question_34.md): 100.00% |
 | 35 | Search Insert Position | Easy | 2024-03-24 | [Java](./records/Java/Question_35.md): 100.00% |
 | 36 | Valid Sudoku | Medium | 2024-03-30 | [Java](./records/Java/Question_36.md): 100.00% |
