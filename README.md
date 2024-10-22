@@ -228,7 +228,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 186 | Reverse Words in a String II | Medium | 2024-10-22 | [Java](./records/Java/Question_186.md): 99.84% |
 | 187 |  |  |  |  |
 | 188 |  |  |  |  |
-| 189 |  |  |  |  |
+| 189 | Rotate Array | Medium | 2024-10-22 | [Java](./records/Java/Question_189.md): 49.93% |
 | 190 | Reverse Bits | Easy | 2024-04-05 | [Java](./records/Java/Question_190.md): 100.00% |
 | 191 | Number of 1 Bits | Easy | 2024-04-01 | [Java](./records/Java/Question_191.md): 100.00% |
 | 192 |  |  |  |  |
