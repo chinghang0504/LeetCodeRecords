@@ -218,7 +218,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 176 | Second Highest Salary | Medium | 2024-03-31 | [Pandas](./records/Pandas/Question_176.md): 56.89% |
 | 177 | Nth Highest Salary | Medium | 2024-03-31 | [Pandas](./records/Pandas/Question_177.md): 63.49% |
 | 178 | Rank Scores | Medium | 2024-03-31 | [Pandas](./records/Pandas/Question_178.md): 88.62% |
-| 179 |  |  |  |  |
+| 179 | Largest Number | Medium | 2024-10-22 | [Java](./records/Java/Question_179.md): 97.06% |
 | 180 | Consecutive Numbers | Medium | 2024-03-31 | [Pandas](./records/Pandas/Question_180.md): 77.83% |
 | 181 | Employees Earning More Than Their Managers | Easy | 2024-03-31 | [Pandas](./records/Pandas/Question_181.md): 79.62% |
 | 182 | Duplicate Emails | Easy | 2024-04-01 | [Pandas](./records/Pandas/Question_182.md): 29.16% |
