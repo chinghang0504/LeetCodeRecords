@@ -225,7 +225,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 183 | Customers Who Never Order | Easy | 2024-04-01 | [Pandas](./records/Pandas/Question_183.md): 38.04% |
 | 184 | Department Highest Salary | Medium | 2024-04-01 | [Pandas](./records/Pandas/Question_184.md): 34.35% |
 | 185 | Department Top Three Salaries | Hard | 2024-04-16 | [Pandas](./records/Pandas/Question_185.md): 5.10% |
-| 186 |  |  |  |  |
+| 186 | Reverse Words in a String II | Medium | 2024-10-22 | [Java](./records/Java/Question_186.md): 99.84% |
 | 187 |  |  |  |  |
 | 188 |  |  |  |  |
 | 189 |  |  |  |  |
