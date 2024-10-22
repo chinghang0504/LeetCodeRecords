@@ -204,7 +204,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 162 |  |  |  |  |
 | 163 | Missing Ranges | Easy | 2024-04-22 | [Java](./records/Java/Question_163.md): 100.00% |
 | 164 | Maximum Gap | Medium | 2024-04-14 | [Java](./records/Java/Question_164.md): 42.51% |
-| 165 |  |  |  |  |
+| 165 | Compare Version Numbers | Medium | 2024-10-22 | [Java](./records/Java/Question_165.md): 75.27% |
 | 166 |  |  |  |  |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | 2024-10-11 | [Java](./records/Java/Question_167.md): 20.73% |
 | 168 | Excel Sheet Column Title | Easy | 2024-04-18 | [Java](./records/Java/Question_168.md): 100.00% |
