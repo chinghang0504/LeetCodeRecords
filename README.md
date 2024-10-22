@@ -194,7 +194,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 152 |  |  |  |  |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | 2024-10-21 | [Java](./records/Java/Question_153.md): 100.00% |
 | 154 |  |  |  |  |
-| 155 |  |  |  |  |
+| 155 | Min Stack | Medium | 2024-10-21 | [Java](./records/Java/Question_155.md): 96.96% |
 | 156 |  |  |  |  |
 | 157 | Read N Characters Given Read4 | Easy | 2024-04-22 | [Java](./records/Java/Question_157.md): 100.00% |
 | 158 |  |  |  |  |
