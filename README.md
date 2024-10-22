@@ -55,7 +55,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 13 | Roman to Integer | Easy | 2024-03-23 | [Java](./records/Java/Question_13.md): 100.00% |
 | 14 | Longest Common Prefix | Easy | 2024-03-23 | [Java](./records/Java/Question_14.md): 100.00% |
 | 15 | 3Sum | Medium | 2024-03-26 | [Java](./records/Java/Question_15.md): 28.09% |
-| 16 |  |  |  |  |
+| 16 | 3Sum Closest | Medium | 2024-10-22 | [Java](./records/Java/Question_16.md): 11.29% |
 | 17 | Letter Combinations of a Phone Number | Medium | 2024-03-26 | [Java](./records/Java/Question_17.md): 46.06% |
 | 18 |  |  |  |  |
 | 19 | Remove Nth Node From End of List | Medium | 2024-03-26 | [Java](./records/Java/Question_19.md): 100.00% |
