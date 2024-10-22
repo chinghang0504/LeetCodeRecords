@@ -192,7 +192,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 150 |  |  |  |  |
 | 151 | Reverse Words in a String | Medium | 2024-10-21 | [Java](./records/Java/Question_151.md): 93.22% |
 | 152 |  |  |  |  |
-| 153 |  |  |  |  |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | 2024-10-21 | [Java](./records/Java/Question_153.md): 100.00% |
 | 154 |  |  |  |  |
 | 155 |  |  |  |  |
 | 156 |  |  |  |  |
