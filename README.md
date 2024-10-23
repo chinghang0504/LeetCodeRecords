@@ -262,7 +262,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 220 |  |  |  |  |
 | 221 |  |  |  |  |
 | 222 | Count Complete Tree Nodes | Easy | 2024-04-03 | [Java](./records/Java/Question_222.md): 100.00% |
-| 223 |  |  |  |  |
+| 223 | Rectangle Area | Medium | 2024-10-22 | [Java](./records/Java/Question_223.md): 100.00% |
 | 224 |  |  |  |  |
 | 225 | Implement Stack using Queues | Easy | 2024-04-03 | [Java](./records/Java/Question_225.md): 100.00% |
 | 226 | Invert Binary Tree | Easy | 2024-04-03 | [Java](./records/Java/Question_226.md): 100.00% |
