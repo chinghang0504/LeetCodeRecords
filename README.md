@@ -198,7 +198,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 156 |  |  |  |  |
 | 157 | Read N Characters Given Read4 | Easy | 2024-04-22 | [Java](./records/Java/Question_157.md): 100.00% |
 | 158 |  |  |  |  |
-| 159 |  |  |  |  |
+| 159 | Longest Substring with At Most Two Distinct Characters | Medium | 2024-10-22 | [Java](./records/Java/Question_159.md): 57.33% |
 | 160 | Intersection of Two Linked Lists | Easy | 2024-03-28 | [Java](./records/Java/Question_160.md): 99.96% |
 | 161 | One Edit Distance | Medium | 2024-10-21 | [Java](./records/Java/Question_161.md): 100.00% |
 | 162 |  |  |  |  |
