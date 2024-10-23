@@ -266,7 +266,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 224 |  |  |  |  |
 | 225 | Implement Stack using Queues | Easy | 2024-04-03 | [Java](./records/Java/Question_225.md): 100.00% |
 | 226 | Invert Binary Tree | Easy | 2024-04-03 | [Java](./records/Java/Question_226.md): 100.00% |
-| 227 |  |  |  |  |
+| 227 | Basic Calculator II | Medium | 2024-10-23 | [Java](./records/Java/Question_227.md): 90.33% |
 | 228 | Summary Ranges | Easy | 2024-04-03 | [Java](./records/Java/Question_228.md): 87.69% |
 | 229 | Majority Element II | Medium | 2024-04-03 | [Java](./records/Java/Question_229.md): 47.96% |
 | 230 | Kth Smallest Element in a BST | Medium | 2024-04-19 | [Java](./records/Java/Question_230.md): 100.00% |
