@@ -68,7 +68,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 26 | Remove Duplicates from Sorted Array | Easy | 2024-03-23 | [Java](./records/Java/Question_26.md): 74.62% |
 | 27 | Remove Element | Easy | 2024-03-24 | [Java](./records/Java/Question_27.md): 100.00% |
 | 28 | Find the Index of the First Occurrence in a String | Easy | 2024-03-24 | [Java](./records/Java/Question_28.md): 100.00% |
-| 29 |  |  |  |  |
+| 29 | Divide Two Integers | Medium | 2024-10-24 | [Java](./records/Java/Question_29.md): 7.05% |
 | 30 |  |  |  |  |
 | 31 |  |  |  |  |
 | 32 |  |  |  |  |
