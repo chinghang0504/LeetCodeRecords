@@ -289,7 +289,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 247 |  |  |  |  |
 | 248 |  |  |  |  |
 | 249 | Group Shifted Strings | Medium | 2024-10-08 | [Java](./records/Java/Question_249.md): 82.34% |
-| 250 |  |  |  |  |
+| 250 | Count Univalue Subtrees | Medium | 2024-10-23 | [Java](./records/Java/Question_250.md): 100.00% |
 | 251 | Flatten 2D Vector | Medium | 2024-05-10 | [Java](./records/Java/Question_251.md): 54.52% |
 | 252 | Meeting Rooms | Easy | 2024-04-23 | [Java](./records/Java/Question_252.md): 81.16% |
 | 253 |  |  |  |  |
