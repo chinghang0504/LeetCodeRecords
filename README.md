@@ -110,7 +110,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 68 |  |  |  |  |
 | 69 | Sqrt(x) | Easy | 2024-03-24 | [Java](./records/Java/Question_69.md): 85.74% |
 | 70 | Climbing Stairs | Easy | 2024-03-24 | [Java](./records/Java/Question_70.md): 100.00% |
-| 71 |  |  |  |  |
+| 71 | Simplify Path | Medium | 2024-10-25 | [Java](./records/Java/Question_71.md): 98.39% |
 | 72 |  |  |  |  |
 | 73 | Set Matrix Zeroes | Medium | 2024-04-09 | [Java](./records/Java/Question_73.md): 100.00% |
 | 74 | Search a 2D Matrix | Medium | 2024-03-29 | [Java](./records/Java/Question_74.md): 100.00% |
