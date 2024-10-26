@@ -3368,5 +3368,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3326 |  |  |  |  |
 | 3327 |  |  |  |  |
 | 3328 | Find Cities in Each State II | Medium | 2024-10-21 | [Pandas](./records/Pandas/Question_3328.md): 100.00% |
+| 3329 |  |  |  |  |
+| 3330 | Find the Original Typed String I | Easy | 2024-10-26 | [Java](./records/Java/Question_3330.md): 100.00% |
 
 <br>
