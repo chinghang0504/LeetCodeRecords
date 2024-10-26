@@ -250,7 +250,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 208 | Implement Trie (Prefix Tree) | Medium | 2024-04-15 | [Java](./records/Java/Question_208.md): 98.71% |
 | 209 | Minimum Size Subarray Sum | Medium | 2024-10-22 | [Java](./records/Java/Question_209.md): 99.57% |
 | 210 |  |  |  |  |
-| 211 |  |  |  |  |
+| 211 | Design Add and Search Words Data Structure | Medium | 2024-10-26 | [Java](./records/Java/Question_211.md): 99.11% |
 | 212 |  |  |  |  |
 | 213 |  |  |  |  |
 | 214 |  |  |  |  |
