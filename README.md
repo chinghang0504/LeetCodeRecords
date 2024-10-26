@@ -327,7 +327,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 285 |  |  |  |  |
 | 286 |  |  |  |  |
 | 287 | Find the Duplicate Number | Medium | 2024-04-03 | [Java](./records/Java/Question_287.md): 100.00% |
-| 288 |  |  |  |  |
+| 288 | Unique Word Abbreviation | Medium | 2024-10-26 | [Java](./records/Java/Question_288.md): 87.50% |
 | 289 | Game of Life | Medium | 2024-10-03 | [Java](./records/Java/Question_289.md): 100.00% |
 | 290 | Word Pattern | Easy | 2024-04-05 | [Java](./records/Java/Question_290.md): 100.00% |
 | 291 |  |  |  |  |
