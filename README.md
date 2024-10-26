@@ -132,7 +132,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 90 |  |  |  |  |
 | 91 |  |  |  |  |
 | 92 | Reverse Linked List II | Medium | 2024-04-14 | [Java](./records/Java/Question_92.md): 100.00% |
-| 93 |  |  |  |  |
+| 93 | Restore IP Addresses | Medium | 2024-10-25 | [Java](./records/Java/Question_93.md): 50.17% |
 | 94 | Binary Tree Inorder Traversal | Easy | 2024-03-25 | [Java](./records/Java/Question_94.md): 100.00% |
 | 95 |  |  |  |  |
 | 96 |  |  |  |  |
