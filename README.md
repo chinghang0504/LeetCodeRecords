@@ -247,7 +247,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 205 | Isomorphic Strings | Easy | 2024-04-05 | [Java](./records/Java/Question_205.md): 98.67% |
 | 206 | Reverse Linked List | Easy | 2024-04-03 | [Java](./records/Java/Question_206.md): 100.00% |
 | 207 |  |  |  |  |
-| 208 | Implement Trie (Prefix Tree) | Medium | 2024-04-15 | [Java](./records/Java/Question_208.md): 5.02% |
+| 208 | Implement Trie (Prefix Tree) | Medium | 2024-04-15 | [Java](./records/Java/Question_208.md): 98.71% |
 | 209 | Minimum Size Subarray Sum | Medium | 2024-10-22 | [Java](./records/Java/Question_209.md): 99.57% |
 | 210 |  |  |  |  |
 | 211 |  |  |  |  |
