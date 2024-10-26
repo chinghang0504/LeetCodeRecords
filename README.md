@@ -237,7 +237,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 195 |  |  |  |  |
 | 196 | Delete Duplicate Emails | Easy | 2024-04-02 | [Pandas](./records/Pandas/Question_196.md): 82.43% |
 | 197 | Rising Temperature | Easy | 2024-04-02 | [Pandas](./records/Pandas/Question_197.md): 24.45% |
-| 198 |  |  |  |  |
+| 198 | House Robber | Medium | 2024-10-26 | [Java](./records/Java/Question_198.md): 100.00% |
 | 199 | Binary Tree Right Side View | Medium | 2024-04-10 | [Java](./records/Java/Question_199.md): 68.51% |
 | 200 | Number of Islands | Medium | 2024-04-19 | [Java](./records/Java/Question_200.md): 15.07% |
 | 201 | Bitwise AND of Numbers Range | Medium | 2024-04-15 | [Java](./records/Java/Question_201.md): 100.00% |
