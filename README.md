@@ -343,7 +343,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 301 |  |  |  |  |
 | 302 |  |  |  |  |
 | 303 | Range Sum Query - Immutable | Easy | 2024-04-05 | [Java](./records/Java/Question_303.md): 100.00% |
-| 304 |  |  |  |  |
+| 304 | Range Sum Query 2D - Immutable | Medium | 2024-10-27 | [Java](./records/Java/Question_304.md): 25.00% |
 | 305 |  |  |  |  |
 | 306 |  |  |  |  |
 | 307 |  |  |  |  |
