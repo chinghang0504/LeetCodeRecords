@@ -338,7 +338,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 296 |  |  |  |  |
 | 297 |  |  |  |  |
 | 298 | Binary Tree Longest Consecutive Sequence | Medium | 2024-10-26 | [Java](./records/Java/Question_298.md): 100.00% |
-| 299 |  |  |  |  |
+| 299 | Bulls and Cows | Medium | 2024-10-27 | [Java](./records/Java/Question_299.md): 100.00% |
 | 300 |  |  |  |  |
 | 301 |  |  |  |  |
 | 302 |  |  |  |  |
