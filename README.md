@@ -337,7 +337,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 295 |  |  |  |  |
 | 296 |  |  |  |  |
 | 297 |  |  |  |  |
-| 298 |  |  |  |  |
+| 298 | Binary Tree Longest Consecutive Sequence | Medium | 2024-10-26 | [Java](./records/Java/Question_298.md): 100.00% |
 | 299 |  |  |  |  |
 | 300 |  |  |  |  |
 | 301 |  |  |  |  |
