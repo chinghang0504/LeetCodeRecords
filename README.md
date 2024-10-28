@@ -462,7 +462,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 420 |  |  |  |  |
 | 421 |  |  |  |  |
 | 422 | Valid Word Square | Easy | 2024-04-24 | [Java](./records/Java/Question_422.md): 100.00% |
-| 423 |  |  |  |  |
+| 423 | Reconstruct Original Digits from English | Medium | 2024-10-28 | [Java](./records/Java/Question_423.md): 100.00% |
 | 424 |  |  |  |  |
 | 425 |  |  |  |  |
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 2024-05-08 | [Java](./records/Java/Question_426.md): 100.00% |
