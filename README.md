@@ -357,7 +357,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 315 |  |  |  |  |
 | 316 |  |  |  |  |
 | 317 |  |  |  |  |
-| 318 |  |  |  |  |
+| 318 | Maximum Product of Word Lengths | Medium | 2024-10-27 | [Java](./records/Java/Question_318.md): 31.08% |
 | 319 | Bulb Switcher | Medium | 2024-04-20 | [Java](./records/Java/Question_319.md): 100.00% |
 | 320 |  |  |  |  |
 | 321 |  |  |  |  |
