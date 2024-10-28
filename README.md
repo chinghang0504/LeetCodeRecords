@@ -395,7 +395,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 353 | Design Snake Game | Medium | 2024-05-10 | [Java](./records/Java/Question_353.md): 48.79% |
 | 354 |  |  |  |  |
 | 355 | Design Twitter | Medium | 2024-05-08 | [Java](./records/Java/Question_355.md): 89.74% |
-| 356 |  |  |  |  |
+| 356 | Line Reflection | Medium | 2024-10-28 | [Java](./records/Java/Question_356.md): 91.67% |
 | 357 | Count Numbers with Unique Digits | Medium | 2024-04-16 | [Java](./records/Java/Question_357.md): 100.00% |
 | 358 |  |  |  |  |
 | 359 | Logger Rate Limiter | Easy | 2024-04-23 | [Java](./records/Java/Question_359.md): 99.52% |
