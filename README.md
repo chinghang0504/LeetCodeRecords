@@ -423,7 +423,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 381 |  |  |  |  |
 | 382 | Linked List Random Node | Medium | 2024-04-15 | [Java](./records/Java/Question_382.md): 92.43% |
 | 383 | Ransom Note | Easy | 2024-04-05 | [Java](./records/Java/Question_383.md): 99.17% |
-| 384 |  |  |  |  |
+| 384 | Shuffle an Array | Medium | 2024-10-28 | [Java](./records/Java/Question_384.md): 90.08% |
 | 385 |  |  |  |  |
 | 386 | Lexicographical Numbers | Medium | 2024-10-02 | [Java](./records/Java/Question_386.md): 99.99% |
 | 387 | First Unique Character in a String | Easy | 2024-04-05 | [Java](./records/Java/Question_387.md): 95.41% |
