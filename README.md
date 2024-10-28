@@ -419,7 +419,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 377 |  |  |  |  |
 | 378 |  |  |  |  |
 | 379 | Design Phone Directory | Medium | 2024-05-09 | [Java](./records/Java/Question_379.md): 54.59% |
-| 380 |  |  |  |  |
+| 380 | Insert Delete GetRandom O(1) | Medium | 2024-10-27 | [Java](./records/Java/Question_380.md): 11.23% |
 | 381 |  |  |  |  |
 | 382 | Linked List Random Node | Medium | 2024-04-15 | [Java](./records/Java/Question_382.md): 92.43% |
 | 383 | Ransom Note | Easy | 2024-04-05 | [Java](./records/Java/Question_383.md): 99.17% |
