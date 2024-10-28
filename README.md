@@ -410,7 +410,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 368 |  |  |  |  |
 | 369 | Plus One Linked List | Medium | 2024-05-08 | [Java](./records/Java/Question_369.md): 100.00% |
 | 370 | Range Addition | Medium | 2024-05-12 | [Java](./records/Java/Question_370.md): 6.22% |
-| 371 |  |  |  |  |
+| 371 | Sum of Two Integers | Medium | 2024-10-28 | [Java](./records/Java/Question_371.md): 100.00% |
 | 372 |  |  |  |  |
 | 373 |  |  |  |  |
 | 374 | Guess Number Higher or Lower | Easy | 2024-04-05 | [Java](./records/Java/Question_374.md): 100.00% |
