@@ -482,7 +482,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 440 |  |  |  |  |
 | 441 | Arranging Coins | Easy | 2024-04-07 | [Java](./records/Java/Question_441.md): 51.41% |
 | 442 | Find All Duplicates in an Array | Medium | 2024-04-22 | [Java](./records/Java/Question_442.md): 12.91% |
-| 443 |  |  |  |  |
+| 443 | String Compression | Medium | 2024-10-28 | [Java](./records/Java/Question_443.md): 35.16% |
 | 444 |  |  |  |  |
 | 445 | Add Two Numbers II | Medium | 2024-04-15 | [Java](./records/Java/Question_445.md): 56.55% |
 | 446 |  |  |  |  |
