@@ -517,7 +517,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 475 |  |  |  |  |
 | 476 | Number Complement | Easy | 2024-04-08 | [Java](./records/Java/Question_476.md): 100.00% |
 | 477 |  |  |  |  |
-| 478 |  |  |  |  |
+| 478 | Generate Random Point in a Circle | Medium | 2024-10-28 | [Java](./records/Java/Question_478.md): 100.00% |
 | 479 |  |  |  |  |
 | 480 |  |  |  |  |
 | 481 |  |  |  |  |
