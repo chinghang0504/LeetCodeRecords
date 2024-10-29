@@ -563,7 +563,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 521 | Longest Uncommon Subsequence I | Easy | 2024-08-10 | [Java](./records/Java/Question_521.md): 100.00% |
 | 522 |  |  |  |  |
 | 523 |  |  |  |  |
-| 524 |  |  |  |  |
+| 524 | Longest Word in Dictionary through Deleting | Medium | 2024-10-29 | [Java](./records/Java/Question_524.md): 94.38% |
 | 525 |  |  |  |  |
 | 526 |  |  |  |  |
 | 527 |  |  |  |  |
