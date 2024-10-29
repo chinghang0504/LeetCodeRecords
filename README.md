@@ -558,7 +558,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 516 |  |  |  |  |
 | 517 |  |  |  |  |
 | 518 |  |  |  |  |
-| 519 |  |  |  |  |
+| 519 | Random Flip Matrix | Medium | 2024-10-29 | [Java](./records/Java/Question_519.md): 29.03% |
 | 520 | Detect Capital | Easy | 2024-04-25 | [Java](./records/Java/Question_520.md): 100.00% |
 | 521 | Longest Uncommon Subsequence I | Easy | 2024-08-10 | [Java](./records/Java/Question_521.md): 100.00% |
 | 522 |  |  |  |  |
