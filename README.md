@@ -576,7 +576,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 534 | Game Play Analysis III | Medium | 2024-05-18 | [Pandas](./records/Pandas/Question_534.md): 99.12% |
 | 535 | Encode and Decode TinyURL | Medium | 2024-09-20 | [Java](./records/Java/Question_535.md): 100.00% |
 | 536 |  |  |  |  |
-| 537 |  |  |  |  |
+| 537 | Complex Number Multiplication | Medium | 2024-10-29 | [Java](./records/Java/Question_537.md): 23.08% |
 | 538 | Convert BST to Greater Tree | Medium | 2024-10-04 | [Java](./records/Java/Question_538.md): 100.00% |
 | 539 | Minimum Time Difference | Medium | 2024-10-12 | [Java](./records/Java/Question_539.md): 44.52% |
 | 540 | Single Element in a Sorted Array | Medium | 2024-10-18 | [Java](./records/Java/Question_540.md): 28.15% |
