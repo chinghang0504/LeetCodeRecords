@@ -661,7 +661,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 619 | Biggest Single Number | Easy | 2024-04-29 | [Pandas](./records/Pandas/Question_619.md): 98.54% |
 | 620 | Not Boring Movies | Easy | 2024-04-29 | [Pandas](./records/Pandas/Question_620.md): 90.37% |
 | 621 |  |  |  |  |
-| 622 |  |  |  |  |
+| 622 | Design Circular Queue | Medium | 2024-10-30 | [Java](./records/Java/Question_622.md): 100.00% |
 | 623 | Add One Row to Tree | Medium | 2024-10-09 | [Java](./records/Java/Question_623.md): 100.00% |
 | 624 |  |  |  |  |
 | 625 |  |  |  |  |
