@@ -672,7 +672,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 630 |  |  |  |  |
 | 631 |  |  |  |  |
 | 632 |  |  |  |  |
-| 633 |  |  |  |  |
+| 633 | Sum of Square Numbers | Medium | 2024-10-30 | [Java](./records/Java/Question_633.md): 9.71% |
 | 634 |  |  |  |  |
 | 635 |  |  |  |  |
 | 636 |  |  |  |  |
