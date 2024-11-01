@@ -1843,7 +1843,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1801 |  |  |  |  |
 | 1802 |  |  |  |  |
 | 1803 |  |  |  |  |
-| 1804 |  |  |  |  |
+| 1804 | Implement Trie II (Prefix Tree) | Medium | 2024-10-31 | [Java](./records/Java/Question_1804.md): 100.00% |
 | 1805 | Number of Different Integers in a String | Easy | 2024-08-11 | [Java](./records/Java/Question_1805.md): 98.52% |
 | 1806 | Minimum Number of Operations to Reinitialize a Permutation | Medium | 2024-10-01 | [Java](./records/Java/Question_1806.md): 59.52% |
 | 1807 | Evaluate the Bracket Pairs of a String | Medium | 2024-10-07 | [Java](./records/Java/Question_1807.md): 91.04% |
