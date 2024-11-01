@@ -746,7 +746,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 704 | Binary Search | Easy | 2024-04-30 | [Java](./records/Java/Question_704.md): 100.00% |
 | 705 | Design HashSet | Easy | 2024-07-17 | [Java](./records/Java/Question_705.md): 17.31% |
 | 706 | Design HashMap | Easy | 2024-07-17 | [Java](./records/Java/Question_706.md): 69.03% |
-| 707 |  |  |  |  |
+| 707 | Design Linked List | Medium | 2024-11-01 | [Java](./records/Java/Question_707.md): 85.92% |
 | 708 |  |  |  |  |
 | 709 | To Lower Case | Easy | 2024-04-30 | [Java](./records/Java/Question_709.md): 100.00% |
 | 710 |  |  |  |  |
