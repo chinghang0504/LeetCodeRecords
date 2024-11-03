@@ -833,7 +833,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 791 |  |  |  |  |
 | 792 |  |  |  |  |
 | 793 |  |  |  |  |
-| 794 |  |  |  |  |
+| 794 | Valid Tic-Tac-Toe State | Medium | 2024-11-02 | [Java](./records/Java/Question_794.md): 100.00% |
 | 795 |  |  |  |  |
 | 796 | Rotate String | Easy | 2024-07-21 | [Java](./records/Java/Question_796.md): 100.00% |
 | 797 |  |  |  |  |
