@@ -2491,7 +2491,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2449 |  |  |  |  |
 | 2450 |  |  |  |  |
 | 2451 | Odd String Difference | Easy | 2024-07-21 | [Java](./records/Java/Question_2451.md): 85.25% |
-| 2452 |  |  |  |  |
+| 2452 | Words Within Two Edits of Dictionary | Medium | 2024-11-03 | [Java](./records/Java/Question_2452.md): 93.02% |
 | 2453 |  |  |  |  |
 | 2454 |  |  |  |  |
 | 2455 | Average Value of Even Numbers That Are Divisible by Three | Easy | 2024-06-20 | [Java](./records/Java/Question_2455.md): 100.00% |
