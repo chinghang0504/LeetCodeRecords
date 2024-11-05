@@ -976,7 +976,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 934 |  |  |  |  |
 | 935 |  |  |  |  |
 | 936 |  |  |  |  |
-| 937 |  |  |  |  |
+| 937 | Reorder Data in Log Files | Medium | 2024-11-04 | [Java](./records/Java/Question_937.md): 100.00% |
 | 938 | Range Sum of BST | Easy | 2024-05-07 | [Java](./records/Java/Question_938.md): 100.00% |
 | 939 |  |  |  |  |
 | 940 |  |  |  |  |
