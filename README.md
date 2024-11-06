@@ -1306,7 +1306,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1264 | Page Recommendations | Medium | 2024-08-22 | [Pandas](./records/Pandas/Question_1264.md): 100.00% |
 | 1265 | Print Immutable Linked List in Reverse | Medium | 2024-06-12 | [Java](./records/Java/Question_1265.md): 100.00% |
 | 1266 | Minimum Time Visiting All Points | Easy | 2024-06-30 | [Java](./records/Java/Question_1266.md): 91.68% |
-| 1267 |  |  |  |  |
+| 1267 | Count Servers that Communicate | Medium | 2024-11-05 | [Java](./records/Java/Question_1267.md): 100.00% |
 | 1268 | Search Suggestions System | Medium | 2024-10-14 | [Java](./records/Java/Question_1268.md): 59.02% |
 | 1269 |  |  |  |  |
 | 1270 | All People Report to the Given Manager | Medium | 2024-05-29 | [Pandas](./records/Pandas/Question_1270.md): 90.32% |
