@@ -1391,7 +1391,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1349 |  |  |  |  |
 | 1350 | Students With Invalid Departments | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1350.md): 99.22% |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | 2024-07-02 | [Java](./records/Java/Question_1351.md): 54.65% |
-| 1352 |  |  |  |  |
+| 1352 | Product of the Last K Numbers | Medium | 2024-11-06 | [Java](./records/Java/Question_1352.md): 100.00% |
 | 1353 |  |  |  |  |
 | 1354 |  |  |  |  |
 | 1355 | Activity Participants | Medium | 2024-05-31 | [Pandas](./records/Pandas/Question_1355.md): 97.44% |
