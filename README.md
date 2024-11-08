@@ -1058,7 +1058,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1016 |  |  |  |  |
 | 1017 |  |  |  |  |
 | 1018 | Binary Prefix Divisible By 5 | Easy | 2024-08-01 | [Java](./records/Java/Question_1018.md): 99.65% |
-| 1019 |  |  |  |  |
+| 1019 | Next Greater Node In Linked List | Medium | 2024-11-07 | [Java](./records/Java/Question_1019.md): 86.49% |
 | 1020 | Number of Enclaves | Medium | 2024-10-03 | [Java](./records/Java/Question_1020.md): 98.06% |
 | 1021 | Remove Outermost Parentheses | Easy | 2024-05-15 | [Java](./records/Java/Question_1021.md): 99.52% |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | 2024-05-11 | [Java](./records/Java/Question_1022.md): 100.00% |
