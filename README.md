@@ -1406,7 +1406,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1364 | Number of Trusted Contacts of a Customer | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1364.md): 100.00% |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | 2024-06-26 | [Java](./records/Java/Question_1365.md): 85.12% |
 | 1366 |  |  |  |  |
-| 1367 |  |  |  |  |
+| 1367 | Linked List in Binary Tree | Medium | 2024-11-09 | [Java](./records/Java/Question_1367.md): 99.50% |
 | 1368 |  |  |  |  |
 | 1369 | Get the Second Most Recent Activity | Hard | 2024-09-03 | [Pandas](./records/Pandas/Question_1369.md): 94.12% |
 | 1370 | Increasing Decreasing String | Easy | 2024-07-04 | [Java](./records/Java/Question_1370.md): 99.85% |
