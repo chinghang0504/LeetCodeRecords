@@ -3380,5 +3380,10 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3338 | Second Highest Salary II | Medium | 2024-10-29 | [Pandas](./records/Pandas/Question_3338.md): 100.00% |
 | 3339 |  |  |  |  |
 | 3340 | Check Balanced String | Easy | 2024-11-03 | [Java](./records/Java/Question_3340.md): 100.00% |
+| 3341 |  |  |  |  |
+| 3342 |  |  |  |  |
+| 3343 |  |  |  |  |
+| 3344 |  |  |  |  |
+| 3345 | Smallest Divisible Digit Product I | Easy | 2024-11-09 | [Java](./records/Java/Question_3345.md): 100.00% |
 
 <br>
