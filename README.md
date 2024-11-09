@@ -1429,7 +1429,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1387 | Sort Integers by The Power Value | Medium | 2024-09-21 | [Java](./records/Java/Question_1387.md): 39.83% |
 | 1388 |  |  |  |  |
 | 1389 | Create Target Array in the Given Order | Easy | 2024-05-27 | [Java](./records/Java/Question_1389.md): 100.00% |
-| 1390 |  |  |  |  |
+| 1390 | Four Divisors | Medium | 2024-11-09 | [Java](./records/Java/Question_1390.md): 41.78% |
 | 1391 |  |  |  |  |
 | 1392 |  |  |  |  |
 | 1393 | Capital Gain/Loss | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1393.md): 100.00% |
