@@ -1401,7 +1401,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1359 |  |  |  |  |
 | 1360 | Number of Days Between Two Dates | Easy | 2024-08-08 | [Java](./records/Java/Question_1360.md): 94.93% |
 | 1361 |  |  |  |  |
-| 1362 |  |  |  |  |
+| 1362 | Closest Divisors | Medium | 2024-11-08 | [Java](./records/Java/Question_1362.md): 76.67% |
 | 1363 |  |  |  |  |
 | 1364 | Number of Trusted Contacts of a Customer | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1364.md): 100.00% |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | 2024-06-26 | [Java](./records/Java/Question_1365.md): 85.12% |
