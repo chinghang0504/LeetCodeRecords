@@ -1472,7 +1472,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Medium | 2024-11-11 | [Java](./records/Java/Question_1430.md): 100.00% |
 | 1431 | Kids With the Greatest Number of Candies | Easy | 2024-06-25 | [Java](./records/Java/Question_1431.md): 100.00% |
 | 1432 |  |  |  |  |
-| 1433 |  |  |  |  |
+| 1433 | Check If a String Can Break Another String | Medium | 2024-11-11 | [Java](./records/Java/Question_1433.md): 83.33% |
 | 1434 |  |  |  |  |
 | 1435 | Create a Session Bar Chart | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1435.md): 92.59% |
 | 1436 | Destination City | Easy | 2024-05-29 | [Java](./records/Java/Question_1436.md): 99.81% |
