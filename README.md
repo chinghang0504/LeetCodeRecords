@@ -1469,7 +1469,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1427 | Perform String Shifts | Easy | 2024-05-27 | [Java](./records/Java/Question_1427.md): 100.00% |
 | 1428 |  |  |  |  |
 | 1429 | First Unique Number | Medium | 2024-11-10 | [Java](./records/Java/Question_1429.md): 71.37% |
-| 1430 |  |  |  |  |
+| 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Medium | 2024-11-11 | [Java](./records/Java/Question_1430.md): 100.00% |
 | 1431 | Kids With the Greatest Number of Candies | Easy | 2024-06-25 | [Java](./records/Java/Question_1431.md): 100.00% |
 | 1432 |  |  |  |  |
 | 1433 |  |  |  |  |
