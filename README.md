@@ -1500,7 +1500,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1458 |  |  |  |  |
 | 1459 | Rectangles Area | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_1459.md): 92.31% |
 | 1460 | Make Two Arrays Equal by Reversing Subarrays | Easy | 2024-07-08 | [Java](./records/Java/Question_1460.md): 85.33% |
-| 1461 |  |  |  |  |
+| 1461 | Check If a String Contains All Binary Codes of Size K | Medium | 2024-11-12 | [Java](./records/Java/Question_1461.md): 53.74% |
 | 1462 |  |  |  |  |
 | 1463 |  |  |  |  |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1464.md): 63.70% |
