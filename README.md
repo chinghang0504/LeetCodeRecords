@@ -1504,7 +1504,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1462 |  |  |  |  |
 | 1463 |  |  |  |  |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1464.md): 63.70% |
-| 1465 |  |  |  |  |
+| 1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Medium | 2024-11-12 | [Java](./records/Java/Question_1465.md): 96.77% |
 | 1466 |  |  |  |  |
 | 1467 |  |  |  |  |
 | 1468 | Calculate Salaries | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1468.md): 90.70% |
