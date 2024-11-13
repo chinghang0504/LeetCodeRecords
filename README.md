@@ -1463,7 +1463,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1421 | NPV Queries | Easy | 2024-05-27 | [Pandas](./records/Pandas/Question_1421.md): 98.36% |
 | 1422 | Maximum Score After Splitting a String | Easy | 2024-07-18 | [Java](./records/Java/Question_1422.md): 99.04% |
 | 1423 |  |  |  |  |
-| 1424 |  |  |  |  |
+| 1424 | Diagonal Traverse II | Medium | 2024-11-13 | [Java](./records/Java/Question_1424.md): 28.47% |
 | 1425 |  |  |  |  |
 | 1426 | Counting Elements | Easy | 2024-05-27 | [Java](./records/Java/Question_1426.md): 98.44% |
 | 1427 | Perform String Shifts | Easy | 2024-05-27 | [Java](./records/Java/Question_1427.md): 100.00% |
