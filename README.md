@@ -1552,7 +1552,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1510 |  |  |  |  |
 | 1511 | Customer Order Frequency | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1511.md): 100.00% |
 | 1512 | Number of Good Pairs | Easy | 2024-05-30 | [Java](./records/Java/Question_1512.md): 87.50% |
-| 1513 |  |  |  |  |
+| 1513 | Number of Substrings With Only 1s | Medium | 2024-11-14 | [Java](./records/Java/Question_1513.md): 99.39% |
 | 1514 |  |  |  |  |
 | 1515 |  |  |  |  |
 | 1516 |  |  |  |  |
