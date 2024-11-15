@@ -1584,7 +1584,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1542 |  |  |  |  |
 | 1543 | Fix Product Name Format | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1543.md): 98.11% |
 | 1544 | Make The String Great | Easy | 2024-07-29 | [Java](./records/Java/Question_1544.md): 57.93% |
-| 1545 |  |  |  |  |
+| 1545 | Find Kth Bit in Nth Binary String | Medium | 2024-11-15 | [Java](./records/Java/Question_1545.md): 5.03% |
 | 1546 |  |  |  |  |
 | 1547 |  |  |  |  |
 | 1548 |  |  |  |  |
