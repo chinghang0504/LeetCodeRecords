@@ -3389,5 +3389,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3347 |  |  |  |  |
 | 3348 |  |  |  |  |
 | 3349 | Adjacent Increasing Subarrays Detection I | Easy | 2024-11-10 | [Java](./records/Java/Question_3349.md): 100.00% |
+| 3350 |  |  |  |  |
+| 3351 |  |  |  |  |
+| 3352 |  |  |  |  |
+| 3353 | Minimum Total Operations | Easy | 2024-11-15 | [Java](./records/Java/Question_3353.md): 100.00% |
 
 <br>
