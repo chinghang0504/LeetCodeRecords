@@ -1657,7 +1657,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1615 |  |  |  |  |
 | 1616 |  |  |  |  |
 | 1617 |  |  |  |  |
-| 1618 |  |  |  |  |
+| 1618 | Maximum Font to Fit a Sentence in a Screen | Medium | 2024-11-16 | [Java](./records/Java/Question_1618.md): 80.00% |
 | 1619 | Mean of Array After Removing Some Elements | Easy | 2024-06-05 | [Java](./records/Java/Question_1619.md): 97.53% |
 | 1620 |  |  |  |  |
 | 1621 |  |  |  |  |
