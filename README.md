@@ -3394,5 +3394,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3352 |  |  |  |  |
 | 3353 | Minimum Total Operations | Easy | 2024-11-15 | [Java](./records/Java/Question_3353.md): 100.00% |
 | 3354 | Make Array Elements Equal to Zero | Easy | 2024-11-17 | [Java](./records/Java/Question_3354.md): 100.00% |
+| 3355 |  |  |  |  |
+| 3356 |  |  |  |  |
+| 3357 |  |  |  |  |
+| 3358 | Books with NULL Ratings | Easy | 2024-11-17 | [Pandas](./records/Pandas/Question_3358.md): -% |
 
 <br>
