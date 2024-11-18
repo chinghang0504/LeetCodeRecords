@@ -1745,7 +1745,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1703 |  |  |  |  |
 | 1704 | Determine if String Halves Are Alike | Easy | 2024-06-07 | [Java](./records/Java/Question_1704.md): 99.49% |
 | 1705 |  |  |  |  |
-| 1706 |  |  |  |  |
+| 1706 | Where Will the Ball Fall | Medium | 2024-11-17 | [Java](./records/Java/Question_1706.md): 100.00% |
 | 1707 |  |  |  |  |
 | 1708 | Largest Subarray Length K | Easy | 2024-07-17 | [Java](./records/Java/Question_1708.md): 15.79% |
 | 1709 | Biggest Window Between Visits | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_1709.md): 73.33% |
