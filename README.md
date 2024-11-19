@@ -2482,7 +2482,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2440 |  |  |  |  |
 | 2441 | Largest Positive Integer That Exists With Its Negative | Easy | 2024-06-13 | [Java](./records/Java/Question_2441.md): 17.71% |
 | 2442 | Count Number of Distinct Integers After Reverse Operations | Medium | 2024-09-15 | [Java](./records/Java/Question_2442.md): 76.45% |
-| 2443 |  |  |  |  |
+| 2443 | Sum of Number and Its Reverse | Medium | 2024-11-18 | [Java](./records/Java/Question_2443.md): 25.30% |
 | 2444 |  |  |  |  |
 | 2445 | Number of Nodes With Value One | Medium | 2024-10-03 | [Java](./records/Java/Question_2445.md): 44.74% |
 | 2446 | Determine if Two Events Have Conflict | Easy | 2024-08-04 | [Java](./records/Java/Question_2446.md): 100.00% |
