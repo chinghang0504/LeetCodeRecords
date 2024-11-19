@@ -9,7 +9,7 @@ def find_unrated_books(books: pd.DataFrame) -> pd.DataFrame:
     ans = ans.sort_values('book_id')
     return ans[['book_id', 'title', 'author', 'published_year']]
 ```
-- Runtime: 301 ms (Beats: -%)
-- Memory: 69.80 MB (Beats: -%)
+- Runtime: 301 ms (Beats: 100.00%)
+- Memory: 69.80 MB (Beats: 100.00%)
 
 <br>

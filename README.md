@@ -3397,6 +3397,6 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3355 |  |  |  |  |
 | 3356 |  |  |  |  |
 | 3357 |  |  |  |  |
-| 3358 | Books with NULL Ratings | Easy | 2024-11-17 | [Pandas](./records/Pandas/Question_3358.md): -% |
+| 3358 | Books with NULL Ratings | Easy | 2024-11-17 | [Pandas](./records/Pandas/Question_3358.md): 100.00% |
 
 <br>
