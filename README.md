@@ -2178,7 +2178,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2136 |  |  |  |  |
 | 2137 |  |  |  |  |
 | 2138 | Divide a String Into Groups of Size k | Easy | 2024-07-16 | [Java](./records/Java/Question_2138.md): 92.88% |
-| 2139 |  |  |  |  |
+| 2139 | Minimum Moves to Reach Target Score | Medium | 2024-11-19 | [Java](./records/Java/Question_2139.md): 100.00% |
 | 2140 |  |  |  |  |
 | 2141 |  |  |  |  |
 | 2142 | The Number of Passengers in Each Bus I | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_2142.md): 87.88% |
