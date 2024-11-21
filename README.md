@@ -2279,7 +2279,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2237 |  |  |  |  |
 | 2238 | Number of Times a Driver Was a Passenger | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_2238.md): 67.50% |
 | 2239 | Find Closest Number to Zero | Easy | 2024-07-30 | [Java](./records/Java/Question_2239.md): 90.24% |
-| 2240 |  |  |  |  |
+| 2240 | Number of Ways to Buy Pens and Pencils | Medium | 2024-11-20 | [Java](./records/Java/Question_2240.md): 91.89% |
 | 2241 | Design an ATM Machine | Medium | 2024-11-01 | [Java](./records/Java/Question_2241.md): 100.00% |
 | 2242 |  |  |  |  |
 | 2243 | Calculate Digit Sum of a String | Easy | 2024-08-03 | [Java](./records/Java/Question_2243.md): 91.75% |
