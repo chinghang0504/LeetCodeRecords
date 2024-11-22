@@ -2109,7 +2109,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2067 |  |  |  |  |
 | 2068 | Check Whether Two Strings are Almost Equivalent | Easy | 2024-06-17 | [Java](./records/Java/Question_2068.md): 63.91% |
 | 2069 |  |  |  |  |
-| 2070 |  |  |  |  |
+| 2070 | Most Beautiful Item for Each Query | Medium | 2024-11-21 | [Java](./records/Java/Question_2070.md): 98.63% |
 | 2071 |  |  |  |  |
 | 2072 | The Winner University | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2072.md): 100.00% |
 | 2073 | Time Needed to Buy Tickets | Easy | 2024-06-14 | [Java](./records/Java/Question_2073.md): 100.00% |
