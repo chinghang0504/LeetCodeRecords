@@ -2113,7 +2113,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2071 |  |  |  |  |
 | 2072 | The Winner University | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2072.md): 100.00% |
 | 2073 | Time Needed to Buy Tickets | Easy | 2024-06-14 | [Java](./records/Java/Question_2073.md): 100.00% |
-| 2074 |  |  |  |  |
+| 2074 | Reverse Nodes in Even Length Groups | Medium | 2024-11-21 | [Java](./records/Java/Question_2074.md): 26.67% |
 | 2075 |  |  |  |  |
 | 2076 |  |  |  |  |
 | 2077 |  |  |  |  |
