@@ -1709,7 +1709,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1667 | Fix Names in a Table | Easy | 2024-06-06 | [Pandas](./records/Pandas/Question_1667.md): 99.62% |
 | 1668 | Maximum Repeating Substring | Easy | 2024-08-08 | [Java](./records/Java/Question_1668.md): 57.52% |
 | 1669 | Merge In Between Linked Lists | Medium | 2024-09-20 | [Java](./records/Java/Question_1669.md): 100.00% |
-| 1670 |  |  |  |  |
+| 1670 | Design Front Middle Back Queue | Medium | 2024-11-22 | [Java](./records/Java/Question_1670.md): 34.35% |
 | 1671 |  |  |  |  |
 | 1672 | Richest Customer Wealth | Easy | 2024-06-10 | [Java](./records/Java/Question_1672.md): 100.00% |
 | 1673 |  |  |  |  |
