@@ -6,7 +6,7 @@ Welcome to LeetCode Records! This project is a personal log of my journey in sol
 
 ## Project Details
 - Project Start Date: March 22, 2024
-- Total Problems Solved (as of September 26, 2024): 1250
+- Total Problems Solved (as of November 23, 2024): 1500
 - Current Focus: Solving Medium-level problems
 - Languages Used: Java, Python, Pandas, JavaScript
 
