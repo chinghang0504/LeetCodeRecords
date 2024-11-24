@@ -2296,7 +2296,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2254 |  |  |  |  |
 | 2255 | Count Prefixes of a Given String | Easy | 2024-07-06 | [Java](./records/Java/Question_2255.md): 100.00% |
 | 2256 |  |  |  |  |
-| 2257 |  |  |  |  |
+| 2257 | Count Unguarded Cells in the Grid | Medium | 2024-11-24 | [Java](./records/Java/Question_2257.md): 99.89% |
 | 2258 |  |  |  |  |
 | 2259 | Remove Digit From Number to Maximize Result | Easy | 2024-08-07 | [Java](./records/Java/Question_2259.md): 100.00% |
 | 2260 |  |  |  |  |
