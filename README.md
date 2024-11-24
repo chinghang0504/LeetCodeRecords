@@ -3400,5 +3400,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3358 | Books with NULL Ratings | Easy | 2024-11-17 | [Pandas](./records/Pandas/Question_3358.md): 100.00% |
 | 3359 |  |  |  |  |
 | 3360 | Stone Removal Game | Easy | 2024-11-23 | [Java](./records/Java/Question_3360.md): 100.00% |
+| 3361 |  |  |  |  |
+| 3362 |  |  |  |  |
+| 3363 |  |  |  |  |
+| 3364 | Minimum Positive Sum Subarray | Easy | 2024-11-23 | [Java](./records/Java/Question_3364.md): 100.00% |
 
 <br>
