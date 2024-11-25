@@ -2388,7 +2388,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2346 | Compute the Rank as a Percentage | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2346.md): 25.00% |
 | 2347 | Best Poker Hand | Easy | 2024-07-20 | [Java](./records/Java/Question_2347.md): 100.00% |
 | 2348 | Number of Zero-Filled Subarrays | Medium | 2024-10-07 | [Java](./records/Java/Question_2348.md): 92.88% |
-| 2349 |  |  |  |  |
+| 2349 | Design a Number Container System | Medium | 2024-11-24 | [Java](./records/Java/Question_2349.md): 73.08% |
 | 2350 |  |  |  |  |
 | 2351 | First Letter to Appear Twice | Easy | 2024-07-01 | [Java](./records/Java/Question_2351.md): 100.00% |
 | 2352 | Equal Row and Column Pairs | Medium | 2024-09-21 | [Java](./records/Java/Question_2352.md): 63.44% |
