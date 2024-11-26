@@ -2392,7 +2392,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2350 |  |  |  |  |
 | 2351 | First Letter to Appear Twice | Easy | 2024-07-01 | [Java](./records/Java/Question_2351.md): 100.00% |
 | 2352 | Equal Row and Column Pairs | Medium | 2024-09-21 | [Java](./records/Java/Question_2352.md): 63.44% |
-| 2353 |  |  |  |  |
+| 2353 | Design a Food Rating System | Medium | 2024-11-25 | [Java](./records/Java/Question_2353.md): 76.47% |
 | 2354 |  |  |  |  |
 | 2355 |  |  |  |  |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2356.md): 99.94% |
