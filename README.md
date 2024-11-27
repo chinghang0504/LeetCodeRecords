@@ -2996,7 +2996,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2954 |  |  |  |  |
 | 2955 |  |  |  |  |
 | 2956 | Find Common Elements Between Two Arrays | Easy | 2024-06-29 | [Java](./records/Java/Question_2956.md): 66.24% |
-| 2957 |  |  |  |  |
+| 2957 | Remove Adjacent Almost-Equal Characters | Medium | 2024-11-26 | [Java](./records/Java/Question_2957.md): 100.00% |
 | 2958 |  |  |  |  |
 | 2959 |  |  |  |  |
 | 2960 | Count Tested Devices After Test Operations | Easy | 2024-06-30 | [Java](./records/Java/Question_2960.md): 100.00% |
