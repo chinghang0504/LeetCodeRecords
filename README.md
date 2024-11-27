@@ -2879,7 +2879,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2837 | Total Traveled Distance | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2837.md): 100.00% |
 | 2838 | Maximum Coins Heroes Can Collect | Medium | 2024-10-04 | [Java](./records/Java/Question_2838.md): 12.12% |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | 2024-08-01 | [Java](./records/Java/Question_2839.md): 96.52% |
-| 2840 |  |  |  |  |
+| 2840 | Check if Strings Can be Made Equal With Operations II | Medium | 2024-11-26 | [Java](./records/Java/Question_2840.md): 90.63% |
 | 2841 |  |  |  |  |
 | 2842 |  |  |  |  |
 | 2843 | Count Symmetric Integers | Easy | 2024-07-06 | [Java](./records/Java/Question_2843.md): 88.98% |
