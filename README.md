@@ -3078,7 +3078,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3036 |  |  |  |  |
 | 3037 |  |  |  |  |
 | 3038 | Maximum Number of Operations With the Same Score I | Easy | 2024-07-26 | [Java](./records/Java/Question_3038.md): 100.00% |
-| 3039 |  |  |  |  |
+| 3039 | Apply Operations to Make String Empty | Medium | 2024-11-26 | [Java](./records/Java/Question_3039.md): 97.44% |
 | 3040 |  |  |  |  |
 | 3041 |  |  |  |  |
 | 3042 | Count Prefix and Suffix Pairs I | Easy | 2024-07-17 | [Java](./records/Java/Question_3042.md): 99.50% |
