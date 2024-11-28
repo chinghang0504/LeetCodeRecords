@@ -3146,7 +3146,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3104 |  |  |  |  |
 | 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | 2024-07-21 | [Java](./records/Java/Question_3105.md): 89.21% |
 | 3106 | Lexicographically Smallest String After Operations With Constraint | Medium | 2024-10-10 | [Java](./records/Java/Question_3106.md): 100.00% |
-| 3107 |  |  |  |  |
+| 3107 | Minimum Operations to Make Median of Array Equal to K | Medium | 2024-11-27 | [Java](./records/Java/Question_3107.md): 80.00% |
 | 3108 |  |  |  |  |
 | 3109 |  |  |  |  |
 | 3110 | Score of a String | Easy | 2024-06-12 | [Java](./records/Java/Question_3110.md): 99.54% |
