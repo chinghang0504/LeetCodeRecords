@@ -856,7 +856,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 814 |  |  |  |  |
 | 815 |  |  |  |  |
 | 816 |  |  |  |  |
-| 817 |  |  |  |  |
+| 817 | Linked List Components | Medium | 2024-11-29 | [Java](./records/Java/Question_817.md): 95.10% |
 | 818 |  |  |  |  |
 | 819 | Most Common Word | Easy | 2024-05-03 | [Java](./records/Java/Question_819.md): 78.66% |
 | 820 |  |  |  |  |
