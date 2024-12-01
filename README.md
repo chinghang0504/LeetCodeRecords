@@ -3404,5 +3404,11 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3362 |  |  |  |  |
 | 3363 |  |  |  |  |
 | 3364 | Minimum Positive Sum Subarray | Easy | 2024-11-23 | [Java](./records/Java/Question_3364.md): 100.00% |
+| 3365 |  |  |  |  |
+| 3366 |  |  |  |  |
+| 3367 |  |  |  |  |
+| 3368 |  |  |  |  |
+| 3369 |  |  |  |  |
+| 3370 | Smallest Number With All Set Bits | Easy | 2024-11-30 | [Java](./records/Java/Question_3370.md): 100.00% |
 
 <br>
