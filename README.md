@@ -2541,7 +2541,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2499 |  |  |  |  |
 | 2500 | Delete Greatest Value in Each Row | Easy | 2024-06-19 | [Java](./records/Java/Question_2500.md): 98.35% |
 | 2501 |  |  |  |  |
-| 2502 |  |  |  |  |
+| 2502 | Design Memory Allocator | Medium | 2024-12-02 | [Java](./records/Java/Question_2502.md): 5.10% |
 | 2503 |  |  |  |  |
 | 2504 | Concatenate the Name and the Profession | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2504.md): 94.74% |
 | 2505 |  |  |  |  |
