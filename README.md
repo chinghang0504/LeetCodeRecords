@@ -2205,7 +2205,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2163 |  |  |  |  |
 | 2164 | Sort Even and Odd Indices Independently | Easy | 2024-07-18 | [Java](./records/Java/Question_2164.md): 93.62% |
 | 2165 |  |  |  |  |
-| 2166 |  |  |  |  |
+| 2166 | Design Bitset | Medium | 2024-12-03 | [Java](./records/Java/Question_2166.md): 96.00% |
 | 2167 |  |  |  |  |
 | 2168 |  |  |  |  |
 | 2169 | Count Operations to Obtain Zero | Easy | 2024-07-05 | [Java](./records/Java/Question_2169.md): 93.69% |
