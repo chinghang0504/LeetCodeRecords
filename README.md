@@ -2864,7 +2864,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2822 | Inversion of Object | Easy | 2024-08-07 | [JavaScript](./records/JavaScript/Question_2822.md): 95.35% |
 | 2823 |  |  |  |  |
 | 2824 | Count Pairs Whose Sum is Less than Target | Easy | 2024-06-15 | [Java](./records/Java/Question_2824.md): 96.86% |
-| 2825 |  |  |  |  |
+| 2825 | Make String a Subsequence Using Cyclic Increments | Medium | 2024-12-04 | [Java](./records/Java/Question_2825.md): 100.00% |
 | 2826 |  |  |  |  |
 | 2827 |  |  |  |  |
 | 2828 | Check if a String Is an Acronym of Words | Easy | 2024-06-15 | [Java](./records/Java/Question_2828.md): 44.23% |
