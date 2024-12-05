@@ -457,7 +457,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 415 | Add Strings | Easy | 2024-04-06 | [Java](./records/Java/Question_415.md): 100.00% |
 | 416 |  |  |  |  |
 | 417 |  |  |  |  |
-| 418 |  |  |  |  |
+| 418 | Sentence Screen Fitting | Medium | 2024-12-05 | [Java](./records/Java/Question_418.md): 51.19% |
 | 419 | Battleships in a Board | Medium | 2024-04-20 | [Java](./records/Java/Question_419.md): 100.00% |
 | 420 |  |  |  |  |
 | 421 |  |  |  |  |
