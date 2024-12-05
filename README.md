@@ -797,7 +797,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 755 |  |  |  |  |
 | 756 |  |  |  |  |
 | 757 |  |  |  |  |
-| 758 |  |  |  |  |
+| 758 | Bold Words in String | Medium | 2024-12-04 | [Java](./records/Java/Question_758.md): 92.31% |
 | 759 |  |  |  |  |
 | 760 | Find Anagram Mappings | Easy | 2024-05-02 | [Java](./records/Java/Question_760.md): 98.80% |
 | 761 |  |  |  |  |
