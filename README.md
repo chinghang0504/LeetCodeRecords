@@ -507,7 +507,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 465 |  |  |  |  |
 | 466 |  |  |  |  |
 | 467 |  |  |  |  |
-| 468 |  |  |  |  |
+| 468 | Validate IP Address | Medium | 2024-12-06 | [Java](./records/Java/Question_468.md): 92.84% |
 | 469 |  |  |  |  |
 | 470 |  |  |  |  |
 | 471 |  |  |  |  |
