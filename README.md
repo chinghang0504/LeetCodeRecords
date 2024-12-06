@@ -1526,7 +1526,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1484 | Group Sold Products By The Date | Easy | 2024-07-04 | [Pandas](./records/Pandas/Question_1484.md): 95.05% |
 | 1485 | Clone Binary Tree With Random Pointer | Medium | 2024-09-23 | [Java](./records/Java/Question_1485.md): 100.00% |
 | 1486 | XOR Operation in an Array | Easy | 2024-06-05 | [Java](./records/Java/Question_1486.md): 100.00% |
-| 1487 |  |  |  |  |
+| 1487 | Making File Names Unique | Medium | 2024-12-05 | [Java](./records/Java/Question_1487.md): 82.35% |
 | 1488 |  |  |  |  |
 | 1489 |  |  |  |  |
 | 1490 | Clone N-ary Tree | Medium | 2024-07-14 | [Java](./records/Java/Question_1490.md): 100.00% |
