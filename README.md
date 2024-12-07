@@ -830,7 +830,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 788 |  |  |  |  |
 | 789 |  |  |  |  |
 | 790 |  |  |  |  |
-| 791 |  |  |  |  |
+| 791 | Custom Sort String | Medium | 2024-12-06 | [Java](./records/Java/Question_791.md): 100.00% |
 | 792 |  |  |  |  |
 | 793 |  |  |  |  |
 | 794 | Valid Tic-Tac-Toe State | Medium | 2024-11-02 | [Java](./records/Java/Question_794.md): 100.00% |
