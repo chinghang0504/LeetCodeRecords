@@ -887,7 +887,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 845 |  |  |  |  |
 | 846 |  |  |  |  |
 | 847 |  |  |  |  |
-| 848 |  |  |  |  |
+| 848 | Shifting Letters | Medium | 2024-12-06 | [Java](./records/Java/Question_848.md): 98.99% |
 | 849 |  |  |  |  |
 | 850 |  |  |  |  |
 | 851 |  |  |  |  |
