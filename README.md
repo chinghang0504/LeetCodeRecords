@@ -1177,7 +1177,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1135 |  |  |  |  |
 | 1136 |  |  |  |  |
 | 1137 | N-th Tribonacci Number | Easy | 2024-07-18 | [Java](./records/Java/Question_1137.md): 100.00% |
-| 1138 |  |  |  |  |
+| 1138 | Alphabet Board Path | Medium | 2024-12-07 | [Java](./records/Java/Question_1138.md): 100.00% |
 | 1139 |  |  |  |  |
 | 1140 |  |  |  |  |
 | 1141 | User Activity for the Past 30 Days I | Easy | 2024-05-28 | [Pandas](./records/Pandas/Question_1141.md): 95.26% |
