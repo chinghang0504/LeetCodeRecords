@@ -870,7 +870,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 828 |  |  |  |  |
 | 829 |  |  |  |  |
 | 830 | Positions of Large Groups | Easy | 2024-05-04 | [Java](./records/Java/Question_830.md): 100.00% |
-| 831 |  |  |  |  |
+| 831 | Masking Personal Information | Medium | 2024-12-07 | [Java](./records/Java/Question_831.md): 100.00% |
 | 832 | Flipping an Image | Easy | 2024-05-04 | [Java](./records/Java/Question_832.md): 100.00% |
 | 833 |  |  |  |  |
 | 834 |  |  |  |  |
