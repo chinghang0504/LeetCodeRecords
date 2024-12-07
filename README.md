@@ -731,7 +731,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 689 |  |  |  |  |
 | 690 | Employee Importance | Medium | 2024-10-06 | [Java](./records/Java/Question_690.md): 99.37% |
 | 691 |  |  |  |  |
-| 692 |  |  |  |  |
+| 692 | Top K Frequent Words | Medium | 2024-12-07 | [Java](./records/Java/Question_692.md): 98.02% |
 | 693 | Binary Number with Alternating Bits | Easy | 2024-05-12 | [Java](./records/Java/Question_693.md): 100.00% |
 | 694 |  |  |  |  |
 | 695 | Max Area of Island | Medium | 2024-09-20 | [Java](./records/Java/Question_695.md): 30.51% |
