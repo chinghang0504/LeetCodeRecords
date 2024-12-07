@@ -3410,5 +3410,10 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3368 |  |  |  |  |
 | 3369 |  |  |  |  |
 | 3370 | Smallest Number With All Set Bits | Easy | 2024-11-30 | [Java](./records/Java/Question_3370.md): 100.00% |
+| 3371 |  |  |  |  |
+| 3372 |  |  |  |  |
+| 3373 |  |  |  |  |
+| 3374 |  |  |  |  |
+| 3375 | Minimum Operations to Make Array Values Equal to K | Easy | 2024-12-07 | [Java](./records/Java/Question_3375.md): 100.00% |
 
 <br>
