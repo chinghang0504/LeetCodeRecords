@@ -679,7 +679,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 637 | Average of Levels in Binary Tree | Easy | 2024-04-29 | [Java](./records/Java/Question_637.md): 96.00% |
 | 638 |  |  |  |  |
 | 639 |  |  |  |  |
-| 640 |  |  |  |  |
+| 640 | Solve the Equation | Medium | 2024-12-08 | [Java](./records/Java/Question_640.md): 87.30% |
 | 641 | Design Circular Deque | Medium | 2024-10-08 | [Java](./records/Java/Question_641.md): 40.06% |
 | 642 |  |  |  |  |
 | 643 | Maximum Average Subarray I | Easy | 2024-04-29 | [Java](./records/Java/Question_643.md): 100.00% |
