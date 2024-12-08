@@ -1020,7 +1020,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 978 |  |  |  |  |
 | 979 | Distribute Coins in Binary Tree | Medium | 2024-09-28 | [Java](./records/Java/Question_979.md): 100.00% |
 | 980 |  |  |  |  |
-| 981 |  |  |  |  |
+| 981 | Time Based Key-Value Store | Medium | 2024-12-07 | [Java](./records/Java/Question_981.md): 67.76% |
 | 982 |  |  |  |  |
 | 983 |  |  |  |  |
 | 984 |  |  |  |  |
