@@ -3415,5 +3415,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3373 |  |  |  |  |
 | 3374 |  |  |  |  |
 | 3375 | Minimum Operations to Make Array Values Equal to K | Easy | 2024-12-07 | [Java](./records/Java/Question_3375.md): 100.00% |
+| 3376 |  |  |  |  |
+| 3377 |  |  |  |  |
+| 3378 |  |  |  |  |
+| 3379 | Transformed Array | Easy | 2024-12-08 | [Java](./records/Java/Question_3379.md): 100.00% |
 
 <br>
