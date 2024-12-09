@@ -848,7 +848,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 806 | Number of Lines To Write String | Easy | 2024-05-03 | [Java](./records/Java/Question_806.md): 100.00% |
 | 807 | Max Increase to Keep City Skyline | Medium | 2024-07-14 | [Java](./records/Java/Question_807.md): 48.62% |
 | 808 |  |  |  |  |
-| 809 |  |  |  |  |
+| 809 | Expressive Words | Medium | 2024-12-08 | [Java](./records/Java/Question_809.md): 99.67% |
 | 810 |  |  |  |  |
 | 811 | Subdomain Visit Count | Medium | 2024-09-29 | [Java](./records/Java/Question_811.md): 24.54% |
 | 812 | Largest Triangle Area | Easy | 2024-07-20 | [Java](./records/Java/Question_812.md): 87.75% |
