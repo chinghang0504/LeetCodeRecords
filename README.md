@@ -1439,7 +1439,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1397 |  |  |  |  |
 | 1398 | Customers Who Bought Products A and B but Not C | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1398.md): 93.33% |
 | 1399 | Count Largest Group | Easy | 2024-07-16 | [Java](./records/Java/Question_1399.md): 92.92% |
-| 1400 |  |  |  |  |
+| 1400 | Construct K Palindrome Strings | Medium | 2024-12-08 | [Java](./records/Java/Question_1400.md): 94.19% |
 | 1401 |  |  |  |  |
 | 1402 |  |  |  |  |
 | 1403 | Minimum Subsequence in Non-Increasing Order | Easy | 2024-07-29 | [Java](./records/Java/Question_1403.md): 94.96% |
