@@ -1055,7 +1055,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1013 | Partition Array Into Three Parts With Equal Sum | Easy | 2024-08-11 | [Java](./records/Java/Question_1013.md): 51.95% |
 | 1014 |  |  |  |  |
 | 1015 |  |  |  |  |
-| 1016 |  |  |  |  |
+| 1016 | Binary String With Substrings Representing 1 To N | Medium | 2024-12-10 | [Java](./records/Java/Question_1016.md): 100.00% |
 | 1017 |  |  |  |  |
 | 1018 | Binary Prefix Divisible By 5 | Easy | 2024-08-01 | [Java](./records/Java/Question_1018.md): 99.65% |
 | 1019 | Next Greater Node In Linked List | Medium | 2024-11-07 | [Java](./records/Java/Question_1019.md): 86.49% |
