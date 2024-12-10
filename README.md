@@ -1920,7 +1920,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1878 |  |  |  |  |
 | 1879 |  |  |  |  |
 | 1880 | Check if Word Equals Summation of Two Words | Easy | 2024-07-05 | [Java](./records/Java/Question_1880.md): 100.00% |
-| 1881 |  |  |  |  |
+| 1881 | Maximum Value after Insertion | Medium | 2024-12-09 | [Java](./records/Java/Question_1881.md): 31.58% |
 | 1882 |  |  |  |  |
 | 1883 |  |  |  |  |
 | 1884 |  |  |  |  |
