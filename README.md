@@ -1062,7 +1062,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1020 | Number of Enclaves | Medium | 2024-10-03 | [Java](./records/Java/Question_1020.md): 98.06% |
 | 1021 | Remove Outermost Parentheses | Easy | 2024-05-15 | [Java](./records/Java/Question_1021.md): 99.52% |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | 2024-05-11 | [Java](./records/Java/Question_1022.md): 100.00% |
-| 1023 |  |  |  |  |
+| 1023 | Camelcase Matching | Medium | 2024-12-10 | [Java](./records/Java/Question_1023.md): 100.00% |
 | 1024 |  |  |  |  |
 | 1025 | Divisor Game | Easy | 2024-07-27 | [Java](./records/Java/Question_1025.md): 100.00% |
 | 1026 | Maximum Difference Between Node and Ancestor | Medium | 2024-09-17 | [Java](./records/Java/Question_1026.md): 100.00% |
