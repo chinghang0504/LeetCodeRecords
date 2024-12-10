@@ -1696,7 +1696,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1654 |  |  |  |  |
 | 1655 |  |  |  |  |
 | 1656 | Design an Ordered Stream | Easy | 2024-06-29 | [Java](./records/Java/Question_1656.md): 97.86% |
-| 1657 |  |  |  |  |
+| 1657 | Determine if Two Strings Are Close | Medium | 2024-12-09 | [Java](./records/Java/Question_1657.md): 84.44% |
 | 1658 |  |  |  |  |
 | 1659 |  |  |  |  |
 | 1660 | Correct a Binary Tree | Medium | 2024-09-19 | [Java](./records/Java/Question_1660.md): 55.21% |
