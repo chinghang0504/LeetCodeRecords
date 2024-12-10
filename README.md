@@ -1042,7 +1042,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1000 |  |  |  |  |
 | 1001 |  |  |  |  |
 | 1002 | Find Common Characters | Easy | 2024-07-05 | [Java](./records/Java/Question_1002.md): 42.74% |
-| 1003 |  |  |  |  |
+| 1003 | Check If Word Is Valid After Substitutions | Medium | 2024-12-10 | [Java](./records/Java/Question_1003.md): 96.98% |
 | 1004 |  |  |  |  |
 | 1005 | Maximize Sum Of Array After K Negations | Easy | 2024-07-31 | [Java](./records/Java/Question_1005.md): 12.97% |
 | 1006 |  |  |  |  |
