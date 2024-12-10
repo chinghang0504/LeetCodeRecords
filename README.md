@@ -1216,7 +1216,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1174 | Immediate Food Delivery II | Medium | 2024-05-21 | [Pandas](./records/Pandas/Question_1174.md): 57.04% |
 | 1175 | Prime Arrangements | Easy | 2024-08-10 | [Java](./records/Java/Question_1175.md): 35.58% |
 | 1176 | Diet Plan Performance | Easy | 2024-07-31 | [Java](./records/Java/Question_1176.md): 17.65% |
-| 1177 |  |  |  |  |
+| 1177 | Can Make Palindrome from Substring | Medium | 2024-12-09 | [Java](./records/Java/Question_1177.md): 48.78% |
 | 1178 |  |  |  |  |
 | 1179 | Reformat Department Table | Easy | 2024-06-10 | [Pandas](./records/Pandas/Question_1179.md): 20.28% |
 | 1180 | Count Substrings with Only One Distinct Letter | Easy | 2024-08-05 | [Java](./records/Java/Question_1180.md): 100.00% |
