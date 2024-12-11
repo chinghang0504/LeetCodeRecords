@@ -1220,7 +1220,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1178 |  |  |  |  |
 | 1179 | Reformat Department Table | Easy | 2024-06-10 | [Pandas](./records/Pandas/Question_1179.md): 20.28% |
 | 1180 | Count Substrings with Only One Distinct Letter | Easy | 2024-08-05 | [Java](./records/Java/Question_1180.md): 100.00% |
-| 1181 |  |  |  |  |
+| 1181 | Before and After Puzzle | Medium | 2024-12-11 | [Java](./records/Java/Question_1181.md): 66.67% |
 | 1182 |  |  |  |  |
 | 1183 |  |  |  |  |
 | 1184 | Distance Between Bus Stops | Easy | 2024-08-04 | [Java](./records/Java/Question_1184.md): 100.00% |
