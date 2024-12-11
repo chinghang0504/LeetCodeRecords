@@ -1247,7 +1247,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1205 | Monthly Transactions II | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_1205.md): 91.30% |
 | 1206 |  |  |  |  |
 | 1207 | Unique Number of Occurrences | Easy | 2024-05-22 | [Java](./records/Java/Question_1207.md): 96.02% |
-| 1208 |  |  |  |  |
+| 1208 | Get Equal Substrings Within Budget | Medium | 2024-12-11 | [Java](./records/Java/Question_1208.md): 100.00% |
 | 1209 |  |  |  |  |
 | 1210 |  |  |  |  |
 | 1211 | Queries Quality and Percentage | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1211.md): 88.37% |
