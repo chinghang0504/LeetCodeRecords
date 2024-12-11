@@ -1094,7 +1094,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1052 |  |  |  |  |
 | 1053 |  |  |  |  |
 | 1054 |  |  |  |  |
-| 1055 |  |  |  |  |
+| 1055 | Shortest Way to Form String | Medium | 2024-12-10 | [Java](./records/Java/Question_1055.md): 99.45% |
 | 1056 | Confusing Number | Easy | 2024-08-01 | [Java](./records/Java/Question_1056.md): 100.00% |
 | 1057 |  |  |  |  |
 | 1058 |  |  |  |  |
