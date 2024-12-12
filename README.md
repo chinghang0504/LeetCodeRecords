@@ -1852,7 +1852,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1810 |  |  |  |  |
 | 1811 | Find Interview Candidates | Medium | 2024-08-31 | [Pandas](./records/Pandas/Question_1811.md): 5.88% |
 | 1812 | Determine Color of a Chessboard Square | Easy | 2024-06-26 | [Java](./records/Java/Question_1812.md): 100.00% |
-| 1813 |  |  |  |  |
+| 1813 | Sentence Similarity III | Medium | 2024-12-12 | [Java](./records/Java/Question_1813.md): 99.05% |
 | 1814 |  |  |  |  |
 | 1815 |  |  |  |  |
 | 1816 | Truncate Sentence | Easy | 2024-07-02 | [Java](./records/Java/Question_1816.md): 74.72% |
