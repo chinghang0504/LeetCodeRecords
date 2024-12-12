@@ -1943,7 +1943,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1901 |  |  |  |  |
 | 1902 |  |  |  |  |
 | 1903 | Largest Odd Number in String | Easy | 2024-07-14 | [Java](./records/Java/Question_1903.md): 100.00% |
-| 1904 |  |  |  |  |
+| 1904 | The Number of Full Rounds You Have Played | Medium | 2024-12-12 | [Java](./records/Java/Question_1904.md): 100.00% |
 | 1905 |  |  |  |  |
 | 1906 |  |  |  |  |
 | 1907 | Count Salary Categories | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_1907.md): 73.21% |
