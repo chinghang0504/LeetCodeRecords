@@ -2024,7 +2024,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1982 |  |  |  |  |
 | 1983 |  |  |  |  |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | 2024-06-17 | [Java](./records/Java/Question_1984.md): 97.40% |
-| 1985 |  |  |  |  |
+| 1985 | Find the Kth Largest Integer in the Array | Medium | 2024-12-12 | [Java](./records/Java/Question_1985.md): 98.93% |
 | 1986 |  |  |  |  |
 | 1987 |  |  |  |  |
 | 1988 | Find Cutoff Score for Each School | Medium | 2024-08-21 | [Pandas](./records/Pandas/Question_1988.md): 93.10% |
