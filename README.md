@@ -2135,7 +2135,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2093 |  |  |  |  |
 | 2094 | Finding 3-Digit Even Numbers | Easy | 2024-07-20 | [Java](./records/Java/Question_2094.md): 27.18% |
 | 2095 | Delete the Middle Node of a Linked List | Medium | 2024-09-21 | [Java](./records/Java/Question_2095.md): 99.78% |
-| 2096 |  |  |  |  |
+| 2096 | Step-By-Step Directions From a Binary Tree Node to Another | Medium | 2024-12-12 | [Java](./records/Java/Question_2096.md): 63.61% |
 | 2097 |  |  |  |  |
 | 2098 |  |  |  |  |
 | 2099 | Find Subsequence of Length K With the Largest Sum | Easy | 2024-08-08 | [Java](./records/Java/Question_2099.md): 10.20% |
