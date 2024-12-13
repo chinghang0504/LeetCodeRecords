@@ -2094,7 +2094,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2052 |  |  |  |  |
 | 2053 | Kth Distinct String in an Array | Easy | 2024-07-06 | [Java](./records/Java/Question_2053.md): 92.53% |
 | 2054 |  |  |  |  |
-| 2055 |  |  |  |  |
+| 2055 | Plates Between Candles | Medium | 2024-12-12 | [Java](./records/Java/Question_2055.md): 5.01% |
 | 2056 |  |  |  |  |
 | 2057 | Smallest Index With Equal Value | Easy | 2024-06-13 | [Java](./records/Java/Question_2057.md): 100.00% |
 | 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | 2024-09-22 | [Java](./records/Java/Question_2058.md): 37.82% |
