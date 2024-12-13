@@ -2250,7 +2250,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2208 |  |  |  |  |
 | 2209 |  |  |  |  |
 | 2210 | Count Hills and Valleys in an Array | Easy | 2024-08-10 | [Java](./records/Java/Question_2210.md): 100.00% |
-| 2211 |  |  |  |  |
+| 2211 | Count Collisions on a Road | Medium | 2024-12-13 | [Java](./records/Java/Question_2211.md): 100.00% |
 | 2212 |  |  |  |  |
 | 2213 |  |  |  |  |
 | 2214 |  |  |  |  |
