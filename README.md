@@ -1779,7 +1779,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1737 |  |  |  |  |
 | 1738 |  |  |  |  |
 | 1739 |  |  |  |  |
-| 1740 |  |  |  |  |
+| 1740 | Find Distance in a Binary Tree | Medium | 2024-12-12 | [Java](./records/Java/Question_1740.md): 23.19% |
 | 1741 | Find Total Time Spent by Each Employee | Easy | 2024-06-07 | [Pandas](./records/Pandas/Question_1741.md): 97.97% |
 | 1742 | Maximum Number of Balls in a Box | Easy | 2024-07-29 | [Java](./records/Java/Question_1742.md): 67.00% |
 | 1743 | Restore the Array From Adjacent Pairs | Medium | 2024-09-30 | [Java](./records/Java/Question_1743.md): 98.77% |
