@@ -2114,7 +2114,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2072 | The Winner University | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2072.md): 100.00% |
 | 2073 | Time Needed to Buy Tickets | Easy | 2024-06-14 | [Java](./records/Java/Question_2073.md): 100.00% |
 | 2074 | Reverse Nodes in Even Length Groups | Medium | 2024-11-21 | [Java](./records/Java/Question_2074.md): 26.67% |
-| 2075 |  |  |  |  |
+| 2075 | Decode the Slanted Ciphertext | Medium | 2024-12-12 | [Java](./records/Java/Question_2075.md): 70.15% |
 | 2076 |  |  |  |  |
 | 2077 |  |  |  |  |
 | 2078 | Two Furthest Houses With Different Colors | Easy | 2024-08-03 | [Java](./records/Java/Question_2078.md): 100.00% |
