@@ -2246,7 +2246,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2204 |  |  |  |  |
 | 2205 | The Number of Users That Are Eligible for Discount | Easy | 2024-08-30 | [Pandas](./records/Pandas/Question_2205.md): 100.00% |
 | 2206 | Divide Array Into Equal Pairs | Easy | 2024-07-01 | [Java](./records/Java/Question_2206.md): 100.00% |
-| 2207 |  |  |  |  |
+| 2207 | Maximize Number of Subsequences in a String | Medium | 2024-12-13 | [Java](./records/Java/Question_2207.md): 83.87% |
 | 2208 |  |  |  |  |
 | 2209 |  |  |  |  |
 | 2210 | Count Hills and Valleys in an Array | Easy | 2024-08-10 | [Java](./records/Java/Question_2210.md): 100.00% |
