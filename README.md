@@ -1985,7 +1985,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1943 |  |  |  |  |
 | 1944 |  |  |  |  |
 | 1945 | Sum of Digits of String After Convert | Easy | 2024-07-18 | [Java](./records/Java/Question_1945.md): 100.00% |
-| 1946 |  |  |  |  |
+| 1946 | Largest Number After Mutating Substring | Medium | 2024-12-12 | [Java](./records/Java/Question_1946.md): 93.62% |
 | 1947 | Maximum Compatibility Score Sum | Medium | 2024-10-11 | [Java](./records/Java/Question_1947.md): 76.49% |
 | 1948 |  |  |  |  |
 | 1949 | Strong Friendship | Medium | 2024-08-31 | [Pandas](./records/Pandas/Question_1949.md): 100.00% |
