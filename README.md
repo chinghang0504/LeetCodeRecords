@@ -2207,7 +2207,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2165 |  |  |  |  |
 | 2166 | Design Bitset | Medium | 2024-12-03 | [Java](./records/Java/Question_2166.md): 96.00% |
 | 2167 |  |  |  |  |
-| 2168 |  |  |  |  |
+| 2168 | Unique Substrings With Equal Digit Frequency | Medium | 2024-12-13 | [Java](./records/Java/Question_2168.md): 82.43% |
 | 2169 | Count Operations to Obtain Zero | Easy | 2024-07-05 | [Java](./records/Java/Question_2169.md): 93.69% |
 | 2170 |  |  |  |  |
 | 2171 |  |  |  |  |
