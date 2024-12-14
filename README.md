@@ -2261,7 +2261,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2219 | Maximum Sum Score of Array | Medium | 2024-10-12 | [Java](./records/Java/Question_2219.md): 100.00% |
 | 2220 | Minimum Bit Flips to Convert Number | Easy | 2024-06-20 | [Java](./records/Java/Question_2220.md): 100.00% |
 | 2221 | Find Triangular Sum of an Array | Medium | 2024-09-16 | [Java](./records/Java/Question_2221.md): 45.66% |
-| 2222 |  |  |  |  |
+| 2222 | Number of Ways to Select Buildings | Medium | 2024-12-14 | [Java](./records/Java/Question_2222.md): 46.13% |
 | 2223 |  |  |  |  |
 | 2224 | Minimum Number of Operations to Convert Time | Easy | 2024-07-17 | [Java](./records/Java/Question_2224.md): 100.00% |
 | 2225 | Find Players With Zero or One Losses | Medium | 2024-09-19 | [Java](./records/Java/Question_2225.md): 82.94% |
