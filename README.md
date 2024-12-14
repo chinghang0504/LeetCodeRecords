@@ -2327,7 +2327,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2285 | Maximum Total Importance of Roads | Medium | 2024-10-04 | [Java](./records/Java/Question_2285.md): 91.13% |
 | 2286 |  |  |  |  |
 | 2287 | Rearrange Characters to Make Target String | Easy | 2024-07-20 | [Java](./records/Java/Question_2287.md): 100.00% |
-| 2288 |  |  |  |  |
+| 2288 | Apply Discount to Prices | Medium | 2024-12-14 | [Java](./records/Java/Question_2288.md): 81.20% |
 | 2289 |  |  |  |  |
 | 2290 |  |  |  |  |
 | 2291 |  |  |  |  |
