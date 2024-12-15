@@ -2603,7 +2603,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2561 |  |  |  |  |
 | 2562 | Find the Array Concatenation Value | Easy | 2024-07-10 | [Java](./records/Java/Question_2562.md): 96.36% |
 | 2563 |  |  |  |  |
-| 2564 |  |  |  |  |
+| 2564 | Substring XOR Queries | Medium | 2024-12-15 | [Java](./records/Java/Question_2564.md): 15.07% |
 | 2565 |  |  |  |  |
 | 2566 | Maximum Difference by Remapping a Digit | Easy | 2024-08-07 | [Java](./records/Java/Question_2566.md): 100.00% |
 | 2567 |  |  |  |  |
