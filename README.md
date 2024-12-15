@@ -2453,7 +2453,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2411 |  |  |  |  |
 | 2412 |  |  |  |  |
 | 2413 | Smallest Even Multiple | Easy | 2024-06-18 | [Java](./records/Java/Question_2413.md): 100.00% |
-| 2414 |  |  |  |  |
+| 2414 | Length of the Longest Alphabetical Continuous Substring | Medium | 2024-12-15 | [Java](./records/Java/Question_2414.md): 100.00% |
 | 2415 | Reverse Odd Levels of Binary Tree | Medium | 2024-09-16 | [Java](./records/Java/Question_2415.md): 44.99% |
 | 2416 |  |  |  |  |
 | 2417 |  |  |  |  |
