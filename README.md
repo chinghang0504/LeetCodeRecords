@@ -2382,7 +2382,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2340 | Minimum Adjacent Swaps to Make a Valid Array | Medium | 2024-09-20 | [Java](./records/Java/Question_2340.md): 100.00% |
 | 2341 | Maximum Number of Pairs in Array | Easy | 2024-07-04 | [Java](./records/Java/Question_2341.md): 100.00% |
 | 2342 |  |  |  |  |
-| 2343 |  |  |  |  |
+| 2343 | Query Kth Smallest Trimmed Number | Medium | 2024-12-14 | [Java](./records/Java/Question_2343.md): 63.77% |
 | 2344 |  |  |  |  |
 | 2345 |  |  |  |  |
 | 2346 | Compute the Rank as a Percentage | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2346.md): 25.00% |
