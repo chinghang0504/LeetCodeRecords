@@ -3419,5 +3419,12 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3377 |  |  |  |  |
 | 3378 |  |  |  |  |
 | 3379 | Transformed Array | Easy | 2024-12-08 | [Java](./records/Java/Question_3379.md): 100.00% |
+| 3380 |  |  |  |  |
+| 3381 |  |  |  |  |
+| 3382 |  |  |  |  |
+| 3383 |  |  |  |  |
+| 3384 |  |  |  |  |
+| 3385 |  |  |  |  |
+| 3386 | Button with Longest Push Time | Easy | 2024-12-14 | [Java](./records/Java/Question_3386.md): 100.00% |
 
 <br>
