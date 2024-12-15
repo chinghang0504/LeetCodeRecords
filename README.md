@@ -2473,7 +2473,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2431 |  |  |  |  |
 | 2432 | The Employee That Worked on the Longest Task | Easy | 2024-06-20 | [Java](./records/Java/Question_2432.md): 100.00% |
 | 2433 | Find The Original Array of Prefix Xor | Medium | 2024-07-13 | [Java](./records/Java/Question_2433.md): 86.59% |
-| 2434 |  |  |  |  |
+| 2434 | Using a Robot to Print the Lexicographically Smallest String | Medium | 2024-12-15 | [Java](./records/Java/Question_2434.md): 90.00% |
 | 2435 |  |  |  |  |
 | 2436 |  |  |  |  |
 | 2437 | Number of Valid Clock Times | Easy | 2024-08-02 | [Java](./records/Java/Question_2437.md): 100.00% |
