@@ -2598,7 +2598,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2556 |  |  |  |  |
 | 2557 |  |  |  |  |
 | 2558 | Take Gifts From the Richest Pile | Easy | 2024-07-16 | [Java](./records/Java/Question_2558.md): 76.41% |
-| 2559 |  |  |  |  |
+| 2559 | Count Vowel Strings in Ranges | Medium | 2024-12-15 | [Java](./records/Java/Question_2559.md): 97.43% |
 | 2560 |  |  |  |  |
 | 2561 |  |  |  |  |
 | 2562 | Find the Array Concatenation Value | Easy | 2024-07-10 | [Java](./records/Java/Question_2562.md): 96.36% |
