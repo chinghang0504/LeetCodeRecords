@@ -2495,7 +2495,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2453 |  |  |  |  |
 | 2454 |  |  |  |  |
 | 2455 | Average Value of Even Numbers That Are Divisible by Three | Easy | 2024-06-20 | [Java](./records/Java/Question_2455.md): 100.00% |
-| 2456 |  |  |  |  |
+| 2456 | Most Popular Video Creator | Medium | 2024-12-15 | [Java](./records/Java/Question_2456.md): 27.85% |
 | 2457 |  |  |  |  |
 | 2458 |  |  |  |  |
 | 2459 |  |  |  |  |
