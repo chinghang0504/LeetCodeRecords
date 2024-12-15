@@ -2551,7 +2551,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2509 |  |  |  |  |
 | 2510 |  |  |  |  |
 | 2511 | Maximum Enemy Forts That Can Be Captured | Easy | 2024-08-11 | [Java](./records/Java/Question_2511.md): 100.00% |
-| 2512 |  |  |  |  |
+| 2512 | Reward Top K Students | Medium | 2024-12-15 | [Java](./records/Java/Question_2512.md): 33.13% |
 | 2513 |  |  |  |  |
 | 2514 |  |  |  |  |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | 2024-08-02 | [Java](./records/Java/Question_2515.md): 100.00% |
