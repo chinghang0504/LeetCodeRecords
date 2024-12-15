@@ -2423,7 +2423,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2381 |  |  |  |  |
 | 2382 |  |  |  |  |
 | 2383 | Minimum Hours of Training to Win a Competition | Easy | 2024-08-11 | [Java](./records/Java/Question_2383.md): 100.00% |
-| 2384 |  |  |  |  |
+| 2384 | Largest Palindromic Number | Medium | 2024-12-15 | [Java](./records/Java/Question_2384.md): 73.09% |
 | 2385 |  |  |  |  |
 | 2386 |  |  |  |  |
 | 2387 | Median of a Row Wise Sorted Matrix | Medium | 2024-09-22 | [Java](./records/Java/Question_2387.md): 5.66% |
