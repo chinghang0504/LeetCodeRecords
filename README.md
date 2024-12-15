@@ -2614,7 +2614,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2572 |  |  |  |  |
 | 2573 |  |  |  |  |
 | 2574 | Left and Right Sum Differences | Easy | 2024-06-20 | [Java](./records/Java/Question_2574.md): 98.83% |
-| 2575 |  |  |  |  |
+| 2575 | Find the Divisibility Array of a String | Medium | 2024-12-15 | [Java](./records/Java/Question_2575.md): 85.47% |
 | 2576 |  |  |  |  |
 | 2577 |  |  |  |  |
 | 2578 | Split With Minimum Sum | Easy | 2024-07-09 | [Java](./records/Java/Question_2578.md): 100.00% |
