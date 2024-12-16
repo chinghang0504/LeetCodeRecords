@@ -2629,7 +2629,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2587 |  |  |  |  |
 | 2588 |  |  |  |  |
 | 2589 |  |  |  |  |
-| 2590 |  |  |  |  |
+| 2590 | Design a Todo List | Medium | 2024-12-15 | [Java](./records/Java/Question_2590.md): 76.77% |
 | 2591 | Distribute Money to Maximum Children | Easy | 2024-08-11 | [Java](./records/Java/Question_2591.md): 100.00% |
 | 2592 |  |  |  |  |
 | 2593 |  |  |  |  |
