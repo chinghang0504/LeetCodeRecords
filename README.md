@@ -2773,7 +2773,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2731 |  |  |  |  |
 | 2732 |  |  |  |  |
 | 2733 | Neither Minimum nor Maximum | Easy | 2024-07-04 | [Java](./records/Java/Question_2733.md): 99.42% |
-| 2734 |  |  |  |  |
+| 2734 | Lexicographically Smallest String After Substring Operation | Medium | 2024-12-15 | [Java](./records/Java/Question_2734.md): 88.72% |
 | 2735 |  |  |  |  |
 | 2736 |  |  |  |  |
 | 2737 |  |  |  |  |
