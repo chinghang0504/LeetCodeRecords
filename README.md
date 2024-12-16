@@ -2645,7 +2645,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2603 |  |  |  |  |
 | 2604 |  |  |  |  |
 | 2605 | Form Smallest Number From Two Digit Arrays | Easy | 2024-07-31 | [Java](./records/Java/Question_2605.md): 87.68% |
-| 2606 |  |  |  |  |
+| 2606 | Find the Substring With Maximum Cost | Medium | 2024-12-15 | [Java](./records/Java/Question_2606.md): 88.99% |
 | 2607 |  |  |  |  |
 | 2608 |  |  |  |  |
 | 2609 | Find the Longest Balanced Substring of a Binary String | Easy | 2024-08-01 | [Java](./records/Java/Question_2609.md): 23.10% |
