@@ -2953,7 +2953,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2911 |  |  |  |  |
 | 2912 |  |  |  |  |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | 2024-07-30 | [Java](./records/Java/Question_2913.md): 44.92% |
-| 2914 |  |  |  |  |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | 2024-12-17 | [Java](./records/Java/Question_2914.md): 99.79% |
 | 2915 |  |  |  |  |
 | 2916 |  |  |  |  |
 | 2917 | Find the K-or of an Array | Easy | 2024-07-26 | [Java](./records/Java/Question_2917.md): 100.00% |
