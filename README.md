@@ -2994,7 +2994,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2952 |  |  |  |  |
 | 2953 |  |  |  |  |
 | 2954 |  |  |  |  |
-| 2955 |  |  |  |  |
+| 2955 | Number of Same-End Substrings | Medium | 2024-12-17 | [Java](./records/Java/Question_2955.md): 94.06% |
 | 2956 | Find Common Elements Between Two Arrays | Easy | 2024-06-29 | [Java](./records/Java/Question_2956.md): 66.24% |
 | 2957 | Remove Adjacent Almost-Equal Characters | Medium | 2024-11-26 | [Java](./records/Java/Question_2957.md): 100.00% |
 | 2958 |  |  |  |  |
