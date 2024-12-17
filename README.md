@@ -2986,7 +2986,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2944 |  |  |  |  |
 | 2945 |  |  |  |  |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | 2024-07-21 | [Java](./records/Java/Question_2946.md): 29.83% |
-| 2947 |  |  |  |  |
+| 2947 | Count Beautiful Substrings I | Medium | 2024-12-17 | [Java](./records/Java/Question_2947.md): 89.40% |
 | 2948 |  |  |  |  |
 | 2949 |  |  |  |  |
 | 2950 | Number of Divisible Substrings | Medium | 2024-09-30 | [Java](./records/Java/Question_2950.md): 29.60% |
