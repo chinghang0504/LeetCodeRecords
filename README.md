@@ -2972,7 +2972,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2930 |  |  |  |  |
 | 2931 |  |  |  |  |
 | 2932 | Maximum Strong Pair XOR I | Easy | 2024-07-04 | [Java](./records/Java/Question_2932.md): 61.80% |
-| 2933 |  |  |  |  |
+| 2933 | High-Access Employees | Medium | 2024-12-17 | [Java](./records/Java/Question_2933.md): 100.00% |
 | 2934 |  |  |  |  |
 | 2935 |  |  |  |  |
 | 2936 |  |  |  |  |
