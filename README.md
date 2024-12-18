@@ -3123,7 +3123,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3081 |  |  |  |  |
 | 3082 |  |  |  |  |
 | 3083 | Existence of a Substring in a String and Its Reverse | Easy | 2024-07-17 | [Java](./records/Java/Question_3083.md): 100.00% |
-| 3084 |  |  |  |  |
+| 3084 | Count Substrings Starting and Ending with Given Character | Medium | 2024-12-17 | [Java](./records/Java/Question_3084.md): 100.00% |
 | 3085 |  |  |  |  |
 | 3086 |  |  |  |  |
 | 3087 | Find Trending Hashtags | Medium | 2024-08-23 | [Pandas](./records/Pandas/Question_3087.md): 92.68% |
