@@ -3160,7 +3160,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3118 | Friday Purchase III | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_3118.md): 92.86% |
 | 3119 | Maximum Number of Potholes That Can Be Fixed | Medium | 2024-12-18 | [Java](./records/Java/Question_3119.md): 91.90% |
 | 3120 | Count the Number of Special Characters I | Easy | 2024-07-17 | [Java](./records/Java/Question_3120.md): 100.00% |
-| 3121 |  |  |  |  |
+| 3121 | Count the Number of Special Characters II | Medium | 2024-12-18 | [Java](./records/Java/Question_3121.md): 98.31% |
 | 3122 |  |  |  |  |
 | 3123 |  |  |  |  |
 | 3124 | Find Longest Calls | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_3124.md): 93.48% |
