@@ -3082,7 +3082,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3040 |  |  |  |  |
 | 3041 |  |  |  |  |
 | 3042 | Count Prefix and Suffix Pairs I | Easy | 2024-07-17 | [Java](./records/Java/Question_3042.md): 99.50% |
-| 3043 |  |  |  |  |
+| 3043 | Find the Length of the Longest Common Prefix | Medium | 2024-12-17 | [Java](./records/Java/Question_3043.md): 43.12% |
 | 3044 |  |  |  |  |
 | 3045 |  |  |  |  |
 | 3046 | Split the Array | Easy | 2024-07-21 | [Java](./records/Java/Question_3046.md): 96.04% |
