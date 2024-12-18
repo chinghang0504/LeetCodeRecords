@@ -3068,7 +3068,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3026 |  |  |  |  |
 | 3027 |  |  |  |  |
 | 3028 | Ant on the Boundary | Easy | 2024-07-05 | [Java](./records/Java/Question_3028.md): 100.00% |
-| 3029 |  |  |  |  |
+| 3029 | Minimum Time to Revert Word to Initial State I | Medium | 2024-12-17 | [Java](./records/Java/Question_3029.md): 100.00% |
 | 3030 |  |  |  |  |
 | 3031 |  |  |  |  |
 | 3032 | Count Numbers With Unique Digits II | Easy | 2024-07-01 | [Java](./records/Java/Question_3032.md): 35.56% |
