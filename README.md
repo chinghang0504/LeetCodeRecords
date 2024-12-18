@@ -3045,7 +3045,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3003 |  |  |  |  |
 | 3004 |  |  |  |  |
 | 3005 | Count Elements With Maximum Frequency | Easy | 2024-07-01 | [Java](./records/Java/Question_3005.md): 99.65% |
-| 3006 |  |  |  |  |
+| 3006 | Find Beautiful Indices in the Given Array I | Medium | 2024-12-17 | [Java](./records/Java/Question_3006.md): 82.05% |
 | 3007 |  |  |  |  |
 | 3008 |  |  |  |  |
 | 3009 |  |  |  |  |
