@@ -3202,7 +3202,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3160 |  |  |  |  |
 | 3161 |  |  |  |  |
 | 3162 | Find the Number of Good Pairs I | Easy | 2024-06-15 | [Java](./records/Java/Question_3162.md): 99.94% |
-| 3163 |  |  |  |  |
+| 3163 | String Compression III | Medium | 2024-12-18 | [Java](./records/Java/Question_3163.md): 97.95% |
 | 3164 |  |  |  |  |
 | 3165 |  |  |  |  |
 | 3166 | Calculate Parking Fees and Duration | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_3166.md): 93.48% |
