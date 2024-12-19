@@ -808,7 +808,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 766 | Toeplitz Matrix | Easy | 2024-07-29 | [Java](./records/Java/Question_766.md): 100.00% |
 | 767 |  |  |  |  |
 | 768 |  |  |  |  |
-| 769 |  |  |  |  |
+| 769 | Max Chunks To Make Sorted | Medium | 2024-12-19 | [Java](./records/Java/Question_769.md): 100.00% |
 | 770 |  |  |  |  |
 | 771 | Jewels and Stones | Easy | 2024-05-02 | [Java](./records/Java/Question_771.md): 100.00% |
 | 772 |  |  |  |  |
