@@ -1208,7 +1208,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1166 | Design File System | Medium | 2024-10-10 | [Java](./records/Java/Question_1166.md): 93.21% |
 | 1167 | Minimum Cost to Connect Sticks | Medium | 2024-09-21 | [Java](./records/Java/Question_1167.md): 45.02% |
 | 1168 |  |  |  |  |
-| 1169 |  |  |  |  |
+| 1169 | Invalid Transactions | Medium | 2024-12-19 | [Java](./records/Java/Question_1169.md): 64.89% |
 | 1170 | Compare Strings by Frequency of the Smallest Character | Medium | 2024-10-11 | [Java](./records/Java/Question_1170.md): 32.67% |
 | 1171 |  |  |  |  |
 | 1172 |  |  |  |  |
