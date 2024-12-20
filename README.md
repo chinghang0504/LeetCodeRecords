@@ -477,7 +477,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 435 |  |  |  |  |
 | 436 |  |  |  |  |
 | 437 |  |  |  |  |
-| 438 |  |  |  |  |
+| 438 | Find All Anagrams in a String | Medium | 2024-12-19 | [Java](./records/Java/Question_438.md): 97.85% |
 | 439 |  |  |  |  |
 | 440 |  |  |  |  |
 | 441 | Arranging Coins | Easy | 2024-04-07 | [Java](./records/Java/Question_441.md): 51.41% |
