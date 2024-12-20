@@ -136,7 +136,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 94 | Binary Tree Inorder Traversal | Easy | 2024-03-25 | [Java](./records/Java/Question_94.md): 100.00% |
 | 95 |  |  |  |  |
 | 96 |  |  |  |  |
-| 97 |  |  |  |  |
+| 97 | Interleaving String | Medium | 2024-12-19 | [Java](./records/Java/Question_97.md): 100.00% |
 | 98 |  |  |  |  |
 | 99 | Recover Binary Search Tree | Medium | 2024-04-16 | [Java](./records/Java/Question_99.md): 12.61% |
 | 100 | Same Tree | Easy | 2024-03-25 | [Java](./records/Java/Question_100.md): 100.00% |
