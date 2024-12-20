@@ -513,7 +513,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 471 |  |  |  |  |
 | 472 |  |  |  |  |
 | 473 |  |  |  |  |
-| 474 |  |  |  |  |
+| 474 | Ones and Zeroes | Medium | 2024-12-20 | [Java](./records/Java/Question_474.md): 5.00% |
 | 475 |  |  |  |  |
 | 476 | Number Complement | Easy | 2024-04-08 | [Java](./records/Java/Question_476.md): 100.00% |
 | 477 | Total Hamming Distance | Medium | 2024-11-28 | [Java](./records/Java/Question_477.md): 63.82% |
