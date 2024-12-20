@@ -768,7 +768,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 726 |  |  |  |  |
 | 727 |  |  |  |  |
 | 728 | Self Dividing Numbers | Easy | 2024-05-01 | [Java](./records/Java/Question_728.md): 69.86% |
-| 729 |  |  |  |  |
+| 729 | My Calendar I | Medium | 2024-12-20 | [Java](./records/Java/Question_729.md): 25.75% |
 | 730 |  |  |  |  |
 | 731 |  |  |  |  |
 | 732 |  |  |  |  |
