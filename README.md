@@ -310,7 +310,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 268 | Missing Number | Easy | 2024-04-05 | [Java](./records/Java/Question_268.md): 100.00% |
 | 269 |  |  |  |  |
 | 270 | Closest Binary Search Tree Value | Easy | 2024-04-23 | [Java](./records/Java/Question_270.md): 100.00% |
-| 271 |  |  |  |  |
+| 271 | Encode and Decode Strings | Medium | 2024-12-19 | [Java](./records/Java/Question_271.md): 99.10% |
 | 272 |  |  |  |  |
 | 273 |  |  |  |  |
 | 274 | H-Index | Medium | 2024-05-10 | [Java](./records/Java/Question_274.md): 66.47% |
