@@ -674,7 +674,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 632 |  |  |  |  |
 | 633 | Sum of Square Numbers | Medium | 2024-10-30 | [Java](./records/Java/Question_633.md): 9.71% |
 | 634 |  |  |  |  |
-| 635 |  |  |  |  |
+| 635 | Design Log Storage System | Medium | 2024-12-19 | [Java](./records/Java/Question_635.md): 95.12% |
 | 636 |  |  |  |  |
 | 637 | Average of Levels in Binary Tree | Easy | 2024-04-29 | [Java](./records/Java/Question_637.md): 96.00% |
 | 638 |  |  |  |  |
