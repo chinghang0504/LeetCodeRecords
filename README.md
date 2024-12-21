@@ -716,7 +716,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 674 | Longest Continuous Increasing Subsequence | Easy | 2024-08-04 | [Java](./records/Java/Question_674.md): 99.69% |
 | 675 |  |  |  |  |
 | 676 | Implement Magic Dictionary | Medium | 2024-10-31 | [Java](./records/Java/Question_676.md): 88.00% |
-| 677 |  |  |  |  |
+| 677 | Map Sum Pairs | Medium | 2024-12-20 | [Java](./records/Java/Question_677.md): 100.00% |
 | 678 |  |  |  |  |
 | 679 |  |  |  |  |
 | 680 | Valid Palindrome II | Easy | 2024-08-02 | [Java](./records/Java/Question_680.md): 26.01% |
