@@ -3426,5 +3426,11 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3384 |  |  |  |  |
 | 3385 |  |  |  |  |
 | 3386 | Button with Longest Push Time | Easy | 2024-12-14 | [Java](./records/Java/Question_3386.md): 100.00% |
+| 3387 |  |  |  |  |
+| 3388 |  |  |  |  |
+| 3389 |  |  |  |  |
+| 3390 |  |  |  |  |
+| 3391 |  |  |  |  |
+| 3392 | Count Subarrays of Length Three With a Condition | Easy | 2024-12-21 | [Java](./records/Java/Question_3392.md): 100.00% |
 
 <br>
