@@ -2710,7 +2710,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2668 | Find Latest Salaries | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2668.md): 100.00% |
 | 2669 | Count Artist Occurrences On Spotify Ranking List | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2669.md): 100.00% |
 | 2670 | Find the Distinct Difference Array | Easy | 2024-07-04 | [Java](./records/Java/Question_2670.md): 17.87% |
-| 2671 |  |  |  |  |
+| 2671 | Frequency Tracker | Medium | 2024-12-20 | [Java](./records/Java/Question_2671.md): 77.14% |
 | 2672 |  |  |  |  |
 | 2673 |  |  |  |  |
 | 2674 | Split a Circular Linked List | Medium | 2024-09-21 | [Java](./records/Java/Question_2674.md): 7.41% |
