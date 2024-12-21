@@ -1185,7 +1185,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1143 |  |  |  |  |
 | 1144 |  |  |  |  |
 | 1145 |  |  |  |  |
-| 1146 |  |  |  |  |
+| 1146 | Snapshot Array | Medium | 2024-12-20 | [Java](./records/Java/Question_1146.md): 5.04% |
 | 1147 |  |  |  |  |
 | 1148 | Article Views I | Easy | 2024-05-20 | [Pandas](./records/Pandas/Question_1148.md): 78.83% |
 | 1149 | Article Views II | Medium | 2024-05-28 | [Pandas](./records/Pandas/Question_1149.md): 100.00% |
