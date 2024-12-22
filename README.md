@@ -3432,5 +3432,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3390 |  |  |  |  |
 | 3391 |  |  |  |  |
 | 3392 | Count Subarrays of Length Three With a Condition | Easy | 2024-12-21 | [Java](./records/Java/Question_3392.md): 100.00% |
+| 3393 |  |  |  |  |
+| 3394 |  |  |  |  |
+| 3395 |  |  |  |  |
+| 3396 | Minimum Number of Operations to Make Elements in Array Distinct | Easy | 2024-12-21 | [Java](./records/Java/Question_3396.md): 100.00% |
 
 <br>
