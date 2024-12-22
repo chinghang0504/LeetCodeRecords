@@ -1275,7 +1275,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1233 | Remove Sub-Folders from the Filesystem | Medium | 2024-10-13 | [Java](./records/Java/Question_1233.md): 97.83% |
 | 1234 |  |  |  |  |
 | 1235 |  |  |  |  |
-| 1236 |  |  |  |  |
+| 1236 | Web Crawler | Medium | 2024-12-21 | [Java](./records/Java/Question_1236.md): 13.20% |
 | 1237 |  |  |  |  |
 | 1238 |  |  |  |  |
 | 1239 |  |  |  |  |
