@@ -3410,7 +3410,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3368 |  |  |  |  |
 | 3369 |  |  |  |  |
 | 3370 | Smallest Number With All Set Bits | Easy | 2024-11-30 | [Java](./records/Java/Question_3370.md): 100.00% |
-| 3371 |  |  |  |  |
+| 3371 | Identify the Largest Outlier in an Array | Medium | 2024-12-22 | [Java](./records/Java/Question_3371.md): 89.60% |
 | 3372 |  |  |  |  |
 | 3373 |  |  |  |  |
 | 3374 |  |  |  |  |
