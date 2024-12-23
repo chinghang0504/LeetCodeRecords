@@ -526,7 +526,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 484 |  |  |  |  |
 | 485 | Max Consecutive Ones | Easy | 2024-04-08 | [Java](./records/Java/Question_485.md): 90.94% |
 | 486 |  |  |  |  |
-| 487 |  |  |  |  |
+| 487 | Max Consecutive Ones II | Medium | 2024-12-22 | [Java](./records/Java/Question_487.md): 98.18% |
 | 488 |  |  |  |  |
 | 489 |  |  |  |  |
 | 490 |  |  |  |  |
