@@ -3433,7 +3433,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3391 |  |  |  |  |
 | 3392 | Count Subarrays of Length Three With a Condition | Easy | 2024-12-21 | [Java](./records/Java/Question_3392.md): 100.00% |
 | 3393 |  |  |  |  |
-| 3394 |  |  |  |  |
+| 3394 | Check if Grid can be Cut into Sections | Medium | 2024-12-22 | [Java](./records/Java/Question_3394.md): 100.00% |
 | 3395 |  |  |  |  |
 | 3396 | Minimum Number of Operations to Make Elements in Array Distinct | Easy | 2024-12-21 | [Java](./records/Java/Question_3396.md): 100.00% |
 | 3397 | Maximum Number of Distinct Elements After Operations | Medium | 2024-12-22 | [Java](./records/Java/Question_3397.md): 100.00% |
