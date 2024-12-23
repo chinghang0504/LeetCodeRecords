@@ -3436,5 +3436,6 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3394 |  |  |  |  |
 | 3395 |  |  |  |  |
 | 3396 | Minimum Number of Operations to Make Elements in Array Distinct | Easy | 2024-12-21 | [Java](./records/Java/Question_3396.md): 100.00% |
+| 3397 | Maximum Number of Distinct Elements After Operations | Medium | 2024-12-22 | [Java](./records/Java/Question_3397.md): 100.00% |
 
 <br>
