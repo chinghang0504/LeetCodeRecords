@@ -1734,7 +1734,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1692 |  |  |  |  |
 | 1693 | Daily Leads and Partners | Easy | 2024-06-10 | [Pandas](./records/Pandas/Question_1693.md): 99.42% |
 | 1694 | Reformat Phone Number | Easy | 2024-06-10 | [Java](./records/Java/Question_1694.md): 100.00% |
-| 1695 |  |  |  |  |
+| 1695 | Maximum Erasure Value | Medium | 2024-12-23 | [Java](./records/Java/Question_1695.md): 88.56% |
 | 1696 |  |  |  |  |
 | 1697 |  |  |  |  |
 | 1698 | Number of Distinct Substrings in a String | Medium | 2024-10-08 | [Java](./records/Java/Question_1698.md): 33.62% |
