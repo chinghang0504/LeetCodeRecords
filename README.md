@@ -65,7 +65,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 23 | Merge k Sorted Lists | Hard | 2024-03-26 | [Java](./records/Java/Question_23.md): 8.10% |
 | 24 | Swap Nodes in Pairs | Medium | 2024-03-26 | [Java](./records/Java/Question_24.md): 100.00% |
 | 25 | Reverse Nodes in k-Group | Hard | 2024-04-13 | [Java](./records/Java/Question_25.md): 31.77% |
-| 26 | Remove Duplicates from Sorted Array | Easy | 2024-03-23 | [Java](./records/Java/Question_26.md): 74.62% |
+| 26 | Remove Duplicates from Sorted Array | Easy | 2024-03-23 | [Java](./records/Java/Question_26.md): 100.00% |
 | 27 | Remove Element | Easy | 2024-03-24 | [Java](./records/Java/Question_27.md): 100.00% |
 | 28 | Find the Index of the First Occurrence in a String | Easy | 2024-03-24 | [Java](./records/Java/Question_28.md): 100.00% |
 | 29 | Divide Two Integers | Medium | 2024-10-24 | [Java](./records/Java/Question_29.md): 7.05% |
