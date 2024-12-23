@@ -621,7 +621,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 579 | Find Cumulative Salary of an Employee | Hard | 2024-09-07 | [Pandas](./records/Pandas/Question_579.md): 76.71% |
 | 580 | Count Student Number in Departments | Medium | 2024-08-25 | [Pandas](./records/Pandas/Question_580.md): 89.91% |
 | 581 |  |  |  |  |
-| 582 |  |  |  |  |
+| 582 | Kill Process | Medium | 2024-12-22 | [Java](./records/Java/Question_582.md): 90.72% |
 | 583 |  |  |  |  |
 | 584 | Find Customer Referee | Easy | 2024-04-27 | [Pandas](./records/Pandas/Question_584.md): 95.52% |
 | 585 | Investments in 2016 | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_585.md): 75.37% |
