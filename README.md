@@ -1287,7 +1287,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1245 |  |  |  |  |
 | 1246 |  |  |  |  |
 | 1247 |  |  |  |  |
-| 1248 |  |  |  |  |
+| 1248 | Count Number of Nice Subarrays | Medium | 2024-12-23 | [Java](./records/Java/Question_1248.md): 93.40% |
 | 1249 |  |  |  |  |
 | 1250 |  |  |  |  |
 | 1251 | Average Selling Price | Easy | 2024-08-07 | [Pandas](./records/Pandas/Question_1251.md): 92.07% |
