@@ -2129,7 +2129,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2087 |  |  |  |  |
 | 2088 |  |  |  |  |
 | 2089 | Find Target Indices After Sorting Array | Easy | 2024-06-14 | [Java](./records/Java/Question_2089.md): 83.74% |
-| 2090 |  |  |  |  |
+| 2090 | K Radius Subarray Averages | Medium | 2024-12-23 | [Java](./records/Java/Question_2090.md): 100.00% |
 | 2091 |  |  |  |  |
 | 2092 |  |  |  |  |
 | 2093 |  |  |  |  |
