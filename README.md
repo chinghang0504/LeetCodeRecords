@@ -70,7 +70,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 28 | Find the Index of the First Occurrence in a String | Easy | 2024-03-24 | [Java](./records/Java/Question_28.md): 100.00% |
 | 29 | Divide Two Integers | Medium | 2024-10-24 | [Java](./records/Java/Question_29.md): 7.05% |
 | 30 |  |  |  |  |
-| 31 |  |  |  |  |
+| 31 | Next Permutation | Medium | 2024-12-24 | [Java](./records/Java/Question_31.md): 100.00% |
 | 32 |  |  |  |  |
 | 33 | Search in Rotated Sorted Array | Medium | 2024-10-21 | [Java](./records/Java/Question_33.md): 100.00% |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | 2024-03-30 | [Java](./records/Java/Question_34.md): 100.00% |
