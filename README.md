@@ -697,7 +697,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 655 |  |  |  |  |
 | 656 |  |  |  |  |
 | 657 | Robot Return to Origin | Easy | 2024-04-29 | [Java](./records/Java/Question_657.md): 97.65% |
-| 658 |  |  |  |  |
+| 658 | Find K Closest Elements | Medium | 2024-12-23 | [Java](./records/Java/Question_658.md): 96.01% |
 | 659 |  |  |  |  |
 | 660 |  |  |  |  |
 | 661 | Image Smoother | Easy | 2024-08-11 | [Java](./records/Java/Question_661.md): 93.40% |
