@@ -859,7 +859,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 817 | Linked List Components | Medium | 2024-11-29 | [Java](./records/Java/Question_817.md): 95.10% |
 | 818 |  |  |  |  |
 | 819 | Most Common Word | Easy | 2024-05-03 | [Java](./records/Java/Question_819.md): 78.66% |
-| 820 |  |  |  |  |
+| 820 | Short Encoding of Words | Medium | 2024-12-25 | [Java](./records/Java/Question_820.md): 93.30% |
 | 821 | Shortest Distance to a Character | Easy | 2024-05-15 | [Java](./records/Java/Question_821.md): 98.40% |
 | 822 |  |  |  |  |
 | 823 |  |  |  |  |
