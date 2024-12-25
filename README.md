@@ -211,7 +211,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 169 | Majority Element | Easy | 2024-03-29 | [Java](./records/Java/Question_169.md): 100.00% |
 | 170 | Two Sum III - Data structure design | Easy | 2024-04-22 | [Java](./records/Java/Question_170.md): 74.87% |
 | 171 | Excel Sheet Column Number | Easy | 2024-03-29 | [Java](./records/Java/Question_171.md): 96.61% |
-| 172 |  |  |  |  |
+| 172 | Factorial Trailing Zeroes | Medium | 2024-12-24 | [Java](./records/Java/Question_172.md): 100.00% |
 | 173 | Binary Search Tree Iterator | Medium | 2024-04-14 | [Java](./records/Java/Question_173.md): 99.72% |
 | 174 |  |  |  |  |
 | 175 | Combine Two Tables | Easy | 2024-03-29 | [Pandas](./records/Pandas/Question_175.md): 91.13% |
