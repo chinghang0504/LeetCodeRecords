@@ -2782,7 +2782,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2740 |  |  |  |  |
 | 2741 |  |  |  |  |
 | 2742 |  |  |  |  |
-| 2743 |  |  |  |  |
+| 2743 | Count Substrings Without Repeating Character | Medium | 2024-12-27 | [Java](./records/Java/Question_2743.md): 81.55% |
 | 2744 | Find Maximum Number of String Pairs | Easy | 2024-07-24 | [Java](./records/Java/Question_2744.md): 79.25% |
 | 2745 |  |  |  |  |
 | 2746 |  |  |  |  |
