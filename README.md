@@ -3005,7 +3005,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2963 |  |  |  |  |
 | 2964 |  |  |  |  |
 | 2965 | Find Missing and Repeated Values | Easy | 2024-07-04 | [Java](./records/Java/Question_2965.md): 100.00% |
-| 2966 |  |  |  |  |
+| 2966 | Divide Array Into Arrays With Max Difference | Medium | 2024-12-29 | [Java](./records/Java/Question_2966.md): 92.07% |
 | 2967 |  |  |  |  |
 | 2968 |  |  |  |  |
 | 2969 |  |  |  |  |
