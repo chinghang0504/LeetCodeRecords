@@ -3440,5 +3440,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3398 |  |  |  |  |
 | 3399 |  |  |  |  |
 | 3400 | Maximum Number of Matching Indices After Right Shifts | Medium | 2024-12-26 | [Java](./records/Java/Question_3400.md): 100.00% |
+| 3401 |  |  |  |  |
+| 3402 | Minimum Operations to Make Columns Strictly Increasing | Easy | 2024-12-29 | [Java](./records/Java/Question_3402.md): 100.00% |
 
 <br>
