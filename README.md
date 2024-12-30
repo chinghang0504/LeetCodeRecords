@@ -3050,7 +3050,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3008 |  |  |  |  |
 | 3009 |  |  |  |  |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | 2024-07-16 | [Java](./records/Java/Question_3010.md): 33.33% |
-| 3011 |  |  |  |  |
+| 3011 | Find if Array Can Be Sorted | Medium | 2024-12-29 | [Java](./records/Java/Question_3011.md): 100.00% |
 | 3012 |  |  |  |  |
 | 3013 |  |  |  |  |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | 2024-07-18 | [Java](./records/Java/Question_3014.md): 100.00% |
