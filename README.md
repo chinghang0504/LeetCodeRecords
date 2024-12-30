@@ -2632,7 +2632,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2590 | Design a Todo List | Medium | 2024-12-15 | [Java](./records/Java/Question_2590.md): 76.77% |
 | 2591 | Distribute Money to Maximum Children | Easy | 2024-08-11 | [Java](./records/Java/Question_2591.md): 100.00% |
 | 2592 |  |  |  |  |
-| 2593 |  |  |  |  |
+| 2593 | Find Score of an Array After Marking All Elements | Medium | 2024-12-29 | [Java](./records/Java/Question_2593.md): 88.83% |
 | 2594 |  |  |  |  |
 | 2595 | Number of Even and Odd Bits | Easy | 2024-06-24 | [Java](./records/Java/Question_2595.md): 100.00% |
 | 2596 |  |  |  |  |
