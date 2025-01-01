@@ -2463,7 +2463,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2421 |  |  |  |  |
 | 2422 |  |  |  |  |
 | 2423 | Remove Letter To Equalize Frequency | Easy | 2024-08-12 | [Java](./records/Java/Question_2423.md): 57.05% |
-| 2424 |  |  |  |  |
+| 2424 | Longest Uploaded Prefix | Medium | 2024-12-31 | [Java](./records/Java/Question_2424.md): 90.29% |
 | 2425 |  |  |  |  |
 | 2426 |  |  |  |  |
 | 2427 | Number of Common Factors | Easy | 2024-06-18 | [Java](./records/Java/Question_2427.md): 100.00% |
