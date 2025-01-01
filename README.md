@@ -452,7 +452,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 410 |  |  |  |  |
 | 411 |  |  |  |  |
 | 412 | Fizz Buzz | Easy | 2024-04-06 | [Java](./records/Java/Question_412.md): 99.39% |
-| 413 |  |  |  |  |
+| 413 | Arithmetic Slices | Medium | 2024-12-31 | [Java](./records/Java/Question_413.md): 100.00% |
 | 414 | Third Maximum Number | Easy | 2024-04-17 | [Java](./records/Java/Question_414.md): 78.16% |
 | 415 | Add Strings | Easy | 2024-04-06 | [Java](./records/Java/Question_415.md): 100.00% |
 | 416 |  |  |  |  |
