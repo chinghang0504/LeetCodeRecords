@@ -1,5 +1,11 @@
 # LeetCode Records
-![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)
+<!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
+
+### Rank: 2,606
+Problem Solved: 1635 / 3406
+  - Easy: 844 / 846
+  - Medium: 737 / 1775
+  - Hard: 54 / 785
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
