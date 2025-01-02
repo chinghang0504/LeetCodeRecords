@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,597
-Problem Solved: 1636 / 3406
+Problem Solved: 1637 / 3406
   - Easy: 844 / 846
-  - Medium: 738 / 1775
+  - Medium: 739 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -1910,7 +1910,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1862 |  |  |  |  |
 | 1863 | Sum of All Subset XOR Totals | Easy | 2024-08-11 | [Java](./records/Java/Question_1863.md): 100.00% |
 | 1864 |  |  |  |  |
-| 1865 |  |  |  |  |
+| 1865 | Finding Pairs With a Certain Sum | Medium | 2025-01-01 | [Java](./records/Java/Question_1865.md): 20.00% |
 | 1866 |  |  |  |  |
 | 1867 | Orders With Maximum Quantity Above Average | Medium | 2024-08-17 | [Pandas](./records/Pandas/Question_1867.md): 92.86% |
 | 1868 |  |  |  |  |
