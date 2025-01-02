@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,597
-Problem Solved: 1637 / 3406
+Problem Solved: 1638 / 3406
   - Easy: 844 / 846
-  - Medium: 739 / 1775
+  - Medium: 740 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -2571,7 +2571,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2523 |  |  |  |  |
 | 2524 |  |  |  |  |
 | 2525 | Categorize Box According to Criteria | Easy | 2024-08-02 | [Java](./records/Java/Question_2525.md): 100.00% |
-| 2526 |  |  |  |  |
+| 2526 | Find Consecutive Integers from a Data Stream | Medium | 2025-01-02 | [Java](./records/Java/Question_2526.md): 100.00% |
 | 2527 |  |  |  |  |
 | 2528 |  |  |  |  |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | 2024-06-19 | [Java](./records/Java/Question_2529.md): 100.00% |
