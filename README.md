@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,606
-Problem Solved: 1635 / 3406
+### Rank: 2,597
+Problem Solved: 1636 / 3406
   - Easy: 844 / 846
-  - Medium: 737 / 1775
+  - Medium: 738 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -956,7 +956,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 908 | Smallest Range I | Easy | 2024-05-07 | [Java](./records/Java/Question_908.md): 99.13% |
 | 909 |  |  |  |  |
 | 910 |  |  |  |  |
-| 911 |  |  |  |  |
+| 911 | Online Election | Medium | 2025-01-01 | [Java](./records/Java/Question_911.md): 91.55% |
 | 912 |  |  |  |  |
 | 913 |  |  |  |  |
 | 914 | X of a Kind in a Deck of Cards | Easy | 2024-08-09 | [Java](./records/Java/Question_914.md): 92.24% |
