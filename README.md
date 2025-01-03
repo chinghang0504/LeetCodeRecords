@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,597
-Problem Solved: 1638 / 3406
+Problem Solved: 1639 / 3406
   - Easy: 844 / 846
-  - Medium: 740 / 1775
+  - Medium: 741 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -2125,7 +2125,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2077 |  |  |  |  |
 | 2078 | Two Furthest Houses With Different Colors | Easy | 2024-08-03 | [Java](./records/Java/Question_2078.md): 100.00% |
 | 2079 | Watering Plants | Medium | 2024-09-15 | [Java](./records/Java/Question_2079.md): 100.00% |
-| 2080 |  |  |  |  |
+| 2080 | Range Frequency Queries | Medium | 2025-01-02 | [Java](./records/Java/Question_2080.md): 98.44% |
 | 2081 |  |  |  |  |
 | 2082 | The Number of Rich Customers | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2082.md): 100.00% |
 | 2083 | Substrings That Begin and End With the Same Letter | Medium | 2024-09-19 | [Java](./records/Java/Question_2083.md): 100.00% |
