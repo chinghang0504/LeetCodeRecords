@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,597
-Problem Solved: 1639 / 3406
+### Rank: 2,576
+Problem Solved: 1640 / 3406
   - Easy: 844 / 846
-  - Medium: 741 / 1775
+  - Medium: 742 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -2038,7 +2038,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1990 | Count the Number of Experiments | Medium | 2024-08-27 | [Pandas](./records/Pandas/Question_1990.md): 93.55% |
 | 1991 | Find the Middle Index in Array | Easy | 2024-06-14 | [Java](./records/Java/Question_1991.md): 100.00% |
 | 1992 | Find All Groups of Farmland | Medium | 2024-10-13 | [Java](./records/Java/Question_1992.md): 90.30% |
-| 1993 |  |  |  |  |
+| 1993 | Operations on Tree | Medium | 2025-01-02 | [Java](./records/Java/Question_1993.md): 76.19% |
 | 1994 |  |  |  |  |
 | 1995 | Count Special Quadruplets | Easy | 2024-07-19 | [Java](./records/Java/Question_1995.md): 86.78% |
 | 1996 |  |  |  |  |
