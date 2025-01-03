@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,576
-Problem Solved: 1641 / 3406
+### Rank: 2,565
+Problem Solved: 1642 / 3406
   - Easy: 844 / 846
-  - Medium: 743 / 1775
+  - Medium: 744 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -2114,7 +2114,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2066 | Account Balance | Medium | 2024-06-11 | [Pandas](./records/Pandas/Question_2066.md): 100.00% |
 | 2067 |  |  |  |  |
 | 2068 | Check Whether Two Strings are Almost Equivalent | Easy | 2024-06-17 | [Java](./records/Java/Question_2068.md): 63.91% |
-| 2069 |  |  |  |  |
+| 2069 | Walking Robot Simulation II | Medium | 2025-01-03 | [Java](./records/Java/Question_2069.md): 62.92% |
 | 2070 | Most Beautiful Item for Each Query | Medium | 2024-11-21 | [Java](./records/Java/Question_2070.md): 98.63% |
 | 2071 |  |  |  |  |
 | 2072 | The Winner University | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2072.md): 100.00% |
