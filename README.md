@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,565
-Problem Solved: 1642 / 3406
+Problem Solved: 1643 / 3406
   - Easy: 844 / 846
-  - Medium: 744 / 1775
+  - Medium: 745 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -370,7 +370,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 322 |  |  |  |  |
 | 323 |  |  |  |  |
 | 324 |  |  |  |  |
-| 325 |  |  |  |  |
+| 325 | Maximum Size Subarray Sum Equals k | Medium | 2025-01-03 | [Java](./records/Java/Question_325.md): 30.31% |
 | 326 | Power of Three | Easy | 2024-04-05 | [Java](./records/Java/Question_326.md): 90.19% |
 | 327 |  |  |  |  |
 | 328 | Odd Even Linked List | Medium | 2024-04-15 | [Java](./records/Java/Question_328.md): 100.00% |
