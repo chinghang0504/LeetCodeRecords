@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,576
-Problem Solved: 1640 / 3406
+Problem Solved: 1641 / 3406
   - Easy: 844 / 846
-  - Medium: 742 / 1775
+  - Medium: 743 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -1545,7 +1545,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1497 |  |  |  |  |
 | 1498 |  |  |  |  |
 | 1499 |  |  |  |  |
-| 1500 |  |  |  |  |
+| 1500 | Design a File Sharing System | Medium | 2025-01-02 | [Java](./records/Java/Question_1500.md): 79.49% |
 | 1501 | Countries You Can Safely Invest In | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1501.md): 30.51% |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | 2024-05-30 | [Java](./records/Java/Question_1502.md): 97.26% |
 | 1503 | Last Moment Before All Ants Fall Out of a Plank | Medium | 2024-10-04 | [Java](./records/Java/Question_1503.md): 100.00% |
