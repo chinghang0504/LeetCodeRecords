@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,565
-Problem Solved: 1644 / 3406
+Problem Solved: 1645 / 3406
   - Easy: 844 / 846
-  - Medium: 746 / 1775
+  - Medium: 747 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -654,7 +654,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 606 | Construct String from Binary Tree | Medium | 2024-09-22 | [Java](./records/Java/Question_606.md): 100.00% |
 | 607 | Sales Person | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_607.md): 68.96% |
 | 608 | Tree Node | Medium | 2024-08-15 | [Pandas](./records/Pandas/Question_608.md): 84.09% |
-| 609 |  |  |  |  |
+| 609 | Find Duplicate File in System | Medium | 2025-01-03 | [Java](./records/Java/Question_609.md): 97.67% |
 | 610 | Triangle Judgement | Easy | 2024-04-28 | [Pandas](./records/Pandas/Question_610.md): 78.55% |
 | 611 |  |  |  |  |
 | 612 | Shortest Distance in a Plane | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_612.md): 5.82% |
