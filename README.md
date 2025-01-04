@@ -2,10 +2,10 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,565
-Problem Solved: 1645 / 3406
-  - Easy: 844 / 846
-  - Medium: 747 / 1775
-  - Hard: 54 / 785
+Problem Solved: 1646 / 3410
+  - Easy: 845 / 847
+  - Medium: 747 / 1777
+  - Hard: 54 / 786
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3449,5 +3449,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3401 |  |  |  |  |
 | 3402 | Minimum Operations to Make Columns Strictly Increasing | Easy | 2024-12-29 | [Java](./records/Java/Question_3402.md): 100.00% |
 | 3403 | Find the Lexicographically Largest String From the Box I | Medium | 2024-12-30 | [Java](./records/Java/Question_3403.md): 100.00% |
+| 3404 |  |  |  |  |
+| 3405 |  |  |  |  |
+| 3406 |  |  |  |  |
+| 3407 | Substring Matching Pattern | Easy | 2025-01-04 | [Java](./records/Java/Question_3407.md): 100.00% |
 
 <br>
