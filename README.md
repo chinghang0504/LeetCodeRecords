@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,565
-Problem Solved: 1643 / 3406
+Problem Solved: 1644 / 3406
   - Easy: 844 / 846
-  - Medium: 745 / 1775
+  - Medium: 746 / 1775
   - Hard: 54 / 785
 
 ## Overview
@@ -1975,7 +1975,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1927 |  |  |  |  |
 | 1928 |  |  |  |  |
 | 1929 | Concatenation of Array | Easy | 2024-06-16 | [Java](./records/Java/Question_1929.md): 96.28% |
-| 1930 |  |  |  |  |
+| 1930 | Unique Length-3 Palindromic Subsequences | Medium | 2025-01-03 | [Java](./records/Java/Question_1930.md): 95.03% |
 | 1931 |  |  |  |  |
 | 1932 |  |  |  |  |
 | 1933 | Check if String Is Decomposable Into Value-Equal Substrings | Easy | 2024-08-04 | [Java](./records/Java/Question_1933.md): 100.00% |
