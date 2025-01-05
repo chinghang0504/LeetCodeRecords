@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,565
-Problem Solved: 1646 / 3410
+Problem Solved: 1647 / 3410
   - Easy: 845 / 847
-  - Medium: 747 / 1777
+  - Medium: 748 / 1777
   - Hard: 54 / 786
 
 ## Overview
@@ -1551,7 +1551,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1503 | Last Moment Before All Ants Fall Out of a Plank | Medium | 2024-10-04 | [Java](./records/Java/Question_1503.md): 100.00% |
 | 1504 |  |  |  |  |
 | 1505 |  |  |  |  |
-| 1506 |  |  |  |  |
+| 1506 | Find Root of N-Ary Tree | Medium | 2025-01-04 | [Java](./records/Java/Question_1506.md): 97.39% |
 | 1507 | Reformat Date | Easy | 2024-07-30 | [Java](./records/Java/Question_1507.md): 47.20% |
 | 1508 |  |  |  |  |
 | 1509 |  |  |  |  |
