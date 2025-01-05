@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,565
-Problem Solved: 1647 / 3410
-  - Easy: 845 / 847
-  - Medium: 748 / 1777
-  - Hard: 54 / 786
+### Rank: 2,538
+Problem Solved: 1648 / 3414
+  - Easy: 846 / 848
+  - Medium: 748 / 1779
+  - Hard: 54 / 787
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3453,5 +3453,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3405 |  |  |  |  |
 | 3406 |  |  |  |  |
 | 3407 | Substring Matching Pattern | Easy | 2025-01-04 | [Java](./records/Java/Question_3407.md): 100.00% |
+| 3408 |  |  |  |  |
+| 3409 |  |  |  |  |
+| 3410 |  |  |  |  |
+| 3411 | Maximum Subarray With Equal Products | Easy | 2025-01-05 | [Java](./records/Java/Question_3411.md): -% |
 
 <br>
