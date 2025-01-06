@@ -1,9 +1,9 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,538
-Problem Solved: 1648 / 3414
-  - Easy: 846 / 848
+### Rank: 2,527
+Problem Solved: 1649 / 3415
+  - Easy: 847 / 849
   - Medium: 748 / 1779
   - Hard: 54 / 787
 
@@ -3457,5 +3457,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3409 |  |  |  |  |
 | 3410 |  |  |  |  |
 | 3411 | Maximum Subarray With Equal Products | Easy | 2025-01-05 | [Java](./records/Java/Question_3411.md): -% |
+| 3412 |  |  |  |  |
+| 3413 |  |  |  |  |
+| 3414 |  |  |  |  |
+| 3415 | Find Products with Three Consecutive Digits | Easy | 2025-01-05 | [Pandas](./records/Pandas/Question_3415.md): 100.00% |
 
 <br>
