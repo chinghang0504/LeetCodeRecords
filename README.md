@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,527
-Problem Solved: 1649 / 3415
+### Rank: 2,521
+Problem Solved: 1650 / 3415
   - Easy: 847 / 849
-  - Medium: 748 / 1779
+  - Medium: 749 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -908,7 +908,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 860 | Lemonade Change | Easy | 2024-05-12 | [Java](./records/Java/Question_860.md): 95.75% |
 | 861 | Score After Flipping Matrix | Medium | 2024-09-20 | [Java](./records/Java/Question_861.md): 100.00% |
 | 862 |  |  |  |  |
-| 863 |  |  |  |  |
+| 863 | All Nodes Distance K in Binary Tree | Medium | 2025-01-06 | [Java](./records/Java/Question_863.md): 68.42% |
 | 864 |  |  |  |  |
 | 865 |  |  |  |  |
 | 866 |  |  |  |  |
