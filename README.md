@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,521
-Problem Solved: 1650 / 3415
+Problem Solved: 1651 / 3415
   - Easy: 847 / 849
-  - Medium: 749 / 1779
+  - Medium: 750 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -3123,7 +3123,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3075 |  |  |  |  |
 | 3076 |  |  |  |  |
 | 3077 |  |  |  |  |
-| 3078 |  |  |  |  |
+| 3078 | Match Alphanumerical Pattern in Matrix I | Medium | 2025-01-06 | [Java](./records/Java/Question_3078.md): 100.00% |
 | 3079 | Find the Sum of Encrypted Integers | Easy | 2024-07-06 | [Java](./records/Java/Question_3079.md): 99.89% |
 | 3080 |  |  |  |  |
 | 3081 |  |  |  |  |
