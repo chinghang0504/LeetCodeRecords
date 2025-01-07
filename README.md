@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,507
-Problem Solved: 1652 / 3415
+Problem Solved: 1653 / 3415
   - Easy: 847 / 849
-  - Medium: 751 / 1779
+  - Medium: 752 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -605,7 +605,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 557 | Reverse Words in a String III | Easy | 2024-05-24 | [Java](./records/Java/Question_557.md): 68.12% |
 | 558 |  |  |  |  |
 | 559 | Maximum Depth of N-ary Tree | Easy | 2024-04-25 | [Java](./records/Java/Question_559.md): 100.00% |
-| 560 |  |  |  |  |
+| 560 | Subarray Sum Equals K | Medium | 2025-01-07 | [Java](./records/Java/Question_560.md): 99.91% |
 | 561 | Array Partition | Easy | 2024-04-26 | [Java](./records/Java/Question_561.md): 97.01% |
 | 562 |  |  |  |  |
 | 563 | Binary Tree Tilt | Easy | 2024-04-26 | [Java](./records/Java/Question_563.md): 100.00% |
