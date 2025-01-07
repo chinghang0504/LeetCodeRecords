@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,521
-Problem Solved: 1651 / 3415
+### Rank: 2,507
+Problem Solved: 1652 / 3415
   - Easy: 847 / 849
-  - Medium: 750 / 1779
+  - Medium: 751 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -2811,7 +2811,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2763 |  |  |  |  |
 | 2764 |  |  |  |  |
 | 2765 | Longest Alternating Subarray | Easy | 2024-08-02 | [Java](./records/Java/Question_2765.md): 13.08% |
-| 2766 |  |  |  |  |
+| 2766 | Relocate Marbles | Medium | 2025-01-07 | [Java](./records/Java/Question_2766.md): 100.00% |
 | 2767 |  |  |  |  |
 | 2768 |  |  |  |  |
 | 2769 | Find the Maximum Achievable Number | Easy | 2024-06-22 | [Java](./records/Java/Question_2769.md): 100.00% |
