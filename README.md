@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,507
-Problem Solved: 1655 / 3415
+### Rank: 2,482
+Problem Solved: 1656 / 3415
   - Easy: 847 / 849
-  - Medium: 754 / 1779
+  - Medium: 755 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -859,7 +859,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 811 | Subdomain Visit Count | Medium | 2024-09-29 | [Java](./records/Java/Question_811.md): 24.54% |
 | 812 | Largest Triangle Area | Easy | 2024-07-20 | [Java](./records/Java/Question_812.md): 87.75% |
 | 813 |  |  |  |  |
-| 814 |  |  |  |  |
+| 814 | Binary Tree Pruning | Medium | 2025-01-08 | [Java](./records/Java/Question_814.md): 100.00% |
 | 815 |  |  |  |  |
 | 816 |  |  |  |  |
 | 817 | Linked List Components | Medium | 2024-11-29 | [Java](./records/Java/Question_817.md): 95.10% |
