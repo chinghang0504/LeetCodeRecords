@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,507
-Problem Solved: 1653 / 3415
+Problem Solved: 1654 / 3415
   - Easy: 847 / 849
-  - Medium: 752 / 1779
+  - Medium: 753 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -812,7 +812,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 764 |  |  |  |  |
 | 765 |  |  |  |  |
 | 766 | Toeplitz Matrix | Easy | 2024-07-29 | [Java](./records/Java/Question_766.md): 100.00% |
-| 767 |  |  |  |  |
+| 767 | Reorganize String | Medium | 2025-01-08 | [Java](./records/Java/Question_767.md): 72.05% |
 | 768 |  |  |  |  |
 | 769 | Max Chunks To Make Sorted | Medium | 2024-12-19 | [Java](./records/Java/Question_769.md): 100.00% |
 | 770 |  |  |  |  |
