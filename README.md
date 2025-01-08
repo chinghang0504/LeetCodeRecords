@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,507
-Problem Solved: 1654 / 3415
+Problem Solved: 1655 / 3415
   - Easy: 847 / 849
-  - Medium: 753 / 1779
+  - Medium: 754 / 1779
   - Hard: 54 / 787
 
 ## Overview
@@ -910,7 +910,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 862 |  |  |  |  |
 | 863 | All Nodes Distance K in Binary Tree | Medium | 2025-01-06 | [Java](./records/Java/Question_863.md): 68.42% |
 | 864 |  |  |  |  |
-| 865 |  |  |  |  |
+| 865 | Smallest Subtree with all the Deepest Nodes | Medium | 2025-01-08 | [Java](./records/Java/Question_865.md): 100.00% |
 | 866 |  |  |  |  |
 | 867 | Transpose Matrix | Easy | 2024-05-05 | [Java](./records/Java/Question_867.md): 100.00% |
 | 868 | Binary Gap | Easy | 2024-05-05 | [Java](./records/Java/Question_868.md): 100.00% |
