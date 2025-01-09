@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,482
-Problem Solved: 1656 / 3415
+### Rank: 2,483
+Problem Solved: 1657 / 3416
   - Easy: 847 / 849
-  - Medium: 755 / 1779
-  - Hard: 54 / 787
+  - Medium: 756 / 1779
+  - Hard: 54 / 788
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -143,7 +143,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 95 |  |  |  |  |
 | 96 |  |  |  |  |
 | 97 | Interleaving String | Medium | 2024-12-19 | [Java](./records/Java/Question_97.md): 100.00% |
-| 98 |  |  |  |  |
+| 98 | Validate Binary Search Tree | Medium | 2025-01-09 | [Java](./records/Java/Question_98.md): 100.00% |
 | 99 | Recover Binary Search Tree | Medium | 2024-04-16 | [Java](./records/Java/Question_99.md): 12.61% |
 | 100 | Same Tree | Easy | 2024-03-25 | [Java](./records/Java/Question_100.md): 100.00% |
 | 101 | Symmetric Tree | Easy | 2024-03-25 | [Java](./records/Java/Question_101.md): 100.00% |
