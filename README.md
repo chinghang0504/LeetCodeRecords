@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,483
-Problem Solved: 1658 / 3416
+### Rank: 2,476
+Problem Solved: 1659 / 3416
   - Easy: 847 / 849
-  - Medium: 757 / 1779
+  - Medium: 758 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -2730,7 +2730,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2682 | Find the Losers of the Circular Game | Easy | 2024-08-03 | [Java](./records/Java/Question_2682.md): 58.21% |
 | 2683 |  |  |  |  |
 | 2684 |  |  |  |  |
-| 2685 |  |  |  |  |
+| 2685 | Count the Number of Complete Components | Medium | 2025-01-10 | [Java](./records/Java/Question_2685.md): 21.95% |
 | 2686 | Immediate Food Delivery III | Medium | 2024-08-19 | [Pandas](./records/Pandas/Question_2686.md): 93.62% |
 | 2687 | Bikes Last Time Used | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2687.md): 100.00% |
 | 2688 | Find Active Users | Medium | 2024-08-29 | [Pandas](./records/Pandas/Question_2688.md): 41.38% |
