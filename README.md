@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,476
-Problem Solved: 1659 / 3416
+Problem Solved: 1660 / 3416
   - Easy: 847 / 849
-  - Medium: 758 / 1779
+  - Medium: 759 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -368,7 +368,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 320 |  |  |  |  |
 | 321 |  |  |  |  |
 | 322 |  |  |  |  |
-| 323 |  |  |  |  |
+| 323 | Number of Connected Components in an Undirected Graph | Medium | 2025-01-10 | [Java](./records/Java/Question_323.md): 5.03% |
 | 324 |  |  |  |  |
 | 325 | Maximum Size Subarray Sum Equals k | Medium | 2025-01-03 | [Java](./records/Java/Question_325.md): 30.31% |
 | 326 | Power of Three | Easy | 2024-04-05 | [Java](./records/Java/Question_326.md): 90.19% |
