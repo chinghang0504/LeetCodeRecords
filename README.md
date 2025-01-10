@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,483
-Problem Solved: 1657 / 3416
+Problem Solved: 1658 / 3416
   - Easy: 847 / 849
-  - Medium: 756 / 1779
+  - Medium: 757 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -842,7 +842,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 794 | Valid Tic-Tac-Toe State | Medium | 2024-11-02 | [Java](./records/Java/Question_794.md): 100.00% |
 | 795 |  |  |  |  |
 | 796 | Rotate String | Easy | 2024-07-21 | [Java](./records/Java/Question_796.md): 100.00% |
-| 797 |  |  |  |  |
+| 797 | All Paths From Source to Target | Medium | 2025-01-10 | [Java](./records/Java/Question_797.md): 99.83% |
 | 798 |  |  |  |  |
 | 799 |  |  |  |  |
 | 800 | Similar RGB Color | Easy | 2024-07-16 | [Java](./records/Java/Question_800.md): 100.00% |
