@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,476
-Problem Solved: 1660 / 3416
+Problem Solved: 1661 / 3416
   - Easy: 847 / 849
-  - Medium: 759 / 1779
+  - Medium: 760 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -378,7 +378,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 330 |  |  |  |  |
 | 331 |  |  |  |  |
 | 332 |  |  |  |  |
-| 333 |  |  |  |  |
+| 333 | Largest BST Subtree | Medium | 2025-01-10 | [Java](./records/Java/Question_333.md): 100.00% |
 | 334 |  |  |  |  |
 | 335 |  |  |  |  |
 | 336 |  |  |  |  |
