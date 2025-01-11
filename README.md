@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,445
-Problem Solved: 1664 / 3416
+Problem Solved: 1665 / 3416
   - Easy: 847 / 849
-  - Medium: 763 / 1779
+  - Medium: 764 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -1302,7 +1302,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1254 | Number of Closed Islands | Medium | 2024-10-14 | [Java](./records/Java/Question_1254.md): 100.00% |
 | 1255 |  |  |  |  |
 | 1256 | Encode Number | Medium | 2024-09-22 | [Java](./records/Java/Question_1256.md): 100.00% |
-| 1257 |  |  |  |  |
+| 1257 | Smallest Common Region | Medium | 2025-01-11 | [Java](./records/Java/Question_1257.md): 98.95% |
 | 1258 |  |  |  |  |
 | 1259 |  |  |  |  |
 | 1260 | Shift 2D Grid | Easy | 2024-07-28 | [Java](./records/Java/Question_1260.md): 84.16% |
