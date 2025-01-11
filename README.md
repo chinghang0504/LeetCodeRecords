@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,476
-Problem Solved: 1662 / 3416
+### Rank: 2,445
+Problem Solved: 1663 / 3416
   - Easy: 847 / 849
-  - Medium: 761 / 1779
+  - Medium: 762 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -1575,7 +1575,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1527 | Patients With a Condition | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1527.md): 80.43% |
 | 1528 | Shuffle String | Easy | 2024-05-31 | [Java](./records/Java/Question_1528.md): 73.16% |
 | 1529 | Minimum Suffix Flips | Medium | 2024-09-19 | [Java](./records/Java/Question_1529.md): 76.33% |
-| 1530 |  |  |  |  |
+| 1530 | Number of Good Leaf Nodes Pairs | Medium | 2025-01-11 | [Java](./records/Java/Question_1530.md): 19.56% |
 | 1531 |  |  |  |  |
 | 1532 | The Most Recent Three Orders | Medium | 2024-08-22 | [Pandas](./records/Pandas/Question_1532.md): 98.39% |
 | 1533 |  |  |  |  |
