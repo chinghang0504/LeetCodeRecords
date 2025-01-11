@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,476
-Problem Solved: 1661 / 3416
+Problem Solved: 1662 / 3416
   - Easy: 847 / 849
-  - Medium: 760 / 1779
+  - Medium: 761 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -2430,7 +2430,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2382 |  |  |  |  |
 | 2383 | Minimum Hours of Training to Win a Competition | Easy | 2024-08-11 | [Java](./records/Java/Question_2383.md): 100.00% |
 | 2384 | Largest Palindromic Number | Medium | 2024-12-15 | [Java](./records/Java/Question_2384.md): 73.09% |
-| 2385 |  |  |  |  |
+| 2385 | Amount of Time for Binary Tree to Be Infected | Medium | 2025-01-11 | [Java](./records/Java/Question_2385.md): 84.06% |
 | 2386 |  |  |  |  |
 | 2387 | Median of a Row Wise Sorted Matrix | Medium | 2024-09-22 | [Java](./records/Java/Question_2387.md): 5.66% |
 | 2388 | Change Null Values in a Table to the Previous Value | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_2388.md): 100.00% |
