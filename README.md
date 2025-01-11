@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,445
-Problem Solved: 1663 / 3416
+Problem Solved: 1664 / 3416
   - Easy: 847 / 849
-  - Medium: 762 / 1779
+  - Medium: 763 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -178,7 +178,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 130 | Surrounded Regions | Medium | 2024-10-21 | [Java](./records/Java/Question_130.md): 99.67% |
 | 131 |  |  |  |  |
 | 132 |  |  |  |  |
-| 133 |  |  |  |  |
+| 133 | Clone Graph | Medium | 2025-01-11 | [Java](./records/Java/Question_133.md): 89.61% |
 | 134 |  |  |  |  |
 | 135 |  |  |  |  |
 | 136 | Single Number | Easy | 2024-03-28 | [Java](./records/Java/Question_136.md): 99.85% |
