@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,445
-Problem Solved: 1665 / 3416
+Problem Solved: 1666 / 3416
   - Easy: 847 / 849
-  - Medium: 764 / 1779
+  - Medium: 765 / 1779
   - Hard: 54 / 788
 
 ## Overview
@@ -1689,7 +1689,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1641 | Count Sorted Vowel Strings | Medium | 2024-09-28 | [Java](./records/Java/Question_1641.md): 100.00% |
 | 1642 |  |  |  |  |
 | 1643 |  |  |  |  |
-| 1644 |  |  |  |  |
+| 1644 | Lowest Common Ancestor of a Binary Tree II | Medium | 2025-01-11 | [Java](./records/Java/Question_1644.md): 99.97% |
 | 1645 | Hopper Company Queries II | Hard | 2024-09-12 | [Pandas](./records/Pandas/Question_1645.md): 95.00% |
 | 1646 | Get Maximum in Generated Array | Easy | 2024-08-04 | [Java](./records/Java/Question_1646.md): 100.00% |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | Medium | 2024-10-12 | [Java](./records/Java/Question_1647.md): 98.70% |
