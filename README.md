@@ -2,10 +2,10 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,445
-Problem Solved: 1666 / 3416
-  - Easy: 847 / 849
-  - Medium: 765 / 1779
-  - Hard: 54 / 788
+Problem Solved: 1667 / 3420
+  - Easy: 847 / 850
+  - Medium: 766 / 1781
+  - Hard: 54 / 789
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -732,7 +732,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 684 |  |  |  |  |
 | 685 |  |  |  |  |
 | 686 |  |  |  |  |
-| 687 |  |  |  |  |
+| 687 | Longest Univalue Path | Medium | 2025-01-11 | [Java](./records/Java/Question_687.md): 94.44% |
 | 688 |  |  |  |  |
 | 689 |  |  |  |  |
 | 690 | Employee Importance | Medium | 2024-10-06 | [Java](./records/Java/Question_690.md): 99.37% |
