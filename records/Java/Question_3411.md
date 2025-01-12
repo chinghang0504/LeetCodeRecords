@@ -75,7 +75,7 @@ class Solution {
     }
 }
 ```
-- Runtime: 65 ms (Beats: -%)
-- Memory: 44.93 MB (Beats: -%)
+- Runtime: 65 ms (Beats: 9.84%)
+- Memory: 44.93 MB (Beats: 7.41%)
 
 <br>

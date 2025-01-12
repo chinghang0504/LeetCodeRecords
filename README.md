@@ -3456,7 +3456,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3408 |  |  |  |  |
 | 3409 |  |  |  |  |
 | 3410 |  |  |  |  |
-| 3411 | Maximum Subarray With Equal Products | Easy | 2025-01-05 | [Java](./records/Java/Question_3411.md): -% |
+| 3411 | Maximum Subarray With Equal Products | Easy | 2025-01-05 | [Java](./records/Java/Question_3411.md): 9.84% |
 | 3412 |  |  |  |  |
 | 3413 |  |  |  |  |
 | 3414 |  |  |  |  |
