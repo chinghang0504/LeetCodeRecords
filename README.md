@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,445
-Problem Solved: 1668 / 3420
+### Rank: 2,390
+Problem Solved: 1669 / 3420
   - Easy: 848 / 850
-  - Medium: 766 / 1781
+  - Medium: 767 / 1781
   - Hard: 54 / 789
 
 ## Overview
@@ -2521,7 +2521,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2473 |  |  |  |  |
 | 2474 | Customers With Strictly Increasing Purchases | Hard | 2024-09-08 | [Pandas](./records/Pandas/Question_2474.md): 77.27% |
 | 2475 | Number of Unequal Triplets in Array | Easy | 2024-07-08 | [Java](./records/Java/Question_2475.md): 89.01% |
-| 2476 |  |  |  |  |
+| 2476 | Closest Nodes Queries in a Binary Search Tree | Medium | 2025-01-12 | [Java](./records/Java/Question_2476.md): 76.88% |
 | 2477 |  |  |  |  |
 | 2478 |  |  |  |  |
 | 2479 |  |  |  |  |
