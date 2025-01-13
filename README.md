@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,390
-Problem Solved: 1670 / 3420
+Problem Solved: 1671 / 3420
   - Easy: 848 / 850
-  - Medium: 768 / 1781
+  - Medium: 769 / 1781
   - Hard: 54 / 789
 
 ## Overview
@@ -700,7 +700,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 652 |  |  |  |  |
 | 653 | Two Sum IV - Input is a BST | Easy | 2024-04-29 | [Java](./records/Java/Question_653.md): 15.03% |
 | 654 | Maximum Binary Tree | Medium | 2024-07-14 | [Java](./records/Java/Question_654.md): 100.00% |
-| 655 |  |  |  |  |
+| 655 | Print Binary Tree | Medium | 2025-01-12 | [Java](./records/Java/Question_655.md): 87.38% |
 | 656 |  |  |  |  |
 | 657 | Robot Return to Origin | Easy | 2024-04-29 | [Java](./records/Java/Question_657.md): 97.65% |
 | 658 | Find K Closest Elements | Medium | 2024-12-23 | [Java](./records/Java/Question_658.md): 96.01% |
