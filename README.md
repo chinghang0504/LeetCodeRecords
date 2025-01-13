@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,372
-Problem Solved: 1672 / 3420
+Problem Solved: 1673 / 3420
   - Easy: 848 / 850
-  - Medium: 770 / 1781
+  - Medium: 771 / 1781
   - Hard: 54 / 789
 
 ## Overview
@@ -482,7 +482,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 434 | Number of Segments in a String | Easy | 2024-04-07 | [Java](./records/Java/Question_434.md): 100.00% |
 | 435 |  |  |  |  |
 | 436 |  |  |  |  |
-| 437 |  |  |  |  |
+| 437 | Path Sum III | Medium | 2025-01-13 | [Java](./records/Java/Question_437.md): 96.14% |
 | 438 | Find All Anagrams in a String | Medium | 2024-12-19 | [Java](./records/Java/Question_438.md): 97.85% |
 | 439 |  |  |  |  |
 | 440 |  |  |  |  |
