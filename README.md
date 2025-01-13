@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,390
-Problem Solved: 1669 / 3420
+Problem Solved: 1670 / 3420
   - Easy: 848 / 850
-  - Medium: 767 / 1781
+  - Medium: 768 / 1781
   - Hard: 54 / 789
 
 ## Overview
@@ -707,7 +707,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 659 |  |  |  |  |
 | 660 |  |  |  |  |
 | 661 | Image Smoother | Easy | 2024-08-11 | [Java](./records/Java/Question_661.md): 93.40% |
-| 662 |  |  |  |  |
+| 662 | Maximum Width of Binary Tree | Medium | 2025-01-12 | [Java](./records/Java/Question_662.md): 98.50% |
 | 663 |  |  |  |  |
 | 664 |  |  |  |  |
 | 665 |  |  |  |  |
