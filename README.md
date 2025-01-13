@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,390
-Problem Solved: 1671 / 3420
+### Rank: 2,372
+Problem Solved: 1672 / 3420
   - Easy: 848 / 850
-  - Medium: 769 / 1781
+  - Medium: 770 / 1781
   - Hard: 54 / 789
 
 ## Overview
@@ -581,7 +581,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 533 |  |  |  |  |
 | 534 | Game Play Analysis III | Medium | 2024-05-18 | [Pandas](./records/Pandas/Question_534.md): 99.12% |
 | 535 | Encode and Decode TinyURL | Medium | 2024-09-20 | [Java](./records/Java/Question_535.md): 100.00% |
-| 536 |  |  |  |  |
+| 536 | Construct Binary Tree from String | Medium | 2025-01-13 | [Java](./records/Java/Question_536.md): 66.87% |
 | 537 | Complex Number Multiplication | Medium | 2024-10-29 | [Java](./records/Java/Question_537.md): 23.08% |
 | 538 | Convert BST to Greater Tree | Medium | 2024-10-04 | [Java](./records/Java/Question_538.md): 100.00% |
 | 539 | Minimum Time Difference | Medium | 2024-10-12 | [Java](./records/Java/Question_539.md): 44.52% |
