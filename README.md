@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,372
-Problem Solved: 1674 / 3421
+Problem Solved: 1675 / 3421
   - Easy: 848 / 850
-  - Medium: 772 / 1782
+  - Medium: 773 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -3453,7 +3453,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3405 |  |  |  |  |
 | 3406 |  |  |  |  |
 | 3407 | Substring Matching Pattern | Easy | 2025-01-04 | [Java](./records/Java/Question_3407.md): 100.00% |
-| 3408 |  |  |  |  |
+| 3408 | Design Task Manager | Medium | 2025-01-14 | [Java](./records/Java/Question_3408.md): 70.79% |
 | 3409 |  |  |  |  |
 | 3410 |  |  |  |  |
 | 3411 | Maximum Subarray With Equal Products | Easy | 2025-01-05 | [Java](./records/Java/Question_3411.md): 9.84% |
