@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,372
-Problem Solved: 1673 / 3420
+Problem Solved: 1674 / 3421
   - Easy: 848 / 850
-  - Medium: 771 / 1781
+  - Medium: 772 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -3463,5 +3463,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3415 | Find Products with Three Consecutive Digits | Easy | 2025-01-05 | [Pandas](./records/Pandas/Question_3415.md): 100.00% |
 | 3416 |  |  |  |  |
 | 3417 | Zigzag Grid Traversal With Skip | Easy | 2025-01-12 | [Java](./records/Java/Question_3417.md): 100.00% |
+| 3418 |  |  |  |  |
+| 3419 |  |  |  |  |
+| 3420 |  |  |  |  |
+| 3421 | Find Students Who Improved | Medium | 2025-01-14 | [Pandas](./records/Pandas/Question_3421.md): 100.00% |
 
 <br>
