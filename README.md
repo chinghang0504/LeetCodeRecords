@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,343
-Problem Solved: 1678 / 3421
+Problem Solved: 1679 / 3421
   - Easy: 848 / 850
-  - Medium: 776 / 1782
+  - Medium: 777 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -2340,7 +2340,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2292 | Products With Three or More Orders in Two Consecutive Years | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_2292.md): 100.00% |
 | 2293 | Min Max Game | Easy | 2024-07-14 | [Java](./records/Java/Question_2293.md): 100.00% |
 | 2294 | Partition Array Such That Maximum Difference Is K | Medium | 2024-09-30 | [Java](./records/Java/Question_2294.md): 98.61% |
-| 2295 |  |  |  |  |
+| 2295 | Replace Elements in an Array | Medium | 2025-01-14 | [Java](./records/Java/Question_2295.md): 99.76% |
 | 2296 |  |  |  |  |
 | 2297 |  |  |  |  |
 | 2298 | Tasks Count in the Weekend | Easy | 2024-08-14 | [Pandas](./records/Pandas/Question_2298.md): 92.31% |
