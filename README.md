@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,343
-Problem Solved: 1679 / 3421
+Problem Solved: 1680 / 3421
   - Easy: 848 / 850
-  - Medium: 777 / 1782
+  - Medium: 778 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -1051,7 +1051,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1003 | Check If Word Is Valid After Substitutions | Medium | 2024-12-10 | [Java](./records/Java/Question_1003.md): 96.98% |
 | 1004 |  |  |  |  |
 | 1005 | Maximize Sum Of Array After K Negations | Easy | 2024-07-31 | [Java](./records/Java/Question_1005.md): 12.97% |
-| 1006 |  |  |  |  |
+| 1006 | Clumsy Factorial | Medium | 2025-01-15 | [Java](./records/Java/Question_1006.md): 73.60% |
 | 1007 |  |  |  |  |
 | 1008 |  |  |  |  |
 | 1009 | Complement of Base 10 Integer | Easy | 2024-05-11 | [Java](./records/Java/Question_1009.md): 100.00% |
