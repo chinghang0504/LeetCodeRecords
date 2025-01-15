@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,372
-Problem Solved: 1675 / 3421
+### Rank: 2,343
+Problem Solved: 1676 / 3421
   - Easy: 848 / 850
-  - Medium: 773 / 1782
+  - Medium: 774 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -3457,7 +3457,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3409 |  |  |  |  |
 | 3410 |  |  |  |  |
 | 3411 | Maximum Subarray With Equal Products | Easy | 2025-01-05 | [Java](./records/Java/Question_3411.md): 9.84% |
-| 3412 |  |  |  |  |
+| 3412 | Find Mirror Score of a String | Medium | 2025-01-14 | [Java](./records/Java/Question_3412.md): 88.36% |
 | 3413 |  |  |  |  |
 | 3414 |  |  |  |  |
 | 3415 | Find Products with Three Consecutive Digits | Easy | 2025-01-05 | [Pandas](./records/Pandas/Question_3415.md): 100.00% |
