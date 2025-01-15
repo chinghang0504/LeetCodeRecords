@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,343
-Problem Solved: 1677 / 3421
+Problem Solved: 1678 / 3421
   - Easy: 848 / 850
-  - Medium: 775 / 1782
+  - Medium: 776 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -1905,7 +1905,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1857 |  |  |  |  |
 | 1858 | Longest Word With All Prefixes | Medium | 2024-10-02 | [Java](./records/Java/Question_1858.md): 21.34% |
 | 1859 | Sorting the Sentence | Easy | 2024-06-29 | [Java](./records/Java/Question_1859.md): 100.00% |
-| 1860 |  |  |  |  |
+| 1860 | Incremental Memory Leak | Medium | 2025-01-14 | [Java](./records/Java/Question_1860.md): 99.06% |
 | 1861 | Rotating the Box | Medium | 2024-10-06 | [Java](./records/Java/Question_1861.md): 28.17% |
 | 1862 |  |  |  |  |
 | 1863 | Sum of All Subset XOR Totals | Easy | 2024-08-11 | [Java](./records/Java/Question_1863.md): 100.00% |
