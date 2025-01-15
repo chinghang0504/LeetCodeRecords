@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,343
-Problem Solved: 1676 / 3421
+Problem Solved: 1677 / 3421
   - Easy: 848 / 850
-  - Medium: 774 / 1782
+  - Medium: 775 / 1782
   - Hard: 54 / 789
 
 ## Overview
@@ -543,7 +543,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 495 | Teemo Attacking | Easy | 2024-04-18 | [Java](./records/Java/Question_495.md): 82.11% |
 | 496 | Next Greater Element I | Easy | 2024-04-10 | [Java](./records/Java/Question_496.md): 98.80% |
 | 497 |  |  |  |  |
-| 498 |  |  |  |  |
+| 498 | Diagonal Traverse | Medium | 2025-01-14 | [Java](./records/Java/Question_498.md): 68.94% |
 | 499 |  |  |  |  |
 | 500 | Keyboard Row | Easy | 2024-04-10 | [Java](./records/Java/Question_500.md): 100.00% |
 | 501 | Find Mode in Binary Search Tree | Easy | 2024-04-22 | [Java](./records/Java/Question_501.md): 15.95% |
