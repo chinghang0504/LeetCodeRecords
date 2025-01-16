@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,343
-Problem Solved: 1680 / 3421
+### Rank: 2,318
+Problem Solved: 1681 / 3422
   - Easy: 848 / 850
-  - Medium: 778 / 1782
+  - Medium: 779 / 1783
   - Hard: 54 / 789
 
 ## Overview
@@ -2073,7 +2073,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2025 |  |  |  |  |
 | 2026 | Low-Quality Problems | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2026.md): 100.00% |
 | 2027 | Minimum Moves to Convert String | Easy | 2024-07-30 | [Java](./records/Java/Question_2027.md): 100.00% |
-| 2028 |  |  |  |  |
+| 2028 | Find Missing Observations | Medium | 2025-01-15 | [Java](./records/Java/Question_2028.md): 99.31% |
 | 2029 |  |  |  |  |
 | 2030 |  |  |  |  |
 | 2031 |  |  |  |  |
