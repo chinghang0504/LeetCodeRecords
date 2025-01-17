@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,318
-Problem Solved: 1681 / 3422
+Problem Solved: 1682 / 3422
   - Easy: 848 / 850
-  - Medium: 779 / 1783
+  - Medium: 780 / 1783
   - Hard: 54 / 789
 
 ## Overview
@@ -714,7 +714,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 666 |  |  |  |  |
 | 667 |  |  |  |  |
 | 668 |  |  |  |  |
-| 669 |  |  |  |  |
+| 669 | Trim a Binary Search Tree | Medium | 2025-01-16 | [Java](./records/Java/Question_669.md): 100.00% |
 | 670 |  |  |  |  |
 | 671 | Second Minimum Node In a Binary Tree | Easy | 2024-08-01 | [Java](./records/Java/Question_671.md): 100.00% |
 | 672 |  |  |  |  |
