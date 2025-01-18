@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,318
-Problem Solved: 1682 / 3422
+### Rank: 2,314
+Problem Solved: 1683 / 3422
   - Easy: 848 / 850
-  - Medium: 780 / 1783
+  - Medium: 781 / 1783
   - Hard: 54 / 789
 
 ## Overview
@@ -2599,7 +2599,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2551 |  |  |  |  |
 | 2552 |  |  |  |  |
 | 2553 | Separate the Digits in an Array | Easy | 2024-06-24 | [Java](./records/Java/Question_2553.md): 80.54% |
-| 2554 |  |  |  |  |
+| 2554 | Maximum Number of Integers to Choose From a Range I | Medium | 2025-01-17 | [Java](./records/Java/Question_2554.md): 99.99% |
 | 2555 |  |  |  |  |
 | 2556 |  |  |  |  |
 | 2557 |  |  |  |  |
