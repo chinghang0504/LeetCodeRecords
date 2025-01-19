@@ -2,10 +2,10 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,314
-Problem Solved: 1683 / 3422
-  - Easy: 848 / 850
-  - Medium: 781 / 1783
-  - Hard: 54 / 789
+Problem Solved: 1684 / 3430
+  - Easy: 848 / 852
+  - Medium: 782 / 1786
+  - Hard: 54 / 792
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -1725,7 +1725,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1677 | Product's Worth Over Invoices | Easy | 2024-08-07 | [Pandas](./records/Pandas/Question_1677.md): 97.73% |
 | 1678 | Goal Parser Interpretation | Easy | 2024-06-05 | [Java](./records/Java/Question_1678.md): 100.00% |
 | 1679 |  |  |  |  |
-| 1680 |  |  |  |  |
+| 1680 | Concatenation of Consecutive Binary Numbers | Medium | 2025-01-18 | [Java](./records/Java/Question_1680.md): 100.00% |
 | 1681 |  |  |  |  |
 | 1682 |  |  |  |  |
 | 1683 | Invalid Tweets | Easy | 2024-06-05 | [Pandas](./records/Pandas/Question_1683.md): 100.00% |
