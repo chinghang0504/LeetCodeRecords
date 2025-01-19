@@ -2,8 +2,8 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,314
-Problem Solved: 1684 / 3430
-  - Easy: 848 / 852
+Problem Solved: 1685 / 3430
+  - Easy: 849 / 852
   - Medium: 782 / 1786
   - Hard: 54 / 792
 
@@ -3467,5 +3467,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3419 |  |  |  |  |
 | 3420 |  |  |  |  |
 | 3421 | Find Students Who Improved | Medium | 2025-01-14 | [Pandas](./records/Pandas/Question_3421.md): 100.00% |
+| 3422 |  |  |  |  |
+| 3423 | Maximum Difference Between Adjacent Elements in a Circular Array | Easy | 2025-01-18 | [Java](./records/Java/Question_3423.md): 100.00% |
 
 <br>
