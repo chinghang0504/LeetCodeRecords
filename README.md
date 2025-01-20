@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,301
-Problem Solved: 1686 / 3430
+### Rank: 2,299
+Problem Solved: 1687 / 3430
   - Easy: 850 / 852
-  - Medium: 782 / 1786
+  - Medium: 783 / 1786
   - Hard: 54 / 792
 
 ## Overview
@@ -975,7 +975,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 927 |  |  |  |  |
 | 928 |  |  |  |  |
 | 929 | Unique Email Addresses | Easy | 2024-07-30 | [Java](./records/Java/Question_929.md): 99.73% |
-| 930 |  |  |  |  |
+| 930 | Binary Subarrays With Sum | Medium | 2025-01-20 | [Java](./records/Java/Question_930.md): 66.25% |
 | 931 | Minimum Falling Path Sum | Medium | 2024-10-11 | [Java](./records/Java/Question_931.md): 68.49% |
 | 932 |  |  |  |  |
 | 933 | Number of Recent Calls | Easy | 2024-05-14 | [Java](./records/Java/Question_933.md): 42.86% |
