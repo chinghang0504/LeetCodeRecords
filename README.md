@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,299
-Problem Solved: 1687 / 3430
+### Rank: 2,295
+Problem Solved: 1688 / 3430
   - Easy: 850 / 852
-  - Medium: 783 / 1786
+  - Medium: 784 / 1786
   - Hard: 54 / 792
 
 ## Overview
@@ -2426,7 +2426,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2378 |  |  |  |  |
 | 2379 | Minimum Recolors to Get K Consecutive Black Blocks | Easy | 2024-08-10 | [Java](./records/Java/Question_2379.md): 88.27% |
 | 2380 | Time Needed to Rearrange a Binary String | Medium | 2024-12-15 | [Java](./records/Java/Question_2380.md): 66.27% |
-| 2381 |  |  |  |  |
+| 2381 | Shifting Letters II | Medium | 2025-01-21 | [Java](./records/Java/Question_2381.md): 95.65% |
 | 2382 |  |  |  |  |
 | 2383 | Minimum Hours of Training to Win a Competition | Easy | 2024-08-11 | [Java](./records/Java/Question_2383.md): 100.00% |
 | 2384 | Largest Palindromic Number | Medium | 2024-12-15 | [Java](./records/Java/Question_2384.md): 73.09% |
