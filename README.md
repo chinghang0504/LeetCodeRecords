@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,288
-Problem Solved: 1689 / 3430
+### Rank: 2,283
+Problem Solved: 1690 / 3431
   - Easy: 850 / 852
-  - Medium: 785 / 1786
+  - Medium: 786 / 1787
   - Hard: 54 / 792
 
 ## Overview
@@ -3406,7 +3406,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3358 | Books with NULL Ratings | Easy | 2024-11-17 | [Pandas](./records/Pandas/Question_3358.md): 100.00% |
 | 3359 |  |  |  |  |
 | 3360 | Stone Removal Game | Easy | 2024-11-23 | [Java](./records/Java/Question_3360.md): 100.00% |
-| 3361 |  |  |  |  |
+| 3361 | Shift Distance Between Two Strings | Medium | 2025-01-23 | [Java](./records/Java/Question_3361.md): 97.98% |
 | 3362 |  |  |  |  |
 | 3363 |  |  |  |  |
 | 3364 | Minimum Positive Sum Subarray | Easy | 2024-11-23 | [Java](./records/Java/Question_3364.md): 100.00% |
