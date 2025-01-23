@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,295
-Problem Solved: 1688 / 3430
+### Rank: 2,288
+Problem Solved: 1689 / 3430
   - Easy: 850 / 852
-  - Medium: 784 / 1786
+  - Medium: 785 / 1786
   - Hard: 54 / 792
 
 ## Overview
@@ -1019,7 +1019,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 971 |  |  |  |  |
 | 972 |  |  |  |  |
 | 973 | K Closest Points to Origin | Medium | 2024-10-07 | [Java](./records/Java/Question_973.md): 64.15% |
-| 974 |  |  |  |  |
+| 974 | Subarray Sums Divisible by K | Medium | 2025-01-22 | [Java](./records/Java/Question_974.md): 91.04% |
 | 975 |  |  |  |  |
 | 976 | Largest Perimeter Triangle | Easy | 2024-07-30 | [Java](./records/Java/Question_976.md): 14.40% |
 | 977 | Squares of a Sorted Array | Easy | 2024-05-09 | [Java](./records/Java/Question_977.md): 48.13% |
