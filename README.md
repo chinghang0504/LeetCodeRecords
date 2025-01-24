@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,283
-Problem Solved: 1690 / 3431
+Problem Solved: 1691 / 3431
   - Easy: 850 / 852
-  - Medium: 786 / 1787
+  - Medium: 787 / 1787
   - Hard: 54 / 792
 
 ## Overview
@@ -758,7 +758,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 710 |  |  |  |  |
 | 711 |  |  |  |  |
 | 712 |  |  |  |  |
-| 713 |  |  |  |  |
+| 713 | Subarray Product Less Than K | Medium | 2025-01-23 | [Java](./records/Java/Question_713.md): 99.94% |
 | 714 |  |  |  |  |
 | 715 |  |  |  |  |
 | 716 |  |  |  |  |
