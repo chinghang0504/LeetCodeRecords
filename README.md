@@ -1,7 +1,7 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,283
+### Rank: 2,264
 Problem Solved: 1691 / 3431
   - Easy: 850 / 852
   - Medium: 787 / 1787
