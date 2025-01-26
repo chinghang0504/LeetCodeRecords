@@ -2,8 +2,8 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,267
-Problem Solved: 1693 / 3435
-  - Easy: 850 / 853
+Problem Solved: 1694 / 3435
+  - Easy: 851 / 853
   - Medium: 789 / 1789
   - Hard: 54 / 793
 
@@ -3473,5 +3473,10 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3425 |  |  |  |  |
 | 3426 |  |  |  |  |
 | 3427 | Sum of Variable Length Subarrays | Easy | 2025-01-19 | [Java](./records/Java/Question_3427.md): 100.00% |
+| 3428 |  |  |  |  |
+| 3429 |  |  |  |  |
+| 3430 |  |  |  |  |
+| 3431 |  |  |  |  |
+| 3432 | Count Partitions with Even Sum Difference | Easy | 2025-01-26 | [Java](./records/Java/Question_3432.md): 100.00% |
 
 <br>
