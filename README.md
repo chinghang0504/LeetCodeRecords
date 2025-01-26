@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,267
-Problem Solved: 1692 / 3435
+Problem Solved: 1693 / 3435
   - Easy: 850 / 853
-  - Medium: 788 / 1789
+  - Medium: 789 / 1789
   - Hard: 54 / 793
 
 ## Overview
@@ -3364,7 +3364,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3316 |  |  |  |  |
 | 3317 |  |  |  |  |
 | 3318 | Find X-Sum of All K-Long Subarrays I | Easy | 2024-10-13 | [Java](./records/Java/Question_3318.md): 100.00% |
-| 3319 |  |  |  |  |
+| 3319 | K-th Largest Perfect Subtree Size in Binary Tree | Medium | 2025-01-25 | [Java](./records/Java/Question_3319.md): 64.86% |
 | 3320 |  |  |  |  |
 | 3321 |  |  |  |  |
 | 3322 | Premier League Table Ranking III | Medium | 2024-10-19 | [Pandas](./records/Pandas/Question_3322.md): 68.42% |
