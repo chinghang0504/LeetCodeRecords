@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,267
-Problem Solved: 1694 / 3435
+### Rank: 2,251
+Problem Solved: 1695 / 3435
   - Easy: 851 / 853
-  - Medium: 789 / 1789
+  - Medium: 790 / 1789
   - Hard: 54 / 793
 
 ## Overview
@@ -2404,7 +2404,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2356 | Number of Unique Subjects Taught by Each Teacher | Easy | 2024-06-08 | [Pandas](./records/Pandas/Question_2356.md): 99.94% |
 | 2357 | Make Array Zero by Subtracting Equal Amounts | Easy | 2024-07-06 | [Java](./records/Java/Question_2357.md): 100.00% |
 | 2358 |  |  |  |  |
-| 2359 |  |  |  |  |
+| 2359 | Find Closest Node to Given Two Nodes | Medium | 2025-01-26 | [Java](./records/Java/Question_2359.md): 33.88% |
 | 2360 |  |  |  |  |
 | 2361 |  |  |  |  |
 | 2362 | Generate the Invoice | Hard | 2024-09-02 | [Pandas](./records/Pandas/Question_2362.md): 100.00% |
