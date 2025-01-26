@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,264
-Problem Solved: 1691 / 3431
-  - Easy: 850 / 852
-  - Medium: 787 / 1787
-  - Hard: 54 / 792
+### Rank: 2,267
+Problem Solved: 1692 / 3435
+  - Easy: 850 / 853
+  - Medium: 788 / 1789
+  - Hard: 54 / 793
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -535,7 +535,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 487 | Max Consecutive Ones II | Medium | 2024-12-22 | [Java](./records/Java/Question_487.md): 98.18% |
 | 488 |  |  |  |  |
 | 489 |  |  |  |  |
-| 490 |  |  |  |  |
+| 490 | The Maze | Medium | 2025-01-25 | [Java](./records/Java/Question_490.md): 99.88% |
 | 491 |  |  |  |  |
 | 492 | Construct the Rectangle | Easy | 2024-04-10 | [Java](./records/Java/Question_492.md): 100.00% |
 | 493 |  |  |  |  |
