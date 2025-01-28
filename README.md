@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,251
-Problem Solved: 1695 / 3435
+Problem Solved: 1696 / 3435
   - Easy: 851 / 853
-  - Medium: 790 / 1789
+  - Medium: 791 / 1789
   - Hard: 54 / 793
 
 ## Overview
@@ -787,7 +787,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 739 | Daily Temperatures | Medium | 2024-10-14 | [Java](./records/Java/Question_739.md): 33.61% |
 | 740 |  |  |  |  |
 | 741 |  |  |  |  |
-| 742 |  |  |  |  |
+| 742 | Closest Leaf in a Binary Tree | Medium | 2025-01-27 | [Java](./records/Java/Question_742.md): 94.05% |
 | 743 |  |  |  |  |
 | 744 | Find Smallest Letter Greater Than Target | Easy | 2024-05-01 | [Java](./records/Java/Question_744.md): 100.00% |
 | 745 |  |  |  |  |
