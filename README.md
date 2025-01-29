@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,251
-Problem Solved: 1696 / 3435
+### Rank: 2,244
+Problem Solved: 1697 / 3435
   - Easy: 851 / 853
-  - Medium: 791 / 1789
+  - Medium: 792 / 1789
   - Hard: 54 / 793
 
 ## Overview
@@ -1436,7 +1436,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1388 |  |  |  |  |
 | 1389 | Create Target Array in the Given Order | Easy | 2024-05-27 | [Java](./records/Java/Question_1389.md): 100.00% |
 | 1390 | Four Divisors | Medium | 2024-11-09 | [Java](./records/Java/Question_1390.md): 41.78% |
-| 1391 |  |  |  |  |
+| 1391 | Check if There is a Valid Path in a Grid | Medium | 2025-01-28 | [Java](./records/Java/Question_1391.md): 100.00% |
 | 1392 |  |  |  |  |
 | 1393 | Capital Gain/Loss | Medium | 2024-06-01 | [Pandas](./records/Pandas/Question_1393.md): 100.00% |
 | 1394 | Find Lucky Integer in an Array | Easy | 2024-05-27 | [Java](./records/Java/Question_1394.md): 100.00% |
