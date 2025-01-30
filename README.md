@@ -1,9 +1,9 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,244
-Problem Solved: 1697 / 3435
-  - Easy: 851 / 853
+### Rank: 2,238
+Problem Solved: 1698 / 3436
+  - Easy: 852 / 854
   - Medium: 792 / 1789
   - Hard: 54 / 793
 
@@ -3478,5 +3478,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3430 |  |  |  |  |
 | 3431 |  |  |  |  |
 | 3432 | Count Partitions with Even Sum Difference | Easy | 2025-01-26 | [Java](./records/Java/Question_3432.md): 100.00% |
+| 3433 |  |  |  |  |
+| 3434 |  |  |  |  |
+| 3435 |  |  |  |  |
+| 3436 | Find Valid Emails | Easy | 2025-01-29 | [Pandas](./records/Pandas/Question_3436.md): 100.00% |
 
 <br>
