@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,236
-Problem Solved: 1698 / 3437
+### Rank: 2,238
+Problem Solved: 1699 / 3437
   - Easy: 852 / 854
-  - Medium: 792 / 1790
+  - Medium: 793 / 1790
   - Hard: 54 / 793
 
 ## Overview
@@ -1049,7 +1049,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1001 |  |  |  |  |
 | 1002 | Find Common Characters | Easy | 2024-07-05 | [Java](./records/Java/Question_1002.md): 42.74% |
 | 1003 | Check If Word Is Valid After Substitutions | Medium | 2024-12-10 | [Java](./records/Java/Question_1003.md): 96.98% |
-| 1004 |  |  |  |  |
+| 1004 | Max Consecutive Ones III | Medium | 2025-01-31 | [Java](./records/Java/Question_1004.md): 26.73% |
 | 1005 | Maximize Sum Of Array After K Negations | Easy | 2024-07-31 | [Java](./records/Java/Question_1005.md): 12.97% |
 | 1006 | Clumsy Factorial | Medium | 2025-01-15 | [Java](./records/Java/Question_1006.md): 73.60% |
 | 1007 |  |  |  |  |
