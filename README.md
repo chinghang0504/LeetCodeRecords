@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,238
-Problem Solved: 1699 / 3437
-  - Easy: 852 / 854
-  - Medium: 793 / 1790
-  - Hard: 54 / 793
+### Rank: 2,233
+Problem Solved: 1700 / 3441
+  - Easy: 853 / 855
+  - Medium: 793 / 1792
+  - Hard: 54 / 794
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3482,5 +3482,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3434 |  |  |  |  |
 | 3435 |  |  |  |  |
 | 3436 | Find Valid Emails | Easy | 2025-01-29 | [Pandas](./records/Pandas/Question_3436.md): 100.00% |
+| 3437 |  |  |  |  |
+| 3438 | Find Valid Pair of Adjacent Digits in String | Easy | 2025-02-01 | [Java](./records/Java/Question_3438.md): 100.00% |
 
 <br>
