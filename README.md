@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,232
-Problem Solved: 1701 / 3445
+### Rank: 2,248
+Problem Solved: 1702 / 3449
   - Easy: 854 / 856
-  - Medium: 793 / 1793
-  - Hard: 54 / 796
+  - Medium: 794 / 1795
+  - Hard: 54 / 798
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -2969,7 +2969,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2921 |  |  |  |  |
 | 2922 |  |  |  |  |
 | 2923 | Find Champion I | Easy | 2024-07-29 | [Java](./records/Java/Question_2923.md): 77.56% |
-| 2924 |  |  |  |  |
+| 2924 | Find Champion II | Medium | 2025-02-09 | [Java](./records/Java/Question_2924.md): 100.00% |
 | 2925 |  |  |  |  |
 | 2926 |  |  |  |  |
 | 2927 |  |  |  |  |
