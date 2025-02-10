@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,248
-Problem Solved: 1702 / 3449
-  - Easy: 854 / 856
-  - Medium: 794 / 1795
+### Rank: 2,244
+Problem Solved: 1703 / 3450
+  - Easy: 854 / 857
+  - Medium: 795 / 1795
   - Hard: 54 / 798
 
 ## Overview
@@ -592,7 +592,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 544 | Output Contest Matches | Medium | 2024-09-18 | [Java](./records/Java/Question_544.md): 15.91% |
 | 545 |  |  |  |  |
 | 546 |  |  |  |  |
-| 547 |  |  |  |  |
+| 547 | Number of Provinces | Medium | 2025-02-10 | [Java](./records/Java/Question_547.md): 100.00% |
 | 548 |  |  |  |  |
 | 549 |  |  |  |  |
 | 550 | Game Play Analysis IV | Medium | 2024-08-30 | [Pandas](./records/Pandas/Question_550.md): 95.72% |
