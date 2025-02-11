@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,244
-Problem Solved: 1703 / 3450
+Problem Solved: 1704 / 3450
   - Easy: 854 / 857
-  - Medium: 795 / 1795
+  - Medium: 796 / 1795
   - Hard: 54 / 798
 
 ## Overview
@@ -1181,7 +1181,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1133 | Largest Unique Number | Easy | 2024-07-11 | [Java](./records/Java/Question_1133.md): 88.62% |
 | 1134 | Armstrong Number | Easy | 2024-07-02 | [Java](./records/Java/Question_1134.md): 100.00% |
 | 1135 |  |  |  |  |
-| 1136 |  |  |  |  |
+| 1136 | Parallel Courses | Medium | 2025-02-10 | [Java](./records/Java/Question_1136.md): 14.69% |
 | 1137 | N-th Tribonacci Number | Easy | 2024-07-18 | [Java](./records/Java/Question_1137.md): 100.00% |
 | 1138 | Alphabet Board Path | Medium | 2024-12-07 | [Java](./records/Java/Question_1138.md): 100.00% |
 | 1139 |  |  |  |  |
