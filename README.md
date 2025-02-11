@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,244
-Problem Solved: 1705 / 3450
+### Rank: 2,221
+Problem Solved: 1706 / 3450
   - Easy: 855 / 857
-  - Medium: 796 / 1795
+  - Medium: 797 / 1795
   - Hard: 54 / 798
 
 ## Overview
@@ -444,7 +444,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 396 |  |  |  |  |
 | 397 |  |  |  |  |
 | 398 | Random Pick Index | Medium | 2024-04-20 | [Java](./records/Java/Question_398.md): 98.88% |
-| 399 |  |  |  |  |
+| 399 | Evaluate Division | Medium | 2025-02-11 | [Java](./records/Java/Question_399.md): 99.07% |
 | 400 |  |  |  |  |
 | 401 | Binary Watch | Easy | 2024-04-17 | [Java](./records/Java/Question_401.md): 100.00% |
 | 402 |  |  |  |  |
