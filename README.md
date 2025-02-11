@@ -2,8 +2,8 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,244
-Problem Solved: 1704 / 3450
-  - Easy: 854 / 857
+Problem Solved: 1705 / 3450
+  - Easy: 855 / 857
   - Medium: 796 / 1795
   - Hard: 54 / 798
 
@@ -3488,5 +3488,13 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3440 |  |  |  |  |
 | 3441 |  |  |  |  |
 | 3442 | Maximum Difference Between Even and Odd Frequency I | Easy | 2025-02-03 | [Java](./records/Java/Question_3442.md): 100.00% |
+| 3443 |  |  |  |  |
+| 3444 |  |  |  |  |
+| 3445 |  |  |  |  |
+| 3446 |  |  |  |  |
+| 3447 |  |  |  |  |
+| 3448 |  |  |  |  |
+| 3449 |  |  |  |  |
+| 3450 | Maximum Students on a Single Bench | Easy | 2025-02-11 | [Java](./records/Java/Question_3450.md): 100.00% |
 
 <br>
