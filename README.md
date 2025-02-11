@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,221
-Problem Solved: 1706 / 3450
+Problem Solved: 1707 / 3450
   - Easy: 855 / 857
-  - Medium: 797 / 1795
+  - Medium: 798 / 1795
   - Hard: 54 / 798
 
 ## Overview
@@ -1507,7 +1507,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1459 | Rectangles Area | Medium | 2024-08-18 | [Pandas](./records/Pandas/Question_1459.md): 92.31% |
 | 1460 | Make Two Arrays Equal by Reversing Subarrays | Easy | 2024-07-08 | [Java](./records/Java/Question_1460.md): 85.33% |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | 2024-11-12 | [Java](./records/Java/Question_1461.md): 53.74% |
-| 1462 |  |  |  |  |
+| 1462 | Course Schedule IV | Medium | 2025-02-11 | [Java](./records/Java/Question_1462.md): 20.70% |
 | 1463 |  |  |  |  |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | 2024-05-29 | [Java](./records/Java/Question_1464.md): 63.70% |
 | 1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Medium | 2024-11-12 | [Java](./records/Java/Question_1465.md): 96.77% |
