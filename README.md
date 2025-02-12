@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,221
-Problem Solved: 1707 / 3450
+Problem Solved: 1708 / 3450
   - Easy: 855 / 857
-  - Medium: 798 / 1795
+  - Medium: 799 / 1795
   - Hard: 54 / 798
 
 ## Overview
@@ -2237,7 +2237,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 2189 |  |  |  |  |
 | 2190 | Most Frequent Number Following Key In an Array | Easy | 2024-07-21 | [Java](./records/Java/Question_2190.md): 100.00% |
 | 2191 | Sort the Jumbled Numbers | Medium | 2024-11-23 | [Java](./records/Java/Question_2191.md): 57.69% |
-| 2192 |  |  |  |  |
+| 2192 | All Ancestors of a Node in a Directed Acyclic Graph | Medium | 2025-02-11 | [Java](./records/Java/Question_2192.md): 66.67% |
 | 2193 |  |  |  |  |
 | 2194 | Cells in a Range on an Excel Sheet | Easy | 2024-06-17 | [Java](./records/Java/Question_2194.md): 68.69% |
 | 2195 |  |  |  |  |
