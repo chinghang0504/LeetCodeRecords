@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,221
-Problem Solved: 1708 / 3450
+### Rank: 2,201
+Problem Solved: 1709 / 3451
   - Easy: 855 / 857
-  - Medium: 799 / 1795
-  - Hard: 54 / 798
+  - Medium: 800 / 1795
+  - Hard: 54 / 799
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -252,7 +252,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 204 | Count Primes | Medium | 2024-04-19 | [Java](./records/Java/Question_204.md): 41.50% |
 | 205 | Isomorphic Strings | Easy | 2024-04-05 | [Java](./records/Java/Question_205.md): 98.67% |
 | 206 | Reverse Linked List | Easy | 2024-04-03 | [Java](./records/Java/Question_206.md): 100.00% |
-| 207 |  |  |  |  |
+| 207 | Course Schedule | Medium | 2025-02-12 | [Java](./records/Java/Question_207.md): 100.00% |
 | 208 | Implement Trie (Prefix Tree) | Medium | 2024-04-15 | [Java](./records/Java/Question_208.md): 98.71% |
 | 209 | Minimum Size Subarray Sum | Medium | 2024-10-22 | [Java](./records/Java/Question_209.md): 99.57% |
 | 210 |  |  |  |  |
