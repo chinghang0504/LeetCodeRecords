@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,201
-Problem Solved: 1709 / 3451
+### Rank: 2,198
+Problem Solved: 1710 / 3451
   - Easy: 855 / 857
-  - Medium: 800 / 1795
+  - Medium: 801 / 1795
   - Hard: 54 / 799
 
 ## Overview
@@ -830,7 +830,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 782 |  |  |  |  |
 | 783 | Minimum Distance Between BST Nodes | Easy | 2024-05-12 | [Java](./records/Java/Question_783.md): 100.00% |
 | 784 | Letter Case Permutation | Medium | 2024-09-30 | [Java](./records/Java/Question_784.md): 12.68% |
-| 785 |  |  |  |  |
+| 785 | Is Graph Bipartite? | Medium | 2025-02-13 | [Java](./records/Java/Question_785.md): 16.87% |
 | 786 |  |  |  |  |
 | 787 |  |  |  |  |
 | 788 |  |  |  |  |
