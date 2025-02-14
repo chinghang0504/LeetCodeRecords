@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,198
-Problem Solved: 1711 / 3451
+Problem Solved: 1712 / 3451
   - Easy: 855 / 857
-  - Medium: 802 / 1795
+  - Medium: 803 / 1795
   - Hard: 54 / 799
 
 ## Overview
@@ -1660,7 +1660,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1612 | Check If Two Expression Trees are Equivalent | Medium | 2024-09-20 | [Java](./records/Java/Question_1612.md): 100.00% |
 | 1613 | Find the Missing IDs | Medium | 2024-08-16 | [Pandas](./records/Pandas/Question_1613.md): 100.00% |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | 2024-06-05 | [Java](./records/Java/Question_1614.md): 100.00% |
-| 1615 |  |  |  |  |
+| 1615 | Maximal Network Rank | Medium | 2025-02-13 | [Java](./records/Java/Question_1615.md): 99.39% |
 | 1616 |  |  |  |  |
 | 1617 |  |  |  |  |
 | 1618 | Maximum Font to Fit a Sentence in a Screen | Medium | 2024-11-16 | [Java](./records/Java/Question_1618.md): 80.00% |
