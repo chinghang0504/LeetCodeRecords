@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,198
-Problem Solved: 1710 / 3451
+Problem Solved: 1711 / 3451
   - Easy: 855 / 857
-  - Medium: 801 / 1795
+  - Medium: 802 / 1795
   - Hard: 54 / 799
 
 ## Overview
@@ -1364,7 +1364,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1316 |  |  |  |  |
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy | 2024-07-31 | [Java](./records/Java/Question_1317.md): 100.00% |
 | 1318 | Minimum Flips to Make a OR b Equal to c | Medium | 2024-09-21 | [Java](./records/Java/Question_1318.md): 100.00% |
-| 1319 |  |  |  |  |
+| 1319 | Number of Operations to Make Network Connected | Medium | 2025-02-13 | [Java](./records/Java/Question_1319.md): 52.15% |
 | 1320 |  |  |  |  |
 | 1321 | Restaurant Growth | Medium | 2024-08-26 | [Pandas](./records/Pandas/Question_1321.md): 31.17% |
 | 1322 | Ads Performance | Easy | 2024-08-06 | [Pandas](./records/Pandas/Question_1322.md): 91.39% |
