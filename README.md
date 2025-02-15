@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,198
-Problem Solved: 1712 / 3451
-  - Easy: 855 / 857
-  - Medium: 803 / 1795
-  - Hard: 54 / 799
+### Rank: 2,185
+Problem Solved: 1713 / 3455
+  - Easy: 856 / 858
+  - Medium: 803 / 1796
+  - Hard: 54 / 801
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3496,5 +3496,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3448 |  |  |  |  |
 | 3449 |  |  |  |  |
 | 3450 | Maximum Students on a Single Bench | Easy | 2025-02-11 | [Java](./records/Java/Question_3450.md): 100.00% |
+| 3451 |  |  |  |  |
+| 3452 | Sum of Good Numbers | Easy | 2025-02-15 | [Java](./records/Java/Question_3452.md): 100.00% |
 
 <br>
