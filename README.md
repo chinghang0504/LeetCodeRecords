@@ -2,10 +2,10 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,185
-Problem Solved: 1713 / 3455
-  - Easy: 856 / 858
-  - Medium: 803 / 1796
-  - Hard: 54 / 801
+Problem Solved: 1714 / 3459
+  - Easy: 857 / 859
+  - Medium: 803 / 1798
+  - Hard: 54 / 802
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3498,5 +3498,9 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3450 | Maximum Students on a Single Bench | Easy | 2025-02-11 | [Java](./records/Java/Question_3450.md): 100.00% |
 | 3451 |  |  |  |  |
 | 3452 | Sum of Good Numbers | Easy | 2025-02-15 | [Java](./records/Java/Question_3452.md): 100.00% |
+| 3453 |  |  |  |  |
+| 3454 |  |  |  |  |
+| 3455 |  |  |  |  |
+| 3456 | Find Special Substring of Length K | Easy | 2025-02-16 | [Java](./records/Java/Question_3456.md): 100.00% |
 
 <br>
