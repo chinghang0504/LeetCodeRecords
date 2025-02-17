@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,181
-Problem Solved: 1715 / 3459
+Problem Solved: 1716 / 3459
   - Easy: 857 / 859
-  - Medium: 804 / 1798
+  - Medium: 805 / 1798
   - Hard: 54 / 802
 
 ## Overview
@@ -1087,7 +1087,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1039 |  |  |  |  |
 | 1040 |  |  |  |  |
 | 1041 |  |  |  |  |
-| 1042 |  |  |  |  |
+| 1042 | Flower Planting With No Adjacent | Medium | 2025-02-16 | [Java](./records/Java/Question_1042.md): 95.63% |
 | 1043 |  |  |  |  |
 | 1044 |  |  |  |  |
 | 1045 | Customers Who Bought All Products | Medium | 2024-08-24 | [Pandas](./records/Pandas/Question_1045.md): 92.91% |
