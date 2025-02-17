@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,185
-Problem Solved: 1714 / 3459
+### Rank: 2,181
+Problem Solved: 1715 / 3459
   - Easy: 857 / 859
-  - Medium: 803 / 1798
+  - Medium: 804 / 1798
   - Hard: 54 / 802
 
 ## Overview
@@ -3432,7 +3432,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3384 |  |  |  |  |
 | 3385 |  |  |  |  |
 | 3386 | Button with Longest Push Time | Easy | 2024-12-14 | [Java](./records/Java/Question_3386.md): 100.00% |
-| 3387 |  |  |  |  |
+| 3387 | Maximize Amount After Two Days of Conversions | Medium | 2025-02-16 | [Java](./records/Java/Question_3387.md): 74.08% |
 | 3388 |  |  |  |  |
 | 3389 |  |  |  |  |
 | 3390 |  |  |  |  |
