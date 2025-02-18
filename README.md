@@ -1,10 +1,10 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,181
-Problem Solved: 1716 / 3459
+### Rank: 2,169
+Problem Solved: 1717 / 3460
   - Easy: 857 / 859
-  - Medium: 805 / 1798
+  - Medium: 806 / 1799
   - Hard: 54 / 802
 
 ## Overview
@@ -1290,7 +1290,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 1242 |  |  |  |  |
 | 1243 | Array Transformation | Easy | 2024-08-04 | [Java](./records/Java/Question_1243.md): 98.00% |
 | 1244 | Design A Leaderboard | Medium | 2024-10-06 | [Java](./records/Java/Question_1244.md): 46.43% |
-| 1245 |  |  |  |  |
+| 1245 | Tree Diameter | Medium | 2025-02-17 | [Java](./records/Java/Question_1245.md): 99.38% |
 | 1246 |  |  |  |  |
 | 1247 |  |  |  |  |
 | 1248 | Count Number of Nice Subarrays | Medium | 2024-12-23 | [Java](./records/Java/Question_1248.md): 93.40% |
