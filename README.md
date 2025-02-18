@@ -2,9 +2,9 @@
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
 ### Rank: 2,169
-Problem Solved: 1717 / 3460
+Problem Solved: 1718 / 3460
   - Easy: 857 / 859
-  - Medium: 806 / 1799
+  - Medium: 807 / 1799
   - Hard: 54 / 802
 
 ## Overview
@@ -788,7 +788,7 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 740 |  |  |  |  |
 | 741 |  |  |  |  |
 | 742 | Closest Leaf in a Binary Tree | Medium | 2025-01-27 | [Java](./records/Java/Question_742.md): 94.05% |
-| 743 |  |  |  |  |
+| 743 | Network Delay Time | Medium | 2025-02-17 | [Java](./records/Java/Question_743.md): 86.02% |
 | 744 | Find Smallest Letter Greater Than Target | Easy | 2024-05-01 | [Java](./records/Java/Question_744.md): 100.00% |
 | 745 |  |  |  |  |
 | 746 | Min Cost Climbing Stairs | Easy | 2024-07-28 | [Java](./records/Java/Question_746.md): 100.00% |
