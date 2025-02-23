@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,169
-Problem Solved: 1718 / 3460
-  - Easy: 857 / 859
-  - Medium: 807 / 1799
-  - Hard: 54 / 802
+### Rank: 2,172
+Problem Solved: 1719 / 3464
+  - Easy: 858 / 860
+  - Medium: 807 / 1800
+  - Hard: 54 / 804
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3502,5 +3502,10 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3454 |  |  |  |  |
 | 3455 |  |  |  |  |
 | 3456 | Find Special Substring of Length K | Easy | 2025-02-16 | [Java](./records/Java/Question_3456.md): 100.00% |
+| 3457 |  |  |  |  |
+| 3458 |  |  |  |  |
+| 3459 |  |  |  |  |
+| 3460 |  |  |  |  |
+| 3461 | Check If Digits Are Equal in String After Operations I | Easy | 2025-02-22 | [Java](./records/Java/Question_3461.md): 100.00% |
 
 <br>
