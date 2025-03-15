@@ -1,11 +1,11 @@
 # LeetCode Records
 <!---![LeetCode Stats](https://leetcode.card.workers.dev/chinghang0504?theme=default&font=baloo&extension=null)--->
 
-### Rank: 2,172
-Problem Solved: 1719 / 3464
-  - Easy: 858 / 860
-  - Medium: 807 / 1800
-  - Hard: 54 / 804
+### Rank: 2,234
+Problem Solved: 1720 / 3482
+  - Easy: 859 / 864
+  - Medium: 807 / 1810
+  - Hard: 54 / 808
 
 ## Overview
 Welcome to LeetCode Records! This project is a personal log of my journey in solving LeetCode problems. It serves as a detailed record of each problem I've tackled, capturing essential information such as the difficulty level, the date of the first attempt, runtime efficiency, and the technical skills utilized.
@@ -3507,5 +3507,11 @@ Feel free to explore my solutions and reach out if you have any questions or sug
 | 3459 |  |  |  |  |
 | 3460 |  |  |  |  |
 | 3461 | Check If Digits Are Equal in String After Operations I | Easy | 2025-02-22 | [Java](./records/Java/Question_3461.md): 100.00% |
+| 3462 |  |  |  |  |
+| 3463 |  |  |  |  |
+| 3464 |  |  |  |  |
+| 3465 |  |  |  |  |
+| 3466 |  |  |  |  |
+| 3467 | Transform Array by Parity | Easy | 2025-03-14 | [Java](./records/Java/Question_3467.md): 100.00% |
 
 <br>
